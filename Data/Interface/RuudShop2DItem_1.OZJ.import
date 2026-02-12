@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbxaok852etk5"
+path="res://.godot/imported/RuudShop2DItem_1.OZJ-d15f9e5c4e2b1654fba0c3ead5b9126d.res"
+
+[deps]
+
+source_file="res://Data/Interface/RuudShop2DItem_1.OZJ"
+dest_files=["res://.godot/imported/RuudShop2DItem_1.OZJ-d15f9e5c4e2b1654fba0c3ead5b9126d.res"]
+
+[params]
+

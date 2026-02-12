@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://n0o7youekxnx"
+path="res://.godot/imported/imperial_bow_02.OZJ-f66f1ca2686adf7f70c41c0223f379fe.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/imperial_bow_02.OZJ"
+dest_files=["res://.godot/imported/imperial_bow_02.OZJ-f66f1ca2686adf7f70c41c0223f379fe.res"]
+
+[params]
+

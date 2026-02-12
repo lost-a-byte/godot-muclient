@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://jcmhv3pj6uor"
+path="res://.godot/imported/hydraUp.bmd-c449bedba7f61d4a9f47652609bc4e52.scn"
+
+[deps]
+
+source_file="res://Data/Item/hydraUp.bmd"
+dest_files=["res://.godot/imported/hydraUp.bmd-c449bedba7f61d4a9f47652609bc4e52.scn"]
+
+[params]
+
+modelScale=0.01

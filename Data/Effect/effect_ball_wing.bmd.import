@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dip0a03pmq0of"
+path="res://.godot/imported/effect_ball_wing.bmd-92dc61d0a4291291be229759cc05f66d.scn"
+
+[deps]
+
+source_file="res://Data/Effect/effect_ball_wing.bmd"
+dest_files=["res://.godot/imported/effect_ball_wing.bmd-92dc61d0a4291291be229759cc05f66d.scn"]
+
+[params]
+
+modelScale=0.01

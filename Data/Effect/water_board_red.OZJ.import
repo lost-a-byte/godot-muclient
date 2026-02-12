@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8r8vlv0hcmpj"
+path="res://.godot/imported/water_board_red.OZJ-74ace436b70ef5dbcc48568c365dc8e1.res"
+
+[deps]
+
+source_file="res://Data/Effect/water_board_red.OZJ"
+dest_files=["res://.godot/imported/water_board_red.OZJ-74ace436b70ef5dbcc48568c365dc8e1.res"]
+
+[params]
+

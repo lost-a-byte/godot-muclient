@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjdog46dgoil2"
+path="res://.godot/imported/flag_pole.OZJ-3ac7bc6623d3fe7d75a83796eda4429e.res"
+
+[deps]
+
+source_file="res://Data/Object31/flag_pole.OZJ"
+dest_files=["res://.godot/imported/flag_pole.OZJ-3ac7bc6623d3fe7d75a83796eda4429e.res"]
+
+[params]
+

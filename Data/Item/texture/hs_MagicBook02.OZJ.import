@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vy8f2x8dyglx"
+path="res://.godot/imported/hs_MagicBook02.OZJ-f1c2dc3f5d14ce9e48d4049bea21a64e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_MagicBook02.OZJ"
+dest_files=["res://.godot/imported/hs_MagicBook02.OZJ-f1c2dc3f5d14ce9e48d4049bea21a64e.res"]
+
+[params]
+

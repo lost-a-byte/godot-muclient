@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6jfq12udedql"
+path="res://.godot/imported/pipe02.OZJ-2f56606f69b4b05d6d25279ed0761ca7.res"
+
+[deps]
+
+source_file="res://Data/Object39/pipe02.OZJ"
+dest_files=["res://.godot/imported/pipe02.OZJ-2f56606f69b4b05d6d25279ed0761ca7.res"]
+
+[params]
+

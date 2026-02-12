@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dk7uwvyxthaaf"
+path="res://.godot/imported/login_back.OZT-4f2fcce2e31a33df3c107ddc6259ab7e.res"
+
+[deps]
+
+source_file="res://Data/Interface/login_back.OZT"
+dest_files=["res://.godot/imported/login_back.OZT-4f2fcce2e31a33df3c107ddc6259ab7e.res"]
+
+[params]
+

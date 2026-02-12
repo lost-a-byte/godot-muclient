@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvb3x2467tf0m"
+path="res://.godot/imported/Snow_Chip01.OZJ-3395bbb0f13323aa83c6ba0894e13de1.res"
+
+[deps]
+
+source_file="res://Data/Effect/Snow_Chip01.OZJ"
+dest_files=["res://.godot/imported/Snow_Chip01.OZJ-3395bbb0f13323aa83c6ba0894e13de1.res"]
+
+[params]
+

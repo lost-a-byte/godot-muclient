@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pxvfaticasrm"
+path="res://.godot/imported/jo01.ozj-3636b4f7998950436120e9e7722956ca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/jo01.ozj"
+dest_files=["res://.godot/imported/jo01.ozj-3636b4f7998950436120e9e7722956ca.res"]
+
+[params]
+

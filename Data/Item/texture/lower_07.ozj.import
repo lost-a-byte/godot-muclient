@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://om76ac25idbu"
+path="res://.godot/imported/lower_07.ozj-5e0df1581a3515b1ea46c985315073c3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lower_07.ozj"
+dest_files=["res://.godot/imported/lower_07.ozj-5e0df1581a3515b1ea46c985315073c3.res"]
+
+[params]
+

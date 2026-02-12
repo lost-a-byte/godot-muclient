@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkcyf8t8r2h5"
+path="res://.godot/imported/DarkangelSwordA.OZJ-6fe406a393e18826ded05a3fe994de55.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DarkangelSwordA.OZJ"
+dest_files=["res://.godot/imported/DarkangelSwordA.OZJ-6fe406a393e18826ded05a3fe994de55.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dorg0c724vyvo"
+path="res://.godot/imported/StoneWall03.bmd-508986ff4382a61822b44a46f0d4b3f5.scn"
+
+[deps]
+
+source_file="res://Data/Object1/StoneWall03.bmd"
+dest_files=["res://.godot/imported/StoneWall03.bmd-508986ff4382a61822b44a46f0d4b3f5.scn"]
+
+[params]
+
+modelScale=0.01

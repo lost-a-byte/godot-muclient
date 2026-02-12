@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqn5gbmhyerxj"
+path="res://.godot/imported/sd_hiphopboy02.OZJ-e8d2671ab39cd2b9a85739af60d579a2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_hiphopboy02.OZJ"
+dest_files=["res://.godot/imported/sd_hiphopboy02.OZJ-e8d2671ab39cd2b9a85739af60d579a2.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://j425yya6rytw"
+path="res://.godot/imported/sd_robot02A.OZJ-941971682116174b083a4e98fe7ee055.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_robot02A.OZJ"
+dest_files=["res://.godot/imported/sd_robot02A.OZJ-941971682116174b083a4e98fe7ee055.res"]
+
+[params]
+

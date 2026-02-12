@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://equ5mr4dnc4b"
+path="res://.godot/imported/lunette.OZJ-c4d0f9dcd8559023af0277a76028ed98.res"
+
+[deps]
+
+source_file="res://Data/NPC/lunette.OZJ"
+dest_files=["res://.godot/imported/lunette.OZJ-c4d0f9dcd8559023af0277a76028ed98.res"]
+
+[params]
+

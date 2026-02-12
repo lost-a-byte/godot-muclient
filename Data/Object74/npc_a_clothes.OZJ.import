@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3emej28gkkdx"
+path="res://.godot/imported/npc_a_clothes.OZJ-2bf313409a23eb6008dfaa1304682ee2.res"
+
+[deps]
+
+source_file="res://Data/Object74/npc_a_clothes.OZJ"
+dest_files=["res://.godot/imported/npc_a_clothes.OZJ-2bf313409a23eb6008dfaa1304682ee2.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dblb22j0yqwvy"
+path="res://.godot/imported/SD_Lava01.OZJ-9f20ccead752c93b8520b9246ecb6497.res"
+
+[deps]
+
+source_file="res://Data/Object101/SD_Lava01.OZJ"
+dest_files=["res://.godot/imported/SD_Lava01.OZJ-9f20ccead752c93b8520b9246ecb6497.res"]
+
+[params]
+

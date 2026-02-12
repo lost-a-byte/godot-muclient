@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs3bhwbmf5hl3"
+path="res://.godot/imported/Item1152_cloth1.OZT-519ba290c6dbe3fd1e3a307d0bd31e4d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1152_cloth1.OZT"
+dest_files=["res://.godot/imported/Item1152_cloth1.OZT-519ba290c6dbe3fd1e3a307d0bd31e4d.res"]
+
+[params]
+

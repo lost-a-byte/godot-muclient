@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dlpecfvddaall"
+path="res://.godot/imported/HouseEtc01.bmd-ffa5852d7e6c98ebcf9ef8ccab4a9f84.scn"
+
+[deps]
+
+source_file="res://Data/Object1/HouseEtc01.bmd"
+dest_files=["res://.godot/imported/HouseEtc01.bmd-ffa5852d7e6c98ebcf9ef8ccab4a9f84.scn"]
+
+[params]
+
+modelScale=0.01

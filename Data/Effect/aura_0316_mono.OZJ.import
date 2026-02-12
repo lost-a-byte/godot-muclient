@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcmf606a0bt3"
+path="res://.godot/imported/aura_0316_mono.OZJ-2805b95169c433ea1b17ef5363f1ff7a.res"
+
+[deps]
+
+source_file="res://Data/Effect/aura_0316_mono.OZJ"
+dest_files=["res://.godot/imported/aura_0316_mono.OZJ-2805b95169c433ea1b17ef5363f1ff7a.res"]
+
+[params]
+

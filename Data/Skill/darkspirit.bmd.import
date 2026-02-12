@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1f43nmkw4x4q"
+path="res://.godot/imported/darkspirit.bmd-fda73559b8e2ff9203b2067ee5963277.scn"
+
+[deps]
+
+source_file="res://Data/Skill/darkspirit.bmd"
+dest_files=["res://.godot/imported/darkspirit.bmd-fda73559b8e2ff9203b2067ee5963277.scn"]
+
+[params]
+
+modelScale=0.01

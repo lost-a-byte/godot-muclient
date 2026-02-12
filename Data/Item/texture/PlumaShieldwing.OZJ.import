@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0wmwmrd5cxtb"
+path="res://.godot/imported/PlumaShieldwing.OZJ-7733f5a084c7def3ac1dd457ae587d73.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PlumaShieldwing.OZJ"
+dest_files=["res://.godot/imported/PlumaShieldwing.OZJ-7733f5a084c7def3ac1dd457ae587d73.res"]
+
+[params]
+

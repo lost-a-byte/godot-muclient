@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o5t5gwq07j36"
+path="res://.godot/imported/lightning_Stick_Glow.OZJ-b6a3f501deda0900f939caa2442790ce.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_Stick_Glow.OZJ"
+dest_files=["res://.godot/imported/lightning_Stick_Glow.OZJ-b6a3f501deda0900f939caa2442790ce.res"]
+
+[params]
+

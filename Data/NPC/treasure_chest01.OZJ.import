@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfw1xavy8onpi"
+path="res://.godot/imported/treasure_chest01.OZJ-47782382010ae5c6452ccaa7266e9c75.res"
+
+[deps]
+
+source_file="res://Data/NPC/treasure_chest01.OZJ"
+dest_files=["res://.godot/imported/treasure_chest01.OZJ-47782382010ae5c6452ccaa7266e9c75.res"]
+
+[params]
+

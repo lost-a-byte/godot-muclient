@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1jo7odgmix36"
+path="res://.godot/imported/battMa.OZJ-ab61214713633c48c7bad043d67943c5.res"
+
+[deps]
+
+source_file="res://Data/Skill/battMa.OZJ"
+dest_files=["res://.godot/imported/battMa.OZJ-ab61214713633c48c7bad043d67943c5.res"]
+
+[params]
+

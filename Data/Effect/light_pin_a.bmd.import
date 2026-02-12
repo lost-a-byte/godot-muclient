@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3igrc1dlr3rj"
+path="res://.godot/imported/light_pin_a.bmd-362e5b580730282224c95b6ce31cba85.scn"
+
+[deps]
+
+source_file="res://Data/Effect/light_pin_a.bmd"
+dest_files=["res://.godot/imported/light_pin_a.bmd-362e5b580730282224c95b6ce31cba85.scn"]
+
+[params]
+
+modelScale=0.01

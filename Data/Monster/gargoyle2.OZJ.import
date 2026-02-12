@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5q7rlafk24rp"
+path="res://.godot/imported/gargoyle2.OZJ-b1317526a8388e6132079bf5fef63881.res"
+
+[deps]
+
+source_file="res://Data/Monster/gargoyle2.OZJ"
+dest_files=["res://.godot/imported/gargoyle2.OZJ-b1317526a8388e6132079bf5fef63881.res"]
+
+[params]
+

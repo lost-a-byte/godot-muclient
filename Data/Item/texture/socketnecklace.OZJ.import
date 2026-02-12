@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb7hq3bixuxgj"
+path="res://.godot/imported/socketnecklace.OZJ-4a6bd044f955e5ad72014b007baf3381.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/socketnecklace.OZJ"
+dest_files=["res://.godot/imported/socketnecklace.OZJ-4a6bd044f955e5ad72014b007baf3381.res"]
+
+[params]
+

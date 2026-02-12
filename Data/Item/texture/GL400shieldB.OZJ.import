@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxxc01bat4v5v"
+path="res://.godot/imported/GL400shieldB.OZJ-0dcc19e5f2b591407b940515022b6d3e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GL400shieldB.OZJ"
+dest_files=["res://.godot/imported/GL400shieldB.OZJ-0dcc19e5f2b591407b940515022b6d3e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bujdc1qd8jqgs"
+path="res://.godot/imported/blur02_mono.OZJ-de10202a334e0946b456c24fdbe2bfa5.res"
+
+[deps]
+
+source_file="res://Data/Item/blur02_mono.OZJ"
+dest_files=["res://.godot/imported/blur02_mono.OZJ-de10202a334e0946b456c24fdbe2bfa5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bd2aqaaa4xmf"
+path="res://.godot/imported/TKnight_Hair.OZT-8a7cb7ba914bf56a7e9bda2bdba53a12.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TKnight_Hair.OZT"
+dest_files=["res://.godot/imported/TKnight_Hair.OZT-8a7cb7ba914bf56a7e9bda2bdba53a12.res"]
+
+[params]
+

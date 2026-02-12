@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d4ag71dox86wr"
+path="res://.godot/imported/asura.bmd-eb120f2cb1eaff92b6ad8a6afc5d1665.scn"
+
+[deps]
+
+source_file="res://Data/Item/asura.bmd"
+dest_files=["res://.godot/imported/asura.bmd-eb120f2cb1eaff92b6ad8a6afc5d1665.scn"]
+
+[params]
+
+modelScale=0.01

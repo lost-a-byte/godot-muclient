@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8yt5bjpmh6v8"
+path="res://.godot/imported/cheerleaderskin.OZJ-dffac0bfab674de3401551779461b4ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cheerleaderskin.OZJ"
+dest_files=["res://.godot/imported/cheerleaderskin.OZJ-dffac0bfab674de3401551779461b4ea.res"]
+
+[params]
+

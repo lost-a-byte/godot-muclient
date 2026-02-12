@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt0rglckyd2dd"
+path="res://.godot/imported/Moon.OZJ-3ad758fbd43960cbb2e3f04857ccbdf4.res"
+
+[deps]
+
+source_file="res://Data/Item/Moon.OZJ"
+dest_files=["res://.godot/imported/Moon.OZJ-3ad758fbd43960cbb2e3f04857ccbdf4.res"]
+
+[params]
+

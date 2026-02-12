@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1u1715gxt1uk"
+path="res://.godot/imported/entrancered.ozj-355b2d83ec59cd3fc878526eb3b46b08.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/entrancered.ozj"
+dest_files=["res://.godot/imported/entrancered.ozj-355b2d83ec59cd3fc878526eb3b46b08.res"]
+
+[params]
+

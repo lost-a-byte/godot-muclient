@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bchfy73gmuwji"
+path="res://.godot/imported/ConmocionLance.bmd-5b5b6bcc4f0946cec079d41bea69d5b0.scn"
+
+[deps]
+
+source_file="res://Data/Item/ConmocionLance.bmd"
+dest_files=["res://.godot/imported/ConmocionLance.bmd-5b5b6bcc4f0946cec079d41bea69d5b0.scn"]
+
+[params]
+
+modelScale=0.01

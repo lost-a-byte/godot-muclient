@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3kxqgcsb61kc"
+path="res://.godot/imported/raymond_body.OZJ-dd8e74bfe44ffd65fbc8a6ecb704263d.res"
+
+[deps]
+
+source_file="res://Data/Monster/raymond_body.OZJ"
+dest_files=["res://.godot/imported/raymond_body.OZJ-dd8e74bfe44ffd65fbc8a6ecb704263d.res"]
+
+[params]
+

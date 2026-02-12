@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bw3f7fgh06vda"
+path="res://.godot/imported/sd_soulsummoner.bmd-e9f373411b3123ec1610f45b5b28db95.scn"
+
+[deps]
+
+source_file="res://Data/Item/sd_soulsummoner.bmd"
+dest_files=["res://.godot/imported/sd_soulsummoner.bmd-e9f373411b3123ec1610f45b5b28db95.scn"]
+
+[params]
+
+modelScale=0.01

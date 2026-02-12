@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy6uns6ofw8s7"
+path="res://.godot/imported/holyangelblade_1.OZJ-0f802794eb4b691f60e15395b06f0cb0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holyangelblade_1.OZJ"
+dest_files=["res://.godot/imported/holyangelblade_1.OZJ-0f802794eb4b691f60e15395b06f0cb0.res"]
+
+[params]
+

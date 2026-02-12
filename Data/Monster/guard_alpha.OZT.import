@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chqceirm08m1h"
+path="res://.godot/imported/guard_alpha.OZT-0b8648f7526117019eb339b07827180c.res"
+
+[deps]
+
+source_file="res://Data/Monster/guard_alpha.OZT"
+dest_files=["res://.godot/imported/guard_alpha.OZT-0b8648f7526117019eb339b07827180c.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bh75d44toy1aq"
+path="res://.godot/imported/Magie_blue_ground.bmd-7f775111f77b45ad5e8ba4366d5dece5.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Magie_blue_ground.bmd"
+dest_files=["res://.godot/imported/Magie_blue_ground.bmd-7f775111f77b45ad5e8ba4366d5dece5.scn"]
+
+[params]
+
+modelScale=0.01

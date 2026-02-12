@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0ba5tkbfs7og"
+path="res://.godot/imported/seta.OZJ-41411ad2c585fd5629aa491ea8d6bd6c.res"
+
+[deps]
+
+source_file="res://Data/NPC/seta.OZJ"
+dest_files=["res://.godot/imported/seta.OZJ-41411ad2c585fd5629aa491ea8d6bd6c.res"]
+
+[params]
+

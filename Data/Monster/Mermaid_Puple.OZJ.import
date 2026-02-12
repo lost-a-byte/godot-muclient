@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://85o083koccs1"
+path="res://.godot/imported/Mermaid_Puple.OZJ-e5786a7225d2bf459bd226753e77280d.res"
+
+[deps]
+
+source_file="res://Data/Monster/Mermaid_Puple.OZJ"
+dest_files=["res://.godot/imported/Mermaid_Puple.OZJ-e5786a7225d2bf459bd226753e77280d.res"]
+
+[params]
+

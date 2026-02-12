@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwnfwadccgq2d"
+path="res://.godot/imported/SCOLPIO_Evolution_render.OZJ-be2856540006805d45b399ca5bbac3ca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SCOLPIO_Evolution_render.OZJ"
+dest_files=["res://.godot/imported/SCOLPIO_Evolution_render.OZJ-be2856540006805d45b399ca5bbac3ca.res"]
+
+[params]
+

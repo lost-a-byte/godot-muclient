@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://64a8yigr6ayb"
+path="res://.godot/imported/succubus_helmet.OZJ-5b77bc9b74b6cc8bac502b9899aeeb6f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_helmet.OZJ"
+dest_files=["res://.godot/imported/succubus_helmet.OZJ-5b77bc9b74b6cc8bac502b9899aeeb6f.res"]
+
+[params]
+

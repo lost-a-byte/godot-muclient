@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdmj3aw2kklp7"
+path="res://.godot/imported/win_button.OZT-f5829b1fd423d0a4a89f65b9edc889c3.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_button.OZT"
+dest_files=["res://.godot/imported/win_button.OZT-f5829b1fd423d0a4a89f65b9edc889c3.res"]
+
+[params]
+

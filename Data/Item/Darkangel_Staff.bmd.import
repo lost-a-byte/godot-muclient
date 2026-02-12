@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://05an7tb0b7xc"
+path="res://.godot/imported/Darkangel_Staff.bmd-bc8909fa01876c2d8468fc01e3352e88.scn"
+
+[deps]
+
+source_file="res://Data/Item/Darkangel_Staff.bmd"
+dest_files=["res://.godot/imported/Darkangel_Staff.bmd-bc8909fa01876c2d8468fc01e3352e88.scn"]
+
+[params]
+
+modelScale=0.01

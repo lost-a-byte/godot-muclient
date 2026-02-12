@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://64jrmm6n4trq"
+path="res://.godot/imported/lavagiantAb.OZJ-a36650cf01cb9cfde904a0184d57b5ce.res"
+
+[deps]
+
+source_file="res://Data/Monster/lavagiantAb.OZJ"
+dest_files=["res://.godot/imported/lavagiantAb.OZJ-a36650cf01cb9cfde904a0184d57b5ce.res"]
+
+[params]
+

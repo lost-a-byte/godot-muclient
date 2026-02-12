@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt6b7tvjqof7k"
+path="res://.godot/imported/Drax.ozj-903b3bff70cd0f20f13b19f183695002.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Drax.ozj"
+dest_files=["res://.godot/imported/Drax.ozj-903b3bff70cd0f20f13b19f183695002.res"]
+
+[params]
+

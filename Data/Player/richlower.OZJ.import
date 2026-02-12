@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drj0wt20x6ryr"
+path="res://.godot/imported/richlower.OZJ-b333299393ccc9a806d8494540cea478.res"
+
+[deps]
+
+source_file="res://Data/Player/richlower.OZJ"
+dest_files=["res://.godot/imported/richlower.OZJ-b333299393ccc9a806d8494540cea478.res"]
+
+[params]
+

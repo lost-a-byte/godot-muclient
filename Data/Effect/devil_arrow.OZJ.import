@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cair1qc8ehnv5"
+path="res://.godot/imported/devil_arrow.OZJ-175e36fd3f399c0132fc570036289678.res"
+
+[deps]
+
+source_file="res://Data/Effect/devil_arrow.OZJ"
+dest_files=["res://.godot/imported/devil_arrow.OZJ-175e36fd3f399c0132fc570036289678.res"]
+
+[params]
+

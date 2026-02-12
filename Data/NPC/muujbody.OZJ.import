@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3jfgxm3ta1d"
+path="res://.godot/imported/muujbody.OZJ-db023bc45a8bfac23ec118aecefd6ac6.res"
+
+[deps]
+
+source_file="res://Data/NPC/muujbody.OZJ"
+dest_files=["res://.godot/imported/muujbody.OZJ-db023bc45a8bfac23ec118aecefd6ac6.res"]
+
+[params]
+

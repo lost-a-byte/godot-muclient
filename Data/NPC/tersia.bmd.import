@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d4cmvyn0ksvai"
+path="res://.godot/imported/tersia.bmd-4a649710ebfd0f2921d4e14085659291.scn"
+
+[deps]
+
+source_file="res://Data/NPC/tersia.bmd"
+dest_files=["res://.godot/imported/tersia.bmd-4a649710ebfd0f2921d4e14085659291.scn"]
+
+[params]
+
+modelScale=0.01

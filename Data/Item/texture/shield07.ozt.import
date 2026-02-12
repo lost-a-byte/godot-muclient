@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2laiaynmfoil"
+path="res://.godot/imported/shield07.ozt-3a3c7c9b12e069f21abd059d9eec806d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/shield07.ozt"
+dest_files=["res://.godot/imported/shield07.ozt-3a3c7c9b12e069f21abd059d9eec806d.res"]
+
+[params]
+

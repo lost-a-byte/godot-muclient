@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7cp8ithft4go"
+path="res://.godot/imported/monmark03.bmd-22152aeb412743ac11413daec494ef8a.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge1/monmark03.bmd"
+dest_files=["res://.godot/imported/monmark03.bmd-22152aeb412743ac11413daec494ef8a.scn"]
+
+[params]
+
+modelScale=0.01

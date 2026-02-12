@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddyix56gc3tqw"
+path="res://.godot/imported/Barca7Card.OZJ-738053eb479183b013017340136fb325.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Barca7Card.OZJ"
+dest_files=["res://.godot/imported/Barca7Card.OZJ-738053eb479183b013017340136fb325.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj8e7x7boj6q6"
+path="res://.godot/imported/hs_horseC.OZJ-45cd49d2c6c0e5d774ba24dd5edac7c2.res"
+
+[deps]
+
+source_file="res://Data/Monster/hs_horseC.OZJ"
+dest_files=["res://.godot/imported/hs_horseC.OZJ-45cd49d2c6c0e5d774ba24dd5edac7c2.res"]
+
+[params]
+

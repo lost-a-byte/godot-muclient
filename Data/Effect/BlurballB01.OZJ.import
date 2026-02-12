@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7dxnpk1x4qcu"
+path="res://.godot/imported/BlurballB01.OZJ-de698f259a7fa01db9fb5b11d3ccd2a0.res"
+
+[deps]
+
+source_file="res://Data/Effect/BlurballB01.OZJ"
+dest_files=["res://.godot/imported/BlurballB01.OZJ-de698f259a7fa01db9fb5b11d3ccd2a0.res"]
+
+[params]
+

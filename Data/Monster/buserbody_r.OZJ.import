@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bny7xbdf324kv"
+path="res://.godot/imported/buserbody_r.OZJ-8adc46b21805318c2e572b4002eddd1b.res"
+
+[deps]
+
+source_file="res://Data/Monster/buserbody_r.OZJ"
+dest_files=["res://.godot/imported/buserbody_r.OZJ-8adc46b21805318c2e572b4002eddd1b.res"]
+
+[params]
+

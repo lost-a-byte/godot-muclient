@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://m3gxkrl43sp6"
+path="res://.godot/imported/dragon_satan.OZJ-78b02ff9c5c376ea07e2173445f116de.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dragon_satan.OZJ"
+dest_files=["res://.godot/imported/dragon_satan.OZJ-78b02ff9c5c376ea07e2173445f116de.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6akxdl48k7pb"
+path="res://.godot/imported/arrow_nomal6.OZJ-3cd14168f7de530f533ada37083e0a94.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/arrow_nomal6.OZJ"
+dest_files=["res://.godot/imported/arrow_nomal6.OZJ-3cd14168f7de530f533ada37083e0a94.res"]
+
+[params]
+

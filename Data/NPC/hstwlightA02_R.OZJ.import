@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dedt8boxcsmke"
+path="res://.godot/imported/hstwlightA02_R.OZJ-80ecad0e16d1f2cf21876b64b5976c77.res"
+
+[deps]
+
+source_file="res://Data/NPC/hstwlightA02_R.OZJ"
+dest_files=["res://.godot/imported/hstwlightA02_R.OZJ-80ecad0e16d1f2cf21876b64b5976c77.res"]
+
+[params]
+

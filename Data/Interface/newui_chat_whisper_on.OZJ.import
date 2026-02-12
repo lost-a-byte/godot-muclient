@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgl6hxth0j0su"
+path="res://.godot/imported/newui_chat_whisper_on.OZJ-06427b74daf12bd2aa145d2dd4829a11.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_chat_whisper_on.OZJ"
+dest_files=["res://.godot/imported/newui_chat_whisper_on.OZJ-06427b74daf12bd2aa145d2dd4829a11.res"]
+
+[params]
+

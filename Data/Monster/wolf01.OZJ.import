@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cddo407lqnrml"
+path="res://.godot/imported/wolf01.OZJ-e4cda12563ed2b636384216d291cdb03.res"
+
+[deps]
+
+source_file="res://Data/Monster/wolf01.OZJ"
+dest_files=["res://.godot/imported/wolf01.OZJ-e4cda12563ed2b636384216d291cdb03.res"]
+
+[params]
+

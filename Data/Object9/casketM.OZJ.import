@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bh6a422q4ajap"
+path="res://.godot/imported/casketM.OZJ-5fdad19d8a5e1b1c09fd532afbcd274e.res"
+
+[deps]
+
+source_file="res://Data/Object9/casketM.OZJ"
+dest_files=["res://.godot/imported/casketM.OZJ-5fdad19d8a5e1b1c09fd532afbcd274e.res"]
+
+[params]
+

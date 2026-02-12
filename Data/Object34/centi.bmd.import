@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6tuvpmss8b8e"
+path="res://.godot/imported/centi.bmd-688ae5041fd1ab27b042edf13880d41d.scn"
+
+[deps]
+
+source_file="res://Data/Object34/centi.bmd"
+dest_files=["res://.godot/imported/centi.bmd-688ae5041fd1ab27b042edf13880d41d.scn"]
+
+[params]
+
+modelScale=0.01

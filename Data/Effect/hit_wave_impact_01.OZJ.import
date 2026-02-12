@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://odx575dmdpti"
+path="res://.godot/imported/hit_wave_impact_01.OZJ-fb1f182421601903587e316b7f7855eb.res"
+
+[deps]
+
+source_file="res://Data/Effect/hit_wave_impact_01.OZJ"
+dest_files=["res://.godot/imported/hit_wave_impact_01.OZJ-fb1f182421601903587e316b7f7855eb.res"]
+
+[params]
+

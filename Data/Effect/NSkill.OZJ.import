@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cct07c5xdkqme"
+path="res://.godot/imported/NSkill.OZJ-8bec34c3292e4afdd3cec9e12b61f5dd.res"
+
+[deps]
+
+source_file="res://Data/Effect/NSkill.OZJ"
+dest_files=["res://.godot/imported/NSkill.OZJ-8bec34c3292e4afdd3cec9e12b61f5dd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chd20hj4otub"
+path="res://.godot/imported/Behemoth.OZJ-5ad05a816acbc3b4946c4042e107e8ba.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Behemoth.OZJ"
+dest_files=["res://.godot/imported/Behemoth.OZJ-5ad05a816acbc3b4946c4042e107e8ba.res"]
+
+[params]
+

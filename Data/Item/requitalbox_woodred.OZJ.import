@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvl0t431vw5jg"
+path="res://.godot/imported/requitalbox_woodred.OZJ-2190679c64af772ffe3585ed1f6e33d2.res"
+
+[deps]
+
+source_file="res://Data/Item/requitalbox_woodred.OZJ"
+dest_files=["res://.godot/imported/requitalbox_woodred.OZJ-2190679c64af772ffe3585ed1f6e33d2.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dynxamsemrys"
+path="res://.godot/imported/marks_cylinder.bmd-7b02a80265fd7c2c92a9b84dc2c65091.scn"
+
+[deps]
+
+source_file="res://Data/Effect/marks_cylinder.bmd"
+dest_files=["res://.godot/imported/marks_cylinder.bmd-7b02a80265fd7c2c92a9b84dc2c65091.scn"]
+
+[params]
+
+modelScale=0.01

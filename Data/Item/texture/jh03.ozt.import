@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpcu4g8in7k45"
+path="res://.godot/imported/jh03.ozt-e8cffb4c503ccddd2f5d4e0da498b0a8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/jh03.ozt"
+dest_files=["res://.godot/imported/jh03.ozt-e8cffb4c503ccddd2f5d4e0da498b0a8.res"]
+
+[params]
+

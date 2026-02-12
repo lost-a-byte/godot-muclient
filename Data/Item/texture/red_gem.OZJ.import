@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dky1cwxibbkgq"
+path="res://.godot/imported/red_gem.OZJ-471b22fd43aa0b4ce7eb677de6b79c64.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/red_gem.OZJ"
+dest_files=["res://.godot/imported/red_gem.OZJ-471b22fd43aa0b4ce7eb677de6b79c64.res"]
+
+[params]
+

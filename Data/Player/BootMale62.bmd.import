@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqyuyhaahccsv"
+path="res://.godot/imported/BootMale62.bmd-7eb98c60ae7b4e34fd4bd7a42d1169c5.scn"
+
+[deps]
+
+source_file="res://Data/Player/BootMale62.bmd"
+dest_files=["res://.godot/imported/BootMale62.bmd-7eb98c60ae7b4e34fd4bd7a42d1169c5.scn"]
+
+[params]
+
+modelScale=0.01

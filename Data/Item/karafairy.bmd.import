@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cnhaf265eys0y"
+path="res://.godot/imported/karafairy.bmd-939f24c67019c16419f6b519e471b8a0.scn"
+
+[deps]
+
+source_file="res://Data/Item/karafairy.bmd"
+dest_files=["res://.godot/imported/karafairy.bmd-939f24c67019c16419f6b519e471b8a0.scn"]
+
+[params]
+
+modelScale=0.01

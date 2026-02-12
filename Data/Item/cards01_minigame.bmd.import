@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mdih7cjputa3"
+path="res://.godot/imported/cards01_minigame.bmd-8012ef7b102d582083d5a55abbad631e.scn"
+
+[deps]
+
+source_file="res://Data/Item/cards01_minigame.bmd"
+dest_files=["res://.godot/imported/cards01_minigame.bmd-8012ef7b102d582083d5a55abbad631e.scn"]
+
+[params]
+
+modelScale=0.01

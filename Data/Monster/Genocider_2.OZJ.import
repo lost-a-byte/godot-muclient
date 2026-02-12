@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://en1xm8gqo705"
+path="res://.godot/imported/Genocider_2.OZJ-1b19d37f44852cca561d77afe989b505.res"
+
+[deps]
+
+source_file="res://Data/Monster/Genocider_2.OZJ"
+dest_files=["res://.godot/imported/Genocider_2.OZJ-1b19d37f44852cca561d77afe989b505.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnlfjpjqsi0n7"
+path="res://.godot/imported/blur02_mono_long_magum_black.OZJ-84e941a55724f9ccb89ff72adc5bf6cb.res"
+
+[deps]
+
+source_file="res://Data/Effect/blur02_mono_long_magum_black.OZJ"
+dest_files=["res://.godot/imported/blur02_mono_long_magum_black.OZJ-84e941a55724f9ccb89ff72adc5bf6cb.res"]
+
+[params]
+

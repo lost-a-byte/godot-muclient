@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dluxg5qrtrsph"
+path="res://.godot/imported/Fifth_Kundun_cape_05.OZJ-94e863f2fbeec1c8874985c26ecc11ec.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Kundun_cape_05.OZJ"
+dest_files=["res://.godot/imported/Fifth_Kundun_cape_05.OZJ-94e863f2fbeec1c8874985c26ecc11ec.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dprxq6316vkwk"
+path="res://.godot/imported/apocalypse_elfshield.bmd-07676fb81320de8cc7831f8d407170f5.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse_elfshield.bmd"
+dest_files=["res://.godot/imported/apocalypse_elfshield.bmd-07676fb81320de8cc7831f8d407170f5.scn"]
+
+[params]
+
+modelScale=0.01

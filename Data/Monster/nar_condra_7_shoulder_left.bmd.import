@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccihf5l8qvu0u"
+path="res://.godot/imported/nar_condra_7_shoulder_left.bmd-2da3c88d6b3b1b4f057de2a02e3d1d18.scn"
+
+[deps]
+
+source_file="res://Data/Monster/nar_condra_7_shoulder_left.bmd"
+dest_files=["res://.godot/imported/nar_condra_7_shoulder_left.bmd-2da3c88d6b3b1b4f057de2a02e3d1d18.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dct4b3x5t78co"
+path="res://.godot/imported/Giant_GrowLancer_Red.OZJ-23948b8c91c1723c6a0763febbd2f7d6.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_GrowLancer_Red.OZJ"
+dest_files=["res://.godot/imported/Giant_GrowLancer_Red.OZJ-23948b8c91c1723c6a0763febbd2f7d6.res"]
+
+[params]
+

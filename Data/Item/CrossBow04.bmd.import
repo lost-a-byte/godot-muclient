@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cra05s7u1dnfx"
+path="res://.godot/imported/CrossBow04.bmd-0c84b0dcc8329a9b5977dd5eabc6de55.scn"
+
+[deps]
+
+source_file="res://Data/Item/CrossBow04.bmd"
+dest_files=["res://.godot/imported/CrossBow04.bmd-0c84b0dcc8329a9b5977dd5eabc6de55.scn"]
+
+[params]
+
+modelScale=0.01

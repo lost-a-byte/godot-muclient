@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgspajpoa5ltp"
+path="res://.godot/imported/Gogi.ozj-ed63dfec20f5f4e89eed72dee6ec3c37.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Gogi.ozj"
+dest_files=["res://.godot/imported/Gogi.ozj-ed63dfec20f5f4e89eed72dee6ec3c37.res"]
+
+[params]
+

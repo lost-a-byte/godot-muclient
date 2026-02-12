@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boqvplerhummj"
+path="res://.godot/imported/ingame_Bt_Gift.OZT-d92672d0877355d1344b65f4a1da76b1.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Bt_Gift.OZT"
+dest_files=["res://.godot/imported/ingame_Bt_Gift.OZT-d92672d0877355d1344b65f4a1da76b1.res"]
+
+[params]
+

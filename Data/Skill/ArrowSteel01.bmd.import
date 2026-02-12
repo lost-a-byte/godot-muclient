@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bxaqdpnp5dsqc"
+path="res://.godot/imported/ArrowSteel01.bmd-6e9b438176cd60d278aa18032d9d3acc.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ArrowSteel01.bmd"
+dest_files=["res://.godot/imported/ArrowSteel01.bmd-6e9b438176cd60d278aa18032d9d3acc.scn"]
+
+[params]
+
+modelScale=0.01

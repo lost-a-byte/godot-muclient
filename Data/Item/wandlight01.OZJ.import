@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crdlu7peyg32p"
+path="res://.godot/imported/wandlight01.OZJ-6049b5b04bc8ee9baa779c525e2be4aa.res"
+
+[deps]
+
+source_file="res://Data/Item/wandlight01.OZJ"
+dest_files=["res://.godot/imported/wandlight01.OZJ-6049b5b04bc8ee9baa779c525e2be4aa.res"]
+
+[params]
+

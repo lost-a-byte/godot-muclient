@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://baicy66dd1l5r"
+path="res://.godot/imported/SoulmagicSword.bmd-71f8adf0e41e596fdced4d21da61f8ff.scn"
+
+[deps]
+
+source_file="res://Data/Item/SoulmagicSword.bmd"
+dest_files=["res://.godot/imported/SoulmagicSword.bmd-71f8adf0e41e596fdced4d21da61f8ff.scn"]
+
+[params]
+
+modelScale=0.01

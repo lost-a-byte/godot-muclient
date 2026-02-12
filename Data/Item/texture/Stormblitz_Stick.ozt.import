@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dl4qgk7ltesa7"
+path="res://.godot/imported/Stormblitz_Stick.ozt-f6a0c4e96dbffcab49c680089264d322.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Stormblitz_Stick.ozt"
+dest_files=["res://.godot/imported/Stormblitz_Stick.ozt-f6a0c4e96dbffcab49c680089264d322.res"]
+
+[params]
+

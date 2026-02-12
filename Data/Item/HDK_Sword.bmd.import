@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cureutyp6mb1r"
+path="res://.godot/imported/HDK_Sword.bmd-b67d2ac5f54d4db01fe50a5d558da6a8.scn"
+
+[deps]
+
+source_file="res://Data/Item/HDK_Sword.bmd"
+dest_files=["res://.godot/imported/HDK_Sword.bmd-b67d2ac5f54d4db01fe50a5d558da6a8.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmm1uyfqf154x"
+path="res://.godot/imported/knightSt.OZJ-36da702b9100e6fe09798341f10f766a.res"
+
+[deps]
+
+source_file="res://Data/Skill/knightSt.OZJ"
+dest_files=["res://.godot/imported/knightSt.OZJ-36da702b9100e6fe09798341f10f766a.res"]
+
+[params]
+

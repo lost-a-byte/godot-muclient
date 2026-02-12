@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dukn77d3moayf"
+path="res://.godot/imported/selupan.OZJ-b7fd0b06b51a199c12a53c0bdab624bd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/selupan.OZJ"
+dest_files=["res://.godot/imported/selupan.OZJ-b7fd0b06b51a199c12a53c0bdab624bd.res"]
+
+[params]
+

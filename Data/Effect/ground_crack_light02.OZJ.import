@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ce0tmtjcfi6ye"
+path="res://.godot/imported/ground_crack_light02.OZJ-15b74e5962c50cb219cafff990da473b.res"
+
+[deps]
+
+source_file="res://Data/Effect/ground_crack_light02.OZJ"
+dest_files=["res://.godot/imported/ground_crack_light02.OZJ-15b74e5962c50cb219cafff990da473b.res"]
+
+[params]
+

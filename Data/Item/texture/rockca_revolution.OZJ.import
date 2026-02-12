@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cboaeshjtmv3t"
+path="res://.godot/imported/rockca_revolution.OZJ-3290ddf97ab8465825ee3933fbdd6557.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rockca_revolution.OZJ"
+dest_files=["res://.godot/imported/rockca_revolution.OZJ-3290ddf97ab8465825ee3933fbdd6557.res"]
+
+[params]
+

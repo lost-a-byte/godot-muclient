@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmd4a0k1k83j4"
+path="res://.godot/imported/TempleGuard_M_sword_01.OZJ-0d793d5f9de578b9264448ee14551a3a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_M_sword_01.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_M_sword_01.OZJ-0d793d5f9de578b9264448ee14551a3a.res"]
+
+[params]
+

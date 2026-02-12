@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh7eg00roogl4"
+path="res://.godot/imported/Noise_Crome02_mono.OZJ-f482bd7d9abf9db0acac62c2f977819d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Noise_Crome02_mono.OZJ"
+dest_files=["res://.godot/imported/Noise_Crome02_mono.OZJ-f482bd7d9abf9db0acac62c2f977819d.res"]
+
+[params]
+

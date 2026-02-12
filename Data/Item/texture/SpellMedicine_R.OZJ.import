@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlt2wpb8ggi0a"
+path="res://.godot/imported/SpellMedicine_R.OZJ-ed0435a3ceb1635ac5a5b07ed49fd41b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpellMedicine_R.OZJ"
+dest_files=["res://.godot/imported/SpellMedicine_R.OZJ-ed0435a3ceb1635ac5a5b07ed49fd41b.res"]
+
+[params]
+

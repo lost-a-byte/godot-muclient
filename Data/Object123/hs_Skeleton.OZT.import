@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6oldfjp5bp5l"
+path="res://.godot/imported/hs_Skeleton.OZT-80571d96224e45aa2af60a6c26401d6d.res"
+
+[deps]
+
+source_file="res://Data/Object123/hs_Skeleton.OZT"
+dest_files=["res://.godot/imported/hs_Skeleton.OZT-80571d96224e45aa2af60a6c26401d6d.res"]
+
+[params]
+

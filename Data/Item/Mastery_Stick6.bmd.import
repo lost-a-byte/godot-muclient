@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://by77lj0r0vwas"
+path="res://.godot/imported/Mastery_Stick6.bmd-485380ba934d4606f188bd50c7bb243b.scn"
+
+[deps]
+
+source_file="res://Data/Item/Mastery_Stick6.bmd"
+dest_files=["res://.godot/imported/Mastery_Stick6.bmd-485380ba934d4606f188bd50c7bb243b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tyv8oevm17vd"
+path="res://.godot/imported/blessingEBR.OZJ-73bcc8c81edc7f91a1e90a907a1553d8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blessingEBR.OZJ"
+dest_files=["res://.godot/imported/blessingEBR.OZJ-73bcc8c81edc7f91a1e90a907a1553d8.res"]
+
+[params]
+

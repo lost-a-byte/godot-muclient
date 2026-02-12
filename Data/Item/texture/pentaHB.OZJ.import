@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bls70au4ebndd"
+path="res://.godot/imported/pentaHB.OZJ-74fbe03a027edfa09d4579c99d930ef9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pentaHB.OZJ"
+dest_files=["res://.godot/imported/pentaHB.OZJ-74fbe03a027edfa09d4579c99d930ef9.res"]
+
+[params]
+

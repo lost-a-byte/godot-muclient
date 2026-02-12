@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b26no7wkfuufl"
+path="res://.godot/imported/badsanta_baggage.OZJ-09da5734896abd81739988b7415f17a0.res"
+
+[deps]
+
+source_file="res://Data/Monster/badsanta_baggage.OZJ"
+dest_files=["res://.godot/imported/badsanta_baggage.OZJ-09da5734896abd81739988b7415f17a0.res"]
+
+[params]
+

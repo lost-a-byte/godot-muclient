@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0pc4utmmxk62"
+path="res://.godot/imported/mshild_back02.OZJ-648f4974883d3c394277bb3a40f56bc0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mshild_back02.OZJ"
+dest_files=["res://.godot/imported/mshild_back02.OZJ-648f4974883d3c394277bb3a40f56bc0.res"]
+
+[params]
+

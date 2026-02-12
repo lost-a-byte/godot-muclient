@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ba61h6sav71h7"
+path="res://.godot/imported/Templeguard_Magicsword.bmd-c48a950a0044a548d530f39eca7fa6b5.scn"
+
+[deps]
+
+source_file="res://Data/Item/Templeguard_Magicsword.bmd"
+dest_files=["res://.godot/imported/Templeguard_Magicsword.bmd-c48a950a0044a548d530f39eca7fa6b5.scn"]
+
+[params]
+
+modelScale=0.01

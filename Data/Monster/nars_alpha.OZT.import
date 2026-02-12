@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cohjfun6r1ij0"
+path="res://.godot/imported/nars_alpha.OZT-486431786436c6e5ad35f31e865e8f27.res"
+
+[deps]
+
+source_file="res://Data/Monster/nars_alpha.OZT"
+dest_files=["res://.godot/imported/nars_alpha.OZT-486431786436c6e5ad35f31e865e8f27.res"]
+
+[params]
+

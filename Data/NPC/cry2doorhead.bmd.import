@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cyf2lw1l0rhvb"
+path="res://.godot/imported/cry2doorhead.bmd-2a7e034e0b2c3fec998584e993476dde.scn"
+
+[deps]
+
+source_file="res://Data/NPC/cry2doorhead.bmd"
+dest_files=["res://.godot/imported/cry2doorhead.bmd-2a7e034e0b2c3fec998584e993476dde.scn"]
+
+[params]
+
+modelScale=0.01

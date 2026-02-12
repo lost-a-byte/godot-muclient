@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctbgb2ilqe0vv"
+path="res://.godot/imported/fairyfaceYellow.OZJ-53a0c75f3677a36b70970785336972f0.res"
+
+[deps]
+
+source_file="res://Data/Monster/fairyfaceYellow.OZJ"
+dest_files=["res://.godot/imported/fairyfaceYellow.OZJ-53a0c75f3677a36b70970785336972f0.res"]
+
+[params]
+

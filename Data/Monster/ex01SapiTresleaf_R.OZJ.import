@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dklutpuvwusms"
+path="res://.godot/imported/ex01SapiTresleaf_R.OZJ-2883368e3641493685e70ed72a806aaf.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01SapiTresleaf_R.OZJ"
+dest_files=["res://.godot/imported/ex01SapiTresleaf_R.OZJ-2883368e3641493685e70ed72a806aaf.res"]
+
+[params]
+

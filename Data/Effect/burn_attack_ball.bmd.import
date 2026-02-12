@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c572jhfc2jxvs"
+path="res://.godot/imported/burn_attack_ball.bmd-cbc97b08a0931637836c1cd1304b3959.scn"
+
+[deps]
+
+source_file="res://Data/Effect/burn_attack_ball.bmd"
+dest_files=["res://.godot/imported/burn_attack_ball.bmd-cbc97b08a0931637836c1cd1304b3959.scn"]
+
+[params]
+
+modelScale=0.01

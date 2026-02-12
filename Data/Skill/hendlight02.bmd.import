@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bynwpp6c2k7n7"
+path="res://.godot/imported/hendlight02.bmd-cf23cd07ff913ecd5682b7be46811a1c.scn"
+
+[deps]
+
+source_file="res://Data/Skill/hendlight02.bmd"
+dest_files=["res://.godot/imported/hendlight02.bmd-cf23cd07ff913ecd5682b7be46811a1c.scn"]
+
+[params]
+
+modelScale=0.01

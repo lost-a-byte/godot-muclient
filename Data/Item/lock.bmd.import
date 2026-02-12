@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b4l4qw6h3qsr0"
+path="res://.godot/imported/lock.bmd-4141858320ade659d4cc972751a05219.scn"
+
+[deps]
+
+source_file="res://Data/Item/lock.bmd"
+dest_files=["res://.godot/imported/lock.bmd-4141858320ade659d4cc972751a05219.scn"]
+
+[params]
+
+modelScale=0.01

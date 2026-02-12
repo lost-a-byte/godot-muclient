@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2isho3bskosn"
+path="res://.godot/imported/tobijin2.OZJ-ea29ad1165acf5b9b758287c5b04522e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/tobijin2.OZJ"
+dest_files=["res://.godot/imported/tobijin2.OZJ-ea29ad1165acf5b9b758287c5b04522e.res"]
+
+[params]
+

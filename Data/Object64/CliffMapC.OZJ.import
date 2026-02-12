@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://72bw5yn64rj7"
+path="res://.godot/imported/CliffMapC.OZJ-e30cd36eda275cfa0c646063a7ea9790.res"
+
+[deps]
+
+source_file="res://Data/Object64/CliffMapC.OZJ"
+dest_files=["res://.godot/imported/CliffMapC.OZJ-e30cd36eda275cfa0c646063a7ea9790.res"]
+
+[params]
+

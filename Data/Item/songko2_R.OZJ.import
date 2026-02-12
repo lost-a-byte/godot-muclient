@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7kpq65my22j5"
+path="res://.godot/imported/songko2_R.OZJ-b77e9a4b0222058b99faa6b59eb301f2.res"
+
+[deps]
+
+source_file="res://Data/Item/songko2_R.OZJ"
+dest_files=["res://.godot/imported/songko2_R.OZJ-b77e9a4b0222058b99faa6b59eb301f2.res"]
+
+[params]
+

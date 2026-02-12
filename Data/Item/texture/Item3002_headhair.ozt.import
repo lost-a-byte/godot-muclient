@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwhuvdg8b7ma2"
+path="res://.godot/imported/Item3002_headhair.ozt-f60e87b16a2a59083cae532fb1f7e5cc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3002_headhair.ozt"
+dest_files=["res://.godot/imported/Item3002_headhair.ozt-f60e87b16a2a59083cae532fb1f7e5cc.res"]
+
+[params]
+

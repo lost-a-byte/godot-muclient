@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba31mrj3nq2nu"
+path="res://.godot/imported/DarkSoulB.OZJ-748f5e350fbb49dfbf754cbdbd4866b9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DarkSoulB.OZJ"
+dest_files=["res://.godot/imported/DarkSoulB.OZJ-748f5e350fbb49dfbf754cbdbd4866b9.res"]
+
+[params]
+

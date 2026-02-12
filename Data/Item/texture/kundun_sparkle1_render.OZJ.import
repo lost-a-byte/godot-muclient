@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt5emhsk5iye1"
+path="res://.godot/imported/kundun_sparkle1_render.OZJ-a69da0d22cf009f4c000a2be5550953c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundun_sparkle1_render.OZJ"
+dest_files=["res://.godot/imported/kundun_sparkle1_render.OZJ-a69da0d22cf009f4c000a2be5550953c.res"]
+
+[params]
+

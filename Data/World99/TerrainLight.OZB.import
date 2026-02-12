@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.terrain-light"
+type="ImageTexture"
+uid="uid://c6c1ut4hdal23"
+path="res://.godot/imported/TerrainLight.OZB-e6da324fb665974f65f387c4ea5b1696.res"
+
+[deps]
+
+source_file="res://Data/World99/TerrainLight.OZB"
+dest_files=["res://.godot/imported/TerrainLight.OZB-e6da324fb665974f65f387c4ea5b1696.res"]
+
+[params]
+

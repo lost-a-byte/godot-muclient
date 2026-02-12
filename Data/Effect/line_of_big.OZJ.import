@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwjjwf8gw7xgc"
+path="res://.godot/imported/line_of_big.OZJ-5d88b063d0ff83e7da4b9a5db5e7f80b.res"
+
+[deps]
+
+source_file="res://Data/Effect/line_of_big.OZJ"
+dest_files=["res://.godot/imported/line_of_big.OZJ-5d88b063d0ff83e7da4b9a5db5e7f80b.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://buo2rsc5w1sxe"
+path="res://.godot/imported/muunegg_orange.bmd-42cf4c5d75f27e690e668acb61de2335.scn"
+
+[deps]
+
+source_file="res://Data/Item/muunegg_orange.bmd"
+dest_files=["res://.godot/imported/muunegg_orange.bmd-42cf4c5d75f27e690e668acb61de2335.scn"]
+
+[params]
+
+modelScale=0.01

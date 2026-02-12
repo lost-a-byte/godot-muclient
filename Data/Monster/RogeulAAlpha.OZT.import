@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm60l3gcgajhi"
+path="res://.godot/imported/RogeulAAlpha.OZT-22a37fa4dea10b75707ad94ddb5e4679.res"
+
+[deps]
+
+source_file="res://Data/Monster/RogeulAAlpha.OZT"
+dest_files=["res://.godot/imported/RogeulAAlpha.OZT-22a37fa4dea10b75707ad94ddb5e4679.res"]
+
+[params]
+

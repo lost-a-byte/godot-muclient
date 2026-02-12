@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx04xlwh5vyll"
+path="res://.godot/imported/absorb.OZT-abf70f6a6862cccd932ac69947dc2262.res"
+
+[deps]
+
+source_file="res://Data/Interface/absorb.OZT"
+dest_files=["res://.godot/imported/absorb.OZT-abf70f6a6862cccd932ac69947dc2262.res"]
+
+[params]
+

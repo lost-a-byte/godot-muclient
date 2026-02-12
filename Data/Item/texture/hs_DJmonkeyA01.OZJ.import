@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bor3mi7ym7gjr"
+path="res://.godot/imported/hs_DJmonkeyA01.OZJ-09828f5e29f98d4b586356f00550769c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_DJmonkeyA01.OZJ"
+dest_files=["res://.godot/imported/hs_DJmonkeyA01.OZJ-09828f5e29f98d4b586356f00550769c.res"]
+
+[params]
+

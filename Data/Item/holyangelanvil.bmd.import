@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bso880hr50x52"
+path="res://.godot/imported/holyangelanvil.bmd-5e8dadc259aa2ee48aa0940a51100bd7.scn"
+
+[deps]
+
+source_file="res://Data/Item/holyangelanvil.bmd"
+dest_files=["res://.godot/imported/holyangelanvil.bmd-5e8dadc259aa2ee48aa0940a51100bd7.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dc4cyrq8sxudk"
+path="res://.godot/imported/green_shadowmontype.OZT-32d643c16d678959b527fc777be5061b.res"
+
+[deps]
+
+source_file="res://Data/Monster/green_shadowmontype.OZT"
+dest_files=["res://.godot/imported/green_shadowmontype.OZT-32d643c16d678959b527fc777be5061b.res"]
+
+[params]
+

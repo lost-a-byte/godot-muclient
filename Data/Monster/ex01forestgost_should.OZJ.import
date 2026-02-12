@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjad1ysnny84x"
+path="res://.godot/imported/ex01forestgost_should.OZJ-f1ee371466f8e922e47b3b53ea7e9c83.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01forestgost_should.OZJ"
+dest_files=["res://.godot/imported/ex01forestgost_should.OZJ-f1ee371466f8e922e47b3b53ea7e9c83.res"]
+
+[params]
+

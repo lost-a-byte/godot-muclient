@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6ada5rv17ik"
+path="res://.godot/imported/guard_gold2.OZJ-96ae1f01ad7a152b6644b2ca42e74cbe.res"
+
+[deps]
+
+source_file="res://Data/NPC/guard_gold2.OZJ"
+dest_files=["res://.godot/imported/guard_gold2.OZJ-96ae1f01ad7a152b6644b2ca42e74cbe.res"]
+
+[params]
+

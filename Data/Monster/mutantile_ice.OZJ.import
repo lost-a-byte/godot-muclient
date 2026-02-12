@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyewvrx7inepy"
+path="res://.godot/imported/mutantile_ice.OZJ-9ed06e751f565002be68ddff9bbc4f6c.res"
+
+[deps]
+
+source_file="res://Data/Monster/mutantile_ice.OZJ"
+dest_files=["res://.godot/imported/mutantile_ice.OZJ-9ed06e751f565002be68ddff9bbc4f6c.res"]
+
+[params]
+

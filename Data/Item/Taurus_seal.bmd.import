@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3avrenmu1wmp"
+path="res://.godot/imported/Taurus_seal.bmd-6fcfa33cf16ab50d69e18c137be37353.scn"
+
+[deps]
+
+source_file="res://Data/Item/Taurus_seal.bmd"
+dest_files=["res://.godot/imported/Taurus_seal.bmd-6fcfa33cf16ab50d69e18c137be37353.scn"]
+
+[params]
+
+modelScale=0.01

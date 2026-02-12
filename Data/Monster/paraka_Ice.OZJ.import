@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brl7wh74ny1w7"
+path="res://.godot/imported/paraka_Ice.OZJ-cddc54c212b6b5104ba26ed370b7fe75.res"
+
+[deps]
+
+source_file="res://Data/Monster/paraka_Ice.OZJ"
+dest_files=["res://.godot/imported/paraka_Ice.OZJ-cddc54c212b6b5104ba26ed370b7fe75.res"]
+
+[params]
+

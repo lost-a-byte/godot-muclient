@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ene7xk0rfrsl"
+path="res://.godot/imported/DoppelCard.OZJ-02a0bb18fd89667da921429c759dcbee.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DoppelCard.OZJ"
+dest_files=["res://.godot/imported/DoppelCard.OZJ-02a0bb18fd89667da921429c759dcbee.res"]
+
+[params]
+

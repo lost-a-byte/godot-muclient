@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bey1ddtq3jy0m"
+path="res://.godot/imported/Shockwave2.OZJ-1062df299eb4f3b6c4e86d0bacd5b9fc.res"
+
+[deps]
+
+source_file="res://Data/Effect/Shockwave2.OZJ"
+dest_files=["res://.godot/imported/Shockwave2.OZJ-1062df299eb4f3b6c4e86d0bacd5b9fc.res"]
+
+[params]
+

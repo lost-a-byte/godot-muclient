@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dql27183iohk1"
+path="res://.godot/imported/elitescroll_r.OZJ-bfd4c44cae6d08e22262597475796279.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elitescroll_r.OZJ"
+dest_files=["res://.godot/imported/elitescroll_r.OZJ-bfd4c44cae6d08e22262597475796279.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cf5elcn822qie"
+path="res://.godot/imported/buds_tail02.OZJ-0deb629fdee07bb853f00afbf8a4173e.res"
+
+[deps]
+
+source_file="res://Data/Effect/buds_tail02.OZJ"
+dest_files=["res://.godot/imported/buds_tail02.OZJ-0deb629fdee07bb853f00afbf8a4173e.res"]
+
+[params]
+

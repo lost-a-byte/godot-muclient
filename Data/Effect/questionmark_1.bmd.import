@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b37bwgwitqxcm"
+path="res://.godot/imported/questionmark_1.bmd-775fa53dfd37fdf4c7b54e78ad2a0c0c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/questionmark_1.bmd"
+dest_files=["res://.godot/imported/questionmark_1.bmd-775fa53dfd37fdf4c7b54e78ad2a0c0c.scn"]
+
+[params]
+
+modelScale=0.01

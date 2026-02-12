@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clgq7f386a1vw"
+path="res://.godot/imported/gradation_R_Light.OZJ-487d875474d7f46c27f4c80bea81aa11.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gradation_R_Light.OZJ"
+dest_files=["res://.godot/imported/gradation_R_Light.OZJ-487d875474d7f46c27f4c80bea81aa11.res"]
+
+[params]
+

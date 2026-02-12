@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cpjs1bbkt66ad"
+path="res://.godot/imported/MaskHelmMale06.bmd-aaa55ea34d746eedcecc9aa0103d05ef.scn"
+
+[deps]
+
+source_file="res://Data/Player/MaskHelmMale06.bmd"
+dest_files=["res://.godot/imported/MaskHelmMale06.bmd-aaa55ea34d746eedcecc9aa0103d05ef.scn"]
+
+[params]
+
+modelScale=0.01

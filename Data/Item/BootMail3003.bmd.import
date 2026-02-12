@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dyvcaegrm4s0o"
+path="res://.godot/imported/BootMail3003.bmd-5f3693c3ff508c88002a438786cbadc5.scn"
+
+[deps]
+
+source_file="res://Data/Item/BootMail3003.bmd"
+dest_files=["res://.godot/imported/BootMail3003.bmd-5f3693c3ff508c88002a438786cbadc5.scn"]
+
+[params]
+
+modelScale=0.01

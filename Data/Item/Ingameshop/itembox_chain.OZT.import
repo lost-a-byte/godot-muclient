@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8p7eia1jumjs"
+path="res://.godot/imported/itembox_chain.OZT-35268384a636729f0b58d26fe940af99.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/itembox_chain.OZT"
+dest_files=["res://.godot/imported/itembox_chain.OZT-35268384a636729f0b58d26fe940af99.res"]
+
+[params]
+

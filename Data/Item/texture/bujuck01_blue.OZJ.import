@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vtbms6qxvexh"
+path="res://.godot/imported/bujuck01_blue.OZJ-b8d089f62264f062fecb41fa4f79663c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bujuck01_blue.OZJ"
+dest_files=["res://.godot/imported/bujuck01_blue.OZJ-b8d089f62264f062fecb41fa4f79663c.res"]
+
+[params]
+

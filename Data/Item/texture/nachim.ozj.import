@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c345qt5r22hup"
+path="res://.godot/imported/nachim.ozj-06cc03cad20302e8a96942cba47249d6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nachim.ozj"
+dest_files=["res://.godot/imported/nachim.ozj-06cc03cad20302e8a96942cba47249d6.res"]
+
+[params]
+

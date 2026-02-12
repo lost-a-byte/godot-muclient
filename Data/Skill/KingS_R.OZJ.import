@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dghtcf0wr0asl"
+path="res://.godot/imported/KingS_R.OZJ-0c3990d4361ceea8eaefb5696c459984.res"
+
+[deps]
+
+source_file="res://Data/Skill/KingS_R.OZJ"
+dest_files=["res://.godot/imported/KingS_R.OZJ-0c3990d4361ceea8eaefb5696c459984.res"]
+
+[params]
+

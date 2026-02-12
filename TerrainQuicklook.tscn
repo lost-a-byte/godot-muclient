@@ -1,0 +1,35 @@
+[gd_scene format=3 uid="uid://dhmsswmklxvpu"]
+
+[ext_resource type="Script" uid="uid://bxtbq3ynljryo" path="res://TerrainQuicklook.cs" id="1_6vu7h"]
+[ext_resource type="Shape3D" uid="uid://ukhnwc0h4h48" path="res://Data/World2/TerrainHeight.OZB" id="2_6vu7h"]
+[ext_resource type="ArrayMesh" uid="uid://556uqpb5jnes" path="res://Data/World2/EncTerrain2.map" id="3_01rv4"]
+[ext_resource type="PackedScene" uid="uid://bycl8adox7ca2" path="res://Data/Monster/Monster03.tscn" id="3_pnngl"]
+
+[sub_resource type="Environment" id="Environment_6vu7h"]
+
+[node name="World" type="Node3D" unique_id=262566484]
+script = ExtResource("1_6vu7h")
+World = 2
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=255947097]
+transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.70710677, 0, -0.70710677, 0.70710677, 0, 30, 100)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1706272829]
+environment = SubResource("Environment_6vu7h")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1974653913]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 50, 0)
+
+[node name="StaticBody3D" type="StaticBody3D" parent="." unique_id=1178085564]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=1709416168]
+shape = ExtResource("2_6vu7h")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="StaticBody3D" unique_id=904867057]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -128, 0, -128)
+mesh = ExtResource("3_01rv4")
+
+[node name="Monster" parent="." unique_id=1334932459 instance=ExtResource("3_pnngl")]
+transform = Transform3D(0.01, 0, 0, 0, -4.3711387e-10, 0.01, 0, -0.01, -4.3711387e-10, 5.6434026, 2, 0)
+
+[node name="WorldObjects" type="Node3D" parent="." unique_id=536390639]

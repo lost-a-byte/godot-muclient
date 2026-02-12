@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb3qs1vsg7e7v"
+path="res://.godot/imported/newui_item_lower.OZT-e3257c3922513029f326c07deb053677.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_lower.OZT"
+dest_files=["res://.godot/imported/newui_item_lower.OZT-e3257c3922513029f326c07deb053677.res"]
+
+[params]
+

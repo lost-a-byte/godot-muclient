@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnjox4jp13fb1"
+path="res://.godot/imported/head_14m.ozj-f96768136cf86a538b5d31088b40795c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/head_14m.ozj"
+dest_files=["res://.godot/imported/head_14m.ozj-f96768136cf86a538b5d31088b40795c.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ci4tjdseyvefp"
+path="res://.godot/imported/Masterymace6cha.bmd-cf4ba4be2d06416c7c89cfbdc6f75a15.scn"
+
+[deps]
+
+source_file="res://Data/Item/Masterymace6cha.bmd"
+dest_files=["res://.godot/imported/Masterymace6cha.bmd-cf4ba4be2d06416c7c89cfbdc6f75a15.scn"]
+
+[params]
+
+modelScale=0.01

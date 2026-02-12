@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlhr51poqefv1"
+path="res://.godot/imported/soketmagic_stape01.OZJ-5f23f28a919b08ca21d67e7eed4bc83b.res"
+
+[deps]
+
+source_file="res://Data/Item/soketmagic_stape01.OZJ"
+dest_files=["res://.godot/imported/soketmagic_stape01.OZJ-5f23f28a919b08ca21d67e7eed4bc83b.res"]
+
+[params]
+

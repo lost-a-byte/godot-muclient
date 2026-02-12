@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dy2wa18xma27n"
+path="res://.godot/imported/Wind_sen01.OZJ-52704f8b407c1d02bf989c0ef1fc1b69.res"
+
+[deps]
+
+source_file="res://Data/Effect/Wind_sen01.OZJ"
+dest_files=["res://.godot/imported/Wind_sen01.OZJ-52704f8b407c1d02bf989c0ef1fc1b69.res"]
+
+[params]
+

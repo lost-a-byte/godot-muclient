@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://by0wb3d4xvppx"
+path="res://.godot/imported/ex01SapiTres_body01.OZJ-cf104db7bf954858e7eb28ab4e0f6b86.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01SapiTres_body01.OZJ"
+dest_files=["res://.godot/imported/ex01SapiTres_body01.OZJ-cf104db7bf954858e7eb28ab4e0f6b86.res"]
+
+[params]
+

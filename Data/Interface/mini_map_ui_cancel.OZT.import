@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3df175148yir"
+path="res://.godot/imported/mini_map_ui_cancel.OZT-5f899038a2f2fa3631ba08c7ae05fe68.res"
+
+[deps]
+
+source_file="res://Data/Interface/mini_map_ui_cancel.OZT"
+dest_files=["res://.godot/imported/mini_map_ui_cancel.OZT-5f899038a2f2fa3631ba08c7ae05fe68.res"]
+
+[params]
+

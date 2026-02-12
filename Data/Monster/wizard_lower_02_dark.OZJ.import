@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ohw406xi26u1"
+path="res://.godot/imported/wizard_lower_02_dark.OZJ-8771d5f82c5e0323bdf05a6c0971752a.res"
+
+[deps]
+
+source_file="res://Data/Monster/wizard_lower_02_dark.OZJ"
+dest_files=["res://.godot/imported/wizard_lower_02_dark.OZJ-8771d5f82c5e0323bdf05a6c0971752a.res"]
+
+[params]
+

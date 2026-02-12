@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://jqgxpm2r5jqb"
+path="res://.godot/imported/xmasfire.bmd-93d7ef29f8f311a5f21b7a7d1114ddc0.scn"
+
+[deps]
+
+source_file="res://Data/Item/xmasfire.bmd"
+dest_files=["res://.godot/imported/xmasfire.bmd-93d7ef29f8f311a5f21b7a7d1114ddc0.scn"]
+
+[params]
+
+modelScale=0.01

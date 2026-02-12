@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ceelhykm3aost"
+path="res://.godot/imported/van_object02_skill.bmd-30087a24c255f18a5c6865e8267597fa.scn"
+
+[deps]
+
+source_file="res://Data/Effect/van_object02_skill.bmd"
+dest_files=["res://.godot/imported/van_object02_skill.bmd-30087a24c255f18a5c6865e8267597fa.scn"]
+
+[params]
+
+modelScale=0.01

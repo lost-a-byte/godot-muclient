@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djamw1uwl87cl"
+path="res://.godot/imported/FereaArcher_red.OZJ-dbae779d1afe8a568359020c2164fec5.res"
+
+[deps]
+
+source_file="res://Data/Monster/FereaArcher_red.OZJ"
+dest_files=["res://.godot/imported/FereaArcher_red.OZJ-dbae779d1afe8a568359020c2164fec5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4ny8p4a0li2n"
+path="res://.godot/imported/Darkangel_LanceC.OZJ-f40b9588d9b79cce6aea472607dc804a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Darkangel_LanceC.OZJ"
+dest_files=["res://.godot/imported/Darkangel_LanceC.OZJ-f40b9588d9b79cce6aea472607dc804a.res"]
+
+[params]
+

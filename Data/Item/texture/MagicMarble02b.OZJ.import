@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbicdeuthx8yh"
+path="res://.godot/imported/MagicMarble02b.OZJ-6c27731eb31d46d720150b2f5f749eab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MagicMarble02b.OZJ"
+dest_files=["res://.godot/imported/MagicMarble02b.OZJ-6c27731eb31d46d720150b2f5f749eab.res"]
+
+[params]
+

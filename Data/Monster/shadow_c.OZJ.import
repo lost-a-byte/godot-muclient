@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crxlk7is8rfuw"
+path="res://.godot/imported/shadow_c.OZJ-cae96e89d3848eb535267a88beb6d977.res"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_c.OZJ"
+dest_files=["res://.godot/imported/shadow_c.OZJ-cae96e89d3848eb535267a88beb6d977.res"]
+
+[params]
+

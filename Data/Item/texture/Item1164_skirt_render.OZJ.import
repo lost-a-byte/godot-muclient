@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbb5sf8lw0cle"
+path="res://.godot/imported/Item1164_skirt_render.OZJ-770fb292325132f60a6c1d76216fbe1d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1164_skirt_render.OZJ"
+dest_files=["res://.godot/imported/Item1164_skirt_render.OZJ-770fb292325132f60a6c1d76216fbe1d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6exjasjmql6j"
+path="res://.godot/imported/Ksword.OZJ-b7f2318fb4cbd41cfdce17a3a851f09a.res"
+
+[deps]
+
+source_file="res://Data/Item/Ksword.OZJ"
+dest_files=["res://.godot/imported/Ksword.OZJ-b7f2318fb4cbd41cfdce17a3a851f09a.res"]
+
+[params]
+

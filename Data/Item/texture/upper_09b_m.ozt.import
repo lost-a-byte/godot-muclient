@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chlgywc8veyno"
+path="res://.godot/imported/upper_09b_m.ozt-cf800209640a193e526204d7e0395e70.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/upper_09b_m.ozt"
+dest_files=["res://.godot/imported/upper_09b_m.ozt-cf800209640a193e526204d7e0395e70.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnvk8m40fopi1"
+path="res://.godot/imported/7cha_lance.OZJ-12fbd3eeae079d69dc4c97fc615a561f.res"
+
+[deps]
+
+source_file="res://Data/Effect/7cha_lance.OZJ"
+dest_files=["res://.godot/imported/7cha_lance.OZJ-12fbd3eeae079d69dc4c97fc615a561f.res"]
+
+[params]
+

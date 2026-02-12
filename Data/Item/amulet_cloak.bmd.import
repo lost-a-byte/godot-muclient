@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfax7nbnxn7rf"
+path="res://.godot/imported/amulet_cloak.bmd-f84a573209276a852291a2b4b75f7e6c.scn"
+
+[deps]
+
+source_file="res://Data/Item/amulet_cloak.bmd"
+dest_files=["res://.godot/imported/amulet_cloak.bmd-f84a573209276a852291a2b4b75f7e6c.scn"]
+
+[params]
+
+modelScale=0.01

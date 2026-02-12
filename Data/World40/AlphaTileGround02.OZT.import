@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3wivpbnf365a"
+path="res://.godot/imported/AlphaTileGround02.OZT-3391ecc9c619b588bd2fedc4d0d0b24c.res"
+
+[deps]
+
+source_file="res://Data/World40/AlphaTileGround02.OZT"
+dest_files=["res://.godot/imported/AlphaTileGround02.OZT-3391ecc9c619b588bd2fedc4d0d0b24c.res"]
+
+[params]
+

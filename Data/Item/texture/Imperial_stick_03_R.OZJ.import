@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtob0ol2l2fd5"
+path="res://.godot/imported/Imperial_stick_03_R.OZJ-7c3ae167dcb770a8f775d4440b530b8f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_stick_03_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_stick_03_R.OZJ-7c3ae167dcb770a8f775d4440b530b8f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7xj8nrn3yk0h"
+path="res://.godot/imported/magician_stand.OZJ-d3d88f6bd10bfe8fe973d7bf9d0bcab6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magician_stand.OZJ"
+dest_files=["res://.godot/imported/magician_stand.OZJ-d3d88f6bd10bfe8fe973d7bf9d0bcab6.res"]
+
+[params]
+

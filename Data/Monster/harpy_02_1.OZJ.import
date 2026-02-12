@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyvclvtx34g1w"
+path="res://.godot/imported/harpy_02_1.OZJ-2312776def32cda6d835cef0a9d5ab9a.res"
+
+[deps]
+
+source_file="res://Data/Monster/harpy_02_1.OZJ"
+dest_files=["res://.godot/imported/harpy_02_1.OZJ-2312776def32cda6d835cef0a9d5ab9a.res"]
+
+[params]
+

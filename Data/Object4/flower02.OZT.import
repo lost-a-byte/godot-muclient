@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://n2hqxvcnlpc0"
+path="res://.godot/imported/flower02.OZT-33cc905cb00eaf7bcb85908612d510b0.res"
+
+[deps]
+
+source_file="res://Data/Object4/flower02.OZT"
+dest_files=["res://.godot/imported/flower02.OZT-33cc905cb00eaf7bcb85908612d510b0.res"]
+
+[params]
+

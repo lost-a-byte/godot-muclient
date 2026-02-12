@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clyp6nudtnox0"
+path="res://.godot/imported/snows.OZJ-0b36410d266107bb2403e8dfbbde6b4e.res"
+
+[deps]
+
+source_file="res://Data/NPC/snows.OZJ"
+dest_files=["res://.godot/imported/snows.OZJ-0b36410d266107bb2403e8dfbbde6b4e.res"]
+
+[params]
+

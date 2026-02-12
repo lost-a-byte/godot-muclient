@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3yylrmtyhdon"
+path="res://.godot/imported/treasure.bmd-02f83b142822372205b45ffa5e93e4b1.scn"
+
+[deps]
+
+source_file="res://Data/Item/treasure.bmd"
+dest_files=["res://.godot/imported/treasure.bmd-02f83b142822372205b45ffa5e93e4b1.scn"]
+
+[params]
+
+modelScale=0.01

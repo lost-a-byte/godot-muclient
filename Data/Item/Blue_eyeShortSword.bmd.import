@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://biylevaypvu6i"
+path="res://.godot/imported/Blue_eyeShortSword.bmd-f314b456e305822c75392be69684a7b4.scn"
+
+[deps]
+
+source_file="res://Data/Item/Blue_eyeShortSword.bmd"
+dest_files=["res://.godot/imported/Blue_eyeShortSword.bmd-f314b456e305822c75392be69684a7b4.scn"]
+
+[params]
+
+modelScale=0.01

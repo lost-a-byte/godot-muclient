@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o3luvu18uucv"
+path="res://.godot/imported/cannon.OZJ-b306eab9d531998dfd588fd8749dabc2.res"
+
+[deps]
+
+source_file="res://Data/Monster/cannon.OZJ"
+dest_files=["res://.godot/imported/cannon.OZJ-b306eab9d531998dfd588fd8749dabc2.res"]
+
+[params]
+

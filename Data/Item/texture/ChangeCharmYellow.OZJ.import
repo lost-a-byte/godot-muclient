@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvagvn22mi8ed"
+path="res://.godot/imported/ChangeCharmYellow.OZJ-08d0c2c8c8942cf38b9052e6eb539b2f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ChangeCharmYellow.OZJ"
+dest_files=["res://.godot/imported/ChangeCharmYellow.OZJ-08d0c2c8c8942cf38b9052e6eb539b2f.res"]
+
+[params]
+

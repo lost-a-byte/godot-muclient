@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgfk3iwm7vu5q"
+path="res://.godot/imported/ESDPotion.ozj-2c16820b34938c542a871090a42562b9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ESDPotion.ozj"
+dest_files=["res://.godot/imported/ESDPotion.ozj-2c16820b34938c542a871090a42562b9.res"]
+
+[params]
+

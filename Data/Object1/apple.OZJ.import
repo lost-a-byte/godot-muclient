@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn7dr6y38gch3"
+path="res://.godot/imported/apple.OZJ-ed1c68e52f8e9342947c9c3cdedc2f80.res"
+
+[deps]
+
+source_file="res://Data/Object1/apple.OZJ"
+dest_files=["res://.godot/imported/apple.OZJ-ed1c68e52f8e9342947c9c3cdedc2f80.res"]
+
+[params]
+

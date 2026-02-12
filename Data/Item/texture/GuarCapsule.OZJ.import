@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clp0bacqmi5fm"
+path="res://.godot/imported/GuarCapsule.OZJ-ab22e8988ca854dbe815abbdcf980d97.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GuarCapsule.OZJ"
+dest_files=["res://.godot/imported/GuarCapsule.OZJ-ab22e8988ca854dbe815abbdcf980d97.res"]
+
+[params]
+

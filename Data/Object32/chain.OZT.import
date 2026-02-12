@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4bv60k5215qa"
+path="res://.godot/imported/chain.OZT-a5836aa46b26b87dc0d26a8f3da80000.res"
+
+[deps]
+
+source_file="res://Data/Object32/chain.OZT"
+dest_files=["res://.godot/imported/chain.OZT-a5836aa46b26b87dc0d26a8f3da80000.res"]
+
+[params]
+

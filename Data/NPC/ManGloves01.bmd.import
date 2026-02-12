@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmmyn5u33ynj4"
+path="res://.godot/imported/ManGloves01.bmd-cb23f8421bb4925c4e6782268133fd5c.scn"
+
+[deps]
+
+source_file="res://Data/NPC/ManGloves01.bmd"
+dest_files=["res://.godot/imported/ManGloves01.bmd-cb23f8421bb4925c4e6782268133fd5c.scn"]
+
+[params]
+
+modelScale=0.01

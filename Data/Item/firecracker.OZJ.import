@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qcwe1c0spmof"
+path="res://.godot/imported/firecracker.OZJ-858729de8761633adfaf335b33f11f85.res"
+
+[deps]
+
+source_file="res://Data/Item/firecracker.OZJ"
+dest_files=["res://.godot/imported/firecracker.OZJ-858729de8761633adfaf335b33f11f85.res"]
+
+[params]
+

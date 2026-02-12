@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chnybaolbri20"
+path="res://.godot/imported/AL_wand02_02.OZJ-48495f005895f9756f7a52c5b678b5ae.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AL_wand02_02.OZJ"
+dest_files=["res://.godot/imported/AL_wand02_02.OZJ-48495f005895f9756f7a52c5b678b5ae.res"]
+
+[params]
+

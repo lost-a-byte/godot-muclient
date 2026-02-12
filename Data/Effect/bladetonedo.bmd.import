@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bpmskxo8y7ikd"
+path="res://.godot/imported/bladetonedo.bmd-dd8d43b415565f9079c593eb49dd6f0b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/bladetonedo.bmd"
+dest_files=["res://.godot/imported/bladetonedo.bmd-dd8d43b415565f9079c593eb49dd6f0b.scn"]
+
+[params]
+
+modelScale=0.01

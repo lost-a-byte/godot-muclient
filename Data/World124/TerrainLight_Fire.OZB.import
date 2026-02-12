@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.terrain-height"
+type="HeightMapShape3D"
+uid="uid://cwnclap1gnk4p"
+path="res://.godot/imported/TerrainLight_Fire.OZB-d6fc66bc2321f9d7ac4034ef0f43393d.tres"
+
+[deps]
+
+source_file="res://Data/World124/TerrainLight_Fire.OZB"
+dest_files=["res://.godot/imported/TerrainLight_Fire.OZB-d6fc66bc2321f9d7ac4034ef0f43393d.tres"]
+
+[params]
+
+heightScale=0.015686275

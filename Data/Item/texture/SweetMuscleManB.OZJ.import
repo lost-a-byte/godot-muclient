@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5uml2xxfr3t8"
+path="res://.godot/imported/SweetMuscleManB.OZJ-b73cdcaa5987ac1d452c4abfd4c2dab4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SweetMuscleManB.OZJ"
+dest_files=["res://.godot/imported/SweetMuscleManB.OZJ-b73cdcaa5987ac1d452c4abfd4c2dab4.res"]
+
+[params]
+

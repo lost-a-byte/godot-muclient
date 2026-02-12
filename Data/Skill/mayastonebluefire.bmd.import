@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cutqwxxiufyoc"
+path="res://.godot/imported/mayastonebluefire.bmd-433fde6a8e4e975906fb2d1b73123704.scn"
+
+[deps]
+
+source_file="res://Data/Skill/mayastonebluefire.bmd"
+dest_files=["res://.godot/imported/mayastonebluefire.bmd-433fde6a8e4e975906fb2d1b73123704.scn"]
+
+[params]
+
+modelScale=0.01

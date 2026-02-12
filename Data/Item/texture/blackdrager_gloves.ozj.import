@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yopxhbr21fck"
+path="res://.godot/imported/blackdrager_gloves.ozj-a4d264b5f9a97505dd071858e3cfbfcf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blackdrager_gloves.ozj"
+dest_files=["res://.godot/imported/blackdrager_gloves.ozj-a4d264b5f9a97505dd071858e3cfbfcf.res"]
+
+[params]
+

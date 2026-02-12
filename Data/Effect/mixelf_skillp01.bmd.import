@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dq48lf7x8yavn"
+path="res://.godot/imported/mixelf_skillp01.bmd-88c19347ec779ee284762d0623b2fc5c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/mixelf_skillp01.bmd"
+dest_files=["res://.godot/imported/mixelf_skillp01.bmd-88c19347ec779ee284762d0623b2fc5c.scn"]
+
+[params]
+
+modelScale=0.01

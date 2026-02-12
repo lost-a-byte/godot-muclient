@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0rbwbp7gka71"
+path="res://.godot/imported/gamblebow_R.OZJ-b8045a8578f629c5006fdaf1c837bccc.res"
+
+[deps]
+
+source_file="res://Data/Item/gamblebow_R.OZJ"
+dest_files=["res://.godot/imported/gamblebow_R.OZJ-b8045a8578f629c5006fdaf1c837bccc.res"]
+
+[params]
+

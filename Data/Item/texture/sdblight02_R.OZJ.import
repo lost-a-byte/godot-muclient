@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dygejy84vit3a"
+path="res://.godot/imported/sdblight02_R.OZJ-9374f113986154b410bdab008b622def.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sdblight02_R.OZJ"
+dest_files=["res://.godot/imported/sdblight02_R.OZJ-9374f113986154b410bdab008b622def.res"]
+
+[params]
+

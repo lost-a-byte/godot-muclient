@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtsb8owwyv6yq"
+path="res://.godot/imported/santa_circle.OZJ-dc60d17232bc07676b97aaa2e46bb0dc.res"
+
+[deps]
+
+source_file="res://Data/Monster/santa_circle.OZJ"
+dest_files=["res://.godot/imported/santa_circle.OZJ-dc60d17232bc07676b97aaa2e46bb0dc.res"]
+
+[params]
+

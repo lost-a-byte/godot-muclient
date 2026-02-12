@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cpxee64w8tkvu"
+path="res://.godot/imported/chbranche_red.bmd-d7d9960cf42dbb4a2ad355d3b244ca40.scn"
+
+[deps]
+
+source_file="res://Data/Item/chbranche_red.bmd"
+dest_files=["res://.godot/imported/chbranche_red.bmd-d7d9960cf42dbb4a2ad355d3b244ca40.scn"]
+
+[params]
+
+modelScale=0.01

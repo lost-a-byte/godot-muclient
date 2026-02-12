@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvpv0fg4y4udq"
+path="res://.godot/imported/dratower.OZJ-ebf01704b6acd5c1bee17ce8aed91e9e.res"
+
+[deps]
+
+source_file="res://Data/Object43/dratower.OZJ"
+dest_files=["res://.godot/imported/dratower.OZJ-ebf01704b6acd5c1bee17ce8aed91e9e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c12ekl5f61xpr"
+path="res://.godot/imported/pentagramB01.OZJ-730712542d3f3a3405f4ffbf90b44c32.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pentagramB01.OZJ"
+dest_files=["res://.godot/imported/pentagramB01.OZJ-730712542d3f3a3405f4ffbf90b44c32.res"]
+
+[params]
+

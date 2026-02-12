@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvq5do20doom3"
+path="res://.godot/imported/caowall.OZJ-d088e0b0b4bd65faa7bca87913994844.res"
+
+[deps]
+
+source_file="res://Data/Object83/caowall.OZJ"
+dest_files=["res://.godot/imported/caowall.OZJ-d088e0b0b4bd65faa7bca87913994844.res"]
+
+[params]
+

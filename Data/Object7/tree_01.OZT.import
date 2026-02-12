@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkr11gi5efuls"
+path="res://.godot/imported/tree_01.OZT-d3c15aefdcec342bb467e0634239b22a.res"
+
+[deps]
+
+source_file="res://Data/Object7/tree_01.OZT"
+dest_files=["res://.godot/imported/tree_01.OZT-d3c15aefdcec342bb467e0634239b22a.res"]
+
+[params]
+

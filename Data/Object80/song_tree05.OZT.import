@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4ybtcsrshhk"
+path="res://.godot/imported/song_tree05.OZT-45cc28ad49260eb3dcceb93c6f2ee88b.res"
+
+[deps]
+
+source_file="res://Data/Object80/song_tree05.OZT"
+dest_files=["res://.godot/imported/song_tree05.OZT-45cc28ad49260eb3dcceb93c6f2ee88b.res"]
+
+[params]
+

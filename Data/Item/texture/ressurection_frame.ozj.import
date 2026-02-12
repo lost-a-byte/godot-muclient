@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4vliujpn2eos"
+path="res://.godot/imported/ressurection_frame.ozj-2736acabb1be21f39bdb2d02d85e6311.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ressurection_frame.ozj"
+dest_files=["res://.godot/imported/ressurection_frame.ozj-2736acabb1be21f39bdb2d02d85e6311.res"]
+
+[params]
+

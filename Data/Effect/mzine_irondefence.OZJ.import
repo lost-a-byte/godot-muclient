@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnfx8hnwlh6dt"
+path="res://.godot/imported/mzine_irondefence.OZJ-510c5be6a79af19ac3a6dbd71dc9fcf8.res"
+
+[deps]
+
+source_file="res://Data/Effect/mzine_irondefence.OZJ"
+dest_files=["res://.godot/imported/mzine_irondefence.OZJ-510c5be6a79af19ac3a6dbd71dc9fcf8.res"]
+
+[params]
+

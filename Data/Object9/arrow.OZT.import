@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bou3wvlycqu7e"
+path="res://.godot/imported/arrow.OZT-d9504f04c0dfa6247c8a5129f47624f5.res"
+
+[deps]
+
+source_file="res://Data/Object9/arrow.OZT"
+dest_files=["res://.godot/imported/arrow.OZT-d9504f04c0dfa6247c8a5129f47624f5.res"]
+
+[params]
+

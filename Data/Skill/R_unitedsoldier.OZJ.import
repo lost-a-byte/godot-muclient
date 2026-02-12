@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd4dqsssysbk1"
+path="res://.godot/imported/R_unitedsoldier.OZJ-34b0763da0a829aa89cf08fc2367079f.res"
+
+[deps]
+
+source_file="res://Data/Skill/R_unitedsoldier.OZJ"
+dest_files=["res://.godot/imported/R_unitedsoldier.OZJ-34b0763da0a829aa89cf08fc2367079f.res"]
+
+[params]
+

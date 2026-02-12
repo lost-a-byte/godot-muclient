@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqnv2dsmvlae1"
+path="res://.godot/imported/TempleGuard_anvil.OZJ-179c32692815ffbfd346f0b908fb9b8a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_anvil.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_anvil.OZJ-179c32692815ffbfd346f0b908fb9b8a.res"]
+
+[params]
+

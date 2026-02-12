@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqjraklvj4tja"
+path="res://.godot/imported/hs_blueeyeknightA01.OZJ-8bd60b7632042c70508142b873924444.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_blueeyeknightA01.OZJ"
+dest_files=["res://.godot/imported/hs_blueeyeknightA01.OZJ-8bd60b7632042c70508142b873924444.res"]
+
+[params]
+

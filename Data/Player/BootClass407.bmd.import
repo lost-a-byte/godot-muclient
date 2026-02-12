@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mr26uhbqqm3c"
+path="res://.godot/imported/BootClass407.bmd-93b5cffec66af02c4745ae17aab0e0ea.scn"
+
+[deps]
+
+source_file="res://Data/Player/BootClass407.bmd"
+dest_files=["res://.godot/imported/BootClass407.bmd-93b5cffec66af02c4745ae17aab0e0ea.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://v0pys7byggdc"
+path="res://.godot/imported/PentaExShiYellow.OZJ-b125d116448c2f8e60b98d30e6b5a74b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaExShiYellow.OZJ"
+dest_files=["res://.godot/imported/PentaExShiYellow.OZJ-b125d116448c2f8e60b98d30e6b5a74b.res"]
+
+[params]
+

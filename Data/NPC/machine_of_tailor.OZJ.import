@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hme71x13yb1r"
+path="res://.godot/imported/machine_of_tailor.OZJ-d0d12e85a124e3a47b6c5997a20decd8.res"
+
+[deps]
+
+source_file="res://Data/NPC/machine_of_tailor.OZJ"
+dest_files=["res://.godot/imported/machine_of_tailor.OZJ-d0d12e85a124e3a47b6c5997a20decd8.res"]
+
+[params]
+

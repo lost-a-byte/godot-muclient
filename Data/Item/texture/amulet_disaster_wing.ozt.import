@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvgowujs8ux7h"
+path="res://.godot/imported/amulet_disaster_wing.ozt-7469fe8148b47444a4f79ddae6a53b4f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amulet_disaster_wing.ozt"
+dest_files=["res://.godot/imported/amulet_disaster_wing.ozt-7469fe8148b47444a4f79ddae6a53b4f.res"]
+
+[params]
+

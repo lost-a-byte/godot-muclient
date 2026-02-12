@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://olupreb2m38x"
+path="res://.godot/imported/Crystal.bmd-6d0d5d8f0c7fc564928c42057d960200.scn"
+
+[deps]
+
+source_file="res://Data/Item/Crystal.bmd"
+dest_files=["res://.godot/imported/Crystal.bmd-6d0d5d8f0c7fc564928c42057d960200.scn"]
+
+[params]
+
+modelScale=0.01

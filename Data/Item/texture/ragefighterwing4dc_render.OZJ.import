@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dde1okspmm60p"
+path="res://.godot/imported/ragefighterwing4dc_render.OZJ-ef090da0cc3bd771c2ebdaa39fd4dac5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ragefighterwing4dc_render.OZJ"
+dest_files=["res://.godot/imported/ragefighterwing4dc_render.OZJ-ef090da0cc3bd771c2ebdaa39fd4dac5.res"]
+
+[params]
+

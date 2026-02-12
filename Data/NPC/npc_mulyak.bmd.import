@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c1o8tb22najdi"
+path="res://.godot/imported/npc_mulyak.bmd-7a43b6d88ade91486f6d7e1ab250193c.scn"
+
+[deps]
+
+source_file="res://Data/NPC/npc_mulyak.bmd"
+dest_files=["res://.godot/imported/npc_mulyak.bmd-7a43b6d88ade91486f6d7e1ab250193c.scn"]
+
+[params]
+
+modelScale=0.01

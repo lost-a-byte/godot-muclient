@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh043npq7avwg"
+path="res://.godot/imported/Caterf2.OZJ-6333c5d19919f128dfe74a5c23f8e8d0.res"
+
+[deps]
+
+source_file="res://Data/NPC/Caterf2.OZJ"
+dest_files=["res://.godot/imported/Caterf2.OZJ-6333c5d19919f128dfe74a5c23f8e8d0.res"]
+
+[params]
+

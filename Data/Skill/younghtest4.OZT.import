@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d20wpffyxlcgf"
+path="res://.godot/imported/younghtest4.OZT-d40c982aad21bb099aa09f3e51aab2b8.res"
+
+[deps]
+
+source_file="res://Data/Skill/younghtest4.OZT"
+dest_files=["res://.godot/imported/younghtest4.OZT-d40c982aad21bb099aa09f3e51aab2b8.res"]
+
+[params]
+

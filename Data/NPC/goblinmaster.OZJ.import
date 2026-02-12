@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkh06fg7f3r1"
+path="res://.godot/imported/goblinmaster.OZJ-43ee915b009ed08933a02aa3ef3940eb.res"
+
+[deps]
+
+source_file="res://Data/NPC/goblinmaster.OZJ"
+dest_files=["res://.godot/imported/goblinmaster.OZJ-43ee915b009ed08933a02aa3ef3940eb.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkljh722vspx6"
+path="res://.godot/imported/blessing_cape_04_r.OZJ-dfa48731963732e60683d3fab53d6dc7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blessing_cape_04_r.OZJ"
+dest_files=["res://.godot/imported/blessing_cape_04_r.OZJ-dfa48731963732e60683d3fab53d6dc7.res"]
+
+[params]
+

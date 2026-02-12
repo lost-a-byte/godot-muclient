@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtu4tgcpibfi2"
+path="res://.godot/imported/newui_Party_flag.OZT-793c6dd1a1c2360d752f4e6ffcb46811.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Party_flag.OZT"
+dest_files=["res://.godot/imported/newui_Party_flag.OZT-793c6dd1a1c2360d752f4e6ffcb46811.res"]
+
+[params]
+

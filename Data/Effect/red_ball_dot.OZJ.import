@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpbiid45sl50c"
+path="res://.godot/imported/red_ball_dot.OZJ-2ed6ce1f1a98bd8a0e3a337bc1e42085.res"
+
+[deps]
+
+source_file="res://Data/Effect/red_ball_dot.OZJ"
+dest_files=["res://.godot/imported/red_ball_dot.OZJ-2ed6ce1f1a98bd8a0e3a337bc1e42085.res"]
+
+[params]
+

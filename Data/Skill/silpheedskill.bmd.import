@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b4bjw1xujdfrj"
+path="res://.godot/imported/silpheedskill.bmd-2a941325e759382e9b90d47d5ae7a195.scn"
+
+[deps]
+
+source_file="res://Data/Skill/silpheedskill.bmd"
+dest_files=["res://.godot/imported/silpheedskill.bmd-2a941325e759382e9b90d47d5ae7a195.scn"]
+
+[params]
+
+modelScale=0.01

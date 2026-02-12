@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ph4sfq4j0j0g"
+path="res://.godot/imported/Violet.OZJ-5f41f0b90010c3b9bb32188eef70d5e3.res"
+
+[deps]
+
+source_file="res://Data/Monster/Violet.OZJ"
+dest_files=["res://.godot/imported/Violet.OZJ-5f41f0b90010c3b9bb32188eef70d5e3.res"]
+
+[params]
+

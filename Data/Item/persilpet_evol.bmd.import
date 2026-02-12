@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://biou47qvgiepx"
+path="res://.godot/imported/persilpet_evol.bmd-effc2c5742bc6cfabae9a6623e085bf2.scn"
+
+[deps]
+
+source_file="res://Data/Item/persilpet_evol.bmd"
+dest_files=["res://.godot/imported/persilpet_evol.bmd-effc2c5742bc6cfabae9a6623e085bf2.scn"]
+
+[params]
+
+modelScale=0.01

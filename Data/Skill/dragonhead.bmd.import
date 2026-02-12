@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://th3d40ulfj6r"
+path="res://.godot/imported/dragonhead.bmd-797ce26ef97338e63352dd025ed36608.scn"
+
+[deps]
+
+source_file="res://Data/Skill/dragonhead.bmd"
+dest_files=["res://.godot/imported/dragonhead.bmd-797ce26ef97338e63352dd025ed36608.scn"]
+
+[params]
+
+modelScale=0.01

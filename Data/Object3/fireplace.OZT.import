@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwy3ifrr0p0o"
+path="res://.godot/imported/fireplace.OZT-ea5a04b834f06f2a3230b35324254d13.res"
+
+[deps]
+
+source_file="res://Data/Object3/fireplace.OZT"
+dest_files=["res://.godot/imported/fireplace.OZT-ea5a04b834f06f2a3230b35324254d13.res"]
+
+[params]
+

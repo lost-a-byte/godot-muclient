@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ydo6hrpaml8i"
+path="res://.godot/imported/gamble_bowx01.bmd-10aaf6bce92588d1a9cae9e5fa51dfb2.scn"
+
+[deps]
+
+source_file="res://Data/Item/gamble_bowx01.bmd"
+dest_files=["res://.godot/imported/gamble_bowx01.bmd-10aaf6bce92588d1a9cae9e5fa51dfb2.scn"]
+
+[params]
+
+modelScale=0.01

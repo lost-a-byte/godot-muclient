@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c54kdi8s356r3"
+path="res://.godot/imported/ghostUp.bmd-4d4be627767f3fb47b671e0d17c0f880.scn"
+
+[deps]
+
+source_file="res://Data/Item/ghostUp.bmd"
+dest_files=["res://.godot/imported/ghostUp.bmd-4d4be627767f3fb47b671e0d17c0f880.scn"]
+
+[params]
+
+modelScale=0.01

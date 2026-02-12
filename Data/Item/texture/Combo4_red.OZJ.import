@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5h6fp452ewjc"
+path="res://.godot/imported/Combo4_red.OZJ-d69947c5d52f9640ad41cddc0e4b75d7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Combo4_red.OZJ"
+dest_files=["res://.godot/imported/Combo4_red.OZJ-d69947c5d52f9640ad41cddc0e4b75d7.res"]
+
+[params]
+

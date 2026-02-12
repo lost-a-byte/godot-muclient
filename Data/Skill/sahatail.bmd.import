@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cff8l33psc41k"
+path="res://.godot/imported/sahatail.bmd-00fc28f327fbc8e37423946e5d01af2f.scn"
+
+[deps]
+
+source_file="res://Data/Skill/sahatail.bmd"
+dest_files=["res://.godot/imported/sahatail.bmd-00fc28f327fbc8e37423946e5d01af2f.scn"]
+
+[params]
+
+modelScale=0.01

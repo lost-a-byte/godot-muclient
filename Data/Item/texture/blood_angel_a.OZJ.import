@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdby6k2i3h0vv"
+path="res://.godot/imported/blood_angel_a.OZJ-0bbe3eb20b1c74290948623b19d3e431.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blood_angel_a.OZJ"
+dest_files=["res://.godot/imported/blood_angel_a.OZJ-0bbe3eb20b1c74290948623b19d3e431.res"]
+
+[params]
+

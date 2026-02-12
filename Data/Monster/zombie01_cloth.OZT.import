@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cf3we3uctn2bh"
+path="res://.godot/imported/zombie01_cloth.OZT-3c0f4ad6008979a453774f623a4068d9.res"
+
+[deps]
+
+source_file="res://Data/Monster/zombie01_cloth.OZT"
+dest_files=["res://.godot/imported/zombie01_cloth.OZT-3c0f4ad6008979a453774f623a4068d9.res"]
+
+[params]
+

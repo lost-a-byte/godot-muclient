@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btt52f4exxr0g"
+path="res://.godot/imported/Cepter.OZJ-7e0e57d060a7d879854ca782f609bdb3.res"
+
+[deps]
+
+source_file="res://Data/Player/Cepter.OZJ"
+dest_files=["res://.godot/imported/Cepter.OZJ-7e0e57d060a7d879854ca782f609bdb3.res"]
+
+[params]
+

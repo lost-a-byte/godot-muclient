@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b35u6cn2nx8q3"
+path="res://.godot/imported/cha_master01s_128.OZJ-0bbceb3b7735f82945f0f0a890931aaa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cha_master01s_128.OZJ"
+dest_files=["res://.godot/imported/cha_master01s_128.OZJ-0bbceb3b7735f82945f0f0a890931aaa.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://p6kv8fu66xes"
+path="res://.godot/imported/GloveMail3003.bmd-ccd8beb51db400c496558affa09d8559.scn"
+
+[deps]
+
+source_file="res://Data/Item/GloveMail3003.bmd"
+dest_files=["res://.godot/imported/GloveMail3003.bmd-ccd8beb51db400c496558affa09d8559.scn"]
+
+[params]
+
+modelScale=0.01

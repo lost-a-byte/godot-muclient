@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf1xmm8ce1nxe"
+path="res://.godot/imported/puckitemz.OZJ-30dc72e7688f08891bf938b7c5af4df3.res"
+
+[deps]
+
+source_file="res://Data/Item/puckitemz.OZJ"
+dest_files=["res://.godot/imported/puckitemz.OZJ-30dc72e7688f08891bf938b7c5af4df3.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://44pbec48f647"
+path="res://.godot/imported/sd_stormgate01A.OZJ-e4a055a90f2f57dd219040950d646a83.res"
+
+[deps]
+
+source_file="res://Data/Object52/sd_stormgate01A.OZJ"
+dest_files=["res://.godot/imported/sd_stormgate01A.OZJ-e4a055a90f2f57dd219040950d646a83.res"]
+
+[params]
+

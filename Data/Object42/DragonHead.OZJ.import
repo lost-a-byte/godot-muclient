@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bo25fvc1d76w4"
+path="res://.godot/imported/DragonHead.OZJ-c6e93700bd65a1a9f10337dfd3f0671a.res"
+
+[deps]
+
+source_file="res://Data/Object42/DragonHead.OZJ"
+dest_files=["res://.godot/imported/DragonHead.OZJ-c6e93700bd65a1a9f10337dfd3f0671a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fgjvepj23lyq"
+path="res://.godot/imported/GarudaFlame.OZJ-fce109992f88e41c6045ecd649bae1ab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GarudaFlame.OZJ"
+dest_files=["res://.godot/imported/GarudaFlame.OZJ-fce109992f88e41c6045ecd649bae1ab.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtcqwnt7cm6x5"
+path="res://.godot/imported/fsd1a_render.OZJ-f1f5895c176379287352b882959c4c5c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fsd1a_render.OZJ"
+dest_files=["res://.godot/imported/fsd1a_render.OZJ-f1f5895c176379287352b882959c4c5c.res"]
+
+[params]
+

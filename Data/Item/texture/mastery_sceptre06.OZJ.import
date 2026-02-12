@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ckuovf8nr4suh"
+path="res://.godot/imported/mastery_sceptre06.OZJ-9e710be1441da4709cebc0092c545bff.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mastery_sceptre06.OZJ"
+dest_files=["res://.godot/imported/mastery_sceptre06.OZJ-9e710be1441da4709cebc0092c545bff.res"]
+
+[params]
+

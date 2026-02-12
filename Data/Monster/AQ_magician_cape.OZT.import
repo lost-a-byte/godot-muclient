@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwuu72iamhu67"
+path="res://.godot/imported/AQ_magician_cape.OZT-2602827425dc580bc4bc0284d2670a73.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_magician_cape.OZT"
+dest_files=["res://.godot/imported/AQ_magician_cape.OZT-2602827425dc580bc4bc0284d2670a73.res"]
+
+[params]
+

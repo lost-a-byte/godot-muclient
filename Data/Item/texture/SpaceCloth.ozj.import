@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cv0s03mhui45k"
+path="res://.godot/imported/SpaceCloth.ozj-17e194f7e45a340e530d5c66322c477a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpaceCloth.ozj"
+dest_files=["res://.godot/imported/SpaceCloth.ozj-17e194f7e45a340e530d5c66322c477a.res"]
+
+[params]
+

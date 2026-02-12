@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr7rcrnxddicu"
+path="res://.godot/imported/chorabbit2_r.OZJ-8922cde7b3b97bdde0feb361cd2227cd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chorabbit2_r.OZJ"
+dest_files=["res://.godot/imported/chorabbit2_r.OZJ-8922cde7b3b97bdde0feb361cd2227cd.res"]
+
+[params]
+

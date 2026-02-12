@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3d72vbb5ua35"
+path="res://.godot/imported/flamestan_blue.OZJ-cdaa2b72f6b34ed0f8eea1aa25a055e0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/flamestan_blue.OZJ"
+dest_files=["res://.godot/imported/flamestan_blue.OZJ-cdaa2b72f6b34ed0f8eea1aa25a055e0.res"]
+
+[params]
+

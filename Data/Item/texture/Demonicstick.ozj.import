@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1rkxgb52vqpw"
+path="res://.godot/imported/Demonicstick.ozj-003ab047169180423597f62bddd954bd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Demonicstick.ozj"
+dest_files=["res://.godot/imported/Demonicstick.ozj-003ab047169180423597f62bddd954bd.res"]
+
+[params]
+

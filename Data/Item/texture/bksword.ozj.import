@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsibcy7nq3k1f"
+path="res://.godot/imported/bksword.ozj-aaf19b7cafb1d556277443f82efb5bc5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bksword.ozj"
+dest_files=["res://.godot/imported/bksword.ozj-aaf19b7cafb1d556277443f82efb5bc5.res"]
+
+[params]
+

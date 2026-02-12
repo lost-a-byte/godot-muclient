@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ben3qqbgjy0ht"
+path="res://.godot/imported/earringbiju.OZJ-1d407a9e1531a9298e516083ae741dc7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/earringbiju.OZJ"
+dest_files=["res://.godot/imported/earringbiju.OZJ-1d407a9e1531a9298e516083ae741dc7.res"]
+
+[params]
+

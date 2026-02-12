@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bli0xi5qeq80h"
+path="res://.godot/imported/hs_hammerA.bmd-5ce76d51094334bc4ba93a399b05a90a.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_hammerA.bmd"
+dest_files=["res://.godot/imported/hs_hammerA.bmd-5ce76d51094334bc4ba93a399b05a90a.scn"]
+
+[params]
+
+modelScale=0.01

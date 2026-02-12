@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5my6vuxrnlf6"
+path="res://.godot/imported/UndineA_neobright.OZJ-4f11551fe5ba5e52629b8a9fbcec5384.res"
+
+[deps]
+
+source_file="res://Data/Monster/UndineA_neobright.OZJ"
+dest_files=["res://.godot/imported/UndineA_neobright.OZJ-4f11551fe5ba5e52629b8a9fbcec5384.res"]
+
+[params]
+

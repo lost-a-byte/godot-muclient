@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c18g5nxf3o6si"
+path="res://.godot/imported/hs_grassfairyA02.OZJ-7c98089800d55912d234c6167533f2dd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_grassfairyA02.OZJ"
+dest_files=["res://.godot/imported/hs_grassfairyA02.OZJ-7c98089800d55912d234c6167533f2dd.res"]
+
+[params]
+

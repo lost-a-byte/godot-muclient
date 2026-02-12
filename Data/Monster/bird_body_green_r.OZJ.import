@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddfon3asenfab"
+path="res://.godot/imported/bird_body_green_r.OZJ-9f95def12e23158b481eccfcdd816136.res"
+
+[deps]
+
+source_file="res://Data/Monster/bird_body_green_r.OZJ"
+dest_files=["res://.godot/imported/bird_body_green_r.OZJ-9f95def12e23158b481eccfcdd816136.res"]
+
+[params]
+

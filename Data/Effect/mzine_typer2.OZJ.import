@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgsqch6go7bt"
+path="res://.godot/imported/mzine_typer2.OZJ-eb32f71123ce722cbc9b795126b19f5f.res"
+
+[deps]
+
+source_file="res://Data/Effect/mzine_typer2.OZJ"
+dest_files=["res://.godot/imported/mzine_typer2.OZJ-eb32f71123ce722cbc9b795126b19f5f.res"]
+
+[params]
+

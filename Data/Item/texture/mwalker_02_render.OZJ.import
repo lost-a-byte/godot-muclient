@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbsgmbnhx7nip"
+path="res://.godot/imported/mwalker_02_render.OZJ-924129780a930b3e64b88d67fe1b12d0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mwalker_02_render.OZJ"
+dest_files=["res://.godot/imported/mwalker_02_render.OZJ-924129780a930b3e64b88d67fe1b12d0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://44taplg8qm5u"
+path="res://.godot/imported/soldier_shield_weapon.OZJ-c5435facfa35f38b2ea13b4a7ece683a.res"
+
+[deps]
+
+source_file="res://Data/Monster/soldier_shield_weapon.OZJ"
+dest_files=["res://.godot/imported/soldier_shield_weapon.OZJ-c5435facfa35f38b2ea13b4a7ece683a.res"]
+
+[params]
+

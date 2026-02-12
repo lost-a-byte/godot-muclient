@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c63js4qr46hc7"
+path="res://.godot/imported/RudeBoxB.OZJ-6504de4c2a81b12b4632c650421747f3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RudeBoxB.OZJ"
+dest_files=["res://.godot/imported/RudeBoxB.OZJ-6504de4c2a81b12b4632c650421747f3.res"]
+
+[params]
+

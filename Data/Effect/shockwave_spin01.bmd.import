@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dpg4muro23xkc"
+path="res://.godot/imported/shockwave_spin01.bmd-0143f371c296401ee415f75bdd321a8c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/shockwave_spin01.bmd"
+dest_files=["res://.godot/imported/shockwave_spin01.bmd-0143f371c296401ee415f75bdd321a8c.scn"]
+
+[params]
+
+modelScale=0.01

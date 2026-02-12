@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfvida6uintst"
+path="res://.godot/imported/hangulhoon.OZJ-8b1071137b5f2b54c86a712169c28be4.res"
+
+[deps]
+
+source_file="res://Data/Effect/hangulhoon.OZJ"
+dest_files=["res://.godot/imported/hangulhoon.OZJ-8b1071137b5f2b54c86a712169c28be4.res"]
+
+[params]
+

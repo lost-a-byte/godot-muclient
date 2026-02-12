@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c5dfmgmq1ffhq"
+path="res://.godot/imported/magumwepon_6.bmd-6840201ce6c571fefa39cdeffe43a275.scn"
+
+[deps]
+
+source_file="res://Data/Item/magumwepon_6.bmd"
+dest_files=["res://.godot/imported/magumwepon_6.bmd-6840201ce6c571fefa39cdeffe43a275.scn"]
+
+[params]
+
+modelScale=0.01

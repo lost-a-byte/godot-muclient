@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://0t8wv6e3jfkw"
+path="res://.godot/imported/deruvish.bmd-2ea96ece866f3e2098c3fe0322012302.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/deruvish.bmd"
+dest_files=["res://.godot/imported/deruvish.bmd-2ea96ece866f3e2098c3fe0322012302.scn"]
+
+[params]
+
+modelScale=0.01

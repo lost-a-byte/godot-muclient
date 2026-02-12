@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f3b4q3mqkabh"
+path="res://.godot/imported/flamset_boots.ozj-347b4f24c41e6753b912d0e5ae31b05b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/flamset_boots.ozj"
+dest_files=["res://.godot/imported/flamset_boots.ozj-347b4f24c41e6753b912d0e5ae31b05b.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bpa2xvllpho4n"
+path="res://.godot/imported/bowsoldierUp.bmd-7616d8097a018922e0bae739934ea947.scn"
+
+[deps]
+
+source_file="res://Data/Item/bowsoldierUp.bmd"
+dest_files=["res://.godot/imported/bowsoldierUp.bmd-7616d8097a018922e0bae739934ea947.scn"]
+
+[params]
+
+modelScale=0.01

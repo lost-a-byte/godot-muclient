@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drtgwg541lm8l"
+path="res://.godot/imported/cocun1.OZT-677a820906bf47670ee93c1b48c448e4.res"
+
+[deps]
+
+source_file="res://Data/Monster/cocun1.OZT"
+dest_files=["res://.godot/imported/cocun1.OZT-677a820906bf47670ee93c1b48c448e4.res"]
+
+[params]
+

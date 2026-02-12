@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw6rgkt060upf"
+path="res://.godot/imported/sword_mastery8hand.OZJ-88ed2860cbb960a1ff662976985795e5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sword_mastery8hand.OZJ"
+dest_files=["res://.godot/imported/sword_mastery8hand.OZJ-88ed2860cbb960a1ff662976985795e5.res"]
+
+[params]
+

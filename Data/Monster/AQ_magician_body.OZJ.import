@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://y3t4mu3es0kr"
+path="res://.godot/imported/AQ_magician_body.OZJ-f188124e98b3061aacec0d5baf26dc7d.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_magician_body.OZJ"
+dest_files=["res://.godot/imported/AQ_magician_body.OZJ-f188124e98b3061aacec0d5baf26dc7d.res"]
+
+[params]
+

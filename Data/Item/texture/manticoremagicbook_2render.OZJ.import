@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3didwlgtvf4r"
+path="res://.godot/imported/manticoremagicbook_2render.OZJ-f5122f0f8919b8afc7e11e9e2629344a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/manticoremagicbook_2render.OZJ"
+dest_files=["res://.godot/imported/manticoremagicbook_2render.OZJ-f5122f0f8919b8afc7e11e9e2629344a.res"]
+
+[params]
+

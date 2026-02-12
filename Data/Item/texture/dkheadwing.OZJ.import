@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cghe408wcxsfg"
+path="res://.godot/imported/dkheadwing.OZJ-374c85ba5b36a9f12a556cdc1b9a6d0b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dkheadwing.OZJ"
+dest_files=["res://.godot/imported/dkheadwing.OZJ-374c85ba5b36a9f12a556cdc1b9a6d0b.res"]
+
+[params]
+

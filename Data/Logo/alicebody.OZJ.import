@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0agv1oawqxjg"
+path="res://.godot/imported/alicebody.OZJ-f33c24c1ff2341e5d710a9b412b290cb.res"
+
+[deps]
+
+source_file="res://Data/Logo/alicebody.OZJ"
+dest_files=["res://.godot/imported/alicebody.OZJ-f33c24c1ff2341e5d710a9b412b290cb.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dybawm3kt47ku"
+path="res://.godot/imported/phoenixofdarkness.bmd-0d20feca8b408847c1a3cd57cdff2121.scn"
+
+[deps]
+
+source_file="res://Data/Item/phoenixofdarkness.bmd"
+dest_files=["res://.godot/imported/phoenixofdarkness.bmd-0d20feca8b408847c1a3cd57cdff2121.scn"]
+
+[params]
+
+modelScale=0.01

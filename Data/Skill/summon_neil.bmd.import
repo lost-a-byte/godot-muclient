@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://btq7nf6bk65v"
+path="res://.godot/imported/summon_neil.bmd-52d5acbb7351ffd6ef8adc8a97a55570.scn"
+
+[deps]
+
+source_file="res://Data/Skill/summon_neil.bmd"
+dest_files=["res://.godot/imported/summon_neil.bmd-52d5acbb7351ffd6ef8adc8a97a55570.scn"]
+
+[params]
+
+modelScale=0.01

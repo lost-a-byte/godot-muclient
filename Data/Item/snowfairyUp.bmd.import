@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://be1yes6fojswj"
+path="res://.godot/imported/snowfairyUp.bmd-77df861f10d4a9629e2c7741657e304b.scn"
+
+[deps]
+
+source_file="res://Data/Item/snowfairyUp.bmd"
+dest_files=["res://.godot/imported/snowfairyUp.bmd-77df861f10d4a9629e2c7741657e304b.scn"]
+
+[params]
+
+modelScale=0.01

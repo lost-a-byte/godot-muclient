@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1nkvxyr7dtq6"
+path="res://.godot/imported/dark_angel_b.OZJ-88ee1e4cc8dfc3e0aa23ee54ba03acf1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark_angel_b.OZJ"
+dest_files=["res://.godot/imported/dark_angel_b.OZJ-88ee1e4cc8dfc3e0aa23ee54ba03acf1.res"]
+
+[params]
+

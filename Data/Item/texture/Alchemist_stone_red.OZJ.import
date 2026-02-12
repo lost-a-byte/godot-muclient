@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5mifc821dusa"
+path="res://.godot/imported/Alchemist_stone_red.OZJ-a0764ebdb2fa3ff1047afdc3068434d8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Alchemist_stone_red.OZJ"
+dest_files=["res://.godot/imported/Alchemist_stone_red.OZJ-a0764ebdb2fa3ff1047afdc3068434d8.res"]
+
+[params]
+

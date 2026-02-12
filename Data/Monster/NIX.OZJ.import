@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs3wnl7s0d7xd"
+path="res://.godot/imported/NIX.OZJ-391cc181814def302d362acc5ef5d9a6.res"
+
+[deps]
+
+source_file="res://Data/Monster/NIX.OZJ"
+dest_files=["res://.godot/imported/NIX.OZJ-391cc181814def302d362acc5ef5d9a6.res"]
+
+[params]
+

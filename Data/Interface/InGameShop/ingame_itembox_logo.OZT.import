@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cw7lc6tktfa0r"
+path="res://.godot/imported/ingame_itembox_logo.OZT-91eee6b46fb1109b2d75e7e420ebd457.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_itembox_logo.OZT"
+dest_files=["res://.godot/imported/ingame_itembox_logo.OZT-91eee6b46fb1109b2d75e7e420ebd457.res"]
+
+[params]
+

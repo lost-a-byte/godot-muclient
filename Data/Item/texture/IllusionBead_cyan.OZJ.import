@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvjri7hhiakg6"
+path="res://.godot/imported/IllusionBead_cyan.OZJ-edfa59161fb0622890f70cfbf15d8f3c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/IllusionBead_cyan.OZJ"
+dest_files=["res://.godot/imported/IllusionBead_cyan.OZJ-edfa59161fb0622890f70cfbf15d8f3c.res"]
+
+[params]
+

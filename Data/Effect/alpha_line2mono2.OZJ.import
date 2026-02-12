@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wsdl3w3hmqqo"
+path="res://.godot/imported/alpha_line2mono2.OZJ-a8f3045f09de8682d5ecce9695f250ec.res"
+
+[deps]
+
+source_file="res://Data/Effect/alpha_line2mono2.OZJ"
+dest_files=["res://.godot/imported/alpha_line2mono2.OZJ-a8f3045f09de8682d5ecce9695f250ec.res"]
+
+[params]
+

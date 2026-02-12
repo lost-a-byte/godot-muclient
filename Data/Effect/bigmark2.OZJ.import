@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bi3qa1sn10473"
+path="res://.godot/imported/bigmark2.OZJ-fd90e6b814708651276ca0547600f033.res"
+
+[deps]
+
+source_file="res://Data/Effect/bigmark2.OZJ"
+dest_files=["res://.godot/imported/bigmark2.OZJ-fd90e6b814708651276ca0547600f033.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4lour33oy0if"
+path="res://.godot/imported/newui_button_close.OZT-c0913191c2560842d99323b0e066b9fc.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_button_close.OZT"
+dest_files=["res://.godot/imported/newui_button_close.OZT-c0913191c2560842d99323b0e066b9fc.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4guc84scn0sm"
+path="res://.godot/imported/darknight_boots.ozj-986911b6942716997c1e3cb118cab846.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darknight_boots.ozj"
+dest_files=["res://.godot/imported/darknight_boots.ozj-986911b6942716997c1e3cb118cab846.res"]
+
+[params]
+

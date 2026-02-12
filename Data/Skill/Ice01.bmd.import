@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cpap2apv0xql5"
+path="res://.godot/imported/Ice01.bmd-8f5d7da11569fbf1ac2fc494ab5b1c13.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Ice01.bmd"
+dest_files=["res://.godot/imported/Ice01.bmd-8f5d7da11569fbf1ac2fc494ab5b1c13.scn"]
+
+[params]
+
+modelScale=0.01

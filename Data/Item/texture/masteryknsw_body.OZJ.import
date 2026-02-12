@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jahtpqela0xv"
+path="res://.godot/imported/masteryknsw_body.OZJ-6dd31c853317cc772c0b1d8ae51b1f9f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/masteryknsw_body.OZJ"
+dest_files=["res://.godot/imported/masteryknsw_body.OZJ-6dd31c853317cc772c0b1d8ae51b1f9f.res"]
+
+[params]
+

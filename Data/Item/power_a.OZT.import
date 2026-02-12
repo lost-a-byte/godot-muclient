@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvrb4kseqa2e5"
+path="res://.godot/imported/power_a.OZT-cb5b8773a5d69d1e0a0324901ffd703e.res"
+
+[deps]
+
+source_file="res://Data/Item/power_a.OZT"
+dest_files=["res://.godot/imported/power_a.OZT-cb5b8773a5d69d1e0a0324901ffd703e.res"]
+
+[params]
+

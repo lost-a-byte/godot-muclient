@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8iugjdf2ftvl"
+path="res://.godot/imported/stair_01.OZJ-03fe3460e48d7ac6206205271404462a.res"
+
+[deps]
+
+source_file="res://Data/Object73/stair_01.OZJ"
+dest_files=["res://.godot/imported/stair_01.OZJ-03fe3460e48d7ac6206205271404462a.res"]
+
+[params]
+

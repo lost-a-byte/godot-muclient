@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmqyfsr3yv8ew"
+path="res://.godot/imported/holyEE.OZJ-143d7f91f6187aa9dc7dc556b18a6a2a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holyEE.OZJ"
+dest_files=["res://.godot/imported/holyEE.OZJ-143d7f91f6187aa9dc7dc556b18a6a2a.res"]
+
+[params]
+

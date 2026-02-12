@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhvpren7qam"
+path="res://.godot/imported/blackdrager_lower.ozj-8846f725e491270528c3500835c72a46.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blackdrager_lower.ozj"
+dest_files=["res://.godot/imported/blackdrager_lower.ozj-8846f725e491270528c3500835c72a46.res"]
+
+[params]
+

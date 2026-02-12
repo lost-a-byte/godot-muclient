@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqybic2810qnw"
+path="res://.godot/imported/magum_face.OZJ-ff79c109bba6bf1a6dd61e49d1c2a01d.res"
+
+[deps]
+
+source_file="res://Data/Logo/magum_face.OZJ"
+dest_files=["res://.godot/imported/magum_face.OZJ-ff79c109bba6bf1a6dd61e49d1c2a01d.res"]
+
+[params]
+

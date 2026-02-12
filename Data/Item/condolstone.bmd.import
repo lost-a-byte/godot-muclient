@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dlild23pu5741"
+path="res://.godot/imported/condolstone.bmd-c2e384503cb7dbe8c403422a71e776cc.scn"
+
+[deps]
+
+source_file="res://Data/Item/condolstone.bmd"
+dest_files=["res://.godot/imported/condolstone.bmd-c2e384503cb7dbe8c403422a71e776cc.scn"]
+
+[params]
+
+modelScale=0.01

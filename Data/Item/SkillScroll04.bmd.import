@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c0c1o0enywpqf"
+path="res://.godot/imported/SkillScroll04.bmd-a4bbab112f8378e6646c1df088a1542e.scn"
+
+[deps]
+
+source_file="res://Data/Item/SkillScroll04.bmd"
+dest_files=["res://.godot/imported/SkillScroll04.bmd-a4bbab112f8378e6646c1df088a1542e.scn"]
+
+[params]
+
+modelScale=0.01

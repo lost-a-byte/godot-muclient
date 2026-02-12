@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3swhif0r5pjq"
+path="res://.godot/imported/SkinClass106_wand.OZJ-df43aa961964876800d60b7807a326e3.res"
+
+[deps]
+
+source_file="res://Data/Player/SkinClass106_wand.OZJ"
+dest_files=["res://.godot/imported/SkinClass106_wand.OZJ-df43aa961964876800d60b7807a326e3.res"]
+
+[params]
+

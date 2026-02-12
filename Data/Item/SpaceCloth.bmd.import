@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mod0fvrxbkmo"
+path="res://.godot/imported/SpaceCloth.bmd-8f20d387fa2c86c48c3f6a7fd5ba96f7.scn"
+
+[deps]
+
+source_file="res://Data/Item/SpaceCloth.bmd"
+dest_files=["res://.godot/imported/SpaceCloth.bmd-8f20d387fa2c86c48c3f6a7fd5ba96f7.scn"]
+
+[params]
+
+modelScale=0.01

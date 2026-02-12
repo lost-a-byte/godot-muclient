@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b23a3smhs7lw7"
+path="res://.godot/imported/newui_Bar_switch01.OZJ-1da19b7cd610a7a4d4d504986a7c9ec8.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Bar_switch01.OZJ"
+dest_files=["res://.godot/imported/newui_Bar_switch01.OZJ-1da19b7cd610a7a4d4d504986a7c9ec8.res"]
+
+[params]
+

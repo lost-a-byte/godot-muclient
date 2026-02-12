@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0suxwqeukfir"
+path="res://.godot/imported/CCWnpcAlpha.OZT-2cb471b14829862b7e384f3a6344e60e.res"
+
+[deps]
+
+source_file="res://Data/NPC/CCWnpcAlpha.OZT"
+dest_files=["res://.godot/imported/CCWnpcAlpha.OZT-2cb471b14829862b7e384f3a6344e60e.res"]
+
+[params]
+

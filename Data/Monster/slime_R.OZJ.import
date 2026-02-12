@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsoq2oaed5x60"
+path="res://.godot/imported/slime_R.OZJ-de8545f2b30e40f4dff3876b7e33e8e4.res"
+
+[deps]
+
+source_file="res://Data/Monster/slime_R.OZJ"
+dest_files=["res://.godot/imported/slime_R.OZJ-de8545f2b30e40f4dff3876b7e33e8e4.res"]
+
+[params]
+

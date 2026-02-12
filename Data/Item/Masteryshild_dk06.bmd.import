@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://r5fy24memmhe"
+path="res://.godot/imported/Masteryshild_dk06.bmd-6c039426ce7fddfbbb110b52f2172719.scn"
+
+[deps]
+
+source_file="res://Data/Item/Masteryshild_dk06.bmd"
+dest_files=["res://.godot/imported/Masteryshild_dk06.bmd-6c039426ce7fddfbbb110b52f2172719.scn"]
+
+[params]
+
+modelScale=0.01

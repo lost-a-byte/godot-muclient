@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh6uqkvrggvux"
+path="res://.godot/imported/gamble_bow.ozj-c59a0e8448d6c7a5bc1f7ae07d563c5c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gamble_bow.ozj"
+dest_files=["res://.godot/imported/gamble_bow.ozj-c59a0e8448d6c7a5bc1f7ae07d563c5c.res"]
+
+[params]
+

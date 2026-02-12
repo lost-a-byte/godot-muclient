@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d4bgktwgh53n"
+path="res://.godot/imported/GL380LanceA.bmd-57d6c732181df732f7248edde21a4d81.scn"
+
+[deps]
+
+source_file="res://Data/Item/GL380LanceA.bmd"
+dest_files=["res://.godot/imported/GL380LanceA.bmd-57d6c732181df732f7248edde21a4d81.scn"]
+
+[params]
+
+modelScale=0.01

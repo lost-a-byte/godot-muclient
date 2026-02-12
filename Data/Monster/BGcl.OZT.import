@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jiq71jig7xs4"
+path="res://.godot/imported/BGcl.OZT-8d053cb98026e32c4437ddc7eea46b7a.res"
+
+[deps]
+
+source_file="res://Data/Monster/BGcl.OZT"
+dest_files=["res://.godot/imported/BGcl.OZT-8d053cb98026e32c4437ddc7eea46b7a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp6x0pi8d8fsj"
+path="res://.godot/imported/ChaosGoblin.OZJ-d3df9c015865d5e35d8d9764f34c2f2e.res"
+
+[deps]
+
+source_file="res://Data/Monster/ChaosGoblin.OZJ"
+dest_files=["res://.godot/imported/ChaosGoblin.OZJ-d3df9c015865d5e35d8d9764f34c2f2e.res"]
+
+[params]
+

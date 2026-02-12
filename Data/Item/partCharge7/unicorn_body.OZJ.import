@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1akhugfa5inu"
+path="res://.godot/imported/unicorn_body.OZJ-14724110b99b0eff3fb39483e2f3780a.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge7/unicorn_body.OZJ"
+dest_files=["res://.godot/imported/unicorn_body.OZJ-14724110b99b0eff3fb39483e2f3780a.res"]
+
+[params]
+

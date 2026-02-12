@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkcvpbafvwpl3"
+path="res://.godot/imported/bass_body.OZT-25747babad7661246895d1e63e02aac2.res"
+
+[deps]
+
+source_file="res://Data/Monster/bass_body.OZT"
+dest_files=["res://.godot/imported/bass_body.OZT-25747babad7661246895d1e63e02aac2.res"]
+
+[params]
+

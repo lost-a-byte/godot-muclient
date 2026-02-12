@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdd7ntt7crean"
+path="res://.godot/imported/newui_guildmakebutton.OZT-7169b3bca7e487ac437d76db5d2f250a.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_guildmakebutton.OZT"
+dest_files=["res://.godot/imported/newui_guildmakebutton.OZT-7169b3bca7e487ac437d76db5d2f250a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf4aam2wa131a"
+path="res://.godot/imported/eagle01_dark.OZJ-75cbc18fdd0c1c4be471fe59b047e96e.res"
+
+[deps]
+
+source_file="res://Data/Monster/eagle01_dark.OZJ"
+dest_files=["res://.godot/imported/eagle01_dark.OZJ-75cbc18fdd0c1c4be471fe59b047e96e.res"]
+
+[params]
+

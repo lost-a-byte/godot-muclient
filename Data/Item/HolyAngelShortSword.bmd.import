@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bc7wtjeociqaj"
+path="res://.godot/imported/HolyAngelShortSword.bmd-de22429af6b2590b11e348bf1df449cf.scn"
+
+[deps]
+
+source_file="res://Data/Item/HolyAngelShortSword.bmd"
+dest_files=["res://.godot/imported/HolyAngelShortSword.bmd-de22429af6b2590b11e348bf1df449cf.scn"]
+
+[params]
+
+modelScale=0.01

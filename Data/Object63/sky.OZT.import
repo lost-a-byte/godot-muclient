@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b16u6h22uheqv"
+path="res://.godot/imported/sky.OZT-286468b6f9a1f57caf78b18caebd7a9a.res"
+
+[deps]
+
+source_file="res://Data/Object63/sky.OZT"
+dest_files=["res://.godot/imported/sky.OZT-286468b6f9a1f57caf78b18caebd7a9a.res"]
+
+[params]
+

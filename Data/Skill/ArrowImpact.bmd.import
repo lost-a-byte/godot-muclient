@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dsbnsau6fysr1"
+path="res://.godot/imported/ArrowImpact.bmd-a74e0a5c055beac273066685560b2994.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ArrowImpact.bmd"
+dest_files=["res://.godot/imported/ArrowImpact.bmd-a74e0a5c055beac273066685560b2994.scn"]
+
+[params]
+
+modelScale=0.01

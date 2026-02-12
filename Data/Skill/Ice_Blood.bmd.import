@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://crwanvl8ekfua"
+path="res://.godot/imported/Ice_Blood.bmd-46e9ad6d9df820376ce17ab15dc4b382.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Ice_Blood.bmd"
+dest_files=["res://.godot/imported/Ice_Blood.bmd-46e9ad6d9df820376ce17ab15dc4b382.scn"]
+
+[params]
+
+modelScale=0.01

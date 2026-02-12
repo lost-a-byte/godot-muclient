@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dip68ft7ql30t"
+path="res://.godot/imported/wind_spin02.bmd-ae06a0bcb41ef62563cd042467ec01dd.scn"
+
+[deps]
+
+source_file="res://Data/Effect/wind_spin02.bmd"
+dest_files=["res://.godot/imported/wind_spin02.bmd-ae06a0bcb41ef62563cd042467ec01dd.scn"]
+
+[params]
+
+modelScale=0.01

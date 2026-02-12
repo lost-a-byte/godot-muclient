@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bn50ymllns6nv"
+path="res://.godot/imported/mastery_shortsword6.bmd-1560c6bb1859ffcec27ba58bcdb74f7f.scn"
+
+[deps]
+
+source_file="res://Data/Item/mastery_shortsword6.bmd"
+dest_files=["res://.godot/imported/mastery_shortsword6.bmd-1560c6bb1859ffcec27ba58bcdb74f7f.scn"]
+
+[params]
+
+modelScale=0.01

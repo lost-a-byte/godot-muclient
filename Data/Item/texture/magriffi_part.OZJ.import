@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3e3kuuna7sen"
+path="res://.godot/imported/magriffi_part.OZJ-7bd339a4e9cbb14459f8b10fbe233c4b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magriffi_part.OZJ"
+dest_files=["res://.godot/imported/magriffi_part.OZJ-7bd339a4e9cbb14459f8b10fbe233c4b.res"]
+
+[params]
+

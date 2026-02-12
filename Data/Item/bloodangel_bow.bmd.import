@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ct4isg6trnthc"
+path="res://.godot/imported/bloodangel_bow.bmd-11c75215d4dbc7216a93728ad56034a3.scn"
+
+[deps]
+
+source_file="res://Data/Item/bloodangel_bow.bmd"
+dest_files=["res://.godot/imported/bloodangel_bow.bmd-11c75215d4dbc7216a93728ad56034a3.scn"]
+
+[params]
+
+modelScale=0.01

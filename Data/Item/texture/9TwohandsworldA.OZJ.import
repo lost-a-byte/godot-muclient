@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4ed3asitsbdw"
+path="res://.godot/imported/9TwohandsworldA.OZJ-0b29a363b012422381e18c1e6b5d0d84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/9TwohandsworldA.OZJ"
+dest_files=["res://.godot/imported/9TwohandsworldA.OZJ-0b29a363b012422381e18c1e6b5d0d84.res"]
+
+[params]
+

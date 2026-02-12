@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cptp710m6s2cq"
+path="res://.godot/imported/shadow_rock_7_knee_left.bmd-a30a1e94aec7838a3e15912d4dba76c4.scn"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_rock_7_knee_left.bmd"
+dest_files=["res://.godot/imported/shadow_rock_7_knee_left.bmd-a30a1e94aec7838a3e15912d4dba76c4.scn"]
+
+[params]
+
+modelScale=0.01

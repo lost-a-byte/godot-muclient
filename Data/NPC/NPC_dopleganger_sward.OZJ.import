@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q3h4cia3wi8x"
+path="res://.godot/imported/NPC_dopleganger_sward.OZJ-71c58b53a6093f34b188137181f7b2e3.res"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_dopleganger_sward.OZJ"
+dest_files=["res://.godot/imported/NPC_dopleganger_sward.OZJ-71c58b53a6093f34b188137181f7b2e3.res"]
+
+[params]
+

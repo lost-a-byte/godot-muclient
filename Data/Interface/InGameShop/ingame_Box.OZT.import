@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blnpymm45rqbi"
+path="res://.godot/imported/ingame_Box.OZT-eb4144165fb951ea882457ca11f998fa.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Box.OZT"
+dest_files=["res://.godot/imported/ingame_Box.OZT-eb4144165fb951ea882457ca11f998fa.res"]
+
+[params]
+

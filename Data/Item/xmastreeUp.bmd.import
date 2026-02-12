@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://h57p2hkdxrl5"
+path="res://.godot/imported/xmastreeUp.bmd-e5ac4be978ab7038869b7e17f1d8be0b.scn"
+
+[deps]
+
+source_file="res://Data/Item/xmastreeUp.bmd"
+dest_files=["res://.godot/imported/xmastreeUp.bmd-e5ac4be978ab7038869b7e17f1d8be0b.scn"]
+
+[params]
+
+modelScale=0.01

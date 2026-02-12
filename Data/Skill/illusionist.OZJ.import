@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctvxf2ujlsqs0"
+path="res://.godot/imported/illusionist.OZJ-d9534b5f67763114a7879930f1f46e05.res"
+
+[deps]
+
+source_file="res://Data/Skill/illusionist.OZJ"
+dest_files=["res://.godot/imported/illusionist.OZJ-d9534b5f67763114a7879930f1f46e05.res"]
+
+[params]
+

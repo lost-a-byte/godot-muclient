@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyi8jjeyftg18"
+path="res://.godot/imported/npcpharmercy01a.OZT-3b67074e4adb39f4314fdc78c909b232.res"
+
+[deps]
+
+source_file="res://Data/NPC/npcpharmercy01a.OZT"
+dest_files=["res://.godot/imported/npcpharmercy01a.OZT-3b67074e4adb39f4314fdc78c909b232.res"]
+
+[params]
+

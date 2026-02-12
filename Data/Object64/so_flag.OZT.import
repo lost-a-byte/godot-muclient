@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://disjp8dx8wi46"
+path="res://.godot/imported/so_flag.OZT-bbbb7ca7e9c61cb9d78f27ea4d0f8c0d.res"
+
+[deps]
+
+source_file="res://Data/Object64/so_flag.OZT"
+dest_files=["res://.godot/imported/so_flag.OZT-bbbb7ca7e9c61cb9d78f27ea4d0f8c0d.res"]
+
+[params]
+

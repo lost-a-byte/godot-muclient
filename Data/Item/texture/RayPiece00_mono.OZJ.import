@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3xuxdoqo578c"
+path="res://.godot/imported/RayPiece00_mono.OZJ-634fdb18913629e10f7bea71cc307af1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RayPiece00_mono.OZJ"
+dest_files=["res://.godot/imported/RayPiece00_mono.OZJ-634fdb18913629e10f7bea71cc307af1.res"]
+
+[params]
+

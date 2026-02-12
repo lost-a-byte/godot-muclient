@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b62o0raq4ansp"
+path="res://.godot/imported/coulposion.bmd-141ab56b432442cb91b6264b7291ba59.scn"
+
+[deps]
+
+source_file="res://Data/Item/coulposion.bmd"
+dest_files=["res://.godot/imported/coulposion.bmd-141ab56b432442cb91b6264b7291ba59.scn"]
+
+[params]
+
+modelScale=0.01

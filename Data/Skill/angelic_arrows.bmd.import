@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cf7240w6yfewt"
+path="res://.godot/imported/angelic_arrows.bmd-a02168b0a1d3f8adb77d34d00967d293.scn"
+
+[deps]
+
+source_file="res://Data/Skill/angelic_arrows.bmd"
+dest_files=["res://.godot/imported/angelic_arrows.bmd-a02168b0a1d3f8adb77d34d00967d293.scn"]
+
+[params]
+
+modelScale=0.01

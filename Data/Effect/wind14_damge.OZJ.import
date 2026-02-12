@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pfv8trxwqnwl"
+path="res://.godot/imported/wind14_damge.OZJ-3b671f1b1bddd6505bf8d8c9921e99a0.res"
+
+[deps]
+
+source_file="res://Data/Effect/wind14_damge.OZJ"
+dest_files=["res://.godot/imported/wind14_damge.OZJ-3b671f1b1bddd6505bf8d8c9921e99a0.res"]
+
+[params]
+

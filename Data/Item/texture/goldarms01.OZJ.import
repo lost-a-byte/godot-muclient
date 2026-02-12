@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://syoy2q8kkstu"
+path="res://.godot/imported/goldarms01.OZJ-76c79472aae6f6544dc2bcb051e2f48b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/goldarms01.OZJ"
+dest_files=["res://.godot/imported/goldarms01.OZJ-76c79472aae6f6544dc2bcb051e2f48b.res"]
+
+[params]
+

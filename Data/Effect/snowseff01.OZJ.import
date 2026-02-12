@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvt4vwjdmrwso"
+path="res://.godot/imported/snowseff01.OZJ-264f024c01eba959acdac606a9b65b8f.res"
+
+[deps]
+
+source_file="res://Data/Effect/snowseff01.OZJ"
+dest_files=["res://.godot/imported/snowseff01.OZJ-264f024c01eba959acdac606a9b65b8f.res"]
+
+[params]
+

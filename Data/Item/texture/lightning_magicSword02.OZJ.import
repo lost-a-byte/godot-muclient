@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpact2d0f3bgd"
+path="res://.godot/imported/lightning_magicSword02.OZJ-89bf3a981dbb08decfe6682529ad42ca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_magicSword02.OZJ"
+dest_files=["res://.godot/imported/lightning_magicSword02.OZJ-89bf3a981dbb08decfe6682529ad42ca.res"]
+
+[params]
+

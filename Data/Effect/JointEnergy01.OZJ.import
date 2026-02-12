@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1p55kthsrh7u"
+path="res://.godot/imported/JointEnergy01.OZJ-35cd0d2689904c445761de4cf62b3910.res"
+
+[deps]
+
+source_file="res://Data/Effect/JointEnergy01.OZJ"
+dest_files=["res://.godot/imported/JointEnergy01.OZJ-35cd0d2689904c445761de4cf62b3910.res"]
+
+[params]
+

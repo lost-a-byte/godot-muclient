@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b7wbyt0yluipi"
+path="res://.godot/imported/Lycanpet_evol.bmd-88c77a501570d324f5cc4da0873871ed.scn"
+
+[deps]
+
+source_file="res://Data/Item/Lycanpet_evol.bmd"
+dest_files=["res://.godot/imported/Lycanpet_evol.bmd-88c77a501570d324f5cc4da0873871ed.scn"]
+
+[params]
+
+modelScale=0.01

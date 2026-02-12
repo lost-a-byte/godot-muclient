@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvurio01t5dsa"
+path="res://.godot/imported/Gale_contract.bmd-ecd4bf860a1cf19e6c78b6c795565599.scn"
+
+[deps]
+
+source_file="res://Data/Item/Gale_contract.bmd"
+dest_files=["res://.godot/imported/Gale_contract.bmd-ecd4bf860a1cf19e6c78b6c795565599.scn"]
+
+[params]
+
+modelScale=0.01

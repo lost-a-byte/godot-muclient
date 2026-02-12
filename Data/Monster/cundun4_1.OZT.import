@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7785hh08j1al"
+path="res://.godot/imported/cundun4_1.OZT-bb8841e42d9b8f8920cf95049242488a.res"
+
+[deps]
+
+source_file="res://Data/Monster/cundun4_1.OZT"
+dest_files=["res://.godot/imported/cundun4_1.OZT-bb8841e42d9b8f8920cf95049242488a.res"]
+
+[params]
+

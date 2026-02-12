@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://scie6de1hsmm"
+path="res://.godot/imported/TempleGuard_marble_03_R.OZJ-3b778e55a04658ba4b5832f314368c86.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_marble_03_R.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_marble_03_R.OZJ-3b778e55a04658ba4b5832f314368c86.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3ejjcumiwj01"
+path="res://.godot/imported/bet_grilsshot2.OZJ-739fa19f82ceece348581bed03b2bb3e.res"
+
+[deps]
+
+source_file="res://Data/Effect/bet_grilsshot2.OZJ"
+dest_files=["res://.godot/imported/bet_grilsshot2.OZJ-739fa19f82ceece348581bed03b2bb3e.res"]
+
+[params]
+

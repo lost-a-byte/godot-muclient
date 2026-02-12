@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rbd432clctug"
+path="res://.godot/imported/cobraset_glove_s.OZJ-6f1e5f34a7031fb59cf0730d966dd13f.res"
+
+[deps]
+
+source_file="res://Data/Player/cobraset_glove_s.OZJ"
+dest_files=["res://.godot/imported/cobraset_glove_s.OZJ-6f1e5f34a7031fb59cf0730d966dd13f.res"]
+
+[params]
+

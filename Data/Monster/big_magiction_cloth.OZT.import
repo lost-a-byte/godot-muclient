@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlfq41ykh72ec"
+path="res://.godot/imported/big_magiction_cloth.OZT-faf10910b6297dee4306dca000347281.res"
+
+[deps]
+
+source_file="res://Data/Monster/big_magiction_cloth.OZT"
+dest_files=["res://.godot/imported/big_magiction_cloth.OZT-faf10910b6297dee4306dca000347281.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clax8xal5l00b"
+path="res://.godot/imported/Item3002_Head.OZJ-45a47b3aba8f54a5ddb03cea3751e03f.res"
+
+[deps]
+
+source_file="res://Data/Player/Item3002_Head.OZJ"
+dest_files=["res://.godot/imported/Item3002_Head.OZJ-45a47b3aba8f54a5ddb03cea3751e03f.res"]
+
+[params]
+

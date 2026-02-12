@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ctdjqpi8pt8j0"
+path="res://.godot/imported/ProofOfConqueror.bmd-eb17ec224c623179d8efffd9be03ed94.scn"
+
+[deps]
+
+source_file="res://Data/Item/ProofOfConqueror.bmd"
+dest_files=["res://.godot/imported/ProofOfConqueror.bmd-eb17ec224c623179d8efffd9be03ed94.scn"]
+
+[params]
+
+modelScale=0.01

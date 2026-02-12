@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0ywwt63f4tki"
+path="res://.godot/imported/Base_blackbule.OZJ-939a26c2cf37f9626d911a0a8e5215ab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Base_blackbule.OZJ"
+dest_files=["res://.godot/imported/Base_blackbule.OZJ-939a26c2cf37f9626d911a0a8e5215ab.res"]
+
+[params]
+

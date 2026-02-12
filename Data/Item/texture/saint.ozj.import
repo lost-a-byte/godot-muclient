@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dofh0aplll4nt"
+path="res://.godot/imported/saint.ozj-a82033e307cfe4cc232ca6e2ed1e7b66.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/saint.ozj"
+dest_files=["res://.godot/imported/saint.ozj-a82033e307cfe4cc232ca6e2ed1e7b66.res"]
+
+[params]
+

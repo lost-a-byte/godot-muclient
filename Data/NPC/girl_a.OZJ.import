@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crcx23l6vklht"
+path="res://.godot/imported/girl_a.OZJ-f377e41b233573336aa98fb1089a11fc.res"
+
+[deps]
+
+source_file="res://Data/NPC/girl_a.OZJ"
+dest_files=["res://.godot/imported/girl_a.OZJ-f377e41b233573336aa98fb1089a11fc.res"]
+
+[params]
+

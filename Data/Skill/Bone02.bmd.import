@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dx5ggy3da4bhc"
+path="res://.godot/imported/Bone02.bmd-85fded2da6b6ff0e66e4d2e1e4bea4c1.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Bone02.bmd"
+dest_files=["res://.godot/imported/Bone02.bmd-85fded2da6b6ff0e66e4d2e1e4bea4c1.scn"]
+
+[params]
+
+modelScale=0.01

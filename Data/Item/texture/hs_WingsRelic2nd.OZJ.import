@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xof5j1v50p0n"
+path="res://.godot/imported/hs_WingsRelic2nd.OZJ-0ec283c901f241fb28fce01fbb82ab4c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_WingsRelic2nd.OZJ"
+dest_files=["res://.godot/imported/hs_WingsRelic2nd.OZJ-0ec283c901f241fb28fce01fbb82ab4c.res"]
+
+[params]
+

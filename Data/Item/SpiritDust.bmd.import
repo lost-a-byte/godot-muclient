@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bcndi23r2ec8o"
+path="res://.godot/imported/SpiritDust.bmd-e71c44449336df563562e70e8c6049d5.scn"
+
+[deps]
+
+source_file="res://Data/Item/SpiritDust.bmd"
+dest_files=["res://.godot/imported/SpiritDust.bmd-e71c44449336df563562e70e8c6049d5.scn"]
+
+[params]
+
+modelScale=0.01

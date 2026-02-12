@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://l3bywh5jws7m"
+path="res://.godot/imported/hellasmap.OZT-5bca8c6c5c2cf85a705ed94f3a5e711e.res"
+
+[deps]
+
+source_file="res://Data/Item/hellasmap.OZT"
+dest_files=["res://.godot/imported/hellasmap.OZT-5bca8c6c5c2cf85a705ed94f3a5e711e.res"]
+
+[params]
+

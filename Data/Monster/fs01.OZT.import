@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ckoarwuouqdrm"
+path="res://.godot/imported/fs01.OZT-2fb2d8893074c616aa8c0f8e4b3e8b08.res"
+
+[deps]
+
+source_file="res://Data/Monster/fs01.OZT"
+dest_files=["res://.godot/imported/fs01.OZT-2fb2d8893074c616aa8c0f8e4b3e8b08.res"]
+
+[params]
+

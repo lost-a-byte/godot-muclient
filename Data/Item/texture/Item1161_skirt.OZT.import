@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bscngipghyotc"
+path="res://.godot/imported/Item1161_skirt.OZT-96a4f0d46ff7094cfa3343a0d288b0ff.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1161_skirt.OZT"
+dest_files=["res://.godot/imported/Item1161_skirt.OZT-96a4f0d46ff7094cfa3343a0d288b0ff.res"]
+
+[params]
+

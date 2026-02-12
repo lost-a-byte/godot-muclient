@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://devalopgrpqsi"
+path="res://.godot/imported/chgateaux.bmd-99cb4acb3f0c1af970f15ac8967c0238.scn"
+
+[deps]
+
+source_file="res://Data/Item/chgateaux.bmd"
+dest_files=["res://.godot/imported/chgateaux.bmd-99cb4acb3f0c1af970f15ac8967c0238.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmoi4hrd2dml6"
+path="res://.godot/imported/Ironcloak_glow02.OZJ-e885e1df94da405e8af7fbde6bfd826f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ironcloak_glow02.OZJ"
+dest_files=["res://.godot/imported/Ironcloak_glow02.OZJ-e885e1df94da405e8af7fbde6bfd826f.res"]
+
+[params]
+

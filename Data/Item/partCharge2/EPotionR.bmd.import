@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://nhsbp8ocwnxx"
+path="res://.godot/imported/EPotionR.bmd-480c4c30c0a511c166f5e5fca1e7c224.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/EPotionR.bmd"
+dest_files=["res://.godot/imported/EPotionR.bmd-480c4c30c0a511c166f5e5fca1e7c224.scn"]
+
+[params]
+
+modelScale=0.01

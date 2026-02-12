@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsmwiweywb7b7"
+path="res://.godot/imported/sd_BlackTiger04.OZJ-da74970f00ebbdeb0cd0aeb41efa73fd.res"
+
+[deps]
+
+source_file="res://Data/Monster/sd_BlackTiger04.OZJ"
+dest_files=["res://.godot/imported/sd_BlackTiger04.OZJ-da74970f00ebbdeb0cd0aeb41efa73fd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b85ta4ft13km7"
+path="res://.godot/imported/MacroUI_Gauge_Frame.OZT-b888caf2aa89fa8c5ded3692ea796bc7.res"
+
+[deps]
+
+source_file="res://Data/Interface/MacroUI/MacroUI_Gauge_Frame.OZT"
+dest_files=["res://.godot/imported/MacroUI_Gauge_Frame.OZT-b888caf2aa89fa8c5ded3692ea796bc7.res"]
+
+[params]
+

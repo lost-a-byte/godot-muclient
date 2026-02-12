@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b5durs7udkqjg"
+path="res://.godot/imported/rioUp.bmd-9b1877a5866d8f4a6694f6f5f705a0de.scn"
+
+[deps]
+
+source_file="res://Data/Item/rioUp.bmd"
+dest_files=["res://.godot/imported/rioUp.bmd-9b1877a5866d8f4a6694f6f5f705a0de.scn"]
+
+[params]
+
+modelScale=0.01

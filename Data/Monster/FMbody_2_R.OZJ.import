@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpwcjv4ugw6f2"
+path="res://.godot/imported/FMbody_2_R.OZJ-b6b115bc2bfebf6412e26726a20562bc.res"
+
+[deps]
+
+source_file="res://Data/Monster/FMbody_2_R.OZJ"
+dest_files=["res://.godot/imported/FMbody_2_R.OZJ-b6b115bc2bfebf6412e26726a20562bc.res"]
+
+[params]
+

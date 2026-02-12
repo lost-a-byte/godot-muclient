@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2d5fhf8pklkw"
+path="res://.godot/imported/Corncoat_Goblin_Body.OZJ-83908431f3db26983d165078fb669c59.res"
+
+[deps]
+
+source_file="res://Data/Monster/Corncoat_Goblin_Body.OZJ"
+dest_files=["res://.godot/imported/Corncoat_Goblin_Body.OZJ-83908431f3db26983d165078fb669c59.res"]
+
+[params]
+

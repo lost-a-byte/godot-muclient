@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://chwbdmc2lxvb6"
+path="res://.godot/imported/htrackt_pin.bmd-f9da7cd002a4e5f4ed379a6a0535c0a7.scn"
+
+[deps]
+
+source_file="res://Data/Effect/htrackt_pin.bmd"
+dest_files=["res://.godot/imported/htrackt_pin.bmd-f9da7cd002a4e5f4ed379a6a0535c0a7.scn"]
+
+[params]
+
+modelScale=0.01

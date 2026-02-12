@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://u71eknyq2q20"
+path="res://.godot/imported/newui_chainfo_btn_master.OZT-447c20c01015ea15435b799890ab6a8a.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_chainfo_btn_master.OZT"
+dest_files=["res://.godot/imported/newui_chainfo_btn_master.OZT-447c20c01015ea15435b799890ab6a8a.res"]
+
+[params]
+

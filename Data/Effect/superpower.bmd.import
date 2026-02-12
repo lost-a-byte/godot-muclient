@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wc0lb0uptvw6"
+path="res://.godot/imported/superpower.bmd-2e138cab815a1bd6d4c0c4dd1c0f085c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/superpower.bmd"
+dest_files=["res://.godot/imported/superpower.bmd-2e138cab815a1bd6d4c0c4dd1c0f085c.scn"]
+
+[params]
+
+modelScale=0.01

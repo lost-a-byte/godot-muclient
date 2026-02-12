@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvjx5tl8jbr41"
+path="res://.godot/imported/H_Basewall_C1.OZJ-9f36a07480c39c2d64b05bf31e795fbc.res"
+
+[deps]
+
+source_file="res://Data/Object63/H_Basewall_C1.OZJ"
+dest_files=["res://.godot/imported/H_Basewall_C1.OZJ-9f36a07480c39c2d64b05bf31e795fbc.res"]
+
+[params]
+

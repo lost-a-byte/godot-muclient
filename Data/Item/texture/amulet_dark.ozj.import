@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5y4g3vu2frr3"
+path="res://.godot/imported/amulet_dark.ozj-612ced66175644e36e573e6e86012687.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amulet_dark.ozj"
+dest_files=["res://.godot/imported/amulet_dark.ozj-612ced66175644e36e573e6e86012687.res"]
+
+[params]
+

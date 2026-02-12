@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgvmfmd3dvldo"
+path="res://.godot/imported/ChickenMagenta.OZJ-79aa56f2d0380715384f4401b4ecf7ba.res"
+
+[deps]
+
+source_file="res://Data/Monster/ChickenMagenta.OZJ"
+dest_files=["res://.godot/imported/ChickenMagenta.OZJ-79aa56f2d0380715384f4401b4ecf7ba.res"]
+
+[params]
+

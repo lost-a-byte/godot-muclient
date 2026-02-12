@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxocgm38hahp2"
+path="res://.godot/imported/riverstone.OZJ-e4b7cdfd16db228a8ab746ad85934f22.res"
+
+[deps]
+
+source_file="res://Data/Object32/riverstone.OZJ"
+dest_files=["res://.godot/imported/riverstone.OZJ-e4b7cdfd16db228a8ab746ad85934f22.res"]
+
+[params]
+

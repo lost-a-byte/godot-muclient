@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctwygspj5ethe"
+path="res://.godot/imported/newui_DuelWindow.OZT-7c026f7789423bdfd5d8d6516003de10.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_DuelWindow.OZT"
+dest_files=["res://.godot/imported/newui_DuelWindow.OZT-7c026f7789423bdfd5d8d6516003de10.res"]
+
+[params]
+

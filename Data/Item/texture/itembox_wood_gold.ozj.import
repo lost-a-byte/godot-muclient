@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://w0mxtmodyn53"
+path="res://.godot/imported/itembox_wood_gold.ozj-10010aeb232cf6976647107b6b1ec872.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/itembox_wood_gold.ozj"
+dest_files=["res://.godot/imported/itembox_wood_gold.ozj-10010aeb232cf6976647107b6b1ec872.res"]
+
+[params]
+

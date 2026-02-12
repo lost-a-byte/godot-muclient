@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://by1yjvcobtfgt"
+path="res://.godot/imported/amulet_satan.bmd-caa4148f1c2d7afe8aa5e1d91a043668.scn"
+
+[deps]
+
+source_file="res://Data/Item/amulet_satan.bmd"
+dest_files=["res://.godot/imported/amulet_satan.bmd-caa4148f1c2d7afe8aa5e1d91a043668.scn"]
+
+[params]
+
+modelScale=0.01

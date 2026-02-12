@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crb44kqqhyte"
+path="res://.godot/imported/bostar4.OZJ-c9a3394d4bafa15b1eefa3b021d7f75d.res"
+
+[deps]
+
+source_file="res://Data/Effect/bostar4.OZJ"
+dest_files=["res://.godot/imported/bostar4.OZJ-c9a3394d4bafa15b1eefa3b021d7f75d.res"]
+
+[params]
+

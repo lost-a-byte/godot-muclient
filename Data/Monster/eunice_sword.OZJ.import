@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceu52jkoqevil"
+path="res://.godot/imported/eunice_sword.OZJ-c4079fc664470e4fcfd773e6241a7208.res"
+
+[deps]
+
+source_file="res://Data/Monster/eunice_sword.OZJ"
+dest_files=["res://.godot/imported/eunice_sword.OZJ-c4079fc664470e4fcfd773e6241a7208.res"]
+
+[params]
+

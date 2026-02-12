@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b01afohw0qxj7"
+path="res://.godot/imported/Libra_Normal.OZT-afae09b465898aa1cbf0540823914dcf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Libra_Normal.OZT"
+dest_files=["res://.godot/imported/Libra_Normal.OZT-afae09b465898aa1cbf0540823914dcf.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://m07a5rthv21w"
+path="res://.godot/imported/evengirl_body.OZJ-bff7da1f7ad001f4416ea9d3ae57621b.res"
+
+[deps]
+
+source_file="res://Data/Skill/evengirl_body.OZJ"
+dest_files=["res://.godot/imported/evengirl_body.OZJ-bff7da1f7ad001f4416ea9d3ae57621b.res"]
+
+[params]
+

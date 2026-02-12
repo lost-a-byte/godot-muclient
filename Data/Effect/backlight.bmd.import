@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b45sgv2xa0wa2"
+path="res://.godot/imported/backlight.bmd-b7ccccab2e622b3009f30c9f826c2e25.scn"
+
+[deps]
+
+source_file="res://Data/Effect/backlight.bmd"
+dest_files=["res://.godot/imported/backlight.bmd-b7ccccab2e622b3009f30c9f826c2e25.scn"]
+
+[params]
+
+modelScale=0.01

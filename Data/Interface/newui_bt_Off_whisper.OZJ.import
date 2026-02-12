@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jlrkbcnly5c4"
+path="res://.godot/imported/newui_bt_Off_whisper.OZJ-27ed071d7d70fbff17549efcc0b0d049.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_bt_Off_whisper.OZJ"
+dest_files=["res://.godot/imported/newui_bt_Off_whisper.OZJ-27ed071d7d70fbff17549efcc0b0d049.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnlr4bk4cbrgm"
+path="res://.godot/imported/healingscroll.ozj-cd4fc12440ed1b030e40cdc652e597f0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/healingscroll.ozj"
+dest_files=["res://.godot/imported/healingscroll.ozj-cd4fc12440ed1b030e40cdc652e597f0.res"]
+
+[params]
+

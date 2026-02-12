@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2vhktf6d3ivb"
+path="res://.godot/imported/newui_durable_weapon.OZT-705fdc2dfc01ed3961fbc4b8280d82bc.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_weapon.OZT"
+dest_files=["res://.godot/imported/newui_durable_weapon.OZT-705fdc2dfc01ed3961fbc4b8280d82bc.res"]
+
+[params]
+

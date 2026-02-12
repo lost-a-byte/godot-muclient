@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cauo5bxgt2lty"
+path="res://.godot/imported/Kethotum_Crow wing.wav-2a431fe0c08453cd2e6513ae776d6db7.sample"
+
+[deps]
+
+source_file="res://Data/Sound/Kethotum/Kethotum_Crow wing.wav"
+dest_files=["res://.godot/imported/Kethotum_Crow wing.wav-2a431fe0c08453cd2e6513ae776d6db7.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

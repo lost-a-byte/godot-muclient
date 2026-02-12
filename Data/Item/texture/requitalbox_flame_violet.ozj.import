@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccigk266llxhb"
+path="res://.godot/imported/requitalbox_flame_violet.ozj-3d61a3a8b53bde5a1b2069d0b2163f95.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/requitalbox_flame_violet.ozj"
+dest_files=["res://.godot/imported/requitalbox_flame_violet.ozj-3d61a3a8b53bde5a1b2069d0b2163f95.res"]
+
+[params]
+

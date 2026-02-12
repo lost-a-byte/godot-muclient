@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2rq5qn3roaka"
+path="res://.godot/imported/lightning_staff_Glow00.OZJ-635ff4dcf1bdc3adb6d322ae78a49b67.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_staff_Glow00.OZJ"
+dest_files=["res://.godot/imported/lightning_staff_Glow00.OZJ-635ff4dcf1bdc3adb6d322ae78a49b67.res"]
+
+[params]
+

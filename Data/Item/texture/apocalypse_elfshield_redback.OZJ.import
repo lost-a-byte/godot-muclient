@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5m2mgebt40uc"
+path="res://.godot/imported/apocalypse_elfshield_redback.OZJ-cd0fafc85c002e2d6323a969b822c9bf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_elfshield_redback.OZJ"
+dest_files=["res://.godot/imported/apocalypse_elfshield_redback.OZJ-cd0fafc85c002e2d6323a969b822c9bf.res"]
+
+[params]
+

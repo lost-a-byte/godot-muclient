@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djdhuere2d11l"
+path="res://.godot/imported/benzia_wing4.OZJ-6c3640821fe9e1e0c104293991f69993.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/benzia_wing4.OZJ"
+dest_files=["res://.godot/imported/benzia_wing4.OZJ-6c3640821fe9e1e0c104293991f69993.res"]
+
+[params]
+

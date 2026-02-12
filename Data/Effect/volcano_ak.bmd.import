@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://rg5w74nntfyg"
+path="res://.godot/imported/volcano_ak.bmd-9e2b3b9ee41d96eb3de9f64872d27a59.scn"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_ak.bmd"
+dest_files=["res://.godot/imported/volcano_ak.bmd-9e2b3b9ee41d96eb3de9f64872d27a59.scn"]
+
+[params]
+
+modelScale=0.01

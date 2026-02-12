@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cghwjddvsl545"
+path="res://.godot/imported/cryWolfWall.OZJ-47344a4cae257c59344c029dbc0cbcdf.res"
+
+[deps]
+
+source_file="res://Data/Object43/cryWolfWall.OZJ"
+dest_files=["res://.godot/imported/cryWolfWall.OZJ-47344a4cae257c59344c029dbc0cbcdf.res"]
+
+[params]
+

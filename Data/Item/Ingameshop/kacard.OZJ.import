@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df5wkbsi6b6j5"
+path="res://.godot/imported/kacard.OZJ-be859572b0a59876d8c77bec55b5baec.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/kacard.OZJ"
+dest_files=["res://.godot/imported/kacard.OZJ-be859572b0a59876d8c77bec55b5baec.res"]
+
+[params]
+

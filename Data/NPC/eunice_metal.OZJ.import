@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yfsvhf8yynxh"
+path="res://.godot/imported/eunice_metal.OZJ-d4e718b25977dc28e049fd24cce5b630.res"
+
+[deps]
+
+source_file="res://Data/NPC/eunice_metal.OZJ"
+dest_files=["res://.godot/imported/eunice_metal.OZJ-d4e718b25977dc28e049fd24cce5b630.res"]
+
+[params]
+

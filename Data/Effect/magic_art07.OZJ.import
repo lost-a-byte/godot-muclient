@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mn8n73eedchk"
+path="res://.godot/imported/magic_art07.OZJ-d9c1d03a6f1763cd0254fbb7e69b2169.res"
+
+[deps]
+
+source_file="res://Data/Effect/magic_art07.OZJ"
+dest_files=["res://.godot/imported/magic_art07.OZJ-d9c1d03a6f1763cd0254fbb7e69b2169.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgcs7p0da2k5y"
+path="res://.godot/imported/loungexflow_mono.OZJ-edb96c6125fe6029d2ee707007ad693b.res"
+
+[deps]
+
+source_file="res://Data/Effect/loungexflow_mono.OZJ"
+dest_files=["res://.godot/imported/loungexflow_mono.OZJ-edb96c6125fe6029d2ee707007ad693b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xwkr5xh2s8jg"
+path="res://.godot/imported/BoneSE.OZJ-38a4609a1b4cbf6b4188b995af9a5146.res"
+
+[deps]
+
+source_file="res://Data/Monster/BoneSE.OZJ"
+dest_files=["res://.godot/imported/BoneSE.OZJ-38a4609a1b4cbf6b4188b995af9a5146.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b22o0c3wf4soh"
+path="res://.godot/imported/BootElf01.bmd-620232e2048a8b0e93c8adac5e018d25.scn"
+
+[deps]
+
+source_file="res://Data/Player/BootElf01.bmd"
+dest_files=["res://.godot/imported/BootElf01.bmd-620232e2048a8b0e93c8adac5e018d25.scn"]
+
+[params]
+
+modelScale=0.01

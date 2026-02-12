@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2tym1xovuvro"
+path="res://.godot/imported/amulet_sky.OZT-1bf8cc3d0e47eddb2a028087e33a59b6.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amulet_sky.OZT"
+dest_files=["res://.godot/imported/amulet_sky.OZT-1bf8cc3d0e47eddb2a028087e33a59b6.res"]
+
+[params]
+

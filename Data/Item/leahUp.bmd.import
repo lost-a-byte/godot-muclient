@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dilw3oyrp1hjs"
+path="res://.godot/imported/leahUp.bmd-53c89c5b5f897b648dc1151b7d35187b.scn"
+
+[deps]
+
+source_file="res://Data/Item/leahUp.bmd"
+dest_files=["res://.godot/imported/leahUp.bmd-53c89c5b5f897b648dc1151b7d35187b.scn"]
+
+[params]
+
+modelScale=0.01

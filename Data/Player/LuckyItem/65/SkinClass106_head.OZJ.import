@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0kv6xoe6bw7y"
+path="res://.godot/imported/SkinClass106_head.OZJ-d8003e3388a29ecc5ea595ef1cc0f52b.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/65/SkinClass106_head.OZJ"
+dest_files=["res://.godot/imported/SkinClass106_head.OZJ-d8003e3388a29ecc5ea595ef1cc0f52b.res"]
+
+[params]
+

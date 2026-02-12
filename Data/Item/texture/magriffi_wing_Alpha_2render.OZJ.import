@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beaj0cywdduns"
+path="res://.godot/imported/magriffi_wing_Alpha_2render.OZJ-6710382e147509ee179ee0e63fd9ab47.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magriffi_wing_Alpha_2render.OZJ"
+dest_files=["res://.godot/imported/magriffi_wing_Alpha_2render.OZJ-6710382e147509ee179ee0e63fd9ab47.res"]
+
+[params]
+

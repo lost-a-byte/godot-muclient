@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djyhjeouly1gg"
+path="res://.godot/imported/PentaExSRed.OZJ-2a195bcf4cc279c24f61ab5bb8f6291d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaExSRed.OZJ"
+dest_files=["res://.godot/imported/PentaExSRed.OZJ-2a195bcf4cc279c24f61ab5bb8f6291d.res"]
+
+[params]
+

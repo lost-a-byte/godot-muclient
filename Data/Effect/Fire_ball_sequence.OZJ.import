@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5dm4dng5vyit"
+path="res://.godot/imported/Fire_ball_sequence.OZJ-7ba7c5066ff8df0c141a53c3c254a375.res"
+
+[deps]
+
+source_file="res://Data/Effect/Fire_ball_sequence.OZJ"
+dest_files=["res://.godot/imported/Fire_ball_sequence.OZJ-7ba7c5066ff8df0c141a53c3c254a375.res"]
+
+[params]
+

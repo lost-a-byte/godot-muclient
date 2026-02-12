@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://2mnpbo1ondr2"
+path="res://.godot/imported/ringofpower.bmd-13653da24868b6c04d68fd05b8cee318.scn"
+
+[deps]
+
+source_file="res://Data/Effect/ringofpower.bmd"
+dest_files=["res://.godot/imported/ringofpower.bmd-13653da24868b6c04d68fd05b8cee318.scn"]
+
+[params]
+
+modelScale=0.01

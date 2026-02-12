@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dnkj5fgb7mjon"
+path="res://.godot/imported/shadow_rock_7_belt.bmd-1f28b2bc0c64f6cdb1cb881879a5db57.scn"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_rock_7_belt.bmd"
+dest_files=["res://.godot/imported/shadow_rock_7_belt.bmd-1f28b2bc0c64f6cdb1cb881879a5db57.scn"]
+
+[params]
+
+modelScale=0.01

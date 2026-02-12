@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1i7rseh86gkd"
+path="res://.godot/imported/SkinClass706_loweritem.OZT-b6803e6f9f2d3e9eb05cd839ac01c5be.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SkinClass706_loweritem.OZT"
+dest_files=["res://.godot/imported/SkinClass706_loweritem.OZT-b6803e6f9f2d3e9eb05cd839ac01c5be.res"]
+
+[params]
+

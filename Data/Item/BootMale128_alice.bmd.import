@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://tccuseepnw1l"
+path="res://.godot/imported/BootMale128_alice.bmd-06c3980ce9c8c557e1ee8842eec29fd9.scn"
+
+[deps]
+
+source_file="res://Data/Item/BootMale128_alice.bmd"
+dest_files=["res://.godot/imported/BootMale128_alice.bmd-06c3980ce9c8c557e1ee8842eec29fd9.scn"]
+
+[params]
+
+modelScale=0.01

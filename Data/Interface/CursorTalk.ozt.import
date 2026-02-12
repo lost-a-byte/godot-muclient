@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c020slpuu06dt"
+path="res://.godot/imported/CursorTalk.ozt-cad99d47da28bcc943fb27f458cac2eb.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorTalk.ozt"
+dest_files=["res://.godot/imported/CursorTalk.ozt-cad99d47da28bcc943fb27f458cac2eb.res"]
+
+[params]
+

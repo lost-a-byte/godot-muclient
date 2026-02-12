@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c46cvjqkaxk7c"
+path="res://.godot/imported/richgloves.ozj-a25ca1ab544bb5b39f4fe51995eb0673.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/richgloves.ozj"
+dest_files=["res://.godot/imported/richgloves.ozj-a25ca1ab544bb5b39f4fe51995eb0673.res"]
+
+[params]
+

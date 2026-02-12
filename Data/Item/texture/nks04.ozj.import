@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nceo7x53ive8"
+path="res://.godot/imported/nks04.ozj-593e66b431a91641da458117cfe986dd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nks04.ozj"
+dest_files=["res://.godot/imported/nks04.ozj-593e66b431a91641da458117cfe986dd.res"]
+
+[params]
+

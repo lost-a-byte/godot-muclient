@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq0rmw5voldle"
+path="res://.godot/imported/partikel_stone02.OZJ-3d8e5193539ac6e25edddc04ed8e7179.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/partikel_stone02.OZJ"
+dest_files=["res://.godot/imported/partikel_stone02.OZJ-3d8e5193539ac6e25edddc04ed8e7179.res"]
+
+[params]
+

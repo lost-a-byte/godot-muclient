@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpk5xjnyubp4"
+path="res://.godot/imported/masteryknsw_render.OZJ-766ee556ecafd326790deb343c39a6f6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/masteryknsw_render.OZJ"
+dest_files=["res://.godot/imported/masteryknsw_render.OZJ-766ee556ecafd326790deb343c39a6f6.res"]
+
+[params]
+

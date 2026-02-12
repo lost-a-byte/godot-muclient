@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dj5o43lsvrsly"
+path="res://.godot/imported/Crow01.bmd-9438daaa2117e738bfd0ba9074aabc4e.scn"
+
+[deps]
+
+source_file="res://Data/Object12/Crow01.bmd"
+dest_files=["res://.godot/imported/Crow01.bmd-9438daaa2117e738bfd0ba9074aabc4e.scn"]
+
+[params]
+
+modelScale=0.01

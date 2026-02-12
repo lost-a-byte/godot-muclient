@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnjden1o73y3x"
+path="res://.godot/imported/dark350cape.OZJ-e3b8fb0437b2789f6e40b892d7674b16.res"
+
+[deps]
+
+source_file="res://Data/Player/dark350cape.OZJ"
+dest_files=["res://.godot/imported/dark350cape.OZJ-e3b8fb0437b2789f6e40b892d7674b16.res"]
+
+[params]
+

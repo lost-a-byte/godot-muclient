@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c45t5bnowsl18"
+path="res://.godot/imported/tan.bmd-6442a2a15ce6021a1465f725d1389a53.scn"
+
+[deps]
+
+source_file="res://Data/Item/tan.bmd"
+dest_files=["res://.godot/imported/tan.bmd-6442a2a15ce6021a1465f725d1389a53.scn"]
+
+[params]
+
+modelScale=0.01

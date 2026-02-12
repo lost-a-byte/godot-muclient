@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://di5wnyvs8c044"
+path="res://.godot/imported/entrancered.bmd-5263dc34abce509ae6abc23fca94ae35.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge1/entrancered.bmd"
+dest_files=["res://.godot/imported/entrancered.bmd-5263dc34abce509ae6abc23fca94ae35.scn"]
+
+[params]
+
+modelScale=0.01

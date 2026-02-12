@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drdktybt17myk"
+path="res://.godot/imported/bons_green.OZJ-ddea909d6191fc17285492696a3c78c8.res"
+
+[deps]
+
+source_file="res://Data/Monster/bons_green.OZJ"
+dest_files=["res://.godot/imported/bons_green.OZJ-ddea909d6191fc17285492696a3c78c8.res"]
+
+[params]
+

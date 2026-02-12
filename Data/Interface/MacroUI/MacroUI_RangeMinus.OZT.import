@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvl0ro7dcr852"
+path="res://.godot/imported/MacroUI_RangeMinus.OZT-6d509e604edfa181604652626e45fb09.res"
+
+[deps]
+
+source_file="res://Data/Interface/MacroUI/MacroUI_RangeMinus.OZT"
+dest_files=["res://.godot/imported/MacroUI_RangeMinus.OZT-6d509e604edfa181604652626e45fb09.res"]
+
+[params]
+

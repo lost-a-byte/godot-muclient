@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbse133ghvq5e"
+path="res://.godot/imported/newui_Pet_Back.OZT-dd43745398c46c4ed1d8efee52c9c5f7.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Pet_Back.OZT"
+dest_files=["res://.godot/imported/newui_Pet_Back.OZT-dd43745398c46c4ed1d8efee52c9c5f7.res"]
+
+[params]
+

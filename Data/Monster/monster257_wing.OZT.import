@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dusnu5utevh0f"
+path="res://.godot/imported/monster257_wing.OZT-1ab87801a152301cfad0df32dcb18f45.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster257_wing.OZT"
+dest_files=["res://.godot/imported/monster257_wing.OZT-1ab87801a152301cfad0df32dcb18f45.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cigwyockyn5gb"
+path="res://.godot/imported/so_dog02.OZJ-32b43259000597c32e19ec575603a0dd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_dog02.OZJ"
+dest_files=["res://.godot/imported/so_dog02.OZJ-32b43259000597c32e19ec575603a0dd.res"]
+
+[params]
+

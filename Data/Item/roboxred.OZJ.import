@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcqkpmn0ankxc"
+path="res://.godot/imported/roboxred.OZJ-75e6c7c4674578d468beb3d2f2cf8bf9.res"
+
+[deps]
+
+source_file="res://Data/Item/roboxred.OZJ"
+dest_files=["res://.godot/imported/roboxred.OZJ-75e6c7c4674578d468beb3d2f2cf8bf9.res"]
+
+[params]
+

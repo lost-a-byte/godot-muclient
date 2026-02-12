@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbsxdw3ji8qf7"
+path="res://.godot/imported/cap.OZT-c37ab463bcb0435704aeca6929bad32b.res"
+
+[deps]
+
+source_file="res://Data/Item/cap.OZT"
+dest_files=["res://.godot/imported/cap.OZT-c37ab463bcb0435704aeca6929bad32b.res"]
+
+[params]
+

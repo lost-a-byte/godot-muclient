@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn72g5vsvv3vw"
+path="res://.godot/imported/bloodangel_bow.OZJ-7ea9466ba89e710be2c18de55fd697a0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodangel_bow.OZJ"
+dest_files=["res://.godot/imported/bloodangel_bow.OZJ-7ea9466ba89e710be2c18de55fd697a0.res"]
+
+[params]
+

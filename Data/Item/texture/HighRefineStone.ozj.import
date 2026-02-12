@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxs3emueb3c7q"
+path="res://.godot/imported/HighRefineStone.ozj-d9eeebf3ba60c9c8420bb67c5c47b957.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HighRefineStone.ozj"
+dest_files=["res://.godot/imported/HighRefineStone.ozj-d9eeebf3ba60c9c8420bb67c5c47b957.res"]
+
+[params]
+

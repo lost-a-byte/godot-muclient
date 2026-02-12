@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://vv6grqtp8iu0"
+path="res://.godot/imported/healingscroll.bmd-8e16f09a3a0a84b229fdcb87b274ce97.scn"
+
+[deps]
+
+source_file="res://Data/Item/healingscroll.bmd"
+dest_files=["res://.godot/imported/healingscroll.bmd-8e16f09a3a0a84b229fdcb87b274ce97.scn"]
+
+[params]
+
+modelScale=0.01

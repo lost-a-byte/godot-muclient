@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://be8uhnf5y4evl"
+path="res://.godot/imported/NEWW_R.ozj-c7983baf5ad0827ba965f8db05129354.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NEWW_R.ozj"
+dest_files=["res://.godot/imported/NEWW_R.ozj-c7983baf5ad0827ba965f8db05129354.res"]
+
+[params]
+

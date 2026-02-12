@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://kb8mblljl6fh"
+path="res://.godot/imported/FemaleHead01.bmd-e4f58bce6c6add916bfcea97e6ed6339.scn"
+
+[deps]
+
+source_file="res://Data/NPC/FemaleHead01.bmd"
+dest_files=["res://.godot/imported/FemaleHead01.bmd-e4f58bce6c6add916bfcea97e6ed6339.scn"]
+
+[params]
+
+modelScale=0.01

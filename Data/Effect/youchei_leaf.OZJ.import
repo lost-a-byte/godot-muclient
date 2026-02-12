@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpactrntb8pi8"
+path="res://.godot/imported/youchei_leaf.OZJ-6593babd751616b5762f2eb6ea590cb0.res"
+
+[deps]
+
+source_file="res://Data/Effect/youchei_leaf.OZJ"
+dest_files=["res://.godot/imported/youchei_leaf.OZJ-6593babd751616b5762f2eb6ea590cb0.res"]
+
+[params]
+

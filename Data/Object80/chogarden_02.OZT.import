@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6bp6tb2stghp"
+path="res://.godot/imported/chogarden_02.OZT-eb82e7b94e0ae4d64d6265079b188eff.res"
+
+[deps]
+
+source_file="res://Data/Object80/chogarden_02.OZT"
+dest_files=["res://.godot/imported/chogarden_02.OZT-eb82e7b94e0ae4d64d6265079b188eff.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlwt1aybwbbif"
+path="res://.godot/imported/LesterBWing.OZT-49107c4270e720be774e86d250e0e27b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LesterBWing.OZT"
+dest_files=["res://.godot/imported/LesterBWing.OZT-49107c4270e720be774e86d250e0e27b.res"]
+
+[params]
+

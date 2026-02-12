@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjjnq3rfj3org"
+path="res://.godot/imported/Eldobox.OZJ-3ebb8916e8dea138969c4f1f63302fd5.res"
+
+[deps]
+
+source_file="res://Data/Item/Eldobox.OZJ"
+dest_files=["res://.godot/imported/Eldobox.OZJ-3ebb8916e8dea138969c4f1f63302fd5.res"]
+
+[params]
+

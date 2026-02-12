@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://byh3tpfjj3bqa"
+path="res://.godot/imported/gaionkharein.bmd-de74ee8797eabc9567e1cea4cee00573.scn"
+
+[deps]
+
+source_file="res://Data/Item/gaionkharein.bmd"
+dest_files=["res://.godot/imported/gaionkharein.bmd-de74ee8797eabc9567e1cea4cee00573.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cc8s5niwj076n"
+path="res://.godot/imported/matery_twohandsword.bmd-8bbdec8e8d74dfe8bbb1c880ba960149.scn"
+
+[deps]
+
+source_file="res://Data/Item/matery_twohandsword.bmd"
+dest_files=["res://.godot/imported/matery_twohandsword.bmd-8bbdec8e8d74dfe8bbb1c880ba960149.scn"]
+
+[params]
+
+modelScale=0.01

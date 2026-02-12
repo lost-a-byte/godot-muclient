@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8h44wo2gfsrb"
+path="res://.godot/imported/Imperial_anvil.bmd-76d1c7eebed38b5df5b893b9b338935f.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_anvil.bmd"
+dest_files=["res://.godot/imported/Imperial_anvil.bmd-76d1c7eebed38b5df5b893b9b338935f.scn"]
+
+[params]
+
+modelScale=0.01

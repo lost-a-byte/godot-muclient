@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8mcd6xu3y0vd"
+path="res://.godot/imported/mzine_03.OZJ-1dd3cde6c45b1aec749999ecde0e0ad2.res"
+
+[deps]
+
+source_file="res://Data/Effect/mzine_03.OZJ"
+dest_files=["res://.godot/imported/mzine_03.OZJ-1dd3cde6c45b1aec749999ecde0e0ad2.res"]
+
+[params]
+

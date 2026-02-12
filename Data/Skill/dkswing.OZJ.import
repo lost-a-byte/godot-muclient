@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hqdl31eqn762"
+path="res://.godot/imported/dkswing.OZJ-eeeb0c88bff881854b24c1d49c0fb2db.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkswing.OZJ"
+dest_files=["res://.godot/imported/dkswing.OZJ-eeeb0c88bff881854b24c1d49c0fb2db.res"]
+
+[params]
+

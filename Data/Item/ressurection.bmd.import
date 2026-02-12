@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cupco1v2dbag6"
+path="res://.godot/imported/ressurection.bmd-97655f75f583746c6e121314aff1d3bc.scn"
+
+[deps]
+
+source_file="res://Data/Item/ressurection.bmd"
+dest_files=["res://.godot/imported/ressurection.bmd-97655f75f583746c6e121314aff1d3bc.scn"]
+
+[params]
+
+modelScale=0.01

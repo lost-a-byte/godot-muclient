@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0ek2ekdntwlb"
+path="res://.godot/imported/hide.OZJ-9060f2f9ad02da4709028d8ed6ebe5a4.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/62/hide.OZJ"
+dest_files=["res://.godot/imported/hide.OZJ-9060f2f9ad02da4709028d8ed6ebe5a4.res"]
+
+[params]
+

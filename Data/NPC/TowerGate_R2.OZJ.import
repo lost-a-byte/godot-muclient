@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbhyv3l2wfeqr"
+path="res://.godot/imported/TowerGate_R2.OZJ-436d138b8e10710f2c31a6d24ca01bb5.res"
+
+[deps]
+
+source_file="res://Data/NPC/TowerGate_R2.OZJ"
+dest_files=["res://.godot/imported/TowerGate_R2.OZJ-436d138b8e10710f2c31a6d24ca01bb5.res"]
+
+[params]
+

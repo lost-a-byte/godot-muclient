@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://br5rf0joc35y8"
+path="res://.godot/imported/bulldughair.OZT-a82a187cda820778bb01efe30359bdc0.res"
+
+[deps]
+
+source_file="res://Data/Monster/bulldughair.OZT"
+dest_files=["res://.godot/imported/bulldughair.OZT-a82a187cda820778bb01efe30359bdc0.res"]
+
+[params]
+

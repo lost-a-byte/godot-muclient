@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ditguc1mudonv"
+path="res://.godot/imported/hs_spiritprotection.bmd-1b019750d44725c2b29f80762e31c355.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_spiritprotection.bmd"
+dest_files=["res://.godot/imported/hs_spiritprotection.bmd-1b019750d44725c2b29f80762e31c355.scn"]
+
+[params]
+
+modelScale=0.01

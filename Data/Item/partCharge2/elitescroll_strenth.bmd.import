@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccwv8aefgcwef"
+path="res://.godot/imported/elitescroll_strenth.bmd-a81a0305b5010293cb4dce889c53336b.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/elitescroll_strenth.bmd"
+dest_files=["res://.godot/imported/elitescroll_strenth.bmd-a81a0305b5010293cb4dce889c53336b.scn"]
+
+[params]
+
+modelScale=0.01

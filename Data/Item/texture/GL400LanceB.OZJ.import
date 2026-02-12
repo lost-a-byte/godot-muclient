@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbrqy1dqhfica"
+path="res://.godot/imported/GL400LanceB.OZJ-04b0c7a9375c8a55cf1fb88c3c18a40e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GL400LanceB.OZJ"
+dest_files=["res://.godot/imported/GL400LanceB.OZJ-04b0c7a9375c8a55cf1fb88c3c18a40e.res"]
+
+[params]
+

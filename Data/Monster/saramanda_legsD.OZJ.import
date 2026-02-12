@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3miraaupoa7f"
+path="res://.godot/imported/saramanda_legsD.OZJ-ad313e63f1eb692fd3b80826d5f8b3ba.res"
+
+[deps]
+
+source_file="res://Data/Monster/saramanda_legsD.OZJ"
+dest_files=["res://.godot/imported/saramanda_legsD.OZJ-ad313e63f1eb692fd3b80826d5f8b3ba.res"]
+
+[params]
+

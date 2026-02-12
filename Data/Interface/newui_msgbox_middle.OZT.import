@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnmurvnbbw38s"
+path="res://.godot/imported/newui_msgbox_middle.OZT-dc5cba82ef59297d62b8ef5768e797d8.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_msgbox_middle.OZT"
+dest_files=["res://.godot/imported/newui_msgbox_middle.OZT-dc5cba82ef59297d62b8ef5768e797d8.res"]
+
+[params]
+

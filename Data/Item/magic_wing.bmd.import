@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xxhy0oybu3hp"
+path="res://.godot/imported/magic_wing.bmd-3bfb67d308fe6cd9abf7d1e38226cea9.scn"
+
+[deps]
+
+source_file="res://Data/Item/magic_wing.bmd"
+dest_files=["res://.godot/imported/magic_wing.bmd-3bfb67d308fe6cd9abf7d1e38226cea9.scn"]
+
+[params]
+
+modelScale=0.01

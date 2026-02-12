@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bug00fflaumph"
+path="res://.godot/imported/condolwing.bmd-f7562ede308db23b37f9e034cc2526d3.scn"
+
+[deps]
+
+source_file="res://Data/Item/condolwing.bmd"
+dest_files=["res://.godot/imported/condolwing.bmd-f7562ede308db23b37f9e034cc2526d3.scn"]
+
+[params]
+
+modelScale=0.01

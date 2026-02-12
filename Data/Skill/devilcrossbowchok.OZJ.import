@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn7xhjanorira"
+path="res://.godot/imported/devilcrossbowchok.OZJ-679db18b7464275173a69ff8c5786032.res"
+
+[deps]
+
+source_file="res://Data/Skill/devilcrossbowchok.OZJ"
+dest_files=["res://.godot/imported/devilcrossbowchok.OZJ-679db18b7464275173a69ff8c5786032.res"]
+
+[params]
+

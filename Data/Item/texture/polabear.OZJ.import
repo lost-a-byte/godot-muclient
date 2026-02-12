@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba4srr3b2nq4o"
+path="res://.godot/imported/polabear.OZJ-65546d8736250e71993f93cb82a71dbc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/polabear.OZJ"
+dest_files=["res://.godot/imported/polabear.OZJ-65546d8736250e71993f93cb82a71dbc.res"]
+
+[params]
+

@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://bycl8adox7ca2"]
+
+[ext_resource type="PackedScene" uid="uid://48vywdbvosl0" path="res://Data/Monster/Monster03.bmd" id="1_puyck"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_puyck"]
+
+[node name="Model" unique_id=1334932459 instance=ExtResource("1_puyck")]
+
+[node name="StaticBody3D" type="StaticBody3D" parent="." index="2" unique_id=471960666]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" index="0" unique_id=607823667]
+transform = Transform3D(100, 0, 0, 0, 100, 9.094947e-13, 0, -9.094947e-13, 100, 0, 0, 50)
+shape = SubResource("SphereShape3D_puyck")

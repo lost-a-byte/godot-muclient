@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnwils8o6c1lk"
+path="res://.godot/imported/LowRefineStone.ozj-62cdce674ea7efb2c6896056eb4278cf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LowRefineStone.ozj"
+dest_files=["res://.godot/imported/LowRefineStone.ozj-62cdce674ea7efb2c6896056eb4278cf.res"]
+
+[params]
+

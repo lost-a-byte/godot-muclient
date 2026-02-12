@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://w2ymdpqowgoo"
+path="res://.godot/imported/lpwing.OZJ-c3d80b14026bac08fdd1ae390b7af9d1.res"
+
+[deps]
+
+source_file="res://Data/NPC/lpwing.OZJ"
+dest_files=["res://.godot/imported/lpwing.OZJ-c3d80b14026bac08fdd1ae390b7af9d1.res"]
+
+[params]
+

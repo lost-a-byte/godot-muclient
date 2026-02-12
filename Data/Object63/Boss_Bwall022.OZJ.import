@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt0u8crumlh2n"
+path="res://.godot/imported/Boss_Bwall022.OZJ-5ca1518bc058b718d4bb141657c7339c.res"
+
+[deps]
+
+source_file="res://Data/Object63/Boss_Bwall022.OZJ"
+dest_files=["res://.godot/imported/Boss_Bwall022.OZJ-5ca1518bc058b718d4bb141657c7339c.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://coc2407djf33e"
+path="res://.godot/imported/xmasetree.bmd-e25c9e94f9ae0f9e8ec8cb65b71170a0.scn"
+
+[deps]
+
+source_file="res://Data/Skill/xmasetree.bmd"
+dest_files=["res://.godot/imported/xmasetree.bmd-e25c9e94f9ae0f9e8ec8cb65b71170a0.scn"]
+
+[params]
+
+modelScale=0.01

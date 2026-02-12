@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chhdt2fjqm3ts"
+path="res://.godot/imported/chaos_amulet_manticore.OZJ-e034170f0711576805f52fe051f33cd4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_manticore.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_manticore.OZJ-e034170f0711576805f52fe051f33cd4.res"]
+
+[params]
+

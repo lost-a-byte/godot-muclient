@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cm8xk5il2y5ol"
+path="res://.godot/imported/PhoenixSoul.ozj-5182712835c2e52e3eae64526ef89710.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PhoenixSoul.ozj"
+dest_files=["res://.godot/imported/PhoenixSoul.ozj-5182712835c2e52e3eae64526ef89710.res"]
+
+[params]
+

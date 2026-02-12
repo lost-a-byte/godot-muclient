@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cebjtvewunnjs"
+path="res://.godot/imported/darkload_hair.OZT-957cf6f30cf2ed10e46bac57437b3732.res"
+
+[deps]
+
+source_file="res://Data/Logo/darkload_hair.OZT"
+dest_files=["res://.godot/imported/darkload_hair.OZT-957cf6f30cf2ed10e46bac57437b3732.res"]
+
+[params]
+

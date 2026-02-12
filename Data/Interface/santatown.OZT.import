@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://eurt740gk1ep"
+path="res://.godot/imported/santatown.OZT-d376aa8e57eacaadad425c7007757fe2.res"
+
+[deps]
+
+source_file="res://Data/Interface/santatown.OZT"
+dest_files=["res://.godot/imported/santatown.OZT-d376aa8e57eacaadad425c7007757fe2.res"]
+
+[params]
+

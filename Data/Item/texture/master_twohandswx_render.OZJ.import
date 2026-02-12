@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bd4eqwky5w267"
+path="res://.godot/imported/master_twohandswx_render.OZJ-a0a5951377da06bf0c73d9a2ab5d4ba0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/master_twohandswx_render.OZJ"
+dest_files=["res://.godot/imported/master_twohandswx_render.OZJ-a0a5951377da06bf0c73d9a2ab5d4ba0.res"]
+
+[params]
+

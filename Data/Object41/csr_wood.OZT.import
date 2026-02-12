@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcy41vvrdtgt0"
+path="res://.godot/imported/csr_wood.OZT-e35bad99b77a6306e3cd6a1558415c72.res"
+
+[deps]
+
+source_file="res://Data/Object41/csr_wood.OZT"
+dest_files=["res://.godot/imported/csr_wood.OZT-e35bad99b77a6306e3cd6a1558415c72.res"]
+
+[params]
+

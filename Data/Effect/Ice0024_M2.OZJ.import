@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://de1p3par23k26"
+path="res://.godot/imported/Ice0024_M2.OZJ-0ba33cf22e524811b2c65707ef8b8c6e.res"
+
+[deps]
+
+source_file="res://Data/Effect/Ice0024_M2.OZJ"
+dest_files=["res://.godot/imported/Ice0024_M2.OZJ-0ba33cf22e524811b2c65707ef8b8c6e.res"]
+
+[params]
+

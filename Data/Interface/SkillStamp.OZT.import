@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://batvihewack0x"
+path="res://.godot/imported/SkillStamp.OZT-74c10bc5294ec737308221697e48089b.res"
+
+[deps]
+
+source_file="res://Data/Interface/SkillStamp.OZT"
+dest_files=["res://.godot/imported/SkillStamp.OZT-74c10bc5294ec737308221697e48089b.res"]
+
+[params]
+

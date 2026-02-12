@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dtk8vtx8t36bd"
+path="res://.godot/imported/injang_SD.bmd-296d435e84d43913ba9a75e4313a6139.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge7/injang_SD.bmd"
+dest_files=["res://.godot/imported/injang_SD.bmd-296d435e84d43913ba9a75e4313a6139.scn"]
+
+[params]
+
+modelScale=0.01

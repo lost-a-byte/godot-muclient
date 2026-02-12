@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://468f1yoh8xhv"
+path="res://.godot/imported/blessing.bmd-e2f955c1fc3cb616c264ae6ee89db653.scn"
+
+[deps]
+
+source_file="res://Data/Item/blessing.bmd"
+dest_files=["res://.godot/imported/blessing.bmd-e2f955c1fc3cb616c264ae6ee89db653.scn"]
+
+[params]
+
+modelScale=0.01

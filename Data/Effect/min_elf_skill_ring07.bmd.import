@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b65fgo6ytxlgm"
+path="res://.godot/imported/min_elf_skill_ring07.bmd-47f699842d94743851c23aaf8bee50a3.scn"
+
+[deps]
+
+source_file="res://Data/Effect/min_elf_skill_ring07.bmd"
+dest_files=["res://.godot/imported/min_elf_skill_ring07.bmd-47f699842d94743851c23aaf8bee50a3.scn"]
+
+[params]
+
+modelScale=0.01

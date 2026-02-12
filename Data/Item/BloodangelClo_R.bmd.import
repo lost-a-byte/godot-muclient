@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bqvt4678xe8xw"
+path="res://.godot/imported/BloodangelClo_R.bmd-86cc5f9f8225e316b5bcabd8b6ca80a3.scn"
+
+[deps]
+
+source_file="res://Data/Item/BloodangelClo_R.bmd"
+dest_files=["res://.godot/imported/BloodangelClo_R.bmd-86cc5f9f8225e316b5bcabd8b6ca80a3.scn"]
+
+[params]
+
+modelScale=0.01

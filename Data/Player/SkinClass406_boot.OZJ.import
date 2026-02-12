@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df0bys4mhp4h"
+path="res://.godot/imported/SkinClass406_boot.OZJ-cb3cd1691a80dfed15e188e218d906fc.res"
+
+[deps]
+
+source_file="res://Data/Player/SkinClass406_boot.OZJ"
+dest_files=["res://.godot/imported/SkinClass406_boot.OZJ-cb3cd1691a80dfed15e188e218d906fc.res"]
+
+[params]
+

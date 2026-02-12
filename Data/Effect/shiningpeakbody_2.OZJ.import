@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df7abxu5h2rpp"
+path="res://.godot/imported/shiningpeakbody_2.OZJ-1512a962ceac2f80eb2df1fb0eb59bd4.res"
+
+[deps]
+
+source_file="res://Data/Effect/shiningpeakbody_2.OZJ"
+dest_files=["res://.godot/imported/shiningpeakbody_2.OZJ-1512a962ceac2f80eb2df1fb0eb59bd4.res"]
+
+[params]
+

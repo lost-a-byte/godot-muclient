@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fh7y1pti5nuw"
+path="res://.godot/imported/Goblintail021.OZJ-a28dadc3d794f6ddd344f039c959d0f0.res"
+
+[deps]
+
+source_file="res://Data/Monster/Goblintail021.OZJ"
+dest_files=["res://.godot/imported/Goblintail021.OZJ-a28dadc3d794f6ddd344f039c959d0f0.res"]
+
+[params]
+

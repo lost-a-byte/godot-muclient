@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.enc-terrain-map"
+type="ArrayMesh"
+uid="uid://dukfpdp07eyfm"
+valid=false
+
+[deps]
+
+source_file="res://Data/World75/EncTerrain75.map"
+
+[params]
+
+heightScale=0.015686275

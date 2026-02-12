@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bncjbahiu4078"
+path="res://.godot/imported/bow_d.OZJ-e117daefa2d695ca9a010a7af308be15.res"
+
+[deps]
+
+source_file="res://Data/Skill/bow_d.OZJ"
+dest_files=["res://.godot/imported/bow_d.OZJ-e117daefa2d695ca9a010a7af308be15.res"]
+
+[params]
+

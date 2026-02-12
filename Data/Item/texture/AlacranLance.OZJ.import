@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbuys85oytbp1"
+path="res://.godot/imported/AlacranLance.OZJ-be5a2888cb1d94fda388cd973f66d618.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AlacranLance.OZJ"
+dest_files=["res://.godot/imported/AlacranLance.OZJ-be5a2888cb1d94fda388cd973f66d618.res"]
+
+[params]
+

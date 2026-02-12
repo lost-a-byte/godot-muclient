@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c34fncub76ivt"
+path="res://.godot/imported/parry.OZT-de0b186158d1b20aab78d75cc9305e0f.res"
+
+[deps]
+
+source_file="res://Data/Interface/parry.OZT"
+dest_files=["res://.godot/imported/parry.OZT-de0b186158d1b20aab78d75cc9305e0f.res"]
+
+[params]
+

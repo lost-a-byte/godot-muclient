@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bukxjasycyhao"
+path="res://.godot/imported/dark_muun.bmd-1d19e1adcfb793b8dc32a2647782a179.scn"
+
+[deps]
+
+source_file="res://Data/Item/dark_muun.bmd"
+dest_files=["res://.godot/imported/dark_muun.bmd-1d19e1adcfb793b8dc32a2647782a179.scn"]
+
+[params]
+
+modelScale=0.01

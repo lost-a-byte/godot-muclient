@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj4g1hg7vtuno"
+path="res://.godot/imported/hsguardian01_R.OZJ-520f01bf2d7847f69fd0b58a4c5a9002.res"
+
+[deps]
+
+source_file="res://Data/NPC/hsguardian01_R.OZJ"
+dest_files=["res://.godot/imported/hsguardian01_R.OZJ-520f01bf2d7847f69fd0b58a4c5a9002.res"]
+
+[params]
+

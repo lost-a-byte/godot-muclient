@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djwqym6l58emk"
+path="res://.godot/imported/elfin_wing.ozj-64d2c909e7c3278b8ce524eb29b1b81a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elfin_wing.ozj"
+dest_files=["res://.godot/imported/elfin_wing.ozj-64d2c909e7c3278b8ce524eb29b1b81a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c77gbi3t2t3m0"
+path="res://.godot/imported/Fog.OZJ-4a79b8fa5d5b636bb867ad376c6c1882.res"
+
+[deps]
+
+source_file="res://Data/World143/Fog.OZJ"
+dest_files=["res://.godot/imported/Fog.OZJ-4a79b8fa5d5b636bb867ad376c6c1882.res"]
+
+[params]
+

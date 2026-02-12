@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tqev350wenm8"
+path="res://.godot/imported/elite_monter_ground.OZJ-3b765fca86bf53af0ddb1a0f1a23b661.res"
+
+[deps]
+
+source_file="res://Data/Skill/elite_monter_ground.OZJ"
+dest_files=["res://.godot/imported/elite_monter_ground.OZJ-3b765fca86bf53af0ddb1a0f1a23b661.res"]
+
+[params]
+

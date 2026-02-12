@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy6dtcxpwf4nc"
+path="res://.godot/imported/blood_stomsword_blue.OZJ-c2caa8403ae26b84a5373f812404b80d.res"
+
+[deps]
+
+source_file="res://Data/Effect/blood_stomsword_blue.OZJ"
+dest_files=["res://.godot/imported/blood_stomsword_blue.OZJ-c2caa8403ae26b84a5373f812404b80d.res"]
+
+[params]
+

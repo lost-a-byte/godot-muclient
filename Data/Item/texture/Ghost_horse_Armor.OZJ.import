@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coqqj2pvtnybo"
+path="res://.godot/imported/Ghost_horse_Armor.OZJ-15b7343475173a63eab875d968b3fd62.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ghost_horse_Armor.OZJ"
+dest_files=["res://.godot/imported/Ghost_horse_Armor.OZJ-15b7343475173a63eab875d968b3fd62.res"]
+
+[params]
+

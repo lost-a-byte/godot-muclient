@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3yixpjq1tlos"
+path="res://.godot/imported/sdKDAttackBird01_R.OZJ-fb78a28d78513fc7474443362b680100.res"
+
+[deps]
+
+source_file="res://Data/Effect/sdKDAttackBird01_R.OZJ"
+dest_files=["res://.godot/imported/sdKDAttackBird01_R.OZJ-fb78a28d78513fc7474443362b680100.res"]
+
+[params]
+

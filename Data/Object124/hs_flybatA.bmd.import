@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b5324keupafx0"
+path="res://.godot/imported/hs_flybatA.bmd-982ce42a61fd494e29a32c69a873c6d7.scn"
+
+[deps]
+
+source_file="res://Data/Object124/hs_flybatA.bmd"
+dest_files=["res://.godot/imported/hs_flybatA.bmd-982ce42a61fd494e29a32c69a873c6d7.scn"]
+
+[params]
+
+modelScale=0.01

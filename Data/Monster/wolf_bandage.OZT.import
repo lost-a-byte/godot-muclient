@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxk0mxvme38lg"
+path="res://.godot/imported/wolf_bandage.OZT-df2187062b6447f40aecbc1b59da28d1.res"
+
+[deps]
+
+source_file="res://Data/Monster/wolf_bandage.OZT"
+dest_files=["res://.godot/imported/wolf_bandage.OZT-df2187062b6447f40aecbc1b59da28d1.res"]
+
+[params]
+

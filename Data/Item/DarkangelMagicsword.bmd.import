@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://btktksaiwl3ov"
+path="res://.godot/imported/DarkangelMagicsword.bmd-af004985e72b880dd4f08aee14f28073.scn"
+
+[deps]
+
+source_file="res://Data/Item/DarkangelMagicsword.bmd"
+dest_files=["res://.godot/imported/DarkangelMagicsword.bmd-af004985e72b880dd4f08aee14f28073.scn"]
+
+[params]
+
+modelScale=0.01

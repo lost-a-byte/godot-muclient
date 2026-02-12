@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://e7768aolpt6t"
+path="res://.godot/imported/gsw_skill_darkred.OZJ-6b7729444cd415061b9892a4bb2e33b9.res"
+
+[deps]
+
+source_file="res://Data/Effect/gsw_skill_darkred.OZJ"
+dest_files=["res://.godot/imported/gsw_skill_darkred.OZJ-6b7729444cd415061b9892a4bb2e33b9.res"]
+
+[params]
+

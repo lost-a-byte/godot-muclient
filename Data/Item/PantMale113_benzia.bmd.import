@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cbdwehvxpd2ot"
+path="res://.godot/imported/PantMale113_benzia.bmd-801847bf791fc3597e1dab000ea45cdf.scn"
+
+[deps]
+
+source_file="res://Data/Item/PantMale113_benzia.bmd"
+dest_files=["res://.godot/imported/PantMale113_benzia.bmd-801847bf791fc3597e1dab000ea45cdf.scn"]
+
+[params]
+
+modelScale=0.01

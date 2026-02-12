@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dx8ew7i17qp12"
+path="res://.godot/imported/ground_crack_line01.bmd-be952c170b4bd3dcd29401851bc3c4fd.scn"
+
+[deps]
+
+source_file="res://Data/Effect/ground_crack_line01.bmd"
+dest_files=["res://.godot/imported/ground_crack_line01.bmd-be952c170b4bd3dcd29401851bc3c4fd.scn"]
+
+[params]
+
+modelScale=0.01

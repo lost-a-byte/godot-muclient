@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://babog0jf1ipq3"
+path="res://.godot/imported/devilsquare.OZT-706cb0d7ee970b2bfe0d4a76de38386f.res"
+
+[deps]
+
+source_file="res://Data/Interface/devilsquare.OZT"
+dest_files=["res://.godot/imported/devilsquare.OZT-706cb0d7ee970b2bfe0d4a76de38386f.res"]
+
+[params]
+

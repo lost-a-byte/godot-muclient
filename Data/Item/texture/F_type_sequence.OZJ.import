@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c16ofl7fap6qw"
+path="res://.godot/imported/F_type_sequence.OZJ-513b0a675f866c89dc1795aa6de38d54.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/F_type_sequence.OZJ"
+dest_files=["res://.godot/imported/F_type_sequence.OZJ-513b0a675f866c89dc1795aa6de38d54.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dplms1m20djdw"
+path="res://.godot/imported/branch.OZJ-95d1d58d0f26177ccfa9ef66ad681791.res"
+
+[deps]
+
+source_file="res://Data/Monster/branch.OZJ"
+dest_files=["res://.godot/imported/branch.OZJ-95d1d58d0f26177ccfa9ef66ad681791.res"]
+
+[params]
+

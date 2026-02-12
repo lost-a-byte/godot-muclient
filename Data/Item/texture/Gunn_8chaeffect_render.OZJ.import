@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coj0omu1xm4ej"
+path="res://.godot/imported/Gunn_8chaeffect_render.OZJ-9ba1d053c1a355d10ba15b2913bc62c9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Gunn_8chaeffect_render.OZJ"
+dest_files=["res://.godot/imported/Gunn_8chaeffect_render.OZJ-9ba1d053c1a355d10ba15b2913bc62c9.res"]
+
+[params]
+

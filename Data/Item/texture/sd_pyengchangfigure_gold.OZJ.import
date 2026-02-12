@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnvgvvui6kjh5"
+path="res://.godot/imported/sd_pyengchangfigure_gold.OZJ-9f969f16a237b99f5527a77d8b09439d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_pyengchangfigure_gold.OZJ"
+dest_files=["res://.godot/imported/sd_pyengchangfigure_gold.OZJ-9f969f16a237b99f5527a77d8b09439d.res"]
+
+[params]
+

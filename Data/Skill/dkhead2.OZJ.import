@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djdk1t3j5qcoe"
+path="res://.godot/imported/dkhead2.OZJ-46d247e5c7ccfb35cae0c2eeec8a165e.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkhead2.OZJ"
+dest_files=["res://.godot/imported/dkhead2.OZJ-46d247e5c7ccfb35cae0c2eeec8a165e.res"]
+
+[params]
+

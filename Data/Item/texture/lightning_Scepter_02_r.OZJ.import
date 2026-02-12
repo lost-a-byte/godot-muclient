@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://h8y820wkprjw"
+path="res://.godot/imported/lightning_Scepter_02_r.OZJ-7190a1f7a5f58524d9ddc7eda24f978c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_Scepter_02_r.OZJ"
+dest_files=["res://.godot/imported/lightning_Scepter_02_r.OZJ-7190a1f7a5f58524d9ddc7eda24f978c.res"]
+
+[params]
+

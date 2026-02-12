@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cli0fhqhbc6tl"
+path="res://.godot/imported/rune_skill5_01_sphere.bmd-f9dc27903cbdb051df625c4856fb2c21.scn"
+
+[deps]
+
+source_file="res://Data/Effect/rune_skill5_01_sphere.bmd"
+dest_files=["res://.godot/imported/rune_skill5_01_sphere.bmd-f9dc27903cbdb051df625c4856fb2c21.scn"]
+
+[params]
+
+modelScale=0.01

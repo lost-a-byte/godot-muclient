@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cclr3nqksioj0"
+path="res://.godot/imported/newui_durable_wing.OZT-a7b528c1b9566c992fad5263be2ecb2b.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_wing.OZT"
+dest_files=["res://.godot/imported/newui_durable_wing.OZT-a7b528c1b9566c992fad5263be2ecb2b.res"]
+
+[params]
+

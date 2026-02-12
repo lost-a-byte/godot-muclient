@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvemohg7d7lei"
+path="res://.godot/imported/CGuarEnStone.bmd-9f20e427d1a5a0ab0f299ae50575d490.scn"
+
+[deps]
+
+source_file="res://Data/Item/CGuarEnStone.bmd"
+dest_files=["res://.godot/imported/CGuarEnStone.bmd-9f20e427d1a5a0ab0f299ae50575d490.scn"]
+
+[params]
+
+modelScale=0.01

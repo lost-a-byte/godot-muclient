@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3075tdfwlnqa"
+path="res://.godot/imported/alicewing_leather.ozt-06d15632ee21ac1f1b0ebe83529abb2b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/alicewing_leather.ozt"
+dest_files=["res://.godot/imported/alicewing_leather.ozt-06d15632ee21ac1f1b0ebe83529abb2b.res"]
+
+[params]
+

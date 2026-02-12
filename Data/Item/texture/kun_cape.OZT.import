@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dab3wjmoxnip7"
+path="res://.godot/imported/kun_cape.OZT-8747ea2f13e2b3da880d30699ced34a3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kun_cape.OZT"
+dest_files=["res://.godot/imported/kun_cape.OZT-8747ea2f13e2b3da880d30699ced34a3.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d38462axw5vps"
+path="res://.godot/imported/MagicCircle01.bmd-4313fd10e669bfaabd8d0ca122a2e0ac.scn"
+
+[deps]
+
+source_file="res://Data/Skill/MagicCircle01.bmd"
+dest_files=["res://.godot/imported/MagicCircle01.bmd-4313fd10e669bfaabd8d0ca122a2e0ac.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f4e00oayb5ja"
+path="res://.godot/imported/bkmoon.OZJ-ac6750ab45d752afdb5f3a0c9c537762.res"
+
+[deps]
+
+source_file="res://Data/Logo/bkmoon.OZJ"
+dest_files=["res://.godot/imported/bkmoon.OZJ-ac6750ab45d752afdb5f3a0c9c537762.res"]
+
+[params]
+

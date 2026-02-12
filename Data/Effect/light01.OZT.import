@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdjq7rhmqj1qh"
+path="res://.godot/imported/light01.OZT-d40badda1126c6126bd3081696990f1e.res"
+
+[deps]
+
+source_file="res://Data/Effect/light01.OZT"
+dest_files=["res://.godot/imported/light01.OZT-d40badda1126c6126bd3081696990f1e.res"]
+
+[params]
+

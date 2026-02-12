@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nxbo5l74yena"
+path="res://.godot/imported/newui_btn_empty_very_small.OZT-4ed17fe659de17c2155a2affcac34fd7.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_btn_empty_very_small.OZT"
+dest_files=["res://.godot/imported/newui_btn_empty_very_small.OZT-4ed17fe659de17c2155a2affcac34fd7.res"]
+
+[params]
+

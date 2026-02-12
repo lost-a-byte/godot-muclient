@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj80surnet4gh"
+path="res://.godot/imported/Ellimental_Elf_2.OZJ-ac8a1ab525da1ef9293992b6bb372953.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ellimental_Elf_2.OZJ"
+dest_files=["res://.godot/imported/Ellimental_Elf_2.OZJ-ac8a1ab525da1ef9293992b6bb372953.res"]
+
+[params]
+

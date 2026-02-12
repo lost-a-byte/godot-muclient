@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnohfx84nv336"
+path="res://.godot/imported/armor_skirt.OZJ-e612d0f037fa8498e2effb828da92632.res"
+
+[deps]
+
+source_file="res://Data/Player/armor_skirt.OZJ"
+dest_files=["res://.godot/imported/armor_skirt.OZJ-e612d0f037fa8498e2effb828da92632.res"]
+
+[params]
+

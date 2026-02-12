@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://tsxwna2b1t73"
+path="res://.godot/imported/pinocchioUp.bmd-6968d7cd299aeb705ffc0de6a8127ee0.scn"
+
+[deps]
+
+source_file="res://Data/Item/pinocchioUp.bmd"
+dest_files=["res://.godot/imported/pinocchioUp.bmd-6968d7cd299aeb705ffc0de6a8127ee0.scn"]
+
+[params]
+
+modelScale=0.01

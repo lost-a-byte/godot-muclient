@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctfrt3ouvnu2y"
+path="res://.godot/imported/shieldruneB.OZJ-af134fc23d3210ab54eb4446544fa5ef.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/shieldruneB.OZJ"
+dest_files=["res://.godot/imported/shieldruneB.OZJ-af134fc23d3210ab54eb4446544fa5ef.res"]
+
+[params]
+

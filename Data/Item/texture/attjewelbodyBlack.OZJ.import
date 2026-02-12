@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btcb4d1fq84i"
+path="res://.godot/imported/attjewelbodyBlack.OZJ-33d19404ce7d15fae8dc6c029be5e39e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/attjewelbodyBlack.OZJ"
+dest_files=["res://.godot/imported/attjewelbodyBlack.OZJ-33d19404ce7d15fae8dc6c029be5e39e.res"]
+
+[params]
+

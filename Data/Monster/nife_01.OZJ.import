@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7uf21silbr5"
+path="res://.godot/imported/nife_01.OZJ-5951d89504a92a6150b520ad97561223.res"
+
+[deps]
+
+source_file="res://Data/Monster/nife_01.OZJ"
+dest_files=["res://.godot/imported/nife_01.OZJ-5951d89504a92a6150b520ad97561223.res"]
+
+[params]
+

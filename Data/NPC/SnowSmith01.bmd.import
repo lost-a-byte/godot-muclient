@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3p3lu4l37yep"
+path="res://.godot/imported/SnowSmith01.bmd-547ec357336abb3b0c65e011503d2d93.scn"
+
+[deps]
+
+source_file="res://Data/NPC/SnowSmith01.bmd"
+dest_files=["res://.godot/imported/SnowSmith01.bmd-547ec357336abb3b0c65e011503d2d93.scn"]
+
+[params]
+
+modelScale=0.01

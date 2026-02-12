@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cqvchdahag1gy"
+path="res://.godot/imported/alice1wing.bmd-3ba934c71a7088924bbfea4374a0cd69.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/alice1wing.bmd"
+dest_files=["res://.godot/imported/alice1wing.bmd-3ba934c71a7088924bbfea4374a0cd69.scn"]
+
+[params]
+
+modelScale=0.01

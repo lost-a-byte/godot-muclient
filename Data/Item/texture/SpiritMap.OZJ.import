@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://r8smtda4kyjo"
+path="res://.godot/imported/SpiritMap.OZJ-2b480070ffb7c72dcde8b2ff6d5c5d5c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpiritMap.OZJ"
+dest_files=["res://.godot/imported/SpiritMap.OZJ-2b480070ffb7c72dcde8b2ff6d5c5d5c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cme67sofmw358"
+path="res://.godot/imported/pawang.OZT-1e487d1c5b75590ff6420a8975d9368b.res"
+
+[deps]
+
+source_file="res://Data/Skill/pawang.OZT"
+dest_files=["res://.godot/imported/pawang.OZT-1e487d1c5b75590ff6420a8975d9368b.res"]
+
+[params]
+

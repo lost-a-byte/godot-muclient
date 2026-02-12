@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cyjc4j3xh0e7b"
+path="res://.godot/imported/shockwave_ground01.bmd-1debec90510e3177640d2d9b2d865c6f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/shockwave_ground01.bmd"
+dest_files=["res://.godot/imported/shockwave_ground01.bmd-1debec90510e3177640d2d9b2d865c6f.scn"]
+
+[params]
+
+modelScale=0.01

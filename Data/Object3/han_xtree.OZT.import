@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b42b6uvk6nfrf"
+path="res://.godot/imported/han_xtree.OZT-6a098d432b0531e857204a27d113d2ae.res"
+
+[deps]
+
+source_file="res://Data/Object3/han_xtree.OZT"
+dest_files=["res://.godot/imported/han_xtree.OZT-6a098d432b0531e857204a27d113d2ae.res"]
+
+[params]
+

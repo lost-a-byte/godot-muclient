@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7carodd1dues"
+path="res://.godot/imported/lava.OZJ-9efa511c03343ca7462a344e4590273a.res"
+
+[deps]
+
+source_file="res://Data/Effect/lava.OZJ"
+dest_files=["res://.godot/imported/lava.OZJ-9efa511c03343ca7462a344e4590273a.res"]
+
+[params]
+

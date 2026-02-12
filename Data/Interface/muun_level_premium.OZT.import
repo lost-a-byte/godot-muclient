@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcef0civ1jjej"
+path="res://.godot/imported/muun_level_premium.OZT-cd79759a46002ae35013510c92d61dd1.res"
+
+[deps]
+
+source_file="res://Data/Interface/muun_level_premium.OZT"
+dest_files=["res://.godot/imported/muun_level_premium.OZT-cd79759a46002ae35013510c92d61dd1.res"]
+
+[params]
+

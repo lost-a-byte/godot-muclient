@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx286xbir4l8y"
+path="res://.godot/imported/song_tree01.OZJ-9d415b684456e0ff7cec5258f683beb7.res"
+
+[deps]
+
+source_file="res://Data/Object80/song_tree01.OZJ"
+dest_files=["res://.godot/imported/song_tree01.OZJ-9d415b684456e0ff7cec5258f683beb7.res"]
+
+[params]
+

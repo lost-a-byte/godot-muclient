@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3huy7cld1ikg"
+path="res://.godot/imported/cloudLight.OZJ-2b21cced788b64108fbd5c5212d3dd1e.res"
+
+[deps]
+
+source_file="res://Data/Effect/cloudLight.OZJ"
+dest_files=["res://.godot/imported/cloudLight.OZJ-2b21cced788b64108fbd5c5212d3dd1e.res"]
+
+[params]
+

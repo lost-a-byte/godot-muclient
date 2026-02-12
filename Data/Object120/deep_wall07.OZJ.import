@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5se6p0nbkvv2"
+path="res://.godot/imported/deep_wall07.OZJ-f9eab28992fede1874fbef8d989267eb.res"
+
+[deps]
+
+source_file="res://Data/Object120/deep_wall07.OZJ"
+dest_files=["res://.godot/imported/deep_wall07.OZJ-f9eab28992fede1874fbef8d989267eb.res"]
+
+[params]
+

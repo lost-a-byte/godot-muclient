@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bi8f3etqkqef"
+path="res://.godot/imported/pants02.OZT-9eeac312fe35f02a8f954a371d725a5c.res"
+
+[deps]
+
+source_file="res://Data/Player/pants02.OZT"
+dest_files=["res://.godot/imported/pants02.OZT-9eeac312fe35f02a8f954a371d725a5c.res"]
+
+[params]
+

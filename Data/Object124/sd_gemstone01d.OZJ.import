@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bosr85h7kmtka"
+path="res://.godot/imported/sd_gemstone01d.OZJ-1d85f761dca92a3ee08abaef6771aa70.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_gemstone01d.OZJ"
+dest_files=["res://.godot/imported/sd_gemstone01d.OZJ-1d85f761dca92a3ee08abaef6771aa70.res"]
+
+[params]
+

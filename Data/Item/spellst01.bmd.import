@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://jkg64jv55mlk"
+path="res://.godot/imported/spellst01.bmd-13b9ab4fd7517a75e6d74409b7359609.scn"
+
+[deps]
+
+source_file="res://Data/Item/spellst01.bmd"
+dest_files=["res://.godot/imported/spellst01.bmd-13b9ab4fd7517a75e6d74409b7359609.scn"]
+
+[params]
+
+modelScale=0.01

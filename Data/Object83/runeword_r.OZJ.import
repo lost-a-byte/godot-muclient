@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmqxp8enjijdj"
+path="res://.godot/imported/runeword_r.OZJ-2f3818cad4fb37739ca9a7cf5b731384.res"
+
+[deps]
+
+source_file="res://Data/Object83/runeword_r.OZJ"
+dest_files=["res://.godot/imported/runeword_r.OZJ-2f3818cad4fb37739ca9a7cf5b731384.res"]
+
+[params]
+

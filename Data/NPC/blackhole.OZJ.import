@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gm0ffscumjvh"
+path="res://.godot/imported/blackhole.OZJ-8da84a2b389e7aca1f4ce3e67f188605.res"
+
+[deps]
+
+source_file="res://Data/NPC/blackhole.OZJ"
+dest_files=["res://.godot/imported/blackhole.OZJ-8da84a2b389e7aca1f4ce3e67f188605.res"]
+
+[params]
+

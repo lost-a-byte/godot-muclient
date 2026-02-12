@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvloglei11kx8"
+path="res://.godot/imported/fairywing.OZJ-ca171e45b148ee0773cd4d0c3e216ebc.res"
+
+[deps]
+
+source_file="res://Data/Monster/fairywing.OZJ"
+dest_files=["res://.godot/imported/fairywing.OZJ-ca171e45b148ee0773cd4d0c3e216ebc.res"]
+
+[params]
+

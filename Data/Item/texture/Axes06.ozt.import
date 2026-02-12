@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cun4gqnmgr0oe"
+path="res://.godot/imported/Axes06.ozt-8d3040bc4eed7a6dee14e7dd013d8f0b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Axes06.ozt"
+dest_files=["res://.godot/imported/Axes06.ozt-8d3040bc4eed7a6dee14e7dd013d8f0b.res"]
+
+[params]
+

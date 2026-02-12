@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx04sxhgxilbj"
+path="res://.godot/imported/lobster.OZJ-9d70210c9fd19d699bd76a21474f9727.res"
+
+[deps]
+
+source_file="res://Data/Monster/lobster.OZJ"
+dest_files=["res://.godot/imported/lobster.OZJ-9d70210c9fd19d699bd76a21474f9727.res"]
+
+[params]
+

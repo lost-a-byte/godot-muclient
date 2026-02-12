@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cokocnuvxw3tj"
+path="res://.godot/imported/darkGlove.OZJ-1dd912ae9e325b129a52c4ea38bf2801.res"
+
+[deps]
+
+source_file="res://Data/Logo/darkGlove.OZJ"
+dest_files=["res://.godot/imported/darkGlove.OZJ-1dd912ae9e325b129a52c4ea38bf2801.res"]
+
+[params]
+

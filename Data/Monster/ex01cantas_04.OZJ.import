@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7p4fkbhgmvk8"
+path="res://.godot/imported/ex01cantas_04.OZJ-0a353859cae5eb086186d17681ec93ba.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01cantas_04.OZJ"
+dest_files=["res://.godot/imported/ex01cantas_04.OZJ-0a353859cae5eb086186d17681ec93ba.res"]
+
+[params]
+

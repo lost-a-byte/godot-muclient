@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bj1kvj1vp2o2t"
+path="res://.godot/imported/growlance400shield.bmd-6a6d8cf1c7fd175f3ebe093d4ea1a29d.scn"
+
+[deps]
+
+source_file="res://Data/Item/growlance400shield.bmd"
+dest_files=["res://.godot/imported/growlance400shield.bmd-6a6d8cf1c7fd175f3ebe093d4ea1a29d.scn"]
+
+[params]
+
+modelScale=0.01

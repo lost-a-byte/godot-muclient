@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgxm3aoyxtw16"
+path="res://.godot/imported/MingFlagRed.OZT-bf0b53f56402b29f781d11a2fdf12d0f.res"
+
+[deps]
+
+source_file="res://Data/Object72/MingFlagRed.OZT"
+dest_files=["res://.godot/imported/MingFlagRed.OZT-bf0b53f56402b29f781d11a2fdf12d0f.res"]
+
+[params]
+

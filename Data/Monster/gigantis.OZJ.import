@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2nyfwesm1lkv"
+path="res://.godot/imported/gigantis.OZJ-96040663f88c0411246682ee20e141be.res"
+
+[deps]
+
+source_file="res://Data/Monster/gigantis.OZJ"
+dest_files=["res://.godot/imported/gigantis.OZJ-96040663f88c0411246682ee20e141be.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcj46c5kx1u2y"
+path="res://.godot/imported/Nixwind2.OZJ-9c36dc38bbdad62b1ac0a0b97270b20b.res"
+
+[deps]
+
+source_file="res://Data/Monster/Nixwind2.OZJ"
+dest_files=["res://.godot/imported/Nixwind2.OZJ-9c36dc38bbdad62b1ac0a0b97270b20b.res"]
+
+[params]
+

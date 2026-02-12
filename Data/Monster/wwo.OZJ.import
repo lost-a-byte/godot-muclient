@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://defhv02kfqqsu"
+path="res://.godot/imported/wwo.OZJ-970fd7385b1225c3bb374cf0a0c599bb.res"
+
+[deps]
+
+source_file="res://Data/Monster/wwo.OZJ"
+dest_files=["res://.godot/imported/wwo.OZJ-970fd7385b1225c3bb374cf0a0c599bb.res"]
+
+[params]
+

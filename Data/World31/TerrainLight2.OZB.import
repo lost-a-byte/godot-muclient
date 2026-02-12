@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.terrain-height"
+type="HeightMapShape3D"
+uid="uid://ccqp0852y2qvv"
+path="res://.godot/imported/TerrainLight2.OZB-83d54948eddde980cee7f9ff745fd564.tres"
+
+[deps]
+
+source_file="res://Data/World31/TerrainLight2.OZB"
+dest_files=["res://.godot/imported/TerrainLight2.OZB-83d54948eddde980cee7f9ff745fd564.tres"]
+
+[params]
+
+heightScale=0.015686275

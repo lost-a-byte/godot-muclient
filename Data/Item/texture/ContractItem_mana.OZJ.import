@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6kb0hybdgipe"
+path="res://.godot/imported/ContractItem_mana.OZJ-ccdec60c2e9186fc4065c9d2dddab4cf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ContractItem_mana.OZJ"
+dest_files=["res://.godot/imported/ContractItem_mana.OZJ-ccdec60c2e9186fc4065c9d2dddab4cf.res"]
+
+[params]
+

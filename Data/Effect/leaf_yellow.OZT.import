@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctvn6l6lg18nq"
+path="res://.godot/imported/leaf_yellow.OZT-6fa317545515795b1a2a0d0aed617753.res"
+
+[deps]
+
+source_file="res://Data/Effect/leaf_yellow.OZT"
+dest_files=["res://.godot/imported/leaf_yellow.OZT-6fa317545515795b1a2a0d0aed617753.res"]
+
+[params]
+

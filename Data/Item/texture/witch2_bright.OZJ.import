@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhx0at7pl1qk"
+path="res://.godot/imported/witch2_bright.OZJ-eaa25548465bef75739be8816b8a0358.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/witch2_bright.OZJ"
+dest_files=["res://.godot/imported/witch2_bright.OZJ-eaa25548465bef75739be8816b8a0358.res"]
+
+[params]
+

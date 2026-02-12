@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0affrcir6rht"
+path="res://.godot/imported/lighting_mega01.OZJ-a2d01e65cec0ee863373cc1ea346a7eb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lighting_mega01.OZJ"
+dest_files=["res://.godot/imported/lighting_mega01.OZJ-a2d01e65cec0ee863373cc1ea346a7eb.res"]
+
+[params]
+

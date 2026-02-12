@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3pw1qkll7w5n"
+path="res://.godot/imported/Scochid_assassin_effect_B.OZJ-acbb1b07ca730ce6cbca3d2227ae0780.res"
+
+[deps]
+
+source_file="res://Data/Monster/Scochid_assassin_effect_B.OZJ"
+dest_files=["res://.godot/imported/Scochid_assassin_effect_B.OZJ-acbb1b07ca730ce6cbca3d2227ae0780.res"]
+
+[params]
+

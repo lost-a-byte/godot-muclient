@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3cq2ua5u0mq0"
+path="res://.godot/imported/necklace_growth2.OZJ-451dd39dae2a87403511f5efa113e8d2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/necklace_growth2.OZJ"
+dest_files=["res://.godot/imported/necklace_growth2.OZJ-451dd39dae2a87403511f5efa113e8d2.res"]
+
+[params]
+

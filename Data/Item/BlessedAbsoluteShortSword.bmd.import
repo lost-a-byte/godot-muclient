@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjgx7pvwfdglm"
+path="res://.godot/imported/BlessedAbsoluteShortSword.bmd-4621dda447826d45629c81bf608fa255.scn"
+
+[deps]
+
+source_file="res://Data/Item/BlessedAbsoluteShortSword.bmd"
+dest_files=["res://.godot/imported/BlessedAbsoluteShortSword.bmd-4621dda447826d45629c81bf608fa255.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fxr6et47no1g"
+path="res://.godot/imported/bloodclaw2_render.OZJ-b18061866b7d8c46c0cd313024aea41c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodclaw2_render.OZJ"
+dest_files=["res://.godot/imported/bloodclaw2_render.OZJ-b18061866b7d8c46c0cd313024aea41c.res"]
+
+[params]
+

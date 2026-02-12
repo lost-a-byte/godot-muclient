@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://156su3hwd8dr"
+path="res://.godot/imported/voloE.OZJ-6d595613c8d29e4151969b37c76c0f07.res"
+
+[deps]
+
+source_file="res://Data/NPC/voloE.OZJ"
+dest_files=["res://.godot/imported/voloE.OZJ-6d595613c8d29e4151969b37c76c0f07.res"]
+
+[params]
+

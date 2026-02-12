@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpxs0jfsosin"
+path="res://.godot/imported/panda_pink_body.OZJ-606aac71dcdb9bb5def2b2e762505336.res"
+
+[deps]
+
+source_file="res://Data/Item/panda_pink_body.OZJ"
+dest_files=["res://.godot/imported/panda_pink_body.OZJ-606aac71dcdb9bb5def2b2e762505336.res"]
+
+[params]
+

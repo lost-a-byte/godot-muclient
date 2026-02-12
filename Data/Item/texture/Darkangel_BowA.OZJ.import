@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3j8503866dam"
+path="res://.godot/imported/Darkangel_BowA.OZJ-e3879da3678ca0e60da6e72a90faba71.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Darkangel_BowA.OZJ"
+dest_files=["res://.godot/imported/Darkangel_BowA.OZJ-e3879da3678ca0e60da6e72a90faba71.res"]
+
+[params]
+

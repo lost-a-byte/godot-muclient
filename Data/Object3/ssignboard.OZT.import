@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bo6rdb3o5eb10"
+path="res://.godot/imported/ssignboard.OZT-0a45fa6bcf82fceeb975ce5ee8df11b3.res"
+
+[deps]
+
+source_file="res://Data/Object3/ssignboard.OZT"
+dest_files=["res://.godot/imported/ssignboard.OZT-0a45fa6bcf82fceeb975ce5ee8df11b3.res"]
+
+[params]
+

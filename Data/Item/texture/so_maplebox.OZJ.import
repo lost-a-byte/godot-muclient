@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1m3sb1bsedg0"
+path="res://.godot/imported/so_maplebox.OZJ-44fc0b013c0adf758969801c3c700847.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_maplebox.OZJ"
+dest_files=["res://.godot/imported/so_maplebox.OZJ-44fc0b013c0adf758969801c3c700847.res"]
+
+[params]
+

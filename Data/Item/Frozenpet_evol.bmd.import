@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjttn4aqvm0ps"
+path="res://.godot/imported/Frozenpet_evol.bmd-ceea325112b0057c05f3193cfd38716a.scn"
+
+[deps]
+
+source_file="res://Data/Item/Frozenpet_evol.bmd"
+dest_files=["res://.godot/imported/Frozenpet_evol.bmd-ceea325112b0057c05f3193cfd38716a.scn"]
+
+[params]
+
+modelScale=0.01

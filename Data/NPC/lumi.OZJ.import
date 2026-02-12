@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqu5d3nii5t55"
+path="res://.godot/imported/lumi.OZJ-e2328e4181a439bfe7eef2d2000b6028.res"
+
+[deps]
+
+source_file="res://Data/NPC/lumi.OZJ"
+dest_files=["res://.godot/imported/lumi.OZJ-e2328e4181a439bfe7eef2d2000b6028.res"]
+
+[params]
+

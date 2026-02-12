@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jrj32k4mfqq8"
+path="res://.godot/imported/Item2112_Cloak.OZT-1982f134ef9f86610aee32a442914743.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item2112_Cloak.OZT"
+dest_files=["res://.godot/imported/Item2112_Cloak.OZT-1982f134ef9f86610aee32a442914743.res"]
+
+[params]
+

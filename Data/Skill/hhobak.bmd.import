@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://i8dhsc6ice30"
+path="res://.godot/imported/hhobak.bmd-7a0067760945a7f995a2da78dbf15f29.scn"
+
+[deps]
+
+source_file="res://Data/Skill/hhobak.bmd"
+dest_files=["res://.godot/imported/hhobak.bmd-7a0067760945a7f995a2da78dbf15f29.scn"]
+
+[params]
+
+modelScale=0.01

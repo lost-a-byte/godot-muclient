@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkkpr0e3w63v4"
+path="res://.godot/imported/ksing03.ozj-ba095d326eb5778f0d59d2d804fcac18.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ksing03.ozj"
+dest_files=["res://.godot/imported/ksing03.ozj-ba095d326eb5778f0d59d2d804fcac18.res"]
+
+[params]
+

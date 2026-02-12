@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cciud5ikt6dls"
+path="res://.godot/imported/volcano_stoneblack.OZJ-a84bbd38cdb08c230d3a7365625c0454.res"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_stoneblack.OZJ"
+dest_files=["res://.godot/imported/volcano_stoneblack.OZJ-a84bbd38cdb08c230d3a7365625c0454.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d1koswfeh80td"
+path="res://.godot/imported/CrazyWind.bmd-eaa127d0f2f6b6702905b98fad517967.scn"
+
+[deps]
+
+source_file="res://Data/Item/CrazyWind.bmd"
+dest_files=["res://.godot/imported/CrazyWind.bmd-eaa127d0f2f6b6702905b98fad517967.scn"]
+
+[params]
+
+modelScale=0.01

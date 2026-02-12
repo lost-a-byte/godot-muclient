@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://310a6v1uef0u"
+path="res://.godot/imported/kun_book2.OZJ-42f3781751d903214061f9a196137d77.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kun_book2.OZJ"
+dest_files=["res://.godot/imported/kun_book2.OZJ-42f3781751d903214061f9a196137d77.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3u2rucywyjj7"
+path="res://.godot/imported/mastery_staff206.OZJ-9e5f310ac3870bd445123758c895fffd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mastery_staff206.OZJ"
+dest_files=["res://.godot/imported/mastery_staff206.OZJ-9e5f310ac3870bd445123758c895fffd.res"]
+
+[params]
+

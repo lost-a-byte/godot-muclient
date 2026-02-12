@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmlbwsdmpd7vt"
+path="res://.godot/imported/Giant_GrowLancer_Neon_render.OZJ-1fda304e3e781cd5e929fc0c26295399.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_GrowLancer_Neon_render.OZJ"
+dest_files=["res://.godot/imported/Giant_GrowLancer_Neon_render.OZJ-1fda304e3e781cd5e929fc0c26295399.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqeoi8kpkdq5y"
+path="res://.godot/imported/ex01busersword.OZJ-e5f115fd722152a4b879f9befc77f353.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01busersword.OZJ"
+dest_files=["res://.godot/imported/ex01busersword.OZJ-e5f115fd722152a4b879f9befc77f353.res"]
+
+[params]
+

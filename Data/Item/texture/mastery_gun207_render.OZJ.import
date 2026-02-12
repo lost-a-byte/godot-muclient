@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8kove6c4kmw"
+path="res://.godot/imported/mastery_gun207_render.OZJ-2b72d554b2ccee3ef56f916f53b45422.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mastery_gun207_render.OZJ"
+dest_files=["res://.godot/imported/mastery_gun207_render.OZJ-2b72d554b2ccee3ef56f916f53b45422.res"]
+
+[params]
+

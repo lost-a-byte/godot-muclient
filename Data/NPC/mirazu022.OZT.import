@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kdgtghwiqql5"
+path="res://.godot/imported/mirazu022.OZT-e7f43f1c1a2e09ed943340d99cccb7b7.res"
+
+[deps]
+
+source_file="res://Data/NPC/mirazu022.OZT"
+dest_files=["res://.godot/imported/mirazu022.OZT-e7f43f1c1a2e09ed943340d99cccb7b7.res"]
+
+[params]
+

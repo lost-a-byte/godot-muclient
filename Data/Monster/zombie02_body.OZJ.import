@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhn52wvoh6cao"
+path="res://.godot/imported/zombie02_body.OZJ-938ad088f4230bc6fe408c22d2be8f14.res"
+
+[deps]
+
+source_file="res://Data/Monster/zombie02_body.OZJ"
+dest_files=["res://.godot/imported/zombie02_body.OZJ-938ad088f4230bc6fe408c22d2be8f14.res"]
+
+[params]
+

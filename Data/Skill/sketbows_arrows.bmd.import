@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dgyaqycxc1odl"
+path="res://.godot/imported/sketbows_arrows.bmd-6dd04fd88c689f8c4a65c231bb5af503.scn"
+
+[deps]
+
+source_file="res://Data/Skill/sketbows_arrows.bmd"
+dest_files=["res://.godot/imported/sketbows_arrows.bmd-6dd04fd88c689f8c4a65c231bb5af503.scn"]
+
+[params]
+
+modelScale=0.01

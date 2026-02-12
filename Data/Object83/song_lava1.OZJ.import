@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwcpvnnjlwo08"
+path="res://.godot/imported/song_lava1.OZJ-e9ccd49c29140ab5cc68fc3f7fa43677.res"
+
+[deps]
+
+source_file="res://Data/Object83/song_lava1.OZJ"
+dest_files=["res://.godot/imported/song_lava1.OZJ-e9ccd49c29140ab5cc68fc3f7fa43677.res"]
+
+[params]
+

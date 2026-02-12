@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsxop8pa16s1i"
+path="res://.godot/imported/ship06.OZT-58b31b3100764290d237833f1d71a027.res"
+
+[deps]
+
+source_file="res://Data/Object1/ship06.OZT"
+dest_files=["res://.godot/imported/ship06.OZT-58b31b3100764290d237833f1d71a027.res"]
+
+[params]
+

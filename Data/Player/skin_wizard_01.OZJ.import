@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cej2k0wv2b3re"
+path="res://.godot/imported/skin_wizard_01.OZJ-fd388ac001287dc623f09c94a13d554a.res"
+
+[deps]
+
+source_file="res://Data/Player/skin_wizard_01.OZJ"
+dest_files=["res://.godot/imported/skin_wizard_01.OZJ-fd388ac001287dc623f09c94a13d554a.res"]
+
+[params]
+

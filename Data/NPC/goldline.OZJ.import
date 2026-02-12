@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1xlsx3typ7ao"
+path="res://.godot/imported/goldline.OZJ-9ee25746d571dac6f88766cd9e0a1872.res"
+
+[deps]
+
+source_file="res://Data/NPC/goldline.OZJ"
+dest_files=["res://.godot/imported/goldline.OZJ-9ee25746d571dac6f88766cd9e0a1872.res"]
+
+[params]
+

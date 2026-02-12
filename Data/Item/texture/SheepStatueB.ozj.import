@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c66afejcdwegg"
+path="res://.godot/imported/SheepStatueB.ozj-734ba4ca7fc0b98b1ceca3435f97527e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SheepStatueB.ozj"
+dest_files=["res://.godot/imported/SheepStatueB.ozj-734ba4ca7fc0b98b1ceca3435f97527e.res"]
+
+[params]
+

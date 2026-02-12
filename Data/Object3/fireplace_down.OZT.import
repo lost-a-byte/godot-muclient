@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwee6evnvft0i"
+path="res://.godot/imported/fireplace_down.OZT-db8d647daf21569796bd2a9be4561d66.res"
+
+[deps]
+
+source_file="res://Data/Object3/fireplace_down.OZT"
+dest_files=["res://.godot/imported/fireplace_down.OZT-db8d647daf21569796bd2a9be4561d66.res"]
+
+[params]
+

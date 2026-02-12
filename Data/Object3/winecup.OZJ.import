@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmqjlfsql8l1t"
+path="res://.godot/imported/winecup.OZJ-fa094ee30cf850fb43a20b8f00e1bb8d.res"
+
+[deps]
+
+source_file="res://Data/Object3/winecup.OZJ"
+dest_files=["res://.godot/imported/winecup.OZJ-fa094ee30cf850fb43a20b8f00e1bb8d.res"]
+
+[params]
+

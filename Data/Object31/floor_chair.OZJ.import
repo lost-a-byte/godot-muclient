@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwdcvx43ispyw"
+path="res://.godot/imported/floor_chair.OZJ-efa1406b06a47fee62cf3d3e55beca8c.res"
+
+[deps]
+
+source_file="res://Data/Object31/floor_chair.OZJ"
+dest_files=["res://.godot/imported/floor_chair.OZJ-efa1406b06a47fee62cf3d3e55beca8c.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bomp5yryo2shk"
+path="res://.godot/imported/chaos_piece_darkangel.bmd-1c2320797682ec5e412a6daf7612ff63.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_piece_darkangel.bmd"
+dest_files=["res://.godot/imported/chaos_piece_darkangel.bmd-1c2320797682ec5e412a6daf7612ff63.scn"]
+
+[params]
+
+modelScale=0.01

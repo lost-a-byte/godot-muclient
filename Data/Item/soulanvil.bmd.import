@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bsoqjyhl4itqy"
+path="res://.godot/imported/soulanvil.bmd-a41f9c6c3279ac263ae1f01a8bd5f191.scn"
+
+[deps]
+
+source_file="res://Data/Item/soulanvil.bmd"
+dest_files=["res://.godot/imported/soulanvil.bmd-a41f9c6c3279ac263ae1f01a8bd5f191.scn"]
+
+[params]
+
+modelScale=0.01

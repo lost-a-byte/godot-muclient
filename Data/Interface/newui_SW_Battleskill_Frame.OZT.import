@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dklx58r3km5a8"
+path="res://.godot/imported/newui_SW_Battleskill_Frame.OZT-447ea3da77939eb30e26d53baed1e740.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_SW_Battleskill_Frame.OZT"
+dest_files=["res://.godot/imported/newui_SW_Battleskill_Frame.OZT-447ea3da77939eb30e26d53baed1e740.res"]
+
+[params]
+

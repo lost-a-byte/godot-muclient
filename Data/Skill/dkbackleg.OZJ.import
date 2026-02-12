@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4t076n4jakpb"
+path="res://.godot/imported/dkbackleg.OZJ-6c247563d56caf88b702b29782c4a107.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkbackleg.OZJ"
+dest_files=["res://.godot/imported/dkbackleg.OZJ-6c247563d56caf88b702b29782c4a107.res"]
+
+[params]
+

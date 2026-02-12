@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgk5t58c8c1fp"
+path="res://.godot/imported/devilcrossbowfront.OZJ-12a31ed9b9f32fd161d27dc46a587f8b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/devilcrossbowfront.OZJ"
+dest_files=["res://.godot/imported/devilcrossbowfront.OZJ-12a31ed9b9f32fd161d27dc46a587f8b.res"]
+
+[params]
+

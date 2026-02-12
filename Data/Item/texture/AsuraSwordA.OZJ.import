@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da0inpr2f72ix"
+path="res://.godot/imported/AsuraSwordA.OZJ-64d78f3529653b99b900f47ce2b98dae.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AsuraSwordA.OZJ"
+dest_files=["res://.godot/imported/AsuraSwordA.OZJ-64d78f3529653b99b900f47ce2b98dae.res"]
+
+[params]
+

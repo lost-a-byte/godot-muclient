@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://daao7atkrvqrv"
+path="res://.godot/imported/HookBb.OZJ-96ead7393e187bb7dad4f0e8693eb82d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HookBb.OZJ"
+dest_files=["res://.godot/imported/HookBb.OZJ-96ead7393e187bb7dad4f0e8693eb82d.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cnggv1a4n4cdi"
+path="res://.godot/imported/hardnecklace.bmd-47018cb043b9be337ea3bffff00445f6.scn"
+
+[deps]
+
+source_file="res://Data/Item/hardnecklace.bmd"
+dest_files=["res://.godot/imported/hardnecklace.bmd-47018cb043b9be337ea3bffff00445f6.scn"]
+
+[params]
+
+modelScale=0.01

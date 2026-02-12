@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://stfl74buwo1o"
+path="res://.godot/imported/princemyoon.OZJ-ac17733729a21ebd9abac1ef02312eeb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/princemyoon.OZJ"
+dest_files=["res://.godot/imported/princemyoon.OZJ-ac17733729a21ebd9abac1ef02312eeb.res"]
+
+[params]
+

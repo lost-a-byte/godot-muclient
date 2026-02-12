@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bd3fiuhp1t0np"
+path="res://.godot/imported/talilor_talbe_pillar.OZJ-7b3e0a3872c4759cdf9b825a59fce95e.res"
+
+[deps]
+
+source_file="res://Data/NPC/talilor_talbe_pillar.OZJ"
+dest_files=["res://.godot/imported/talilor_talbe_pillar.OZJ-7b3e0a3872c4759cdf9b825a59fce95e.res"]
+
+[params]
+

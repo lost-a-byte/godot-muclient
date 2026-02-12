@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xdq44cedawe4"
+path="res://.godot/imported/10weapon_ven.bmd-b17ed143f14f681968b9e8e6e6074de9.scn"
+
+[deps]
+
+source_file="res://Data/Item/10weapon_ven.bmd"
+dest_files=["res://.godot/imported/10weapon_ven.bmd-b17ed143f14f681968b9e8e6e6074de9.scn"]
+
+[params]
+
+modelScale=0.01

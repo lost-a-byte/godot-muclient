@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://805jbxh1xyxu"
+path="res://.godot/imported/bossseptormap2.OZJ-2a86abdab34986e8ee16d22c89110346.res"
+
+[deps]
+
+source_file="res://Data/Monster/bossseptormap2.OZJ"
+dest_files=["res://.godot/imported/bossseptormap2.OZJ-2a86abdab34986e8ee16d22c89110346.res"]
+
+[params]
+

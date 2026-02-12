@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c66hf7ew7ahrd"
+path="res://.godot/imported/itembox_wood_gold.OZJ-56abc2431442ec3116454ffa6be33998.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/itembox_wood_gold.OZJ"
+dest_files=["res://.godot/imported/itembox_wood_gold.OZJ-56abc2431442ec3116454ffa6be33998.res"]
+
+[params]
+

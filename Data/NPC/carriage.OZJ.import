@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8ucgotb8q2t7"
+path="res://.godot/imported/carriage.OZJ-2f0784bd9762c898c339405e696ac308.res"
+
+[deps]
+
+source_file="res://Data/NPC/carriage.OZJ"
+dest_files=["res://.godot/imported/carriage.OZJ-2f0784bd9762c898c339405e696ac308.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d35scfv1mmjqa"
+path="res://.godot/imported/hair_R.OZJ-a440fe716dd1b1c6d9d1270914d95be6.res"
+
+[deps]
+
+source_file="res://Data/Player/hair_R.OZJ"
+dest_files=["res://.godot/imported/hair_R.OZJ-a440fe716dd1b1c6d9d1270914d95be6.res"]
+
+[params]
+

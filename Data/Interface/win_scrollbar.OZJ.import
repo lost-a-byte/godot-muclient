@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd0t52edrov1j"
+path="res://.godot/imported/win_scrollbar.OZJ-1855bf36b9c1fd0b75e318356ca3daf3.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_scrollbar.OZJ"
+dest_files=["res://.godot/imported/win_scrollbar.OZJ-1855bf36b9c1fd0b75e318356ca3daf3.res"]
+
+[params]
+

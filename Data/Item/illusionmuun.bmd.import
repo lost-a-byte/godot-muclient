@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dmxqfrd5mtxxh"
+path="res://.godot/imported/illusionmuun.bmd-87cfd58c9b1aa4578fa356e240218fc4.scn"
+
+[deps]
+
+source_file="res://Data/Item/illusionmuun.bmd"
+dest_files=["res://.godot/imported/illusionmuun.bmd-87cfd58c9b1aa4578fa356e240218fc4.scn"]
+
+[params]
+
+modelScale=0.01

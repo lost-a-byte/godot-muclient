@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b78pn7eyu55gx"
+path="res://.godot/imported/PoundingBall_sky.OZJ-464dff3afdb5630bbf5f5840f3bd352a.res"
+
+[deps]
+
+source_file="res://Data/Effect/PoundingBall_sky.OZJ"
+dest_files=["res://.godot/imported/PoundingBall_sky.OZJ-464dff3afdb5630bbf5f5840f3bd352a.res"]
+
+[params]
+

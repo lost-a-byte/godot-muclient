@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2gxkj5a51n0p"
+path="res://.godot/imported/MuBattle_loading02.OZJ-fad3712b67c5c2259bb63135f1b539b8.res"
+
+[deps]
+
+source_file="res://Data/Interface/MuBattle_loading02.OZJ"
+dest_files=["res://.godot/imported/MuBattle_loading02.OZJ-fad3712b67c5c2259bb63135f1b539b8.res"]
+
+[params]
+

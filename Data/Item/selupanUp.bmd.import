@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccghid15rwrba"
+path="res://.godot/imported/selupanUp.bmd-9004d66f7a0cd09940a0dc46ca0cce5b.scn"
+
+[deps]
+
+source_file="res://Data/Item/selupanUp.bmd"
+dest_files=["res://.godot/imported/selupanUp.bmd-9004d66f7a0cd09940a0dc46ca0cce5b.scn"]
+
+[params]
+
+modelScale=0.01

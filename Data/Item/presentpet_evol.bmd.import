@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3to2ym36sire"
+path="res://.godot/imported/presentpet_evol.bmd-3b0246c66b428facdc83f718d86ba928.scn"
+
+[deps]
+
+source_file="res://Data/Item/presentpet_evol.bmd"
+dest_files=["res://.godot/imported/presentpet_evol.bmd-3b0246c66b428facdc83f718d86ba928.scn"]
+
+[params]
+
+modelScale=0.01

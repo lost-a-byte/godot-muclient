@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xij1tiohko7c"
+path="res://.godot/imported/apocalypse__msword.bmd-93ba25d8f1c6f5ce1900db801a489cb0.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse__msword.bmd"
+dest_files=["res://.godot/imported/apocalypse__msword.bmd-93ba25d8f1c6f5ce1900db801a489cb0.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btxaxrhkrgav0"
+path="res://.godot/imported/monster_drskin01_blue.OZJ-ea52802f1bdea452e58f8ac573499058.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster_drskin01_blue.OZJ"
+dest_files=["res://.godot/imported/monster_drskin01_blue.OZJ-ea52802f1bdea452e58f8ac573499058.res"]
+
+[params]
+

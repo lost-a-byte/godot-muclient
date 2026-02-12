@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ddwfkdtcoedaa"
+path="res://.godot/imported/PExtendedSlotA.bmd-30dd820118f7535455e56b7e33244b4b.scn"
+
+[deps]
+
+source_file="res://Data/Item/PExtendedSlotA.bmd"
+dest_files=["res://.godot/imported/PExtendedSlotA.bmd-30dd820118f7535455e56b7e33244b4b.scn"]
+
+[params]
+
+modelScale=0.01

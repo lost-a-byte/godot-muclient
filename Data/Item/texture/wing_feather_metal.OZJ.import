@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://e5ch6gexnans"
+path="res://.godot/imported/wing_feather_metal.OZJ-cba531f3a092228bfd1a8102eae1b41b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wing_feather_metal.OZJ"
+dest_files=["res://.godot/imported/wing_feather_metal.OZJ-cba531f3a092228bfd1a8102eae1b41b.res"]
+
+[params]
+

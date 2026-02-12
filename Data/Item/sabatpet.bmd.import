@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1wkjaxg4mqmq"
+path="res://.godot/imported/sabatpet.bmd-d5f8f20a3f54138ce001a4d1f66255f3.scn"
+
+[deps]
+
+source_file="res://Data/Item/sabatpet.bmd"
+dest_files=["res://.godot/imported/sabatpet.bmd-d5f8f20a3f54138ce001a4d1f66255f3.scn"]
+
+[params]
+
+modelScale=0.01

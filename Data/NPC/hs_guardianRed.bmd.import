@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://yxc6cil25b53"
+path="res://.godot/imported/hs_guardianRed.bmd-95c5396586118cbdfa0fd6b0c263d448.scn"
+
+[deps]
+
+source_file="res://Data/NPC/hs_guardianRed.bmd"
+dest_files=["res://.godot/imported/hs_guardianRed.bmd-95c5396586118cbdfa0fd6b0c263d448.scn"]
+
+[params]
+
+modelScale=0.01

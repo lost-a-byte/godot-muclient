@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b6vy34pc1d6pv"
+path="res://.godot/imported/hs_3Guadianice.bmd-0ab5729ba81e3bb2fb42ac11f9b50c63.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_3Guadianice.bmd"
+dest_files=["res://.godot/imported/hs_3Guadianice.bmd-0ab5729ba81e3bb2fb42ac11f9b50c63.scn"]
+
+[params]
+
+modelScale=0.01

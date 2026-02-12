@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://icso1wndqwx"
+path="res://.godot/imported/cho_chair_01.OZJ-b40c9a67abe1cd2979611d9767478cfe.res"
+
+[deps]
+
+source_file="res://Data/Object39/cho_chair_01.OZJ"
+dest_files=["res://.godot/imported/cho_chair_01.OZJ-b40c9a67abe1cd2979611d9767478cfe.res"]
+
+[params]
+

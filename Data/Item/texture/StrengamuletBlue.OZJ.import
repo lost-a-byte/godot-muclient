@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ufb8gqg2toeh"
+path="res://.godot/imported/StrengamuletBlue.OZJ-afe37bdd14604b4d156b58710688fa9b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/StrengamuletBlue.OZJ"
+dest_files=["res://.godot/imported/StrengamuletBlue.OZJ-afe37bdd14604b4d156b58710688fa9b.res"]
+
+[params]
+

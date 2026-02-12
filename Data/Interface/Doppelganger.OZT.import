@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hlbdw1bt1ebo"
+path="res://.godot/imported/Doppelganger.OZT-35e3851ad420e71ffd0104224a059ba8.res"
+
+[deps]
+
+source_file="res://Data/Interface/Doppelganger.OZT"
+dest_files=["res://.godot/imported/Doppelganger.OZT-35e3851ad420e71ffd0104224a059ba8.res"]
+
+[params]
+

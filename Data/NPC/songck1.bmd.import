@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://clcbqhijfknd6"
+path="res://.godot/imported/songck1.bmd-b5392915849fd576cb85ed77854390b3.scn"
+
+[deps]
+
+source_file="res://Data/NPC/songck1.bmd"
+dest_files=["res://.godot/imported/songck1.bmd-b5392915849fd576cb85ed77854390b3.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcobsvbvl0fsy"
+path="res://.godot/imported/FlareGlow00_mono.OZJ-2652edc3d0059947bd4f04c542ed403f.res"
+
+[deps]
+
+source_file="res://Data/Effect/FlareGlow00_mono.OZJ"
+dest_files=["res://.godot/imported/FlareGlow00_mono.OZJ-2652edc3d0059947bd4f04c542ed403f.res"]
+
+[params]
+

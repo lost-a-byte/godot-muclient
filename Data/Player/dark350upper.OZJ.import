@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccg8ph6wf06a1"
+path="res://.godot/imported/dark350upper.OZJ-3fd823daea9bd3ef42f14ed380d25678.res"
+
+[deps]
+
+source_file="res://Data/Player/dark350upper.OZJ"
+dest_files=["res://.godot/imported/dark350upper.OZJ-3fd823daea9bd3ef42f14ed380d25678.res"]
+
+[params]
+

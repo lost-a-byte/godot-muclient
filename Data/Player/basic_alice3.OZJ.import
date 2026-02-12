@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhcq8kjyvvpb0"
+path="res://.godot/imported/basic_alice3.OZJ-2b9a0862b24953762a9fb9ed9d72d5b2.res"
+
+[deps]
+
+source_file="res://Data/Player/basic_alice3.OZJ"
+dest_files=["res://.godot/imported/basic_alice3.OZJ-2b9a0862b24953762a9fb9ed9d72d5b2.res"]
+
+[params]
+

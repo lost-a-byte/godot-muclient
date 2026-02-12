@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7qfym328xcsa"
+path="res://.godot/imported/zombie03_R.OZJ-8a93094a6f8bf75982002a7466e70414.res"
+
+[deps]
+
+source_file="res://Data/Monster/zombie03_R.OZJ"
+dest_files=["res://.godot/imported/zombie03_R.OZJ-8a93094a6f8bf75982002a7466e70414.res"]
+
+[params]
+

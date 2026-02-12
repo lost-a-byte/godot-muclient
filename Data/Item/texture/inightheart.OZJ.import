@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4ika1mcs5edg"
+path="res://.godot/imported/inightheart.OZJ-1b601086987c8c3c120b063b749485a1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/inightheart.OZJ"
+dest_files=["res://.godot/imported/inightheart.OZJ-1b601086987c8c3c120b063b749485a1.res"]
+
+[params]
+

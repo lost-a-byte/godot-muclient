@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://v4iqr2jpjg1o"
+path="res://.godot/imported/speculum_R.OZJ-4c5b755c575ce41a65ff8dfad3747616.res"
+
+[deps]
+
+source_file="res://Data/Item/speculum_R.OZJ"
+dest_files=["res://.godot/imported/speculum_R.OZJ-4c5b755c575ce41a65ff8dfad3747616.res"]
+
+[params]
+

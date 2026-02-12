@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dn1ff8najtij5"
+path="res://.godot/imported/lightning_magicbook_02.OZJ-543af9909ff7a47f6219ab2c59832a40.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_magicbook_02.OZJ"
+dest_files=["res://.godot/imported/lightning_magicbook_02.OZJ-543af9909ff7a47f6219ab2c59832a40.res"]
+
+[params]
+

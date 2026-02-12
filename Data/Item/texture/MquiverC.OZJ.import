@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7klxlncay3i3"
+path="res://.godot/imported/MquiverC.OZJ-f5c33853fdd1e1f438fc8187cfb4bcd9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MquiverC.OZJ"
+dest_files=["res://.godot/imported/MquiverC.OZJ-f5c33853fdd1e1f438fc8187cfb4bcd9.res"]
+
+[params]
+

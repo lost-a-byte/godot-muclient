@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bckc0iely5xls"
+path="res://.godot/imported/RummyCard.OZJ-4714377f64104d9f738fae0f3b9f0221.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RummyCard.OZJ"
+dest_files=["res://.godot/imported/RummyCard.OZJ-4714377f64104d9f738fae0f3b9f0221.res"]
+
+[params]
+

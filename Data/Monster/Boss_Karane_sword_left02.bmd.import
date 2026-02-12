@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqk4lycr14fm0"
+path="res://.godot/imported/Boss_Karane_sword_left02.bmd-d579a56ea84ef31ab1e93bf3e85c9125.scn"
+
+[deps]
+
+source_file="res://Data/Monster/Boss_Karane_sword_left02.bmd"
+dest_files=["res://.godot/imported/Boss_Karane_sword_left02.bmd-d579a56ea84ef31ab1e93bf3e85c9125.scn"]
+
+[params]
+
+modelScale=0.01

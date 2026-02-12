@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://34bgkcploklj"
+path="res://.godot/imported/Giant_Elf_Brown.OZJ-2fa20fd03f51f039feae8b97aa14da90.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_Elf_Brown.OZJ"
+dest_files=["res://.godot/imported/Giant_Elf_Brown.OZJ-2fa20fd03f51f039feae8b97aa14da90.res"]
+
+[params]
+

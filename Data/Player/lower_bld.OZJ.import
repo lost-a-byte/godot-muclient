@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu70u08mopf21"
+path="res://.godot/imported/lower_bld.OZJ-ff2525e904f8f6a1a43ef9ce4c663a44.res"
+
+[deps]
+
+source_file="res://Data/Player/lower_bld.OZJ"
+dest_files=["res://.godot/imported/lower_bld.OZJ-ff2525e904f8f6a1a43ef9ce4c663a44.res"]
+
+[params]
+

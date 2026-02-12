@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0uinuyjqp1gb"
+path="res://.godot/imported/fb_bud03.bmd-671ed392aef5e8c0b702091873e4cb82.scn"
+
+[deps]
+
+source_file="res://Data/Effect/fb_bud03.bmd"
+dest_files=["res://.godot/imported/fb_bud03.bmd-671ed392aef5e8c0b702091873e4cb82.scn"]
+
+[params]
+
+modelScale=0.01

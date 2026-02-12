@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b74r8syusqkpp"
+path="res://.godot/imported/strengscroll.bmd-55b747295fbc970d2285c64daca04591.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge4/strengscroll.bmd"
+dest_files=["res://.godot/imported/strengscroll.bmd-55b747295fbc970d2285c64daca04591.scn"]
+
+[params]
+
+modelScale=0.01

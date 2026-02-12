@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wrlh85s6hqff"
+path="res://.godot/imported/ProGuardRing.OZJ-da987fe6703abff77b93a2c34e406edd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ProGuardRing.OZJ"
+dest_files=["res://.godot/imported/ProGuardRing.OZJ-da987fe6703abff77b93a2c34e406edd.res"]
+
+[params]
+

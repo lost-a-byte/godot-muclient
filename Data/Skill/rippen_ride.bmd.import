@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dlnyqk1mdfvf7"
+path="res://.godot/imported/rippen_ride.bmd-f02dfead9fac3150cad9c9a238398f29.scn"
+
+[deps]
+
+source_file="res://Data/Skill/rippen_ride.bmd"
+dest_files=["res://.godot/imported/rippen_ride.bmd-f02dfead9fac3150cad9c9a238398f29.scn"]
+
+[params]
+
+modelScale=0.01

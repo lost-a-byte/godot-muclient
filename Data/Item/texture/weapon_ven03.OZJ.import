@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvgnxxu44jen7"
+path="res://.godot/imported/weapon_ven03.OZJ-c0cd880003c498018c5a349fdce99527.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/weapon_ven03.OZJ"
+dest_files=["res://.godot/imported/weapon_ven03.OZJ-c0cd880003c498018c5a349fdce99527.res"]
+
+[params]
+

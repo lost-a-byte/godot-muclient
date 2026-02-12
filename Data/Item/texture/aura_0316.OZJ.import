@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn62r74bt2equ"
+path="res://.godot/imported/aura_0316.OZJ-f1718bb30a6b8be39f706b9ca69d7db3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/aura_0316.OZJ"
+dest_files=["res://.godot/imported/aura_0316.OZJ-f1718bb30a6b8be39f706b9ca69d7db3.res"]
+
+[params]
+

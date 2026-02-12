@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsreybjubjrt8"
+path="res://.godot/imported/DK_eye.OZJ-d45fd94b08bfcf9312b2c61997e27f8d.res"
+
+[deps]
+
+source_file="res://Data/Logo/DK_eye.OZJ"
+dest_files=["res://.godot/imported/DK_eye.OZJ-d45fd94b08bfcf9312b2c61997e27f8d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yhxfjlu4ukv"
+path="res://.godot/imported/tuls_bug.OZT-aa900e4cc8ed122a0f4cdf8f265b9eb1.res"
+
+[deps]
+
+source_file="res://Data/Monster/tuls_bug.OZT"
+dest_files=["res://.godot/imported/tuls_bug.OZT-aa900e4cc8ed122a0f4cdf8f265b9eb1.res"]
+
+[params]
+

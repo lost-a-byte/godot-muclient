@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfdt0wo2n6iv3"
+path="res://.godot/imported/big_spider_dark.OZJ-3daf54aa93542c76b24decc0bedb0f97.res"
+
+[deps]
+
+source_file="res://Data/Monster/big_spider_dark.OZJ"
+dest_files=["res://.godot/imported/big_spider_dark.OZJ-3daf54aa93542c76b24decc0bedb0f97.res"]
+
+[params]
+

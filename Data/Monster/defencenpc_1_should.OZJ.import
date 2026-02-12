@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cou7l4c2ifd7e"
+path="res://.godot/imported/defencenpc_1_should.OZJ-3817f93d9607757f6a3d5fde86665daa.res"
+
+[deps]
+
+source_file="res://Data/Monster/defencenpc_1_should.OZJ"
+dest_files=["res://.godot/imported/defencenpc_1_should.OZJ-3817f93d9607757f6a3d5fde86665daa.res"]
+
+[params]
+

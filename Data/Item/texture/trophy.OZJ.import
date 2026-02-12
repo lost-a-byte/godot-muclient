@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dodgrj4fmsepy"
+path="res://.godot/imported/trophy.OZJ-79c8c5e5d9cb00667208515df4b8d94c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/trophy.OZJ"
+dest_files=["res://.godot/imported/trophy.OZJ-79c8c5e5d9cb00667208515df4b8d94c.res"]
+
+[params]
+

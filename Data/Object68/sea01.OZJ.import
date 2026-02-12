@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy6nukwuhh1ag"
+path="res://.godot/imported/sea01.OZJ-e36b6f9efb0fd5561612e10c37cc862c.res"
+
+[deps]
+
+source_file="res://Data/Object68/sea01.OZJ"
+dest_files=["res://.godot/imported/sea01.OZJ-e36b6f9efb0fd5561612e10c37cc862c.res"]
+
+[params]
+

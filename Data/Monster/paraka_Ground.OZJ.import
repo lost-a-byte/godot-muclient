@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cod6t25corouc"
+path="res://.godot/imported/paraka_Ground.OZJ-04bbbd01b388b8b3883d16220a01da22.res"
+
+[deps]
+
+source_file="res://Data/Monster/paraka_Ground.OZJ"
+dest_files=["res://.godot/imported/paraka_Ground.OZJ-04bbbd01b388b8b3883d16220a01da22.res"]
+
+[params]
+

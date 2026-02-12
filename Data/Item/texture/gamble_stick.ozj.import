@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://oyen2rb3ad0s"
+path="res://.godot/imported/gamble_stick.ozj-4e3bc3f70d4e9ba15c1918c392a6682a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gamble_stick.ozj"
+dest_files=["res://.godot/imported/gamble_stick.ozj-4e3bc3f70d4e9ba15c1918c392a6682a.res"]
+
+[params]
+

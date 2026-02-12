@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nqao3m4gxakf"
+path="res://.godot/imported/foot.OZJ-c54948eb92ab1b7e6b445e2d801e367f.res"
+
+[deps]
+
+source_file="res://Data/NPC/foot.OZJ"
+dest_files=["res://.godot/imported/foot.OZJ-c54948eb92ab1b7e6b445e2d801e367f.res"]
+
+[params]
+

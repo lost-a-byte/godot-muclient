@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cllxtgs0x7o3u"
+path="res://.godot/imported/Item8106_Boot.OZJ-6e051a8aa93946bf6c7476e6d2e0611a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item8106_Boot.OZJ"
+dest_files=["res://.godot/imported/Item8106_Boot.OZJ-6e051a8aa93946bf6c7476e6d2e0611a.res"]
+
+[params]
+

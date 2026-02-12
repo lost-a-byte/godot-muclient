@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnpya6dpue8kl"
+path="res://.godot/imported/hs_mino.OZJ-803e99f4ad8101078302996ca2dfadad.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_mino.OZJ"
+dest_files=["res://.godot/imported/hs_mino.OZJ-803e99f4ad8101078302996ca2dfadad.res"]
+
+[params]
+

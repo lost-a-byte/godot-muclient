@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bwskhf01nmdhm"
+path="res://.godot/imported/M_sword_effect01.bmd-0c7953aafb4557d2bc0b6a93e39ddec0.scn"
+
+[deps]
+
+source_file="res://Data/Skill/M_sword_effect01.bmd"
+dest_files=["res://.godot/imported/M_sword_effect01.bmd-0c7953aafb4557d2bc0b6a93e39ddec0.scn"]
+
+[params]
+
+modelScale=0.01

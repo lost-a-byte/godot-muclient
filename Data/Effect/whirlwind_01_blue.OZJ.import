@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkhn8kqjvqv8u"
+path="res://.godot/imported/whirlwind_01_blue.OZJ-b2637a95758540018c2bb44703bf71d0.res"
+
+[deps]
+
+source_file="res://Data/Effect/whirlwind_01_blue.OZJ"
+dest_files=["res://.godot/imported/whirlwind_01_blue.OZJ-b2637a95758540018c2bb44703bf71d0.res"]
+
+[params]
+

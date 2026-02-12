@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvgtt1b188aui"
+path="res://.godot/imported/wingC_van.OZJ-b65a693a11bebddba677901f77e7ebdf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wingC_van.OZJ"
+dest_files=["res://.godot/imported/wingC_van.OZJ-b65a693a11bebddba677901f77e7ebdf.res"]
+
+[params]
+

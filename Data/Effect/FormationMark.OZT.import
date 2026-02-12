@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gkrt6u1i0r5r"
+path="res://.godot/imported/FormationMark.OZT-c3df89d03cfa19b62f91dfdf10b9d7cf.res"
+
+[deps]
+
+source_file="res://Data/Effect/FormationMark.OZT"
+dest_files=["res://.godot/imported/FormationMark.OZT-c3df89d03cfa19b62f91dfdf10b9d7cf.res"]
+
+[params]
+

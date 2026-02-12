@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cl500l6op4dmu"
+path="res://.godot/imported/apcalips_moru.bmd-9ffdde766ea2c350a5471e69a59e630f.scn"
+
+[deps]
+
+source_file="res://Data/Item/apcalips_moru.bmd"
+dest_files=["res://.godot/imported/apcalips_moru.bmd-9ffdde766ea2c350a5471e69a59e630f.scn"]
+
+[params]
+
+modelScale=0.01

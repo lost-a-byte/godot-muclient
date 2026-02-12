@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://civ32p1ocfi0l"
+path="res://.godot/imported/angle_flare.OZJ-1dee244f7c36630dfa750b5aa01f960b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/angle_flare.OZJ"
+dest_files=["res://.godot/imported/angle_flare.OZJ-1dee244f7c36630dfa750b5aa01f960b.res"]
+
+[params]
+

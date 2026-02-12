@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqc138svuo2jw"
+path="res://.godot/imported/ChickenMyoonB.OZJ-1da75169b20f3fa69226c1a13e5607cc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ChickenMyoonB.OZJ"
+dest_files=["res://.godot/imported/ChickenMyoonB.OZJ-1da75169b20f3fa69226c1a13e5607cc.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://csdyda0kvh30i"
+path="res://.godot/imported/manaring.bmd-23c3186387a6760bde08f167c5feec58.scn"
+
+[deps]
+
+source_file="res://Data/Item/manaring.bmd"
+dest_files=["res://.godot/imported/manaring.bmd-23c3186387a6760bde08f167c5feec58.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvlv54k5d2r2"
+path="res://.godot/imported/gate_button1.OZJ-f5d31117563a2ed556d479a1a5fa5a77.res"
+
+[deps]
+
+source_file="res://Data/Interface/gate_button1.OZJ"
+dest_files=["res://.godot/imported/gate_button1.OZJ-f5d31117563a2ed556d479a1a5fa5a77.res"]
+
+[params]
+

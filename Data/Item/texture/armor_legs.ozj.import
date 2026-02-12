@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bssqg3x4v2e4b"
+path="res://.godot/imported/armor_legs.ozj-70ee9adb03d4ae2d86e21954115cb8e8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/armor_legs.ozj"
+dest_files=["res://.godot/imported/armor_legs.ozj-70ee9adb03d4ae2d86e21954115cb8e8.res"]
+
+[params]
+

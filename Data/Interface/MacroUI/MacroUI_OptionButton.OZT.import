@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xqes5p0tflqh"
+path="res://.godot/imported/MacroUI_OptionButton.OZT-4ec0d503f6a48e9d3d970369e0fa1983.res"
+
+[deps]
+
+source_file="res://Data/Interface/MacroUI/MacroUI_OptionButton.OZT"
+dest_files=["res://.godot/imported/MacroUI_OptionButton.OZT-4ec0d503f6a48e9d3d970369e0fa1983.res"]
+
+[params]
+

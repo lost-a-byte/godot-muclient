@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://debf2sh3g8fgi"
+path="res://.godot/imported/eventsungmul.bmd-ebc39f2f1f21db7dbc42b4dd64f42466.scn"
+
+[deps]
+
+source_file="res://Data/Skill/eventsungmul.bmd"
+dest_files=["res://.godot/imported/eventsungmul.bmd-ebc39f2f1f21db7dbc42b4dd64f42466.scn"]
+
+[params]
+
+modelScale=0.01

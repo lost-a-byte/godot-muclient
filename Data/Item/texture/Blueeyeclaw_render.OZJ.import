@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blmorw68wgyqd"
+path="res://.godot/imported/Blueeyeclaw_render.OZJ-4eac84e5963c4a977188bccf36339c0b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Blueeyeclaw_render.OZJ"
+dest_files=["res://.godot/imported/Blueeyeclaw_render.OZJ-4eac84e5963c4a977188bccf36339c0b.res"]
+
+[params]
+

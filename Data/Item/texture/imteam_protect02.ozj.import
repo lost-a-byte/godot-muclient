@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7vaxbyrklx2o"
+path="res://.godot/imported/imteam_protect02.ozj-56a1aadaea86de6da536c3d431400d84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/imteam_protect02.ozj"
+dest_files=["res://.godot/imported/imteam_protect02.ozj-56a1aadaea86de6da536c3d431400d84.res"]
+
+[params]
+

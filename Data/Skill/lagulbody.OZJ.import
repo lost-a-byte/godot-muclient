@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://smyoodmnoxqw"
+path="res://.godot/imported/lagulbody.OZJ-4cf5390da90f030059ca9b1fd8e890c6.res"
+
+[deps]
+
+source_file="res://Data/Skill/lagulbody.OZJ"
+dest_files=["res://.godot/imported/lagulbody.OZJ-4cf5390da90f030059ca9b1fd8e890c6.res"]
+
+[params]
+

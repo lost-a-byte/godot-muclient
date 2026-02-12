@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhx1mnqq03cgr"
+path="res://.godot/imported/AlacranLance.bmd-935e9d21faab2a329a2ddf6100e119a4.scn"
+
+[deps]
+
+source_file="res://Data/Item/AlacranLance.bmd"
+dest_files=["res://.godot/imported/AlacranLance.bmd-935e9d21faab2a329a2ddf6100e119a4.scn"]
+
+[params]
+
+modelScale=0.01

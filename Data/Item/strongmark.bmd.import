@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://na3ner3f1dul"
+path="res://.godot/imported/strongmark.bmd-afe256738f95401073a437e9b3ee4fa6.scn"
+
+[deps]
+
+source_file="res://Data/Item/strongmark.bmd"
+dest_files=["res://.godot/imported/strongmark.bmd-afe256738f95401073a437e9b3ee4fa6.scn"]
+
+[params]
+
+modelScale=0.01

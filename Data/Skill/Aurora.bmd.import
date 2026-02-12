@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bnpjkv65s446k"
+path="res://.godot/imported/Aurora.bmd-ac83f0a43226eea72e33d6e691b718d8.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Aurora.bmd"
+dest_files=["res://.godot/imported/Aurora.bmd-ac83f0a43226eea72e33d6e691b718d8.scn"]
+
+[params]
+
+modelScale=0.01

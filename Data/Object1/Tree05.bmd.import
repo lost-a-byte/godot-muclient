@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmlatfuf3eaql"
+path="res://.godot/imported/Tree05.bmd-bd305ec04dba38ed8dd355dd9067297b.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Tree05.bmd"
+dest_files=["res://.godot/imported/Tree05.bmd-bd305ec04dba38ed8dd355dd9067297b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbjsnfjqcsp8"
+path="res://.godot/imported/newui_separate_Line.OZJ-d44f86a736484f636f59a1686bdfb0d0.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_separate_Line.OZJ"
+dest_files=["res://.godot/imported/newui_separate_Line.OZJ-d44f86a736484f636f59a1686bdfb0d0.res"]
+
+[params]
+

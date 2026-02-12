@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mrd0b6yemhym"
+path="res://.godot/imported/amulet_dragon.ozt-9a663aee2543c1834dcae2ecaecfc94f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amulet_dragon.ozt"
+dest_files=["res://.godot/imported/amulet_dragon.ozt-9a663aee2543c1834dcae2ecaecfc94f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxb2drn48g7ow"
+path="res://.godot/imported/cobraset_hair.ozt-ba0f7e63ab4755f0e43484e7235d3bcb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cobraset_hair.ozt"
+dest_files=["res://.godot/imported/cobraset_hair.ozt-ba0f7e63ab4755f0e43484e7235d3bcb.res"]
+
+[params]
+

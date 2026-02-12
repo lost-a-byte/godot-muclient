@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kprijkdklf5b"
+path="res://.godot/imported/rapaUp_overlay.OZJ-94e0c2cdf471cea61b1b7196d5393778.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rapaUp_overlay.OZJ"
+dest_files=["res://.godot/imported/rapaUp_overlay.OZJ-94e0c2cdf471cea61b1b7196d5393778.res"]
+
+[params]
+

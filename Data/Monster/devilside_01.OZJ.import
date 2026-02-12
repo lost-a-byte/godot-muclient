@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6pfpgphlwldv"
+path="res://.godot/imported/devilside_01.OZJ-4649484a07c772c10d9963adb225beee.res"
+
+[deps]
+
+source_file="res://Data/Monster/devilside_01.OZJ"
+dest_files=["res://.godot/imported/devilside_01.OZJ-4649484a07c772c10d9963adb225beee.res"]
+
+[params]
+

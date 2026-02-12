@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cia34rvdrcmtm"
+path="res://.godot/imported/Elf_complite_render.OZJ-b70f9b711c9470299278299d0f6aa632.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Elf_complite_render.OZJ"
+dest_files=["res://.godot/imported/Elf_complite_render.OZJ-b70f9b711c9470299278299d0f6aa632.res"]
+
+[params]
+

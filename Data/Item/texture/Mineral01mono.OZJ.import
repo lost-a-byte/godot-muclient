@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dngpc87400rml"
+path="res://.godot/imported/Mineral01mono.OZJ-0dffffc8a5a5c7944d5c3c5a6966f6c8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Mineral01mono.OZJ"
+dest_files=["res://.godot/imported/Mineral01mono.OZJ-0dffffc8a5a5c7944d5c3c5a6966f6c8.res"]
+
+[params]
+

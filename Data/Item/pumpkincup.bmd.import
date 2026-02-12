@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://te7ky8sjgwj8"
+path="res://.godot/imported/pumpkincup.bmd-0dc25b4d69c7148afd2bd8e930bf0c2a.scn"
+
+[deps]
+
+source_file="res://Data/Item/pumpkincup.bmd"
+dest_files=["res://.godot/imported/pumpkincup.bmd-0dc25b4d69c7148afd2bd8e930bf0c2a.scn"]
+
+[params]
+
+modelScale=0.01

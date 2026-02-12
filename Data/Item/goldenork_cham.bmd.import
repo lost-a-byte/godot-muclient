@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0fdsl7nyhncr"
+path="res://.godot/imported/goldenork_cham.bmd-0c851c74414c4dadc4a08d7165b343c1.scn"
+
+[deps]
+
+source_file="res://Data/Item/goldenork_cham.bmd"
+dest_files=["res://.godot/imported/goldenork_cham.bmd-0c851c74414c4dadc4a08d7165b343c1.scn"]
+
+[params]
+
+modelScale=0.01

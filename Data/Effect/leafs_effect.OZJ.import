@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cequkotv4xbjb"
+path="res://.godot/imported/leafs_effect.OZJ-8e3c67e1c5ed9a8361a32b7a0cc38864.res"
+
+[deps]
+
+source_file="res://Data/Effect/leafs_effect.OZJ"
+dest_files=["res://.godot/imported/leafs_effect.OZJ-8e3c67e1c5ed9a8361a32b7a0cc38864.res"]
+
+[params]
+

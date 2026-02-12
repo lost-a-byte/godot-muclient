@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vwybll3sgtg8"
+path="res://.godot/imported/apocalypse_stick_B.OZJ-dce77c720edc7d7bf8aafc18e1c452bd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_stick_B.OZJ"
+dest_files=["res://.godot/imported/apocalypse_stick_B.OZJ-dce77c720edc7d7bf8aafc18e1c452bd.res"]
+
+[params]
+

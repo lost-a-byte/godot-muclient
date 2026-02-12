@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://240opwlhr8d"
+path="res://.godot/imported/elfin.OZJ-4ca858ccb1cc52ca640b00abb2acfa55.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/elfin.OZJ"
+dest_files=["res://.godot/imported/elfin.OZJ-4ca858ccb1cc52ca640b00abb2acfa55.res"]
+
+[params]
+

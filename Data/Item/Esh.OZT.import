@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6x7vm7f156k6"
+path="res://.godot/imported/Esh.OZT-4c4a3778cce888a8e92a1ea19a87b3c1.res"
+
+[deps]
+
+source_file="res://Data/Item/Esh.OZT"
+dest_files=["res://.godot/imported/Esh.OZT-4c4a3778cce888a8e92a1ea19a87b3c1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://e0w4k3kuldns"
+path="res://.godot/imported/unicon.OZJ-6e7f341730723760586ca9445aebda10.res"
+
+[deps]
+
+source_file="res://Data/Item/unicon.OZJ"
+dest_files=["res://.godot/imported/unicon.OZJ-6e7f341730723760586ca9445aebda10.res"]
+
+[params]
+

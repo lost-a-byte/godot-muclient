@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvb0jtee08hu5"
+path="res://.godot/imported/holy_angel_b.OZJ-a32743b7d426e07d9f920d7ca447334c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holy_angel_b.OZJ"
+dest_files=["res://.godot/imported/holy_angel_b.OZJ-a32743b7d426e07d9f920d7ca447334c.res"]
+
+[params]
+

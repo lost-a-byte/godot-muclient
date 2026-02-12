@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c0mnjrevv5ky8"
+path="res://.godot/imported/MagicBook13.bmd-385afe2b1b3996a933a95fa6d2231a8b.scn"
+
+[deps]
+
+source_file="res://Data/Item/MagicBook13.bmd"
+dest_files=["res://.godot/imported/MagicBook13.bmd-385afe2b1b3996a933a95fa6d2231a8b.scn"]
+
+[params]
+
+modelScale=0.01

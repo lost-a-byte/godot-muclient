@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca8wddk0vsexw"
+path="res://.godot/imported/Dtree_sataguni_render.OZJ-7570f4e41bf5a6d9b535065923d82a54.res"
+
+[deps]
+
+source_file="res://Data/Monster/Dtree_sataguni_render.OZJ"
+dest_files=["res://.godot/imported/Dtree_sataguni_render.OZJ-7570f4e41bf5a6d9b535065923d82a54.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfo2lhyb44pfr"
+path="res://.godot/imported/SpecialPotion2.ozj-a45fc89b6829537deab8cb3561d7f36e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpecialPotion2.ozj"
+dest_files=["res://.godot/imported/SpecialPotion2.ozj-a45fc89b6829537deab8cb3561d7f36e.res"]
+
+[params]
+

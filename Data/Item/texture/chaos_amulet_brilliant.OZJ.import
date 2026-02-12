@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dghcw0cqpbl88"
+path="res://.godot/imported/chaos_amulet_brilliant.OZJ-46c7260848508df2c5b9106fd6c07bf0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_brilliant.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_brilliant.OZJ-46c7260848508df2c5b9106fd6c07bf0.res"]
+
+[params]
+

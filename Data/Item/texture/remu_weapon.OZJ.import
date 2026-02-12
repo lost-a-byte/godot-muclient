@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnjmqhq05d6js"
+path="res://.godot/imported/remu_weapon.OZJ-ac5ced900dd78bb4d1297256bf006234.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/remu_weapon.OZJ"
+dest_files=["res://.godot/imported/remu_weapon.OZJ-ac5ced900dd78bb4d1297256bf006234.res"]
+
+[params]
+

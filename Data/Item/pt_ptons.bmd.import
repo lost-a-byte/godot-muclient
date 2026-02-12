@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bm8rcqj00t7xu"
+path="res://.godot/imported/pt_ptons.bmd-1ac81f6091bf3b0955b3445be97d2fcd.scn"
+
+[deps]
+
+source_file="res://Data/Item/pt_ptons.bmd"
+dest_files=["res://.godot/imported/pt_ptons.bmd-1ac81f6091bf3b0955b3445be97d2fcd.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://daud1m0tfxbgy"
+path="res://.godot/imported/Quest_Bt_cast.OZT-a03adf4cfa2ee1dbb083b1182f15b49b.res"
+
+[deps]
+
+source_file="res://Data/Interface/Quest_Bt_cast.OZT"
+dest_files=["res://.godot/imported/Quest_Bt_cast.OZT-a03adf4cfa2ee1dbb083b1182f15b49b.res"]
+
+[params]
+

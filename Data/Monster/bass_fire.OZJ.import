@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwlwak6v5cgjd"
+path="res://.godot/imported/bass_fire.OZJ-c1bdf8d766d255e3ef7fc3a07f48a006.res"
+
+[deps]
+
+source_file="res://Data/Monster/bass_fire.OZJ"
+dest_files=["res://.godot/imported/bass_fire.OZJ-c1bdf8d766d255e3ef7fc3a07f48a006.res"]
+
+[params]
+

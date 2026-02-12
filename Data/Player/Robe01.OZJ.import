@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7dlvxuqffdb4"
+path="res://.godot/imported/Robe01.OZJ-e7b80e6caa1d1a159882237caaf4f9a7.res"
+
+[deps]
+
+source_file="res://Data/Player/Robe01.OZJ"
+dest_files=["res://.godot/imported/Robe01.OZJ-e7b80e6caa1d1a159882237caaf4f9a7.res"]
+
+[params]
+

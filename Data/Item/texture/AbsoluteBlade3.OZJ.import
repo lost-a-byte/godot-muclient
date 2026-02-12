@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://egv6gnv4i4fk"
+path="res://.godot/imported/AbsoluteBlade3.OZJ-535474f9d0a49f04cecdd2115282c9bf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AbsoluteBlade3.OZJ"
+dest_files=["res://.godot/imported/AbsoluteBlade3.OZJ-535474f9d0a49f04cecdd2115282c9bf.res"]
+
+[params]
+

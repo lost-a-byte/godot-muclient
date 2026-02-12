@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uo50oo74auci"
+path="res://.godot/imported/boots_luck03b.ozj-d65678f9b6c74d83b44a1ddeb40ec3b8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/boots_luck03b.ozj"
+dest_files=["res://.godot/imported/boots_luck03b.ozj-d65678f9b6c74d83b44a1ddeb40ec3b8.res"]
+
+[params]
+

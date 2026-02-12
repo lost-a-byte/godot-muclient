@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://y1j1ud86ee0v"
+path="res://.godot/imported/kundun.bmd-7a86c7f2b61b6d2921068c1fcc633fb1.scn"
+
+[deps]
+
+source_file="res://Data/Item/kundun.bmd"
+dest_files=["res://.godot/imported/kundun.bmd-7a86c7f2b61b6d2921068c1fcc633fb1.scn"]
+
+[params]
+
+modelScale=0.01

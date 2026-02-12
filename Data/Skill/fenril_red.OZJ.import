@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vlhou1ueie0g"
+path="res://.godot/imported/fenril_red.OZJ-ed6146c006476371286e80424515167e.res"
+
+[deps]
+
+source_file="res://Data/Skill/fenril_red.OZJ"
+dest_files=["res://.godot/imported/fenril_red.OZJ-ed6146c006476371286e80424515167e.res"]
+
+[params]
+

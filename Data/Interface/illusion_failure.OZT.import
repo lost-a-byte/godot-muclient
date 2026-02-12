@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbdt8qmm2dlsq"
+path="res://.godot/imported/illusion_failure.OZT-62672e8cfc5f09d219c27af30e578766.res"
+
+[deps]
+
+source_file="res://Data/Interface/illusion_failure.OZT"
+dest_files=["res://.godot/imported/illusion_failure.OZT-62672e8cfc5f09d219c27af30e578766.res"]
+
+[params]
+

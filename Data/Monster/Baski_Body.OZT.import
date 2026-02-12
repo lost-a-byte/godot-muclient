@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dc4x4t74nyxe"
+path="res://.godot/imported/Baski_Body.OZT-6509590000976ab6200d9304b1ec778b.res"
+
+[deps]
+
+source_file="res://Data/Monster/Baski_Body.OZT"
+dest_files=["res://.godot/imported/Baski_Body.OZT-6509590000976ab6200d9304b1ec778b.res"]
+
+[params]
+

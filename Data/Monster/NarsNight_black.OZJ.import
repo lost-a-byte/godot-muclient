@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt0sbmpplqui1"
+path="res://.godot/imported/NarsNight_black.OZJ-20fa0dc83aa5387c1285edf166893c90.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsNight_black.OZJ"
+dest_files=["res://.godot/imported/NarsNight_black.OZJ-20fa0dc83aa5387c1285edf166893c90.res"]
+
+[params]
+

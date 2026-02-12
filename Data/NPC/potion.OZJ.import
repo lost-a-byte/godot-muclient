@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp8grseoupka8"
+path="res://.godot/imported/potion.OZJ-2ca8723c710c850386e7776996ca5589.res"
+
+[deps]
+
+source_file="res://Data/NPC/potion.OZJ"
+dest_files=["res://.godot/imported/potion.OZJ-2ca8723c710c850386e7776996ca5589.res"]
+
+[params]
+

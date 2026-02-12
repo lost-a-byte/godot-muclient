@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3avr2p5inpti"
+path="res://.godot/imported/holyangel_horn.bmd-ea80dff462f79a1a443fc767fd99e58c.scn"
+
+[deps]
+
+source_file="res://Data/Item/holyangel_horn.bmd"
+dest_files=["res://.godot/imported/holyangel_horn.bmd-ea80dff462f79a1a443fc767fd99e58c.scn"]
+
+[params]
+
+modelScale=0.01

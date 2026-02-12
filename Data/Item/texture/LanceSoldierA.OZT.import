@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2oxm0mdb8ly2"
+path="res://.godot/imported/LanceSoldierA.OZT-d5c8f4e5ed0bd22a0f1f54b9918f7172.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LanceSoldierA.OZT"
+dest_files=["res://.godot/imported/LanceSoldierA.OZT-d5c8f4e5ed0bd22a0f1f54b9918f7172.res"]
+
+[params]
+

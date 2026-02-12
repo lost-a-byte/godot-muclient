@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu53danblg3oj"
+path="res://.godot/imported/tsingtao.OZJ-d41b78cd1b28634793effb6aaeccfc9e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/tsingtao.OZJ"
+dest_files=["res://.godot/imported/tsingtao.OZJ-d41b78cd1b28634793effb6aaeccfc9e.res"]
+
+[params]
+

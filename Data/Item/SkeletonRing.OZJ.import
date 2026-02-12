@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfwy7kjgjxwrj"
+path="res://.godot/imported/SkeletonRing.OZJ-fd144388c9fb3680dbd7f167eaf4639a.res"
+
+[deps]
+
+source_file="res://Data/Item/SkeletonRing.OZJ"
+dest_files=["res://.godot/imported/SkeletonRing.OZJ-fd144388c9fb3680dbd7f167eaf4639a.res"]
+
+[params]
+

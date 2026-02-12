@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ckemyangwlekv"
+path="res://.godot/imported/HolyAngelBow_D.OZJ-424842331f0c55f20618a9118f2ee334.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HolyAngelBow_D.OZJ"
+dest_files=["res://.godot/imported/HolyAngelBow_D.OZJ-424842331f0c55f20618a9118f2ee334.res"]
+
+[params]
+

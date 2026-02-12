@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cjwcbv8f1pn47"
+path="res://.godot/imported/Templeguard_soul_gray.bmd-c101cfe1958def18370d2d3945b42aa0.scn"
+
+[deps]
+
+source_file="res://Data/Item/Templeguard_soul_gray.bmd"
+dest_files=["res://.godot/imported/Templeguard_soul_gray.bmd-c101cfe1958def18370d2d3945b42aa0.scn"]
+
+[params]
+
+modelScale=0.01

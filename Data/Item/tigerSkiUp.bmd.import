@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bem2l3e6sp7fu"
+path="res://.godot/imported/tigerSkiUp.bmd-f985c37d03410e785b4747088fa9a0dd.scn"
+
+[deps]
+
+source_file="res://Data/Item/tigerSkiUp.bmd"
+dest_files=["res://.godot/imported/tigerSkiUp.bmd-f985c37d03410e785b4747088fa9a0dd.scn"]
+
+[params]
+
+modelScale=0.01

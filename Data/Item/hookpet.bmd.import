@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://djq6ml0v34xtn"
+path="res://.godot/imported/hookpet.bmd-372621a079c963ced5d624b9574a7edf.scn"
+
+[deps]
+
+source_file="res://Data/Item/hookpet.bmd"
+dest_files=["res://.godot/imported/hookpet.bmd-372621a079c963ced5d624b9574a7edf.scn"]
+
+[params]
+
+modelScale=0.01

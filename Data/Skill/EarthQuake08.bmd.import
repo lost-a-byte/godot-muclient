@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://s3fvv2gqhkky"
+path="res://.godot/imported/EarthQuake08.bmd-c8c94da2d1bea42369a88bb572d41adb.scn"
+
+[deps]
+
+source_file="res://Data/Skill/EarthQuake08.bmd"
+dest_files=["res://.godot/imported/EarthQuake08.bmd-c8c94da2d1bea42369a88bb572d41adb.scn"]
+
+[params]
+
+modelScale=0.01

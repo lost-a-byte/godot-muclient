@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3p848h646cn"
+path="res://.godot/imported/Elite_monster_ground02.OZJ-d88c736c4952e7a775d2496baba577c1.res"
+
+[deps]
+
+source_file="res://Data/Effect/Elite_monster_ground02.OZJ"
+dest_files=["res://.godot/imported/Elite_monster_ground02.OZJ-d88c736c4952e7a775d2496baba577c1.res"]
+
+[params]
+

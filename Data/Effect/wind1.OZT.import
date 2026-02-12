@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://i644esjpwqlu"
+path="res://.godot/imported/wind1.OZT-42964d311c5a529b5e4044bafc0db7fb.res"
+
+[deps]
+
+source_file="res://Data/Effect/wind1.OZT"
+dest_files=["res://.godot/imported/wind1.OZT-42964d311c5a529b5e4044bafc0db7fb.res"]
+
+[params]
+

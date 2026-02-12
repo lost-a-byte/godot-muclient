@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4v47sygd0mcr"
+path="res://.godot/imported/crown.OZJ-8fec5a8151c3a729a1f79bbed6ace21c.res"
+
+[deps]
+
+source_file="res://Data/Logo/crown.OZJ"
+dest_files=["res://.godot/imported/crown.OZJ-8fec5a8151c3a729a1f79bbed6ace21c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bi1ist2gt1176"
+path="res://.godot/imported/dkshelmet.OZJ-f476f32d93267ef4312b10272adf404d.res"
+
+[deps]
+
+source_file="res://Data/NPC/dkshelmet.OZJ"
+dest_files=["res://.godot/imported/dkshelmet.OZJ-f476f32d93267ef4312b10272adf404d.res"]
+
+[params]
+

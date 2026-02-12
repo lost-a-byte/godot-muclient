@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yll0ddq61ahp"
+path="res://.godot/imported/indulgence.OZJ-f65e44f76e45cf068a242dc8734f7eba.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/indulgence.OZJ"
+dest_files=["res://.godot/imported/indulgence.OZJ-f65e44f76e45cf068a242dc8734f7eba.res"]
+
+[params]
+

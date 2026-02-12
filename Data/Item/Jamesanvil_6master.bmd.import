@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bheevlrpgxddl"
+path="res://.godot/imported/Jamesanvil_6master.bmd-18fe05c40a7cb628259ac34999f9ff51.scn"
+
+[deps]
+
+source_file="res://Data/Item/Jamesanvil_6master.bmd"
+dest_files=["res://.godot/imported/Jamesanvil_6master.bmd-18fe05c40a7cb628259ac34999f9ff51.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c47magm7y1213"
+path="res://.godot/imported/arme128_power.OZJ-011a7c7ee83bd30a0a8825948eeeda4b.res"
+
+[deps]
+
+source_file="res://Data/Monster/arme128_power.OZJ"
+dest_files=["res://.godot/imported/arme128_power.OZJ-011a7c7ee83bd30a0a8825948eeeda4b.res"]
+
+[params]
+

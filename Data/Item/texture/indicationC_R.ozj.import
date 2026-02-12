@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co4ov53nsa7t1"
+path="res://.godot/imported/indicationC_R.ozj-86b70a30ceedf3f7d510af29833d9334.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/indicationC_R.ozj"
+dest_files=["res://.godot/imported/indicationC_R.ozj-86b70a30ceedf3f7d510af29833d9334.res"]
+
+[params]
+

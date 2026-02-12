@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3mabwg5qptn2"
+path="res://.godot/imported/applewizardBb.OZJ-6dee115d641efd0866eaad24e09eafe7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/applewizardBb.OZJ"
+dest_files=["res://.godot/imported/applewizardBb.OZJ-6dee115d641efd0866eaad24e09eafe7.res"]
+
+[params]
+

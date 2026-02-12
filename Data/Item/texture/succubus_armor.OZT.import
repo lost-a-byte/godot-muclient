@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfw82lnyq5pv"
+path="res://.godot/imported/succubus_armor.OZT-85425f7bd84fc98548f0e8332edd8584.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_armor.OZT"
+dest_files=["res://.godot/imported/succubus_armor.OZT-85425f7bd84fc98548f0e8332edd8584.res"]
+
+[params]
+

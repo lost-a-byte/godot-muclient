@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dchhjk0y8emit"
+path="res://.godot/imported/lagulpinna.OZJ-a51f9ff3307f125d43bc5c057747e75a.res"
+
+[deps]
+
+source_file="res://Data/Skill/lagulpinna.OZJ"
+dest_files=["res://.godot/imported/lagulpinna.OZJ-a51f9ff3307f125d43bc5c057747e75a.res"]
+
+[params]
+

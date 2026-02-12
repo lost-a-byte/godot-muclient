@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwfjo457kn6ff"
+path="res://.godot/imported/mutantile_dark.OZJ-516481245e1b04ac988221c61ac6dd8e.res"
+
+[deps]
+
+source_file="res://Data/Monster/mutantile_dark.OZJ"
+dest_files=["res://.godot/imported/mutantile_dark.OZJ-516481245e1b04ac988221c61ac6dd8e.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://rbpnr72pnysm"
+path="res://.godot/imported/tree_eff.bmd-192e639d3147f234326c86302c1b7f22.scn"
+
+[deps]
+
+source_file="res://Data/Object34/tree_eff.bmd"
+dest_files=["res://.godot/imported/tree_eff.bmd-192e639d3147f234326c86302c1b7f22.scn"]
+
+[params]
+
+modelScale=0.01

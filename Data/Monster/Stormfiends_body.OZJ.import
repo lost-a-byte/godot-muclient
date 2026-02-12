@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddh1nefqlmkw4"
+path="res://.godot/imported/Stormfiends_body.OZJ-3d86193b6c230ab87232fb97ffc919cf.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormfiends_body.OZJ"
+dest_files=["res://.godot/imported/Stormfiends_body.OZJ-3d86193b6c230ab87232fb97ffc919cf.res"]
+
+[params]
+

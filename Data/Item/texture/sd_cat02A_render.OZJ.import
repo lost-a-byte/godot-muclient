@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ntntlx6ok50j"
+path="res://.godot/imported/sd_cat02A_render.OZJ-d6713a35f1f0c1147e36ee9f6db1bca8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_cat02A_render.OZJ"
+dest_files=["res://.godot/imported/sd_cat02A_render.OZJ-d6713a35f1f0c1147e36ee9f6db1bca8.res"]
+
+[params]
+

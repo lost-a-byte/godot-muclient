@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmiisakmauock"
+path="res://.godot/imported/MUBlue_logo.OZT-1d353c2510a3e86e37becfe3b53dc4b4.res"
+
+[deps]
+
+source_file="res://Data/Logo/MUBlue_logo.OZT"
+dest_files=["res://.godot/imported/MUBlue_logo.OZT-1d353c2510a3e86e37becfe3b53dc4b4.res"]
+
+[params]
+

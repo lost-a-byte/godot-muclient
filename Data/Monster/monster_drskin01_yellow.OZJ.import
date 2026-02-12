@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpnys375oix0u"
+path="res://.godot/imported/monster_drskin01_yellow.OZJ-20eee05be878a5107965c8423e05f3e0.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster_drskin01_yellow.OZJ"
+dest_files=["res://.godot/imported/monster_drskin01_yellow.OZJ-20eee05be878a5107965c8423e05f3e0.res"]
+
+[params]
+

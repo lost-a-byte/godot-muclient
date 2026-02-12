@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df2w1e8b111ut"
+path="res://.godot/imported/hok002_1.OZT-02360e0f3680f1dfe7d873465295c68e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hok002_1.OZT"
+dest_files=["res://.godot/imported/hok002_1.OZT-02360e0f3680f1dfe7d873465295c68e.res"]
+
+[params]
+

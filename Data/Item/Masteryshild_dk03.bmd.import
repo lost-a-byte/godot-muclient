@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c8ehhkriqkv68"
+path="res://.godot/imported/Masteryshild_dk03.bmd-8d852e5844e913dff74a55f89906c58a.scn"
+
+[deps]
+
+source_file="res://Data/Item/Masteryshild_dk03.bmd"
+dest_files=["res://.godot/imported/Masteryshild_dk03.bmd-8d852e5844e913dff74a55f89906c58a.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://utnm48mxqh6m"
+path="res://.godot/imported/magmahook_01_02.OZJ-42ebce620232cf7653a6dbcfcc3a3e6b.res"
+
+[deps]
+
+source_file="res://Data/Monster/magmahook_01_02.OZJ"
+dest_files=["res://.godot/imported/magmahook_01_02.OZJ-42ebce620232cf7653a6dbcfcc3a3e6b.res"]
+
+[params]
+

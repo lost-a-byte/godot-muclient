@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4hcbfwyov6x0"
+path="res://.godot/imported/iplant.OZJ-eaf1d1ebc59e437252abac49443c47b6.res"
+
+[deps]
+
+source_file="res://Data/Object69/iplant.OZJ"
+dest_files=["res://.godot/imported/iplant.OZJ-eaf1d1ebc59e437252abac49443c47b6.res"]
+
+[params]
+

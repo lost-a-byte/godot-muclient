@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dd3psymf7djhq"
+path="res://.godot/imported/RobotRing.bmd-3f90f24365cfaf3e123ca500d5818852.scn"
+
+[deps]
+
+source_file="res://Data/Item/RobotRing.bmd"
+dest_files=["res://.godot/imported/RobotRing.bmd-3f90f24365cfaf3e123ca500d5818852.scn"]
+
+[params]
+
+modelScale=0.01

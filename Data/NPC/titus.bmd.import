@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://brf8fmg8cqfl6"
+path="res://.godot/imported/titus.bmd-de0e4a9dece16a9d782109ed610e6def.scn"
+
+[deps]
+
+source_file="res://Data/NPC/titus.bmd"
+dest_files=["res://.godot/imported/titus.bmd-de0e4a9dece16a9d782109ed610e6def.scn"]
+
+[params]
+
+modelScale=0.01

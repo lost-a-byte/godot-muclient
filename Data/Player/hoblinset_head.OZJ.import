@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qwhhp72inmkg"
+path="res://.godot/imported/hoblinset_head.OZJ-cc76544d7c8d578ce7d5a633053aeb8a.res"
+
+[deps]
+
+source_file="res://Data/Player/hoblinset_head.OZJ"
+dest_files=["res://.godot/imported/hoblinset_head.OZJ-cc76544d7c8d578ce7d5a633053aeb8a.res"]
+
+[params]
+

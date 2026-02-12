@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmb3m1duevmtb"
+path="res://.godot/imported/nude_Armor.OZJ-6c22cf023b75eb527b75a6166870c94f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nude_Armor.OZJ"
+dest_files=["res://.godot/imported/nude_Armor.OZJ-6c22cf023b75eb527b75a6166870c94f.res"]
+
+[params]
+

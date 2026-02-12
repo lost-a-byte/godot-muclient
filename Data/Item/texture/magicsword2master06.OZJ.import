@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ekubmwiowttv"
+path="res://.godot/imported/magicsword2master06.OZJ-9c11f094646c4dea3fffedcdf1362213.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magicsword2master06.OZJ"
+dest_files=["res://.godot/imported/magicsword2master06.OZJ-9c11f094646c4dea3fffedcdf1362213.res"]
+
+[params]
+

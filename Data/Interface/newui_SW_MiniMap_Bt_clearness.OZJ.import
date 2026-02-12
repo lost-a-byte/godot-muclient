@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxo1u3rotcp5b"
+path="res://.godot/imported/newui_SW_MiniMap_Bt_clearness.OZJ-93e4fd0e105a902ad3a63d0bb4d2b584.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_SW_MiniMap_Bt_clearness.OZJ"
+dest_files=["res://.godot/imported/newui_SW_MiniMap_Bt_clearness.OZJ-93e4fd0e105a902ad3a63d0bb4d2b584.res"]
+
+[params]
+

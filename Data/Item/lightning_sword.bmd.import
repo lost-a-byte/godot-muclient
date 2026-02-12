@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://utqd0tk162p6"
+path="res://.godot/imported/lightning_sword.bmd-d0cc9ca0e558be96c081ea55d4c90194.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_sword.bmd"
+dest_files=["res://.godot/imported/lightning_sword.bmd-d0cc9ca0e558be96c081ea55d4c90194.scn"]
+
+[params]
+
+modelScale=0.01

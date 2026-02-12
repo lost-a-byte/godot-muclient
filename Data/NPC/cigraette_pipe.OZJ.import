@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://168k5j8gk276"
+path="res://.godot/imported/cigraette_pipe.OZJ-9cd9a5999d8fb5331f2e77dff7e8d4b8.res"
+
+[deps]
+
+source_file="res://Data/NPC/cigraette_pipe.OZJ"
+dest_files=["res://.godot/imported/cigraette_pipe.OZJ-9cd9a5999d8fb5331f2e77dff7e8d4b8.res"]
+
+[params]
+

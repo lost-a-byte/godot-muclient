@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6tcfmmwcwms2"
+path="res://.godot/imported/BloodAngel_Mace.bmd-48c4263229708f8b1f819423a4cad82e.scn"
+
+[deps]
+
+source_file="res://Data/Item/BloodAngel_Mace.bmd"
+dest_files=["res://.godot/imported/BloodAngel_Mace.bmd-48c4263229708f8b1f819423a4cad82e.scn"]
+
+[params]
+
+modelScale=0.01

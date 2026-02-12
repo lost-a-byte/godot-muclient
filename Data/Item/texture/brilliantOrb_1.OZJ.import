@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtqwtawst3r3f"
+path="res://.godot/imported/brilliantOrb_1.OZJ-98e67be4ec1dc261081f0f9bb07685d2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/brilliantOrb_1.OZJ"
+dest_files=["res://.godot/imported/brilliantOrb_1.OZJ-98e67be4ec1dc261081f0f9bb07685d2.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://declc0q26s2t"
+path="res://.godot/imported/sd_pentagram02.OZJ-a2a7c33fd093e8670af7117225bb2c35.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_pentagram02.OZJ"
+dest_files=["res://.godot/imported/sd_pentagram02.OZJ-a2a7c33fd093e8670af7117225bb2c35.res"]
+
+[params]
+

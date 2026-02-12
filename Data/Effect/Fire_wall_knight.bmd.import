@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjjgml412y3ne"
+path="res://.godot/imported/Fire_wall_knight.bmd-3e4b9cce27f03014e5d7b0223f282665.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Fire_wall_knight.bmd"
+dest_files=["res://.godot/imported/Fire_wall_knight.bmd-3e4b9cce27f03014e5d7b0223f282665.scn"]
+
+[params]
+
+modelScale=0.01

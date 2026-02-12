@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qm1w8eypodt4"
+path="res://.godot/imported/Stormgard_armor.OZT-6238b51b7266b51963e6b27ea541acfd.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormgard_armor.OZT"
+dest_files=["res://.godot/imported/Stormgard_armor.OZT-6238b51b7266b51963e6b27ea541acfd.res"]
+
+[params]
+

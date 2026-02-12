@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1tymafessy4n"
+path="res://.godot/imported/treasurebox_1.OZJ-85da69e41a4a983e95f73e3a4c5cc376.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/treasurebox_1.OZJ"
+dest_files=["res://.godot/imported/treasurebox_1.OZJ-85da69e41a4a983e95f73e3a4c5cc376.res"]
+
+[params]
+

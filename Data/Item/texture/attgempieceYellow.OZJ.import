@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3hkqoegojt68"
+path="res://.godot/imported/attgempieceYellow.OZJ-a79cdce2b13c62aed7873a2c5c7d59af.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/attgempieceYellow.OZJ"
+dest_files=["res://.godot/imported/attgempieceYellow.OZJ-a79cdce2b13c62aed7873a2c5c7d59af.res"]
+
+[params]
+

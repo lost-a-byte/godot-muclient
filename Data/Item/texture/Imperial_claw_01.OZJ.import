@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5otntg2oulf4"
+path="res://.godot/imported/Imperial_claw_01.OZJ-749bf76e2ffea0b61aa5346d2f2862ae.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_claw_01.OZJ"
+dest_files=["res://.godot/imported/Imperial_claw_01.OZJ-749bf76e2ffea0b61aa5346d2f2862ae.res"]
+
+[params]
+

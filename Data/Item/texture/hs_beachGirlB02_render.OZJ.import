@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byoj3mhm6pxvh"
+path="res://.godot/imported/hs_beachGirlB02_render.OZJ-7316703f687ab80be3566466ee430596.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_beachGirlB02_render.OZJ"
+dest_files=["res://.godot/imported/hs_beachGirlB02_render.OZJ-7316703f687ab80be3566466ee430596.res"]
+
+[params]
+

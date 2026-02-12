@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3yx1b560fsp4"
+path="res://.godot/imported/face_upper3.OZJ-593b0ad45cd1b8974c9a229d57914696.res"
+
+[deps]
+
+source_file="res://Data/Object9/face_upper3.OZJ"
+dest_files=["res://.godot/imported/face_upper3.OZJ-593b0ad45cd1b8974c9a229d57914696.res"]
+
+[params]
+

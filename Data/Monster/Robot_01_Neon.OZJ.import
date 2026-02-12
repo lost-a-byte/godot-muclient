@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtnrlv2ncn523"
+path="res://.godot/imported/Robot_01_Neon.OZJ-3461853aa207fdc320dbc0b9f32e218b.res"
+
+[deps]
+
+source_file="res://Data/Monster/Robot_01_Neon.OZJ"
+dest_files=["res://.godot/imported/Robot_01_Neon.OZJ-3461853aa207fdc320dbc0b9f32e218b.res"]
+
+[params]
+

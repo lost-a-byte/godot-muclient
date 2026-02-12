@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cew5jjj3ghl8k"
+path="res://.godot/imported/Gremlin_Armor.OZJ-9a33c4ac4c997ac734bf2cd75e400c7a.res"
+
+[deps]
+
+source_file="res://Data/Monster/Gremlin_Armor.OZJ"
+dest_files=["res://.godot/imported/Gremlin_Armor.OZJ-9a33c4ac4c997ac734bf2cd75e400c7a.res"]
+
+[params]
+

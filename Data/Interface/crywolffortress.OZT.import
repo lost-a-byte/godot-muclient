@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxifa6hyjs703"
+path="res://.godot/imported/crywolffortress.OZT-a9d547a1adabe4441311551932534fc9.res"
+
+[deps]
+
+source_file="res://Data/Interface/crywolffortress.OZT"
+dest_files=["res://.godot/imported/crywolffortress.OZT-a9d547a1adabe4441311551932534fc9.res"]
+
+[params]
+

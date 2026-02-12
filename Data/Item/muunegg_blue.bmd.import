@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmg7lec0f05vn"
+path="res://.godot/imported/muunegg_blue.bmd-9412c91eda7719f1e6ddc1a748a29ab6.scn"
+
+[deps]
+
+source_file="res://Data/Item/muunegg_blue.bmd"
+dest_files=["res://.godot/imported/muunegg_blue.bmd-9412c91eda7719f1e6ddc1a748a29ab6.scn"]
+
+[params]
+
+modelScale=0.01

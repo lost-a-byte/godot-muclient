@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1p72qllk0wgt"
+path="res://.godot/imported/craftsbox_R.OZJ-215476de688ed50b1e4af1348cd2540b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/craftsbox_R.OZJ"
+dest_files=["res://.godot/imported/craftsbox_R.OZJ-215476de688ed50b1e4af1348cd2540b.res"]
+
+[params]
+

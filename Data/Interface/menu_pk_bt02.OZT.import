@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dg7dkfscxep7w"
+path="res://.godot/imported/menu_pk_bt02.OZT-4238a662e8ce18d6a7cf74a75d1b2f38.res"
+
+[deps]
+
+source_file="res://Data/Interface/menu_pk_bt02.OZT"
+dest_files=["res://.godot/imported/menu_pk_bt02.OZT-4238a662e8ce18d6a7cf74a75d1b2f38.res"]
+
+[params]
+

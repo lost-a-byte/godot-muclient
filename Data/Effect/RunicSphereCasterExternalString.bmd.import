@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://clsk28nwhpfm2"
+path="res://.godot/imported/RunicSphereCasterExternalString.bmd-f96c7113238b324558d9aef1d15c7053.scn"
+
+[deps]
+
+source_file="res://Data/Effect/RunicSphereCasterExternalString.bmd"
+dest_files=["res://.godot/imported/RunicSphereCasterExternalString.bmd-f96c7113238b324558d9aef1d15c7053.scn"]
+
+[params]
+
+modelScale=0.01

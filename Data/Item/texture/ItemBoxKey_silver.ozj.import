@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfx4ol0jq6vgh"
+path="res://.godot/imported/ItemBoxKey_silver.ozj-5ef28857c4b44be40c676b842edd64cf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ItemBoxKey_silver.ozj"
+dest_files=["res://.godot/imported/ItemBoxKey_silver.ozj-5ef28857c4b44be40c676b842edd64cf.res"]
+
+[params]
+

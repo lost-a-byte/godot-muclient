@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doh1adf3wx1ct"
+path="res://.godot/imported/waterfall.OZT-cfe24ed951f574e3c1ce73b659a7e740.res"
+
+[deps]
+
+source_file="res://Data/Object34/waterfall.OZT"
+dest_files=["res://.godot/imported/waterfall.OZT-cfe24ed951f574e3c1ce73b659a7e740.res"]
+
+[params]
+

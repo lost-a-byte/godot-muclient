@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://r4rnq4mnf65e"
+path="res://.godot/imported/Item3138_Gold.OZJ-a793f4cf419df7f3d0b32ddd79c10936.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3138_Gold.OZJ"
+dest_files=["res://.godot/imported/Item3138_Gold.OZJ-a793f4cf419df7f3d0b32ddd79c10936.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqj3j7001u5qc"
+path="res://.godot/imported/Robotwing_gold.bmd-89d66d964d53c65a482367af8f26af50.scn"
+
+[deps]
+
+source_file="res://Data/Item/Robotwing_gold.bmd"
+dest_files=["res://.godot/imported/Robotwing_gold.bmd-89d66d964d53c65a482367af8f26af50.scn"]
+
+[params]
+
+modelScale=0.01

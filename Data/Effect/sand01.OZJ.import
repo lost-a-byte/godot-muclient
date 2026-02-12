@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dn24ftbigcdok"
+path="res://.godot/imported/sand01.OZJ-9c8836041240c27b70395b5a7c579c2f.res"
+
+[deps]
+
+source_file="res://Data/Effect/sand01.OZJ"
+dest_files=["res://.godot/imported/sand01.OZJ-9c8836041240c27b70395b5a7c579c2f.res"]
+
+[params]
+

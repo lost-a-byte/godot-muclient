@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://csxj02i3jm6wt"
+path="res://.godot/imported/StoneCoffin02.bmd-fd73a3640f22d8c766d78fcb14085c77.scn"
+
+[deps]
+
+source_file="res://Data/Object12/StoneCoffin02.bmd"
+dest_files=["res://.godot/imported/StoneCoffin02.bmd-fd73a3640f22d8c766d78fcb14085c77.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c48cqrj0tu6d0"
+path="res://.godot/imported/doubt_paper.OZJ-78f895ebee665c4655dd0875c84b5b86.res"
+
+[deps]
+
+source_file="res://Data/Item/doubt_paper.OZJ"
+dest_files=["res://.godot/imported/doubt_paper.OZJ-78f895ebee665c4655dd0875c84b5b86.res"]
+
+[params]
+

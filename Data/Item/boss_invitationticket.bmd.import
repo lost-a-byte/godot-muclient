@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cj0cikonako02"
+path="res://.godot/imported/boss_invitationticket.bmd-ccd5961ec775f2335f16dc038e876647.scn"
+
+[deps]
+
+source_file="res://Data/Item/boss_invitationticket.bmd"
+dest_files=["res://.godot/imported/boss_invitationticket.bmd-ccd5961ec775f2335f16dc038e876647.scn"]
+
+[params]
+
+modelScale=0.01

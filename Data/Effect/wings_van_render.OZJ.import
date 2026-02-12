@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cppm2l5u5ndlw"
+path="res://.godot/imported/wings_van_render.OZJ-93d6ab2ae6bd1c5929f0895c71f8f670.res"
+
+[deps]
+
+source_file="res://Data/Effect/wings_van_render.OZJ"
+dest_files=["res://.godot/imported/wings_van_render.OZJ-93d6ab2ae6bd1c5929f0895c71f8f670.res"]
+
+[params]
+

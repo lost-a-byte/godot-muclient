@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1mgu53cjlel3"
+path="res://.godot/imported/accept_box02.OZJ-e2207cd494306bde6f49ff121ba3ad93.res"
+
+[deps]
+
+source_file="res://Data/Interface/accept_box02.OZJ"
+dest_files=["res://.godot/imported/accept_box02.OZJ-e2207cd494306bde6f49ff121ba3ad93.res"]
+
+[params]
+

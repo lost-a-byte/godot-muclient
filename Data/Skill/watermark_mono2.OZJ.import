@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7eeqapwrc7qv"
+path="res://.godot/imported/watermark_mono2.OZJ-6e234adb25a2cf585356ffeb74ea1cb8.res"
+
+[deps]
+
+source_file="res://Data/Skill/watermark_mono2.OZJ"
+dest_files=["res://.godot/imported/watermark_mono2.OZJ-6e234adb25a2cf585356ffeb74ea1cb8.res"]
+
+[params]
+

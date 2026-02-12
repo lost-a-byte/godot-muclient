@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3comniv2m74o"
+path="res://.godot/imported/AQ_assassin_feather.OZJ-bd5d1fbb6199ad112baf460b4f66ecf0.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_assassin_feather.OZJ"
+dest_files=["res://.godot/imported/AQ_assassin_feather.OZJ-bd5d1fbb6199ad112baf460b4f66ecf0.res"]
+
+[params]
+

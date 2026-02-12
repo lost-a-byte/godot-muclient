@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjumiywxchuqh"
+path="res://.godot/imported/sd_propertycard05.OZJ-395c5a9331942629f30df12cde99d531.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_propertycard05.OZJ"
+dest_files=["res://.godot/imported/sd_propertycard05.OZJ-395c5a9331942629f30df12cde99d531.res"]
+
+[params]
+

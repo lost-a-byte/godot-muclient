@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://drn5r1hp2f1e1"
+path="res://.godot/imported/obox02.bmd-4cfacec3be61ffffccd4941d6f441c5e.scn"
+
+[deps]
+
+source_file="res://Data/Item/obox02.bmd"
+dest_files=["res://.godot/imported/obox02.bmd-4cfacec3be61ffffccd4941d6f441c5e.scn"]
+
+[params]
+
+modelScale=0.01

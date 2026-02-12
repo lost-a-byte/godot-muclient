@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0r2l5r1b6c45"
+path="res://.godot/imported/Imperial_lance_01_R.OZJ-fb4e1990a377574a81aa5eb8173019ef.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_lance_01_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_lance_01_R.OZJ-fb4e1990a377574a81aa5eb8173019ef.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://di1tct4vkiaki"
+path="res://.godot/imported/kuo01_renew01.OZJ-ae842c70e3d13b2fb36d6f4c188bed65.res"
+
+[deps]
+
+source_file="res://Data/Monster/kuo01_renew01.OZJ"
+dest_files=["res://.godot/imported/kuo01_renew01.OZJ-ae842c70e3d13b2fb36d6f4c188bed65.res"]
+
+[params]
+

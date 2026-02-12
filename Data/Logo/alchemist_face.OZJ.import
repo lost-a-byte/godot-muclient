@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj3r4ah6rhv03"
+path="res://.godot/imported/alchemist_face.OZJ-f1bacce6e6538d0500dbd5728a3694e0.res"
+
+[deps]
+
+source_file="res://Data/Logo/alchemist_face.OZJ"
+dest_files=["res://.godot/imported/alchemist_face.OZJ-f1bacce6e6538d0500dbd5728a3694e0.res"]
+
+[params]
+

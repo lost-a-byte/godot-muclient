@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b87p1y6t5bmym"
+path="res://.godot/imported/crosssheild.bmd-d8ede6a5b481a4328739b1c8968da494.scn"
+
+[deps]
+
+source_file="res://Data/Item/crosssheild.bmd"
+dest_files=["res://.godot/imported/crosssheild.bmd-d8ede6a5b481a4328739b1c8968da494.scn"]
+
+[params]
+
+modelScale=0.01

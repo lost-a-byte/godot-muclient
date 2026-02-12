@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wnkynimxnkdl"
+path="res://.godot/imported/apocalypse_stick.bmd-c1a66d5063e981966a654d4e986f3be3.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse_stick.bmd"
+dest_files=["res://.godot/imported/apocalypse_stick.bmd-c1a66d5063e981966a654d4e986f3be3.scn"]
+
+[params]
+
+modelScale=0.01

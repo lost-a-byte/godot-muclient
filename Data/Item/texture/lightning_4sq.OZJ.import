@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sdbrklaw24yk"
+path="res://.godot/imported/lightning_4sq.OZJ-e2298359238529e755ab8bfcb6d33751.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_4sq.OZJ"
+dest_files=["res://.godot/imported/lightning_4sq.OZJ-e2298359238529e755ab8bfcb6d33751.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba0qfo4ytm7uc"
+path="res://.godot/imported/skin_warrior_01.OZJ-4e141c40bce4242f555ad4573db28a7c.res"
+
+[deps]
+
+source_file="res://Data/Player/skin_warrior_01.OZJ"
+dest_files=["res://.godot/imported/skin_warrior_01.OZJ-4e141c40bce4242f555ad4573db28a7c.res"]
+
+[params]
+

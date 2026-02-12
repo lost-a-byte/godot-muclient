@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cf3a1dsqsynoq"
+path="res://.godot/imported/Relic.OZT-161d4178ea6297e4df94f05ad3a391bb.res"
+
+[deps]
+
+source_file="res://Data/Interface/Relic.OZT"
+dest_files=["res://.godot/imported/Relic.OZT-161d4178ea6297e4df94f05ad3a391bb.res"]
+
+[params]
+

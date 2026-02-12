@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxcwy7sxtluay"
+path="res://.godot/imported/volo.OZJ-7cc478a82a59bf55cc2f3137b8406974.res"
+
+[deps]
+
+source_file="res://Data/NPC/volo.OZJ"
+dest_files=["res://.godot/imported/volo.OZJ-7cc478a82a59bf55cc2f3137b8406974.res"]
+
+[params]
+

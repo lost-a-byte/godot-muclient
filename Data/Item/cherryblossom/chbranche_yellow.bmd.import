@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b6kx5g3wki1mp"
+path="res://.godot/imported/chbranche_yellow.bmd-da848a0a60347c1dc2f81b7241e73ad6.scn"
+
+[deps]
+
+source_file="res://Data/Item/cherryblossom/chbranche_yellow.bmd"
+dest_files=["res://.godot/imported/chbranche_yellow.bmd-da848a0a60347c1dc2f81b7241e73ad6.scn"]
+
+[params]
+
+modelScale=0.01

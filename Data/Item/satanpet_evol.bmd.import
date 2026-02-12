@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhqt1xltc4ht6"
+path="res://.godot/imported/satanpet_evol.bmd-73e3c09b53af3d947c3c40f73d864f56.scn"
+
+[deps]
+
+source_file="res://Data/Item/satanpet_evol.bmd"
+dest_files=["res://.godot/imported/satanpet_evol.bmd-73e3c09b53af3d947c3c40f73d864f56.scn"]
+
+[params]
+
+modelScale=0.01

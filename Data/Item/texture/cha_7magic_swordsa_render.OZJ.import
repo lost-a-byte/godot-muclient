@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7yikdunue28t"
+path="res://.godot/imported/cha_7magic_swordsa_render.OZJ-a11fd850a3785a4b95e056e8299a1325.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cha_7magic_swordsa_render.OZJ"
+dest_files=["res://.godot/imported/cha_7magic_swordsa_render.OZJ-a11fd850a3785a4b95e056e8299a1325.res"]
+
+[params]
+

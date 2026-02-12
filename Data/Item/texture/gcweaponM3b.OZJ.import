@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coihfne7fy53o"
+path="res://.godot/imported/gcweaponM3b.OZJ-ed86a6f5882f102c5bfb7ac0cd54f2cf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gcweaponM3b.OZJ"
+dest_files=["res://.godot/imported/gcweaponM3b.OZJ-ed86a6f5882f102c5bfb7ac0cd54f2cf.res"]
+
+[params]
+

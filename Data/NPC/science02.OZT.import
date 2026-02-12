@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btvpms1n4wael"
+path="res://.godot/imported/science02.OZT-cf943ddd4186f5f5c7b8b208aad22ec1.res"
+
+[deps]
+
+source_file="res://Data/NPC/science02.OZT"
+dest_files=["res://.godot/imported/science02.OZT-cf943ddd4186f5f5c7b8b208aad22ec1.res"]
+
+[params]
+

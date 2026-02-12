@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gedosfolj7v3"
+path="res://.godot/imported/Item3002_Boot.OZJ-28caa7cee39c31c7bd7d457615a84e4f.res"
+
+[deps]
+
+source_file="res://Data/Player/Item3002_Boot.OZJ"
+dest_files=["res://.godot/imported/Item3002_Boot.OZJ-28caa7cee39c31c7bd7d457615a84e4f.res"]
+
+[params]
+

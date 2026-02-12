@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gjmvqumhjrnn"
+path="res://.godot/imported/sd_minestone01.OZJ-20dbaabc098e252ccdbc74d4b47efba0.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_minestone01.OZJ"
+dest_files=["res://.godot/imported/sd_minestone01.OZJ-20dbaabc098e252ccdbc74d4b47efba0.res"]
+
+[params]
+

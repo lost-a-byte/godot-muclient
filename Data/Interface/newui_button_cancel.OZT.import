@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chm4ad3iw3e8w"
+path="res://.godot/imported/newui_button_cancel.OZT-6263a2b8a06a41f47f8161e5c5f6566e.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_button_cancel.OZT"
+dest_files=["res://.godot/imported/newui_button_cancel.OZT-6263a2b8a06a41f47f8161e5c5f6566e.res"]
+
+[params]
+

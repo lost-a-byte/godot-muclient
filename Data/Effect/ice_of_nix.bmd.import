@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://gt48ea00fdmc"
+path="res://.godot/imported/ice_of_nix.bmd-9b08acad0b7980a417bd0c2cc1a9d8f2.scn"
+
+[deps]
+
+source_file="res://Data/Effect/ice_of_nix.bmd"
+dest_files=["res://.godot/imported/ice_of_nix.bmd-9b08acad0b7980a417bd0c2cc1a9d8f2.scn"]
+
+[params]
+
+modelScale=0.01

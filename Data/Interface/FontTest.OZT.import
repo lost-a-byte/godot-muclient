@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://badcrc1ogi0h5"
+path="res://.godot/imported/FontTest.OZT-d73f5113c55655091b5e9090459e9f0a.res"
+
+[deps]
+
+source_file="res://Data/Interface/FontTest.OZT"
+dest_files=["res://.godot/imported/FontTest.OZT-d73f5113c55655091b5e9090459e9f0a.res"]
+
+[params]
+

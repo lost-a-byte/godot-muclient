@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b5m4frksc46o8"
+path="res://.godot/imported/urUp_inven.bmd-7ca25d153217e99a0a76938b7eda5b44.scn"
+
+[deps]
+
+source_file="res://Data/Item/urUp_inven.bmd"
+dest_files=["res://.godot/imported/urUp_inven.bmd-7ca25d153217e99a0a76938b7eda5b44.scn"]
+
+[params]
+
+modelScale=0.01

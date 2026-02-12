@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjqd6ovdcintq"
+path="res://.godot/imported/devilsorcerer_02.OZJ-f58ad0f48d5224d36d203c39300d78d2.res"
+
+[deps]
+
+source_file="res://Data/Monster/devilsorcerer_02.OZJ"
+dest_files=["res://.godot/imported/devilsorcerer_02.OZJ-f58ad0f48d5224d36d203c39300d78d2.res"]
+
+[params]
+

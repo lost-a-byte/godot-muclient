@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cq1lpj0wrfgp0"
+path="res://.godot/imported/lalaUp_wing.OZJ-a611ab1608900b9e3e2a129909d1ce07.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lalaUp_wing.OZJ"
+dest_files=["res://.godot/imported/lalaUp_wing.OZJ-a611ab1608900b9e3e2a129909d1ce07.res"]
+
+[params]
+

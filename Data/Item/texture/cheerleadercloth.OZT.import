@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqfmkmrhgnwwv"
+path="res://.godot/imported/cheerleadercloth.OZT-82dfbe344bbad542a202072a388217db.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cheerleadercloth.OZT"
+dest_files=["res://.godot/imported/cheerleadercloth.OZT-82dfbe344bbad542a202072a388217db.res"]
+
+[params]
+

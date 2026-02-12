@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8livogyhk23d"
+path="res://.godot/imported/bow06.OZJ-923a13cef94f0f0ca7d4a97c965643e3.res"
+
+[deps]
+
+source_file="res://Data/Item/bow06.OZJ"
+dest_files=["res://.godot/imported/bow06.OZJ-923a13cef94f0f0ca7d4a97c965643e3.res"]
+
+[params]
+

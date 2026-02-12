@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x3ixdk7mne0b"
+path="res://.godot/imported/Quest_tab01.OZT-6d7493d0550ad368bacdb057972ea555.res"
+
+[deps]
+
+source_file="res://Data/Interface/Quest_tab01.OZT"
+dest_files=["res://.godot/imported/Quest_tab01.OZT-6d7493d0550ad368bacdb057972ea555.res"]
+
+[params]
+

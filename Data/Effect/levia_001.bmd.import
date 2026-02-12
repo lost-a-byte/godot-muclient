@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c1u8l5pi1w245"
+path="res://.godot/imported/levia_001.bmd-cb7ed83041635bbd1cb4f9c4d9ef95cd.scn"
+
+[deps]
+
+source_file="res://Data/Effect/levia_001.bmd"
+dest_files=["res://.godot/imported/levia_001.bmd-cb7ed83041635bbd1cb4f9c4d9ef95cd.scn"]
+
+[params]
+
+modelScale=0.01

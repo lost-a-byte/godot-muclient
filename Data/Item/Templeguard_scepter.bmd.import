@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b57sr76a8mu00"
+path="res://.godot/imported/Templeguard_scepter.bmd-a3e2840125dba256f34bcdc58c543550.scn"
+
+[deps]
+
+source_file="res://Data/Item/Templeguard_scepter.bmd"
+dest_files=["res://.godot/imported/Templeguard_scepter.bmd-a3e2840125dba256f34bcdc58c543550.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6qw38qm2gmv"
+path="res://.godot/imported/nomal_shadows.OZT-8e9ec70a541f92ffbe2ebb3c12c95a03.res"
+
+[deps]
+
+source_file="res://Data/Monster/nomal_shadows.OZT"
+dest_files=["res://.godot/imported/nomal_shadows.OZT-8e9ec70a541f92ffbe2ebb3c12c95a03.res"]
+
+[params]
+

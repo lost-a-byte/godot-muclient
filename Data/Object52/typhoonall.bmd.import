@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://k0derrsniq6l"
+path="res://.godot/imported/typhoonall.bmd-09a493cce427544d3ca5bbf5fb8d29e1.scn"
+
+[deps]
+
+source_file="res://Data/Object52/typhoonall.bmd"
+dest_files=["res://.godot/imported/typhoonall.bmd-09a493cce427544d3ca5bbf5fb8d29e1.scn"]
+
+[params]
+
+modelScale=0.01

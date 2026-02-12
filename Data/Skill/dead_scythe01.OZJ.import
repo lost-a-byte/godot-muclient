@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2ow7ll6xdu1q"
+path="res://.godot/imported/dead_scythe01.OZJ-882f83197037f59079cfdf0b84343d6e.res"
+
+[deps]
+
+source_file="res://Data/Skill/dead_scythe01.OZJ"
+dest_files=["res://.godot/imported/dead_scythe01.OZJ-882f83197037f59079cfdf0b84343d6e.res"]
+
+[params]
+

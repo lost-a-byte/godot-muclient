@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x7oydwddvqhq"
+path="res://.godot/imported/gloves_07.ozj-f539d33043b6d39bc9b8710d67c7c479.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gloves_07.ozj"
+dest_files=["res://.godot/imported/gloves_07.ozj-f539d33043b6d39bc9b8710d67c7c479.res"]
+
+[params]
+

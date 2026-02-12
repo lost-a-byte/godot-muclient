@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://phtfo538elep"
+path="res://.godot/imported/Cursor.ozt-e25f75e9546302217d0f179b5b1d1fbc.res"
+
+[deps]
+
+source_file="res://Data/Interface/Cursor.ozt"
+dest_files=["res://.godot/imported/Cursor.ozt-e25f75e9546302217d0f179b5b1d1fbc.res"]
+
+[params]
+

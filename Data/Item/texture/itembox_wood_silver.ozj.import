@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beco87bolxcgw"
+path="res://.godot/imported/itembox_wood_silver.ozj-c682adfa7e99c56f22abf5af3b881c95.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/itembox_wood_silver.ozj"
+dest_files=["res://.godot/imported/itembox_wood_silver.ozj-c682adfa7e99c56f22abf5af3b881c95.res"]
+
+[params]
+

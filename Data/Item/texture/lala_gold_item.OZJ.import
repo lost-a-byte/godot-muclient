@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpkm32r7loq8q"
+path="res://.godot/imported/lala_gold_item.OZJ-7005d3c2cf2c25a0ced7a3cdf6a3acd6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lala_gold_item.OZJ"
+dest_files=["res://.godot/imported/lala_gold_item.OZJ-7005d3c2cf2c25a0ced7a3cdf6a3acd6.res"]
+
+[params]
+

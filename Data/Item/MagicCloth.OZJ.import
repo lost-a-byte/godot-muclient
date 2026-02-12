@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b68q01ryqhqum"
+path="res://.godot/imported/MagicCloth.OZJ-71de337293f2b681b537e6c418fc2324.res"
+
+[deps]
+
+source_file="res://Data/Item/MagicCloth.OZJ"
+dest_files=["res://.godot/imported/MagicCloth.OZJ-71de337293f2b681b537e6c418fc2324.res"]
+
+[params]
+

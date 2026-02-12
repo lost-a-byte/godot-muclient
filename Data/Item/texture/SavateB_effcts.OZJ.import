@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5w0oa6carwwe"
+path="res://.godot/imported/SavateB_effcts.OZJ-09e0efd6cf1ada9ae9bacda92cadf040.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SavateB_effcts.OZJ"
+dest_files=["res://.godot/imported/SavateB_effcts.OZJ-09e0efd6cf1ada9ae9bacda92cadf040.res"]
+
+[params]
+

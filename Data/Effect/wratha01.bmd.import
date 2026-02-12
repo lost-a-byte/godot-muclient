@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cdiu45srbtwmb"
+path="res://.godot/imported/wratha01.bmd-6f3009f85d6a02dd537378b3f084893a.scn"
+
+[deps]
+
+source_file="res://Data/Effect/wratha01.bmd"
+dest_files=["res://.godot/imported/wratha01.bmd-6f3009f85d6a02dd537378b3f084893a.scn"]
+
+[params]
+
+modelScale=0.01

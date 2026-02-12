@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5kepa7sbk2re"
+path="res://.godot/imported/cobraset_boots_s.OZJ-88792e5d56f590b36ad48bb8ce4107c6.res"
+
+[deps]
+
+source_file="res://Data/Player/cobraset_boots_s.OZJ"
+dest_files=["res://.godot/imported/cobraset_boots_s.OZJ-88792e5d56f590b36ad48bb8ce4107c6.res"]
+
+[params]
+

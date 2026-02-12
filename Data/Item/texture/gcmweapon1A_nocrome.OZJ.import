@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwy0c5b4p8dw4"
+path="res://.godot/imported/gcmweapon1A_nocrome.OZJ-336df762ac598d7284681ee93d9bc800.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gcmweapon1A_nocrome.OZJ"
+dest_files=["res://.godot/imported/gcmweapon1A_nocrome.OZJ-336df762ac598d7284681ee93d9bc800.res"]
+
+[params]
+

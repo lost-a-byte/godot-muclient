@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://46mgjqpl0pql"
+path="res://.godot/imported/warrior.OZJ-159efee62529f8563578aa062ec41f39.res"
+
+[deps]
+
+source_file="res://Data/Logo/warrior.OZJ"
+dest_files=["res://.godot/imported/warrior.OZJ-159efee62529f8563578aa062ec41f39.res"]
+
+[params]
+

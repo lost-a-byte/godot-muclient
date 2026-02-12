@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dckqnjdljsf7x"
+path="res://.godot/imported/DK_arms.OZJ-907d4d2d616e4f06c03f2b5221c668c0.res"
+
+[deps]
+
+source_file="res://Data/Logo/DK_arms.OZJ"
+dest_files=["res://.godot/imported/DK_arms.OZJ-907d4d2d616e4f06c03f2b5221c668c0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tr537rmmq5en"
+path="res://.godot/imported/skillbeads.OZJ-73ce072a7da0f022fdd0f9cf1ae0dc94.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/skillbeads.OZJ"
+dest_files=["res://.godot/imported/skillbeads.OZJ-73ce072a7da0f022fdd0f9cf1ae0dc94.res"]
+
+[params]
+

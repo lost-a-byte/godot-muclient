@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://clr1sgdiiqoji"
+path="res://.godot/imported/ParryingShortSword.bmd-697256f36d4dd2da2d2e342b2f0d14e3.scn"
+
+[deps]
+
+source_file="res://Data/Item/ParryingShortSword.bmd"
+dest_files=["res://.godot/imported/ParryingShortSword.bmd-697256f36d4dd2da2d2e342b2f0d14e3.scn"]
+
+[params]
+
+modelScale=0.01

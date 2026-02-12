@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cppjfm4scpe35"
+path="res://.godot/imported/potalcharm.bmd-605793d90d236335f050171729eefad5.scn"
+
+[deps]
+
+source_file="res://Data/Item/potalcharm.bmd"
+dest_files=["res://.godot/imported/potalcharm.bmd-605793d90d236335f050171729eefad5.scn"]
+
+[params]
+
+modelScale=0.01

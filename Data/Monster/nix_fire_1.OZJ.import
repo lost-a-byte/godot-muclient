@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bibdn8hnas6e5"
+path="res://.godot/imported/nix_fire_1.OZJ-87e9d214116dfe7faba1eaebb0059ee7.res"
+
+[deps]
+
+source_file="res://Data/Monster/nix_fire_1.OZJ"
+dest_files=["res://.godot/imported/nix_fire_1.OZJ-87e9d214116dfe7faba1eaebb0059ee7.res"]
+
+[params]
+

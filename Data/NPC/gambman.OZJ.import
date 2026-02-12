@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbe7akdw6fenh"
+path="res://.godot/imported/gambman.OZJ-823ba9b33b5f7329b537612957fdacd9.res"
+
+[deps]
+
+source_file="res://Data/NPC/gambman.OZJ"
+dest_files=["res://.godot/imported/gambman.OZJ-823ba9b33b5f7329b537612957fdacd9.res"]
+
+[params]
+

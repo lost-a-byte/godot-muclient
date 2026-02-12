@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xiee8kxor5n2"
+path="res://.godot/imported/M8staffA.OZJ-e74c876f67410b1548324bc9960f54c8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/M8staffA.OZJ"
+dest_files=["res://.godot/imported/M8staffA.OZJ-e74c876f67410b1548324bc9960f54c8.res"]
+
+[params]
+

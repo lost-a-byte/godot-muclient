@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu651eaoriorb"
+path="res://.godot/imported/Secneum_abyssbody.OZJ-654582f50342c37c2923ec1d3cf1996e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Secneum_abyssbody.OZJ"
+dest_files=["res://.godot/imported/Secneum_abyssbody.OZJ-654582f50342c37c2923ec1d3cf1996e.res"]
+
+[params]
+

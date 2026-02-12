@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cki08dkkgv45r"
+path="res://.godot/imported/chamoru.OZJ-0a5a0648f7cd2958902d15e8df0f3228.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chamoru.OZJ"
+dest_files=["res://.godot/imported/chamoru.OZJ-0a5a0648f7cd2958902d15e8df0f3228.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bsmy5ikv5p8xc"
+path="res://.godot/imported/chococookieUp.bmd-eaa84ac168fd1b9defbb9b91ba79837a.scn"
+
+[deps]
+
+source_file="res://Data/Item/chococookieUp.bmd"
+dest_files=["res://.godot/imported/chococookieUp.bmd-eaa84ac168fd1b9defbb9b91ba79837a.scn"]
+
+[params]
+
+modelScale=0.01

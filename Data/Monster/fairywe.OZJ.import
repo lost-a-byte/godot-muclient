@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byltjrpn0yn27"
+path="res://.godot/imported/fairywe.OZJ-31e7da0236510cb0e76bbd82846b5cb3.res"
+
+[deps]
+
+source_file="res://Data/Monster/fairywe.OZJ"
+dest_files=["res://.godot/imported/fairywe.OZJ-31e7da0236510cb0e76bbd82846b5cb3.res"]
+
+[params]
+

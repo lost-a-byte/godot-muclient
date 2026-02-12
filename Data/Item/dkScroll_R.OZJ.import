@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drgy87usc38t6"
+path="res://.godot/imported/dkScroll_R.OZJ-d95b629729358a870e7596857f3072c7.res"
+
+[deps]
+
+source_file="res://Data/Item/dkScroll_R.OZJ"
+dest_files=["res://.godot/imported/dkScroll_R.OZJ-d95b629729358a870e7596857f3072c7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg3v2rwxamk28"
+path="res://.godot/imported/marks_m05.OZJ-11932b91a180fa114fbc15704af341be.res"
+
+[deps]
+
+source_file="res://Data/Effect/marks_m05.OZJ"
+dest_files=["res://.godot/imported/marks_m05.OZJ-11932b91a180fa114fbc15704af341be.res"]
+
+[params]
+

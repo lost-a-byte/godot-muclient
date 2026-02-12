@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bo1tajuplinii"
+path="res://.godot/imported/wa1.OZJ-ec8e6fead9f44705033aa387220056a7.res"
+
+[deps]
+
+source_file="res://Data/Monster/wa1.OZJ"
+dest_files=["res://.godot/imported/wa1.OZJ-ec8e6fead9f44705033aa387220056a7.res"]
+
+[params]
+

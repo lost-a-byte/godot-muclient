@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccgpk2uuxr60j"
+path="res://.godot/imported/PBshield_a.OZJ-548f0557ed8dd5ad67b16b58319a914e.res"
+
+[deps]
+
+source_file="res://Data/Item/PBshield_a.OZJ"
+dest_files=["res://.godot/imported/PBshield_a.OZJ-548f0557ed8dd5ad67b16b58319a914e.res"]
+
+[params]
+

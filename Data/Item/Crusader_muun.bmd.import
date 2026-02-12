@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://devb0ecpkqoe5"
+path="res://.godot/imported/Crusader_muun.bmd-9d1291a2082344a7ed8b8b3707830882.scn"
+
+[deps]
+
+source_file="res://Data/Item/Crusader_muun.bmd"
+dest_files=["res://.godot/imported/Crusader_muun.bmd-9d1291a2082344a7ed8b8b3707830882.scn"]
+
+[params]
+
+modelScale=0.01

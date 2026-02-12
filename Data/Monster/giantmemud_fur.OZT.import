@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bc5mtit8syx25"
+path="res://.godot/imported/giantmemud_fur.OZT-35561f04262378731a770eeb403aa5ec.res"
+
+[deps]
+
+source_file="res://Data/Monster/giantmemud_fur.OZT"
+dest_files=["res://.godot/imported/giantmemud_fur.OZT-35561f04262378731a770eeb403aa5ec.res"]
+
+[params]
+

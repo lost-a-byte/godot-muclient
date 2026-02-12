@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0t7m5phh7ult"
+path="res://.godot/imported/newui_chainfo_btn_pet.OZT-36c9053e19c0cc396c21c3a5299de400.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_chainfo_btn_pet.OZT"
+dest_files=["res://.godot/imported/newui_chainfo_btn_pet.OZT-36c9053e19c0cc396c21c3a5299de400.res"]
+
+[params]
+

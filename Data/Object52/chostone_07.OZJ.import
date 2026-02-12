@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b52j3m1c7jc04"
+path="res://.godot/imported/chostone_07.OZJ-8b15c0e401121d14ba9ab231636af1ba.res"
+
+[deps]
+
+source_file="res://Data/Object52/chostone_07.OZJ"
+dest_files=["res://.godot/imported/chostone_07.OZJ-8b15c0e401121d14ba9ab231636af1ba.res"]
+
+[params]
+

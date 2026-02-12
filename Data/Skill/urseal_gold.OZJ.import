@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://64dd0p4j2t7r"
+path="res://.godot/imported/urseal_gold.OZJ-272b29b9ebd0d4fd4053205121072736.res"
+
+[deps]
+
+source_file="res://Data/Skill/urseal_gold.OZJ"
+dest_files=["res://.godot/imported/urseal_gold.OZJ-272b29b9ebd0d4fd4053205121072736.res"]
+
+[params]
+

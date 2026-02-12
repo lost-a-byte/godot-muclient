@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c757hmejabejy"
+path="res://.godot/imported/blueeyeblade_2.OZJ-fa0b1b06fd0b27642c6928091fa88df0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blueeyeblade_2.OZJ"
+dest_files=["res://.godot/imported/blueeyeblade_2.OZJ-fa0b1b06fd0b27642c6928091fa88df0.res"]
+
+[params]
+

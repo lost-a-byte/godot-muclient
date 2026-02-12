@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs1ss2t1ray1y"
+path="res://.godot/imported/PowerMedicine_R.OZJ-eff162b90e192e5872fc7c2a03dd5ddf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PowerMedicine_R.OZJ"
+dest_files=["res://.godot/imported/PowerMedicine_R.OZJ-eff162b90e192e5872fc7c2a03dd5ddf.res"]
+
+[params]
+

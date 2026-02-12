@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csb8j5v6hbj23"
+path="res://.godot/imported/raymond_sword_R.OZJ-d8478fc671ed77b7cf86a9b022c35e0f.res"
+
+[deps]
+
+source_file="res://Data/Effect/raymond_sword_R.OZJ"
+dest_files=["res://.godot/imported/raymond_sword_R.OZJ-d8478fc671ed77b7cf86a9b022c35e0f.res"]
+
+[params]
+

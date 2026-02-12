@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvimoi4soy71f"
+path="res://.godot/imported/booldangel_sapter.OZJ-20a8d907c2cdb5c97c41b3a57b9ae5a3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/booldangel_sapter.OZJ"
+dest_files=["res://.godot/imported/booldangel_sapter.OZJ-20a8d907c2cdb5c97c41b3a57b9ae5a3.res"]
+
+[params]
+

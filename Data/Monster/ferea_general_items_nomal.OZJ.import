@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beiwgvln71vxn"
+path="res://.godot/imported/ferea_general_items_nomal.OZJ-2e37c6828095cd4c52705be61adda86a.res"
+
+[deps]
+
+source_file="res://Data/Monster/ferea_general_items_nomal.OZJ"
+dest_files=["res://.godot/imported/ferea_general_items_nomal.OZJ-2e37c6828095cd4c52705be61adda86a.res"]
+
+[params]
+

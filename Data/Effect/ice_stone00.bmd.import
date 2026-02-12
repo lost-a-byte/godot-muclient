@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c708067dboopn"
+path="res://.godot/imported/ice_stone00.bmd-9e3869f93ac9843339ad6e2d11b1486c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/ice_stone00.bmd"
+dest_files=["res://.godot/imported/ice_stone00.bmd-9e3869f93ac9843339ad6e2d11b1486c.scn"]
+
+[params]
+
+modelScale=0.01

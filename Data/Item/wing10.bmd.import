@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c5nq6e6d3unn3"
+path="res://.godot/imported/wing10.bmd-f185b81c07d49518ecaba3238695e52e.scn"
+
+[deps]
+
+source_file="res://Data/Item/wing10.bmd"
+dest_files=["res://.godot/imported/wing10.bmd-f185b81c07d49518ecaba3238695e52e.scn"]
+
+[params]
+
+modelScale=0.01

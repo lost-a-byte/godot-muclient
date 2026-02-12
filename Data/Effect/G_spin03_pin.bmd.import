@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://68pnsfs145vk"
+path="res://.godot/imported/G_spin03_pin.bmd-e96a09ca0e0199a34203d72fe2914096.scn"
+
+[deps]
+
+source_file="res://Data/Effect/G_spin03_pin.bmd"
+dest_files=["res://.godot/imported/G_spin03_pin.bmd-e96a09ca0e0199a34203d72fe2914096.scn"]
+
+[params]
+
+modelScale=0.01

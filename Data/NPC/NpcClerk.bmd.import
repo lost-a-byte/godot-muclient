@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cum62is6n3xv1"
+path="res://.godot/imported/NpcClerk.bmd-97e5f4636020d21cf257073a065cebf7.scn"
+
+[deps]
+
+source_file="res://Data/NPC/NpcClerk.bmd"
+dest_files=["res://.godot/imported/NpcClerk.bmd-97e5f4636020d21cf257073a065cebf7.scn"]
+
+[params]
+
+modelScale=0.01

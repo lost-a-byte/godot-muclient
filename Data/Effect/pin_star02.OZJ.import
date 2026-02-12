@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5msm6vhqryh4"
+path="res://.godot/imported/pin_star02.OZJ-78dfa5f13dd62161ef8e77a94e514da8.res"
+
+[deps]
+
+source_file="res://Data/Effect/pin_star02.OZJ"
+dest_files=["res://.godot/imported/pin_star02.OZJ-78dfa5f13dd62161ef8e77a94e514da8.res"]
+
+[params]
+

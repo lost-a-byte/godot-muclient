@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chns2beh3anx1"
+path="res://.godot/imported/goblball.OZJ-1af982272b85bbcace2988174363c3e3.res"
+
+[deps]
+
+source_file="res://Data/NPC/goblball.OZJ"
+dest_files=["res://.godot/imported/goblball.OZJ-1af982272b85bbcace2988174363c3e3.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceb0x7huaxu3v"
+path="res://.godot/imported/buff_red.OZJ-ae2bd69f6da00103dd50fcccb1a8d6fc.res"
+
+[deps]
+
+source_file="res://Data/Effect/buff_red.OZJ"
+dest_files=["res://.godot/imported/buff_red.OZJ-ae2bd69f6da00103dd50fcccb1a8d6fc.res"]
+
+[params]
+

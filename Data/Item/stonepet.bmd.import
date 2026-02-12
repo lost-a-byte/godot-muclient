@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvbppcdbyc264"
+path="res://.godot/imported/stonepet.bmd-40317d315b8059256a38d2523c7dd6d9.scn"
+
+[deps]
+
+source_file="res://Data/Item/stonepet.bmd"
+dest_files=["res://.godot/imported/stonepet.bmd-40317d315b8059256a38d2523c7dd6d9.scn"]
+
+[params]
+
+modelScale=0.01

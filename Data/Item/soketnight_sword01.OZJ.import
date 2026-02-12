@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5fkyrkspktyq"
+path="res://.godot/imported/soketnight_sword01.OZJ-1c81d2cf12733bcd22a00f2617b13ef9.res"
+
+[deps]
+
+source_file="res://Data/Item/soketnight_sword01.OZJ"
+dest_files=["res://.godot/imported/soketnight_sword01.OZJ-1c81d2cf12733bcd22a00f2617b13ef9.res"]
+
+[params]
+

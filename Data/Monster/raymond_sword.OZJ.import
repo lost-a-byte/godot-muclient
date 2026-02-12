@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceu0bhcr4lhfo"
+path="res://.godot/imported/raymond_sword.OZJ-3d25e129bf69b1937ffead895f2fe667.res"
+
+[deps]
+
+source_file="res://Data/Monster/raymond_sword.OZJ"
+dest_files=["res://.godot/imported/raymond_sword.OZJ-3d25e129bf69b1937ffead895f2fe667.res"]
+
+[params]
+

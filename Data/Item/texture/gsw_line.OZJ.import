@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rs78e0k0dggg"
+path="res://.godot/imported/gsw_line.OZJ-2d6085b9286b7e260131564d5686e3ed.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gsw_line.OZJ"
+dest_files=["res://.godot/imported/gsw_line.OZJ-2d6085b9286b7e260131564d5686e3ed.res"]
+
+[params]
+

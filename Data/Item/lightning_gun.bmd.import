@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bu8rf84oeu3cv"
+path="res://.godot/imported/lightning_gun.bmd-96df9fca8c921846179e4bc74c5696c0.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_gun.bmd"
+dest_files=["res://.godot/imported/lightning_gun.bmd-96df9fca8c921846179e4bc74c5696c0.scn"]
+
+[params]
+
+modelScale=0.01

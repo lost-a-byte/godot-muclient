@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c726imqjfmuxt"
+path="res://.godot/imported/firemutt_blue.OZJ-fe1969512785535fd7600572238dab35.res"
+
+[deps]
+
+source_file="res://Data/Skill/firemutt_blue.OZJ"
+dest_files=["res://.godot/imported/firemutt_blue.OZJ-fe1969512785535fd7600572238dab35.res"]
+
+[params]
+

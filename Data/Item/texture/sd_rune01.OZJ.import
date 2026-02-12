@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1mmwt7kj62pe"
+path="res://.godot/imported/sd_rune01.OZJ-ba2bff6e447e519782ecf209e40f9637.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_rune01.OZJ"
+dest_files=["res://.godot/imported/sd_rune01.OZJ-ba2bff6e447e519782ecf209e40f9637.res"]
+
+[params]
+

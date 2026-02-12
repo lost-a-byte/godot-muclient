@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6t4ghqwbkhcm"
+path="res://.godot/imported/gcabsweapon2D.OZJ-81f371aa23a2c98477bc847c8c930369.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gcabsweapon2D.OZJ"
+dest_files=["res://.godot/imported/gcabsweapon2D.OZJ-81f371aa23a2c98477bc847c8c930369.res"]
+
+[params]
+

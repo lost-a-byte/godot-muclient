@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjhfuq1hwji1x"
+path="res://.godot/imported/flamestan_mint.OZJ-7441056dc018535a54b764f9b0c19cf7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/flamestan_mint.OZJ"
+dest_files=["res://.godot/imported/flamestan_mint.OZJ-7441056dc018535a54b764f9b0c19cf7.res"]
+
+[params]
+

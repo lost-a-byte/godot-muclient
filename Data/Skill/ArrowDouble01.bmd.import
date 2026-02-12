@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfle64slgcryc"
+path="res://.godot/imported/ArrowDouble01.bmd-bdd8747394dfcb59aaf6d35fa01baa58.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ArrowDouble01.bmd"
+dest_files=["res://.godot/imported/ArrowDouble01.bmd-bdd8747394dfcb59aaf6d35fa01baa58.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b370htemlvmr6"
+path="res://.godot/imported/monster_wolf_weapon.OZJ-326dd19b810fe4bff2ad34d5cd8770dd.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster_wolf_weapon.OZJ"
+dest_files=["res://.godot/imported/monster_wolf_weapon.OZJ-326dd19b810fe4bff2ad34d5cd8770dd.res"]
+
+[params]
+

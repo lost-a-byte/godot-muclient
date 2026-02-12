@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b00luc2snjgw"
+path="res://.godot/imported/bass_dark.OZJ-0df0917ef04bdcb4095692d6bc7f5825.res"
+
+[deps]
+
+source_file="res://Data/Monster/bass_dark.OZJ"
+dest_files=["res://.godot/imported/bass_dark.OZJ-0df0917ef04bdcb4095692d6bc7f5825.res"]
+
+[params]
+

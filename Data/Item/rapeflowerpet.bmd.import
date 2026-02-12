@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b70qkke646lqc"
+path="res://.godot/imported/rapeflowerpet.bmd-a4765da156999518e6417c5370ff3f5d.scn"
+
+[deps]
+
+source_file="res://Data/Item/rapeflowerpet.bmd"
+dest_files=["res://.godot/imported/rapeflowerpet.bmd-a4765da156999518e6417c5370ff3f5d.scn"]
+
+[params]
+
+modelScale=0.01

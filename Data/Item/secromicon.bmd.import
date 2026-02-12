@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccm54dppogqy7"
+path="res://.godot/imported/secromicon.bmd-82d7b94b9de8de2f30a7b10ea5c62a8a.scn"
+
+[deps]
+
+source_file="res://Data/Item/secromicon.bmd"
+dest_files=["res://.godot/imported/secromicon.bmd-82d7b94b9de8de2f30a7b10ea5c62a8a.scn"]
+
+[params]
+
+modelScale=0.01

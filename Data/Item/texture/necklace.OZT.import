@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlmg1jxdcc1r2"
+path="res://.godot/imported/necklace.OZT-0d4a2bad4430e50227eccf701045292b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/necklace.OZT"
+dest_files=["res://.godot/imported/necklace.OZT-0d4a2bad4430e50227eccf701045292b.res"]
+
+[params]
+

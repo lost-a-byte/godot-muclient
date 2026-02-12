@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2b7rq3lbdprj"
+path="res://.godot/imported/UEFairy_Green.OZJ-c06309d2958328a21386c0e7565e42ea.res"
+
+[deps]
+
+source_file="res://Data/Monster/UEFairy_Green.OZJ"
+dest_files=["res://.godot/imported/UEFairy_Green.OZJ-c06309d2958328a21386c0e7565e42ea.res"]
+
+[params]
+

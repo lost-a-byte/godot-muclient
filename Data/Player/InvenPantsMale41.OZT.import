@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxoelf3mvl5q4"
+path="res://.godot/imported/InvenPantsMale41.OZT-44ac273fbb584f38f7225ada88bd25c1.res"
+
+[deps]
+
+source_file="res://Data/Player/InvenPantsMale41.OZT"
+dest_files=["res://.godot/imported/InvenPantsMale41.OZT-44ac273fbb584f38f7225ada88bd25c1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1m3pd3vvydnv"
+path="res://.godot/imported/joint_sword_red.OZJ-090677397ab2d170192cef609be5eda1.res"
+
+[deps]
+
+source_file="res://Data/Effect/joint_sword_red.OZJ"
+dest_files=["res://.godot/imported/joint_sword_red.OZJ-090677397ab2d170192cef609be5eda1.res"]
+
+[params]
+

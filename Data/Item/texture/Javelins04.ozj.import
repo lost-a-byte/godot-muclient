@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b448m5enguwcw"
+path="res://.godot/imported/Javelins04.ozj-335e0539d048578bef1a8e446cd2fad1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Javelins04.ozj"
+dest_files=["res://.godot/imported/Javelins04.ozj-335e0539d048578bef1a8e446cd2fad1.res"]
+
+[params]
+

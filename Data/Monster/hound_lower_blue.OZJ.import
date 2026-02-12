@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfmds0dfo5705"
+path="res://.godot/imported/hound_lower_blue.OZJ-257155f0d66754379a879bb0c8f38bea.res"
+
+[deps]
+
+source_file="res://Data/Monster/hound_lower_blue.OZJ"
+dest_files=["res://.godot/imported/hound_lower_blue.OZJ-257155f0d66754379a879bb0c8f38bea.res"]
+
+[params]
+

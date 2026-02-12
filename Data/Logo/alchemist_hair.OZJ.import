@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beqkxdg0cveol"
+path="res://.godot/imported/alchemist_hair.OZJ-1aa2fa2fa8970c23c9fad455f98c48f0.res"
+
+[deps]
+
+source_file="res://Data/Logo/alchemist_hair.OZJ"
+dest_files=["res://.godot/imported/alchemist_hair.OZJ-1aa2fa2fa8970c23c9fad455f98c48f0.res"]
+
+[params]
+

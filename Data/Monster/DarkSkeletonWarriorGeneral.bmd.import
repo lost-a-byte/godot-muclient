@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cskbrh3tmuip0"
+path="res://.godot/imported/DarkSkeletonWarriorGeneral.bmd-fc91f41a0412e02730e2849b0dd131a3.scn"
+
+[deps]
+
+source_file="res://Data/Monster/DarkSkeletonWarriorGeneral.bmd"
+dest_files=["res://.godot/imported/DarkSkeletonWarriorGeneral.bmd-fc91f41a0412e02730e2849b0dd131a3.scn"]
+
+[params]
+
+modelScale=0.01

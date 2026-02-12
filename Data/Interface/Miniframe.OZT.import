@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjp78guftsx7r"
+path="res://.godot/imported/Miniframe.OZT-7a3ff9d5eae5ec1aae0ead0589d083ce.res"
+
+[deps]
+
+source_file="res://Data/Interface/Miniframe.OZT"
+dest_files=["res://.godot/imported/Miniframe.OZT-7a3ff9d5eae5ec1aae0ead0589d083ce.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn0np6b3udevl"
+path="res://.godot/imported/bellydancerBa_render.OZJ-b0ce49bbcecac66655b9eeec2ce13f12.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bellydancerBa_render.OZJ"
+dest_files=["res://.godot/imported/bellydancerBa_render.OZJ-b0ce49bbcecac66655b9eeec2ce13f12.res"]
+
+[params]
+

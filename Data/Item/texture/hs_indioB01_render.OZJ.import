@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df37o10tlhld0"
+path="res://.godot/imported/hs_indioB01_render.OZJ-95b7b77d64931ba456db366e82f3920b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_indioB01_render.OZJ"
+dest_files=["res://.godot/imported/hs_indioB01_render.OZJ-95b7b77d64931ba456db366e82f3920b.res"]
+
+[params]
+

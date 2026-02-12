@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2xtvphnq5ssn"
+path="res://.godot/imported/urseal.OZJ-f774477c4365fdbafea7282b6faeaf14.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/urseal.OZJ"
+dest_files=["res://.godot/imported/urseal.OZJ-f774477c4365fdbafea7282b6faeaf14.res"]
+
+[params]
+

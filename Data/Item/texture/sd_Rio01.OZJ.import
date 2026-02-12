@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bepuu4jw35bmk"
+path="res://.godot/imported/sd_Rio01.OZJ-ae656da9db618fcd9d9f0cec7ed4ec8d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_Rio01.OZJ"
+dest_files=["res://.godot/imported/sd_Rio01.OZJ-ae656da9db618fcd9d9f0cec7ed4ec8d.res"]
+
+[params]
+

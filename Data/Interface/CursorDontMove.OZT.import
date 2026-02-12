@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbhragl06mguq"
+path="res://.godot/imported/CursorDontMove.OZT-434441109456c8fa23d993ea9ec74d38.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorDontMove.OZT"
+dest_files=["res://.godot/imported/CursorDontMove.OZT-434441109456c8fa23d993ea9ec74d38.res"]
+
+[params]
+

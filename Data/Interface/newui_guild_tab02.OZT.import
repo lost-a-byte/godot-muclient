@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbpxtjcaddp45"
+path="res://.godot/imported/newui_guild_tab02.OZT-182534e1ac4a6e21ee6c6bc2385d44f7.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_guild_tab02.OZT"
+dest_files=["res://.godot/imported/newui_guild_tab02.OZT-182534e1ac4a6e21ee6c6bc2385d44f7.res"]
+
+[params]
+

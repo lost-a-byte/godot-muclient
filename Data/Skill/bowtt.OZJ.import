@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6s1uj3rxwpx"
+path="res://.godot/imported/bowtt.OZJ-96dbbe8874759002617563b56a146a45.res"
+
+[deps]
+
+source_file="res://Data/Skill/bowtt.OZJ"
+dest_files=["res://.godot/imported/bowtt.OZJ-96dbbe8874759002617563b56a146a45.res"]
+
+[params]
+

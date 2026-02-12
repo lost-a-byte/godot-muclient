@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wqe16s2gqmbh"
+path="res://.godot/imported/caniflepet_evol.bmd-91a81de51137e3128421a0ce19f9ccd7.scn"
+
+[deps]
+
+source_file="res://Data/Item/caniflepet_evol.bmd"
+dest_files=["res://.godot/imported/caniflepet_evol.bmd-91a81de51137e3128421a0ce19f9ccd7.scn"]
+
+[params]
+
+modelScale=0.01

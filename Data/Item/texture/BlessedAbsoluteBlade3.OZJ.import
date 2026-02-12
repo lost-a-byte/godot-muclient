@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4hefc3oesk11"
+path="res://.godot/imported/BlessedAbsoluteBlade3.OZJ-d3fc5cf0bd66674dc2171611a3bfe8aa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlessedAbsoluteBlade3.OZJ"
+dest_files=["res://.godot/imported/BlessedAbsoluteBlade3.OZJ-d3fc5cf0bd66674dc2171611a3bfe8aa.res"]
+
+[params]
+

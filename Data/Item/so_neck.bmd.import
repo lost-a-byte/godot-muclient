@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cj4uwoslnfocs"
+path="res://.godot/imported/so_neck.bmd-2202ba074203adfa68ec5ab64633f58e.scn"
+
+[deps]
+
+source_file="res://Data/Item/so_neck.bmd"
+dest_files=["res://.godot/imported/so_neck.bmd-2202ba074203adfa68ec5ab64633f58e.scn"]
+
+[params]
+
+modelScale=0.01

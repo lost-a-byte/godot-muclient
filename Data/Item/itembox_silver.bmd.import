@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cva7p051y8tgv"
+path="res://.godot/imported/itembox_silver.bmd-43876941233734e7b3bf0a818322e354.scn"
+
+[deps]
+
+source_file="res://Data/Item/itembox_silver.bmd"
+dest_files=["res://.godot/imported/itembox_silver.bmd-43876941233734e7b3bf0a818322e354.scn"]
+
+[params]
+
+modelScale=0.01

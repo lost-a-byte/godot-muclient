@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c38wmoyoxmifd"
+path="res://.godot/imported/spellst01.OZJ-4ce6ad516731873c915c38713e60f1a8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/spellst01.OZJ"
+dest_files=["res://.godot/imported/spellst01.OZJ-4ce6ad516731873c915c38713e60f1a8.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvgsgafpf7ysd"
+path="res://.godot/imported/Block01.OZJ-4c49f98ecca70306087bc7075c7b86d8.res"
+
+[deps]
+
+source_file="res://Data/Object80/Block01.OZJ"
+dest_files=["res://.godot/imported/Block01.OZJ-4c49f98ecca70306087bc7075c7b86d8.res"]
+
+[params]
+

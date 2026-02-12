@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bveqotybfvwbi"
+path="res://.godot/imported/ebbone.OZT-e894518ff0a5130c3dc50015ad460fc1.res"
+
+[deps]
+
+source_file="res://Data/Skill/ebbone.OZT"
+dest_files=["res://.godot/imported/ebbone.OZT-e894518ff0a5130c3dc50015ad460fc1.res"]
+
+[params]
+

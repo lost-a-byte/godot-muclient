@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cj0tdyc5kjknk"
+path="res://.godot/imported/Magic02.bmd-3e3bad9527486411b7b4541fa431de15.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Magic02.bmd"
+dest_files=["res://.godot/imported/Magic02.bmd-3e3bad9527486411b7b4541fa431de15.scn"]
+
+[params]
+
+modelScale=0.01

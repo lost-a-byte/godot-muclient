@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6l23qfvuebyk"
+path="res://.godot/imported/holinessmark.OZJ-18ef19640439ec99c9c752d649e3830c.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge4/holinessmark.OZJ"
+dest_files=["res://.godot/imported/holinessmark.OZJ-18ef19640439ec99c9c752d649e3830c.res"]
+
+[params]
+

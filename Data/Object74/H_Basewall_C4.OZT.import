@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnsmo8yud7xpd"
+path="res://.godot/imported/H_Basewall_C4.OZT-83f35d82e652c7a130dcd3daefab3800.res"
+
+[deps]
+
+source_file="res://Data/Object74/H_Basewall_C4.OZT"
+dest_files=["res://.godot/imported/H_Basewall_C4.OZT-83f35d82e652c7a130dcd3daefab3800.res"]
+
+[params]
+

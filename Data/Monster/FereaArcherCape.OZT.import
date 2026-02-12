@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbcj7j06jjj0i"
+path="res://.godot/imported/FereaArcherCape.OZT-85d3e4d78872491e68cd3a82b3c1fde1.res"
+
+[deps]
+
+source_file="res://Data/Monster/FereaArcherCape.OZT"
+dest_files=["res://.godot/imported/FereaArcherCape.OZT-85d3e4d78872491e68cd3a82b3c1fde1.res"]
+
+[params]
+

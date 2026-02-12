@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://di4hu0wvqybkc"
+path="res://.godot/imported/CandyGirlA.OZJ-14b7f65720e36e28e763624843042a20.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CandyGirlA.OZJ"
+dest_files=["res://.godot/imported/CandyGirlA.OZJ-14b7f65720e36e28e763624843042a20.res"]
+
+[params]
+

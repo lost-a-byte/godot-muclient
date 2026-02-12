@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bstr14ij18o4m"
+path="res://.godot/imported/Carow.OZJ-f64be6377b55657683a855ff58b87ed1.res"
+
+[deps]
+
+source_file="res://Data/Skill/Carow.OZJ"
+dest_files=["res://.godot/imported/Carow.OZJ-f64be6377b55657683a855ff58b87ed1.res"]
+
+[params]
+

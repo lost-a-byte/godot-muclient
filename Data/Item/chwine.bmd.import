@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://fjewaq4nn3ti"
+path="res://.godot/imported/chwine.bmd-901281c42dc95b5f6cd4575b3443ad5e.scn"
+
+[deps]
+
+source_file="res://Data/Item/chwine.bmd"
+dest_files=["res://.godot/imported/chwine.bmd-901281c42dc95b5f6cd4575b3443ad5e.scn"]
+
+[params]
+
+modelScale=0.01

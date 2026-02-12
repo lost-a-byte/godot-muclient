@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://2c4hj5i4q3bx"
+path="res://.godot/imported/sealmove.bmd-afbeabdd08d36139a63538ab7e5f56ce.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/sealmove.bmd"
+dest_files=["res://.godot/imported/sealmove.bmd-afbeabdd08d36139a63538ab7e5f56ce.scn"]
+
+[params]
+
+modelScale=0.01

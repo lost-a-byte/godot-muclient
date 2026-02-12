@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bowyexw7nktrx"
+path="res://.godot/imported/totemgolem_leaf.OZT-ec70af49e15a6b0fb2ba4cf4abd091dd.res"
+
+[deps]
+
+source_file="res://Data/Monster/totemgolem_leaf.OZT"
+dest_files=["res://.godot/imported/totemgolem_leaf.OZT-ec70af49e15a6b0fb2ba4cf4abd091dd.res"]
+
+[params]
+

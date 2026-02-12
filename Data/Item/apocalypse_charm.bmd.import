@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2ifjpkflajj"
+path="res://.godot/imported/apocalypse_charm.bmd-d2c2033367132c931c906e38359e6066.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse_charm.bmd"
+dest_files=["res://.godot/imported/apocalypse_charm.bmd-d2c2033367132c931c906e38359e6066.scn"]
+
+[params]
+
+modelScale=0.01

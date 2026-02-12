@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj6yxsppkqkcr"
+path="res://.godot/imported/artifact_13face_gray.OZJ-5d5d6459ee968ffc7f1739baf2a77dd1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/artifact_13face_gray.OZJ"
+dest_files=["res://.godot/imported/artifact_13face_gray.OZJ-5d5d6459ee968ffc7f1739baf2a77dd1.res"]
+
+[params]
+

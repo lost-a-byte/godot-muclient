@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjqy3yf2ruwdu"
+path="res://.godot/imported/phoenixfeather.OZT-41b2d69af7fe04dab6394b840bdef6c6.res"
+
+[deps]
+
+source_file="res://Data/Item/phoenixfeather.OZT"
+dest_files=["res://.godot/imported/phoenixfeather.OZT-41b2d69af7fe04dab6394b840bdef6c6.res"]
+
+[params]
+

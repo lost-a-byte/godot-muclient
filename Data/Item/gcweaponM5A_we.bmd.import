@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cp560lsthewm5"
+path="res://.godot/imported/gcweaponM5A_we.bmd-0a138ecd4bc29c4218045c5fd840ba31.scn"
+
+[deps]
+
+source_file="res://Data/Item/gcweaponM5A_we.bmd"
+dest_files=["res://.godot/imported/gcweaponM5A_we.bmd-0a138ecd4bc29c4218045c5fd840ba31.scn"]
+
+[params]
+
+modelScale=0.01

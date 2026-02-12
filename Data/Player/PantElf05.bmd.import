@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://br0sjigfuvdvn"
+path="res://.godot/imported/PantElf05.bmd-d3fe003c15c5ace8cc15b7af5dec4687.scn"
+
+[deps]
+
+source_file="res://Data/Player/PantElf05.bmd"
+dest_files=["res://.godot/imported/PantElf05.bmd-d3fe003c15c5ace8cc15b7af5dec4687.scn"]
+
+[params]
+
+modelScale=0.01

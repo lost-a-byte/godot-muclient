@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmk1tw3li4gf"
+path="res://.godot/imported/richfama.ozt-58f3db65e8064f8a342582a1921bde2e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/richfama.ozt"
+dest_files=["res://.godot/imported/richfama.ozt-58f3db65e8064f8a342582a1921bde2e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn3vcdv0g6mo"
+path="res://.godot/imported/snow_girl.OZJ-9b13a0193beba36e8ce79ae7e9bbc0b7.res"
+
+[deps]
+
+source_file="res://Data/NPC/snow_girl.OZJ"
+dest_files=["res://.godot/imported/snow_girl.OZJ-9b13a0193beba36e8ce79ae7e9bbc0b7.res"]
+
+[params]
+

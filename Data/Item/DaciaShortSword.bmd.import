@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dk87lyrugwarj"
+path="res://.godot/imported/DaciaShortSword.bmd-64fbe0d51baf2863fc87b67dbfd92944.scn"
+
+[deps]
+
+source_file="res://Data/Item/DaciaShortSword.bmd"
+dest_files=["res://.godot/imported/DaciaShortSword.bmd-64fbe0d51baf2863fc87b67dbfd92944.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://24hfvm17g50d"
+path="res://.godot/imported/shadow_rock_7_sword.bmd-0d79006b650bebe6e7db86676e2f601f.scn"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_rock_7_sword.bmd"
+dest_files=["res://.godot/imported/shadow_rock_7_sword.bmd-0d79006b650bebe6e7db86676e2f601f.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bihdw624gluso"
+path="res://.godot/imported/adventurecat.bmd-b0f4babc3a2f3da5e16dabb4fb8b2913.scn"
+
+[deps]
+
+source_file="res://Data/Item/adventurecat.bmd"
+dest_files=["res://.godot/imported/adventurecat.bmd-b0f4babc3a2f3da5e16dabb4fb8b2913.scn"]
+
+[params]
+
+modelScale=0.01

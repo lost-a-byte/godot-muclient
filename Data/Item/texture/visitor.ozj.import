@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvwlrx3eeifju"
+path="res://.godot/imported/visitor.ozj-586f98b20a4917f18071506001a1b7ba.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/visitor.ozj"
+dest_files=["res://.godot/imported/visitor.ozj-586f98b20a4917f18071506001a1b7ba.res"]
+
+[params]
+

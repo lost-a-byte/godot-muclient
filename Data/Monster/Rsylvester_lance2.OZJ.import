@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1rotikd3whnm"
+path="res://.godot/imported/Rsylvester_lance2.OZJ-8985532bf37a81f08384ce59001f309d.res"
+
+[deps]
+
+source_file="res://Data/Monster/Rsylvester_lance2.OZJ"
+dest_files=["res://.godot/imported/Rsylvester_lance2.OZJ-8985532bf37a81f08384ce59001f309d.res"]
+
+[params]
+

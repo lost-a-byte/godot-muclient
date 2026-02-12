@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://di1c6y7thciy2"
+path="res://.godot/imported/rond.OZJ-5ab745e5fef5a6c9fdf6fb58f07f8314.res"
+
+[deps]
+
+source_file="res://Data/Item/xmas/rond.OZJ"
+dest_files=["res://.godot/imported/rond.OZJ-5ab745e5fef5a6c9fdf6fb58f07f8314.res"]
+
+[params]
+

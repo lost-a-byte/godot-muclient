@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dyqg3tgom2ckx"
+path="res://.godot/imported/HolyAngelStick.bmd-5fad40d456b6d518516dc046ad6062cb.scn"
+
+[deps]
+
+source_file="res://Data/Item/HolyAngelStick.bmd"
+dest_files=["res://.godot/imported/HolyAngelStick.bmd-5fad40d456b6d518516dc046ad6062cb.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://k8fjc806d4"
+path="res://.godot/imported/blood_storm_sword.bmd-e66cde9fb40f5caa36b2bbb810b032e9.scn"
+
+[deps]
+
+source_file="res://Data/Skill/blood_storm_sword.bmd"
+dest_files=["res://.godot/imported/blood_storm_sword.bmd-e66cde9fb40f5caa36b2bbb810b032e9.scn"]
+
+[params]
+
+modelScale=0.01

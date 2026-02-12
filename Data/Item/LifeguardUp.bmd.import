@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhaan4bn2m6y4"
+path="res://.godot/imported/LifeguardUp.bmd-cfca86934843d2b1a1a71e4e6f2a0059.scn"
+
+[deps]
+
+source_file="res://Data/Item/LifeguardUp.bmd"
+dest_files=["res://.godot/imported/LifeguardUp.bmd-cfca86934843d2b1a1a71e4e6f2a0059.scn"]
+
+[params]
+
+modelScale=0.01

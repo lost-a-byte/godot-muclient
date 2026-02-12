@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1rv7l1m7faci"
+path="res://.godot/imported/GhostKnight_hair_00.OZJ-9c98e30ac987516ddf2e83342f631dbd.res"
+
+[deps]
+
+source_file="res://Data/Logo/GhostKnight_hair_00.OZJ"
+dest_files=["res://.godot/imported/GhostKnight_hair_00.OZJ-9c98e30ac987516ddf2e83342f631dbd.res"]
+
+[params]
+

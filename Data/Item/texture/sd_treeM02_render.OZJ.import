@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdrayamx8e6fp"
+path="res://.godot/imported/sd_treeM02_render.OZJ-1197a5224b5d9aaf875b3760d1e9981a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_treeM02_render.OZJ"
+dest_files=["res://.godot/imported/sd_treeM02_render.OZJ-1197a5224b5d9aaf875b3760d1e9981a.res"]
+
+[params]
+

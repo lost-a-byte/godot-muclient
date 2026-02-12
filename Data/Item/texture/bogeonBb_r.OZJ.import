@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddqke2el0bfbm"
+path="res://.godot/imported/bogeonBb_r.OZJ-ac016097f0fe93eaf93a91ba7595a12b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bogeonBb_r.OZJ"
+dest_files=["res://.godot/imported/bogeonBb_r.OZJ-ac016097f0fe93eaf93a91ba7595a12b.res"]
+
+[params]
+

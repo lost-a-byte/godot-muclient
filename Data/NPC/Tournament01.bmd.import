@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8xuaiql6u3j"
+path="res://.godot/imported/Tournament01.bmd-fb5e3cc23d74fb31d2d81edf4f3cfb6b.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Tournament01.bmd"
+dest_files=["res://.godot/imported/Tournament01.bmd-fb5e3cc23d74fb31d2d81edf4f3cfb6b.scn"]
+
+[params]
+
+modelScale=0.01

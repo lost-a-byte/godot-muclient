@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1onhl5t6h53q"
+path="res://.godot/imported/shield03.OZJ-f68d43f4037976a8298db5ff72e181fb.res"
+
+[deps]
+
+source_file="res://Data/Object3/shield03.OZJ"
+dest_files=["res://.godot/imported/shield03.OZJ-f68d43f4037976a8298db5ff72e181fb.res"]
+
+[params]
+

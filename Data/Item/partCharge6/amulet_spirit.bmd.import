@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xku1mi6bq8cb"
+path="res://.godot/imported/amulet_spirit.bmd-76bd3c57e387d671fa08ac3e1bd45b20.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amulet_spirit.bmd"
+dest_files=["res://.godot/imported/amulet_spirit.bmd-76bd3c57e387d671fa08ac3e1bd45b20.scn"]
+
+[params]
+
+modelScale=0.01

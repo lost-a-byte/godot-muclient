@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://46j8s16a7610"
+path="res://.godot/imported/snowking.OZJ-61f9df1570604e8b958863ccae29a4d0.res"
+
+[deps]
+
+source_file="res://Data/Monster/snowking.OZJ"
+dest_files=["res://.godot/imported/snowking.OZJ-61f9df1570604e8b958863ccae29a4d0.res"]
+
+[params]
+

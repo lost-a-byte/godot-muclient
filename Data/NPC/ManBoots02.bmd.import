@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://jwkqymp6yg2"
+path="res://.godot/imported/ManBoots02.bmd-0fd99e9cfd13458f9246adda7b8fe717.scn"
+
+[deps]
+
+source_file="res://Data/NPC/ManBoots02.bmd"
+dest_files=["res://.godot/imported/ManBoots02.bmd-0fd99e9cfd13458f9246adda7b8fe717.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8gl8tgvks8xn"
+path="res://.godot/imported/GuardRing.OZJ-7b700089c2d063c03e3a0481bfd351d0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GuardRing.OZJ"
+dest_files=["res://.godot/imported/GuardRing.OZJ-7b700089c2d063c03e3a0481bfd351d0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0hhiovebe7hy"
+path="res://.godot/imported/LesterBHorn.OZJ-cba8900bf4f30fb977ddf94fb53ab7ae.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LesterBHorn.OZJ"
+dest_files=["res://.godot/imported/LesterBHorn.OZJ-cba8900bf4f30fb977ddf94fb53ab7ae.res"]
+
+[params]
+

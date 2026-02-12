@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dnujam1oiebmy"
+path="res://.godot/imported/SoulTranslatorL5.bmd-d678821836000c2e0f07fe45dd421da7.scn"
+
+[deps]
+
+source_file="res://Data/Item/SoulTranslatorL5.bmd"
+dest_files=["res://.godot/imported/SoulTranslatorL5.bmd-d678821836000c2e0f07fe45dd421da7.scn"]
+
+[params]
+
+modelScale=0.01

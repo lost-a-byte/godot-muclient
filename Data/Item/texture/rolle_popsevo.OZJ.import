@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c05ksq5ht0lcr"
+path="res://.godot/imported/rolle_popsevo.OZJ-28afad2d383310083696d6367686185d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rolle_popsevo.OZJ"
+dest_files=["res://.godot/imported/rolle_popsevo.OZJ-28afad2d383310083696d6367686185d.res"]
+
+[params]
+

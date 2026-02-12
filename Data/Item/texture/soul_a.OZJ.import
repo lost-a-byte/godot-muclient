@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6w8145j113f1"
+path="res://.godot/imported/soul_a.OZJ-526068deb6855f0d67769d9f26171ac4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soul_a.OZJ"
+dest_files=["res://.godot/imported/soul_a.OZJ-526068deb6855f0d67769d9f26171ac4.res"]
+
+[params]
+

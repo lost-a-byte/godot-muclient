@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgsobw1kk0w44"
+path="res://.godot/imported/streetlight.OZJ-50f3550a10711294d8c0c5ae2499b55a.res"
+
+[deps]
+
+source_file="res://Data/Object1/streetlight.OZJ"
+dest_files=["res://.godot/imported/streetlight.OZJ-50f3550a10711294d8c0c5ae2499b55a.res"]
+
+[params]
+

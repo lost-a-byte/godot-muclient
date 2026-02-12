@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://pi44v1i2uhm2"
+path="res://.godot/imported/BlessofEunice.bmd-250d47a328e26afd5d8c02a8d51d0f01.scn"
+
+[deps]
+
+source_file="res://Data/Item/BlessofEunice.bmd"
+dest_files=["res://.godot/imported/BlessofEunice.bmd-250d47a328e26afd5d8c02a8d51d0f01.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dbeuvpqn5e7kv"
+path="res://.godot/imported/Load_Silverster_Lance.bmd-a8c31eb68f3c0ed89b682d5434c79b6e.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Load_Silverster_Lance.bmd"
+dest_files=["res://.godot/imported/Load_Silverster_Lance.bmd-a8c31eb68f3c0ed89b682d5434c79b6e.scn"]
+
+[params]
+
+modelScale=0.01

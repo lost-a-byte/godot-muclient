@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dc46j332pep8l"
+path="res://.godot/imported/new_Boot08.bmd-53afb2b770425b2e3bd68b550eb73487.scn"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/69/new_Boot08.bmd"
+dest_files=["res://.godot/imported/new_Boot08.bmd-53afb2b770425b2e3bd68b550eb73487.scn"]
+
+[params]
+
+modelScale=0.01

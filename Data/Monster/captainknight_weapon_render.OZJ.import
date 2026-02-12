@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6h4e41ts6j54"
+path="res://.godot/imported/captainknight_weapon_render.OZJ-f25612711221a394a01218e83b2e58c8.res"
+
+[deps]
+
+source_file="res://Data/Monster/captainknight_weapon_render.OZJ"
+dest_files=["res://.godot/imported/captainknight_weapon_render.OZJ-f25612711221a394a01218e83b2e58c8.res"]
+
+[params]
+

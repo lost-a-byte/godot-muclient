@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq5r3bejwq6xm"
+path="res://.godot/imported/hsKnightSword_R.OZJ-74a869d371d2e4be70c54bce70d5ed3f.res"
+
+[deps]
+
+source_file="res://Data/Object146/hsKnightSword_R.OZJ"
+dest_files=["res://.godot/imported/hsKnightSword_R.OZJ-74a869d371d2e4be70c54bce70d5ed3f.res"]
+
+[params]
+

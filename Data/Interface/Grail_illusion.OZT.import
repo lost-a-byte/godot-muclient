@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cba816i6ic0i"
+path="res://.godot/imported/Grail_illusion.OZT-6f270ab8a70b9a346df4b061a088379a.res"
+
+[deps]
+
+source_file="res://Data/Interface/Grail_illusion.OZT"
+dest_files=["res://.godot/imported/Grail_illusion.OZT-6f270ab8a70b9a346df4b061a088379a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5vshpbovod1q"
+path="res://.godot/imported/Gold_seq_4X4_03.OZJ-a1edc4abc8c2f67df6ff605c0109803d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Gold_seq_4X4_03.OZJ"
+dest_files=["res://.godot/imported/Gold_seq_4X4_03.OZJ-a1edc4abc8c2f67df6ff605c0109803d.res"]
+
+[params]
+

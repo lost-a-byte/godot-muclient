@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbxwm7t3s6xxy"
+path="res://.godot/imported/ursh_overlay.OZJ-feb70b0e0ca417a8cbdbf58ea77a3e78.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ursh_overlay.OZJ"
+dest_files=["res://.godot/imported/ursh_overlay.OZJ-feb70b0e0ca417a8cbdbf58ea77a3e78.res"]
+
+[params]
+

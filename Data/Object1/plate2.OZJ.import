@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcubtr8m2nupf"
+path="res://.godot/imported/plate2.OZJ-7c8fdc8f2688cc5c0a78ec23a638a524.res"
+
+[deps]
+
+source_file="res://Data/Object1/plate2.OZJ"
+dest_files=["res://.godot/imported/plate2.OZJ-7c8fdc8f2688cc5c0a78ec23a638a524.res"]
+
+[params]
+

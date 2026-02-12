@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ulq1udvnho32"
+path="res://.godot/imported/riquidep.OZT-141f9641e2eea1544d8e1ab292085b7a.res"
+
+[deps]
+
+source_file="res://Data/Monster/riquidep.OZT"
+dest_files=["res://.godot/imported/riquidep.OZT-141f9641e2eea1544d8e1ab292085b7a.res"]
+
+[params]
+

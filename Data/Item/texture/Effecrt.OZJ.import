@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdkdriyde3ssr"
+path="res://.godot/imported/Effecrt.OZJ-16ed1ffd3264f21239a3ae36dec79b56.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Effecrt.OZJ"
+dest_files=["res://.godot/imported/Effecrt.OZJ-16ed1ffd3264f21239a3ae36dec79b56.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxptwbxw6hsuf"
+path="res://.godot/imported/brocken.OZJ-8739a438a4102f6a0a4d83a738633fbb.res"
+
+[deps]
+
+source_file="res://Data/Effect/brocken.OZJ"
+dest_files=["res://.godot/imported/brocken.OZJ-8739a438a4102f6a0a4d83a738633fbb.res"]
+
+[params]
+

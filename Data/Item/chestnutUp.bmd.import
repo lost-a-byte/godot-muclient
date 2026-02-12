@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dumim3fhcs1ro"
+path="res://.godot/imported/chestnutUp.bmd-986443795b1816f914100d51ebcd6109.scn"
+
+[deps]
+
+source_file="res://Data/Item/chestnutUp.bmd"
+dest_files=["res://.godot/imported/chestnutUp.bmd-986443795b1816f914100d51ebcd6109.scn"]
+
+[params]
+
+modelScale=0.01

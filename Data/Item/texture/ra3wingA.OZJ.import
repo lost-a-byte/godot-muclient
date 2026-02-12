@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dti85imkrf27v"
+path="res://.godot/imported/ra3wingA.OZJ-77fc1a89fe75550e612853694210bec5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ra3wingA.OZJ"
+dest_files=["res://.godot/imported/ra3wingA.OZJ-77fc1a89fe75550e612853694210bec5.res"]
+
+[params]
+

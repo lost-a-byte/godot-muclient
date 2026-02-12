@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhuoynck35in0"
+path="res://.godot/imported/wizard_head_02_dark.OZJ-4cbf751205e664b8e5edf87fcaf974f8.res"
+
+[deps]
+
+source_file="res://Data/Monster/wizard_head_02_dark.OZJ"
+dest_files=["res://.godot/imported/wizard_head_02_dark.OZJ-4cbf751205e664b8e5edf87fcaf974f8.res"]
+
+[params]
+

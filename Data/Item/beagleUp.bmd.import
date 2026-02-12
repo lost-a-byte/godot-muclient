@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3iucur5006c1"
+path="res://.godot/imported/beagleUp.bmd-ed67d79ff345437bffadb9ebc638bb97.scn"
+
+[deps]
+
+source_file="res://Data/Item/beagleUp.bmd"
+dest_files=["res://.godot/imported/beagleUp.bmd-ed67d79ff345437bffadb9ebc638bb97.scn"]
+
+[params]
+
+modelScale=0.01

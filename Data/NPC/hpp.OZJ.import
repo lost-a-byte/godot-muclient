@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d25rnmh4aevsx"
+path="res://.godot/imported/hpp.OZJ-48ddb9d6cca02d9d001ec7ab63534e04.res"
+
+[deps]
+
+source_file="res://Data/NPC/hpp.OZJ"
+dest_files=["res://.godot/imported/hpp.OZJ-48ddb9d6cca02d9d001ec7ab63534e04.res"]
+
+[params]
+

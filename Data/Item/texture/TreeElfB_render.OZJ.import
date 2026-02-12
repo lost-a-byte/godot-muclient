@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kuu5nml3vxxi"
+path="res://.godot/imported/TreeElfB_render.OZJ-5e9e9876c3de54711e82f91d037d533b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TreeElfB_render.OZJ"
+dest_files=["res://.godot/imported/TreeElfB_render.OZJ-5e9e9876c3de54711e82f91d037d533b.res"]
+
+[params]
+

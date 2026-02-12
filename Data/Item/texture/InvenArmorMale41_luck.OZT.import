@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djphs8lb7y5hi"
+path="res://.godot/imported/InvenArmorMale41_luck.OZT-a7826d95f41fad448f6eca43e9c16850.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/InvenArmorMale41_luck.OZT"
+dest_files=["res://.godot/imported/InvenArmorMale41_luck.OZT-a7826d95f41fad448f6eca43e9c16850.res"]
+
+[params]
+

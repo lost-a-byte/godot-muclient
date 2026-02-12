@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctjmbx767awec"
+path="res://.godot/imported/Feather00.OZJ-b8b4fe233b99cd7f63ce0c0abc6e855f.res"
+
+[deps]
+
+source_file="res://Data/Effect/Feather00.OZJ"
+dest_files=["res://.godot/imported/Feather00.OZJ-b8b4fe233b99cd7f63ce0c0abc6e855f.res"]
+
+[params]
+

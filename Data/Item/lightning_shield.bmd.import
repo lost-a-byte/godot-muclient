@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8b6676c2qmen"
+path="res://.godot/imported/lightning_shield.bmd-68d69de433678f5afdb16354436f9bd7.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_shield.bmd"
+dest_files=["res://.godot/imported/lightning_shield.bmd-68d69de433678f5afdb16354436f9bd7.scn"]
+
+[params]
+
+modelScale=0.01

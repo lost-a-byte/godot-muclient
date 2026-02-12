@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cuxkdal8kfb66"
+path="res://.godot/imported/Wedding.bmd-077aa4d3aea04c0e19cd9f4728447033.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Wedding.bmd"
+dest_files=["res://.godot/imported/Wedding.bmd-077aa4d3aea04c0e19cd9f4728447033.scn"]
+
+[params]
+
+modelScale=0.01

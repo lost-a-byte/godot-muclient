@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1taaukmpxrsn"
+path="res://.godot/imported/treatpet.bmd-3908669af9217c1d901f398d8172df50.scn"
+
+[deps]
+
+source_file="res://Data/Item/treatpet.bmd"
+dest_files=["res://.godot/imported/treatpet.bmd-3908669af9217c1d901f398d8172df50.scn"]
+
+[params]
+
+modelScale=0.01

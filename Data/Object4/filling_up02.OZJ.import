@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3ytkgcodjnp0"
+path="res://.godot/imported/filling_up02.OZJ-d44ec752f52904a6afc9c872dc9005db.res"
+
+[deps]
+
+source_file="res://Data/Object4/filling_up02.OZJ"
+dest_files=["res://.godot/imported/filling_up02.OZJ-d44ec752f52904a6afc9c872dc9005db.res"]
+
+[params]
+

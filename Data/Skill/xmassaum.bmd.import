@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cjgto81nkqgs8"
+path="res://.godot/imported/xmassaum.bmd-6cea3e1311f2776727a207d68f73c169.scn"
+
+[deps]
+
+source_file="res://Data/Skill/xmassaum.bmd"
+dest_files=["res://.godot/imported/xmassaum.bmd-6cea3e1311f2776727a207d68f73c169.scn"]
+
+[params]
+
+modelScale=0.01

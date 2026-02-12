@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dof4kjbphfe3d"
+path="res://.godot/imported/sosho01_R.OZJ-9165a43cbfe813dced679b43437d0949.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sosho01_R.OZJ"
+dest_files=["res://.godot/imported/sosho01_R.OZJ-9165a43cbfe813dced679b43437d0949.res"]
+
+[params]
+

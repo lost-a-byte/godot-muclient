@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://daxogjfvu8e3r"
+path="res://.godot/imported/elf_t.OZT-4654a7b9366b2f6fdbcadb20396e74c5.res"
+
+[deps]
+
+source_file="res://Data/Logo/elf_t.OZT"
+dest_files=["res://.godot/imported/elf_t.OZT-4654a7b9366b2f6fdbcadb20396e74c5.res"]
+
+[params]
+

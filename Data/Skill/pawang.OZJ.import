@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qxfi2si5uxsw"
+path="res://.godot/imported/pawang.OZJ-e1b3e57526a20454f62bdd758c3bced9.res"
+
+[deps]
+
+source_file="res://Data/Skill/pawang.OZJ"
+dest_files=["res://.godot/imported/pawang.OZJ-e1b3e57526a20454f62bdd758c3bced9.res"]
+
+[params]
+

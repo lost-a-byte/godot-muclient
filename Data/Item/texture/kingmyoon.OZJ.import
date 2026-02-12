@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bk86k68irmfca"
+path="res://.godot/imported/kingmyoon.OZJ-0de1d5f8f9e278f6dff2dbb67582f5ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kingmyoon.OZJ"
+dest_files=["res://.godot/imported/kingmyoon.OZJ-0de1d5f8f9e278f6dff2dbb67582f5ea.res"]
+
+[params]
+

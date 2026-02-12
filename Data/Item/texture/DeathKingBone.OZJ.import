@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x1lx8mfjkppr"
+path="res://.godot/imported/DeathKingBone.OZJ-923d71e056f2b7cc6c40d4bacbe21212.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DeathKingBone.OZJ"
+dest_files=["res://.godot/imported/DeathKingBone.OZJ-923d71e056f2b7cc6c40d4bacbe21212.res"]
+
+[params]
+

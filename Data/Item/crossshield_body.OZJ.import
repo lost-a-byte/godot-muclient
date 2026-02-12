@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm5ctwypjsfj7"
+path="res://.godot/imported/crossshield_body.OZJ-950c00362fe96f7facb5f5c27eebe117.res"
+
+[deps]
+
+source_file="res://Data/Item/crossshield_body.OZJ"
+dest_files=["res://.godot/imported/crossshield_body.OZJ-950c00362fe96f7facb5f5c27eebe117.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6e3obsut15ur"
+path="res://.godot/imported/goalkeeperUp.bmd-ed9c0dd06b71e94b3b8ded4623ac661a.scn"
+
+[deps]
+
+source_file="res://Data/Item/goalkeeperUp.bmd"
+dest_files=["res://.godot/imported/goalkeeperUp.bmd-ed9c0dd06b71e94b3b8ded4623ac661a.scn"]
+
+[params]
+
+modelScale=0.01

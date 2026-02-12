@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtpk4mrltv6bc"
+path="res://.godot/imported/snake_green.OZJ-1fc23a3ae40e80b8a3800bc4fa48fa0e.res"
+
+[deps]
+
+source_file="res://Data/Monster/snake_green.OZJ"
+dest_files=["res://.godot/imported/snake_green.OZJ-1fc23a3ae40e80b8a3800bc4fa48fa0e.res"]
+
+[params]
+

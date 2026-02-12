@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0yamy7jw5jr4"
+path="res://.godot/imported/sd_relic05.OZJ-8046da2616b20f15e0708f199efc8a87.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_relic05.OZJ"
+dest_files=["res://.godot/imported/sd_relic05.OZJ-8046da2616b20f15e0708f199efc8a87.res"]
+
+[params]
+

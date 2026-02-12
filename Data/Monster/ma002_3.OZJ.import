@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://omcra2k1prgs"
+path="res://.godot/imported/ma002_3.OZJ-121ff2f201e8be86ffb0e707841290ca.res"
+
+[deps]
+
+source_file="res://Data/Monster/ma002_3.OZJ"
+dest_files=["res://.godot/imported/ma002_3.OZJ-121ff2f201e8be86ffb0e707841290ca.res"]
+
+[params]
+

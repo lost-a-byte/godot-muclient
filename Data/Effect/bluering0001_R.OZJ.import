@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2rfijmgpqtwc"
+path="res://.godot/imported/bluering0001_R.OZJ-321bb7c939f4b5a3db62a9beb9ef2f97.res"
+
+[deps]
+
+source_file="res://Data/Effect/bluering0001_R.OZJ"
+dest_files=["res://.godot/imported/bluering0001_R.OZJ-321bb7c939f4b5a3db62a9beb9ef2f97.res"]
+
+[params]
+

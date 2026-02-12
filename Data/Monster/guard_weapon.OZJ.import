@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5bnuaong7akt"
+path="res://.godot/imported/guard_weapon.OZJ-67289f026b3264332688bcc2f46c9cdf.res"
+
+[deps]
+
+source_file="res://Data/Monster/guard_weapon.OZJ"
+dest_files=["res://.godot/imported/guard_weapon.OZJ-67289f026b3264332688bcc2f46c9cdf.res"]
+
+[params]
+

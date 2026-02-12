@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brjfttx2av6ay"
+path="res://.godot/imported/skin_Class303.OZJ-56a27134b1f1eb01b783d19b28bb7a05.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/skin_Class303.OZJ"
+dest_files=["res://.godot/imported/skin_Class303.OZJ-56a27134b1f1eb01b783d19b28bb7a05.res"]
+
+[params]
+

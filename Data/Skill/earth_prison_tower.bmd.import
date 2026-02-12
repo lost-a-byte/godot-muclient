@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b126252wjbgih"
+path="res://.godot/imported/earth_prison_tower.bmd-880469c6b6983730f1dc8bc0fd261bbe.scn"
+
+[deps]
+
+source_file="res://Data/Skill/earth_prison_tower.bmd"
+dest_files=["res://.godot/imported/earth_prison_tower.bmd-880469c6b6983730f1dc8bc0fd261bbe.scn"]
+
+[params]
+
+modelScale=0.01

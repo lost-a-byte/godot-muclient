@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dstaofpeblmd0"
+path="res://.godot/imported/mini_map_ui_corner.OZT-e32308ad792e9c07f1cfb996670d85b7.res"
+
+[deps]
+
+source_file="res://Data/Interface/mini_map_ui_corner.OZT"
+dest_files=["res://.godot/imported/mini_map_ui_corner.OZT-e32308ad792e9c07f1cfb996670d85b7.res"]
+
+[params]
+

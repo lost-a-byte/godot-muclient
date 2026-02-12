@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqvptaqw8lrd"
+path="res://.godot/imported/NpcGateSwitch.OZJ-8f52e439098a40cf56f95edba42aacb2.res"
+
+[deps]
+
+source_file="res://Data/NPC/NpcGateSwitch.OZJ"
+dest_files=["res://.godot/imported/NpcGateSwitch.OZJ-8f52e439098a40cf56f95edba42aacb2.res"]
+
+[params]
+

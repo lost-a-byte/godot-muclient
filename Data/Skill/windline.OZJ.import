@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nvf75ts7ynv4"
+path="res://.godot/imported/windline.OZJ-8970784de3f60359e6531d310f059966.res"
+
+[deps]
+
+source_file="res://Data/Skill/windline.OZJ"
+dest_files=["res://.godot/imported/windline.OZJ-8970784de3f60359e6531d310f059966.res"]
+
+[params]
+

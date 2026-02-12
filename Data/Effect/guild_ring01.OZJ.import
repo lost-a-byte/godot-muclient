@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccx4w0e5u2ahc"
+path="res://.godot/imported/guild_ring01.OZJ-14e370075ef316b8bf925ad4781d9447.res"
+
+[deps]
+
+source_file="res://Data/Effect/guild_ring01.OZJ"
+dest_files=["res://.godot/imported/guild_ring01.OZJ-14e370075ef316b8bf925ad4781d9447.res"]
+
+[params]
+

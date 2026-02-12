@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://yr3hd48dcxgg"
+path="res://.godot/imported/jacq_skill03.bmd-3f8acd37a5aa14447ceb450de48dc946.scn"
+
+[deps]
+
+source_file="res://Data/Effect/jacq_skill03.bmd"
+dest_files=["res://.godot/imported/jacq_skill03.bmd-3f8acd37a5aa14447ceb450de48dc946.scn"]
+
+[params]
+
+modelScale=0.01

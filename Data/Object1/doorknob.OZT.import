@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bucjeg2joaxva"
+path="res://.godot/imported/doorknob.OZT-ad0f39f4594c8659c15cc794d17a1a9d.res"
+
+[deps]
+
+source_file="res://Data/Object1/doorknob.OZT"
+dest_files=["res://.godot/imported/doorknob.OZT-ad0f39f4594c8659c15cc794d17a1a9d.res"]
+
+[params]
+

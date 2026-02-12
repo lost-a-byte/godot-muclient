@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q2vl2jdqanex"
+path="res://.godot/imported/firemutt.OZJ-38c264561c839caf01e20edfee492b60.res"
+
+[deps]
+
+source_file="res://Data/Skill/firemutt.OZJ"
+dest_files=["res://.godot/imported/firemutt.OZJ-38c264561c839caf01e20edfee492b60.res"]
+
+[params]
+

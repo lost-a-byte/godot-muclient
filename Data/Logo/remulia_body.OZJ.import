@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs50ae8xy1ga8"
+path="res://.godot/imported/remulia_body.OZJ-158e0a07bdb43c063be63e507ddba8ad.res"
+
+[deps]
+
+source_file="res://Data/Logo/remulia_body.OZJ"
+dest_files=["res://.godot/imported/remulia_body.OZJ-158e0a07bdb43c063be63e507ddba8ad.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjblemnp4vf55"
+path="res://.godot/imported/arrow.OZJ-0c3d4338da5cbc869b4af7e50b8cd6eb.res"
+
+[deps]
+
+source_file="res://Data/Skill/arrow.OZJ"
+dest_files=["res://.godot/imported/arrow.OZJ-0c3d4338da5cbc869b4af7e50b8cd6eb.res"]
+
+[params]
+

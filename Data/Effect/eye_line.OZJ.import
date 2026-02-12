@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://e8i2s6a62cs8"
+path="res://.godot/imported/eye_line.OZJ-2e8cbc8a3fae01cd758249fd1f7d0adb.res"
+
+[deps]
+
+source_file="res://Data/Effect/eye_line.OZJ"
+dest_files=["res://.godot/imported/eye_line.OZJ-2e8cbc8a3fae01cd758249fd1f7d0adb.res"]
+
+[params]
+

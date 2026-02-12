@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2jevj6x2mv57"
+path="res://.godot/imported/newyearsun.bmd-fba2dee12651d3a651d3ec7c9af1f4b8.scn"
+
+[deps]
+
+source_file="res://Data/Effect/newyearsun.bmd"
+dest_files=["res://.godot/imported/newyearsun.bmd-fba2dee12651d3a651d3ec7c9af1f4b8.scn"]
+
+[params]
+
+modelScale=0.01

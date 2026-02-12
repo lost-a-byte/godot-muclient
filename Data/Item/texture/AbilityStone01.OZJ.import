@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0fer1sa8ypfx"
+path="res://.godot/imported/AbilityStone01.OZJ-1bee1644d74bf7ec2e9070d8af2d7860.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AbilityStone01.OZJ"
+dest_files=["res://.godot/imported/AbilityStone01.OZJ-1bee1644d74bf7ec2e9070d8af2d7860.res"]
+
+[params]
+

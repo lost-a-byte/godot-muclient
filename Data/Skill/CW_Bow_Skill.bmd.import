@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dv14ldfpytj2l"
+path="res://.godot/imported/CW_Bow_Skill.bmd-9ebe008d68aa01594868b15a6304886c.scn"
+
+[deps]
+
+source_file="res://Data/Skill/CW_Bow_Skill.bmd"
+dest_files=["res://.godot/imported/CW_Bow_Skill.bmd-9ebe008d68aa01594868b15a6304886c.scn"]
+
+[params]
+
+modelScale=0.01

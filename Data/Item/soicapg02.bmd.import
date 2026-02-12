@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://er6f1sssft5o"
+path="res://.godot/imported/soicapg02.bmd-537484ba61aaba916d45c06823069004.scn"
+
+[deps]
+
+source_file="res://Data/Item/soicapg02.bmd"
+dest_files=["res://.godot/imported/soicapg02.bmd-537484ba61aaba916d45c06823069004.scn"]
+
+[params]
+
+modelScale=0.01

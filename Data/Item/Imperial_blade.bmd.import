@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3aknlqenvlx7"
+path="res://.godot/imported/Imperial_blade.bmd-8c5bfa91f84ec26c230655c90ac77049.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_blade.bmd"
+dest_files=["res://.godot/imported/Imperial_blade.bmd-8c5bfa91f84ec26c230655c90ac77049.scn"]
+
+[params]
+
+modelScale=0.01

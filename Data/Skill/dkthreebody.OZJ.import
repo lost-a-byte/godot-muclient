@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dg1oflipq6rn6"
+path="res://.godot/imported/dkthreebody.OZJ-1bbfa271924f9af89ead0a1bb72e5660.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkthreebody.OZJ"
+dest_files=["res://.godot/imported/dkthreebody.OZJ-1bbfa271924f9af89ead0a1bb72e5660.res"]
+
+[params]
+

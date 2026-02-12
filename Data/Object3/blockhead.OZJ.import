@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c87luakouifa6"
+path="res://.godot/imported/blockhead.OZJ-e3144bcd8666d09c6ef73d180b98ac70.res"
+
+[deps]
+
+source_file="res://Data/Object3/blockhead.OZJ"
+dest_files=["res://.godot/imported/blockhead.OZJ-e3144bcd8666d09c6ef73d180b98ac70.res"]
+
+[params]
+

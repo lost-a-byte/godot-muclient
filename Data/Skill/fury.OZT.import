@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://berys42f6bpng"
+path="res://.godot/imported/fury.OZT-d2d50c83756fd46229c81716f7885470.res"
+
+[deps]
+
+source_file="res://Data/Skill/fury.OZT"
+dest_files=["res://.godot/imported/fury.OZT-d2d50c83756fd46229c81716f7885470.res"]
+
+[params]
+

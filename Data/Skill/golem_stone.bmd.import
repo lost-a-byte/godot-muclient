@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2u50x27r7wot"
+path="res://.godot/imported/golem_stone.bmd-36c6aa96239cfe13166283c78f875333.scn"
+
+[deps]
+
+source_file="res://Data/Skill/golem_stone.bmd"
+dest_files=["res://.godot/imported/golem_stone.bmd-36c6aa96239cfe13166283c78f875333.scn"]
+
+[params]
+
+modelScale=0.01

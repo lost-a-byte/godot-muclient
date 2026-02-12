@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b6rcu66p6qi1d"
+path="res://.godot/imported/williumpet_evol.bmd-83cd7049a31077efe0a2c1375cd6bc52.scn"
+
+[deps]
+
+source_file="res://Data/Item/williumpet_evol.bmd"
+dest_files=["res://.godot/imported/williumpet_evol.bmd-83cd7049a31077efe0a2c1375cd6bc52.scn"]
+
+[params]
+
+modelScale=0.01

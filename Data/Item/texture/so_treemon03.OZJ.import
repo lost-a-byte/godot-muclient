@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bukmwp8cigkwo"
+path="res://.godot/imported/so_treemon03.OZJ-0c00b29150f5c493c2de70803367a37a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_treemon03.OZJ"
+dest_files=["res://.godot/imported/so_treemon03.OZJ-0c00b29150f5c493c2de70803367a37a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4s7h8vwtx0cx"
+path="res://.godot/imported/newui_scrollbar_down.OZT-bfd74f1b290483dcb6ff9d0ed25e5415.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_scrollbar_down.OZT"
+dest_files=["res://.godot/imported/newui_scrollbar_down.OZT-bfd74f1b290483dcb6ff9d0ed25e5415.res"]
+
+[params]
+

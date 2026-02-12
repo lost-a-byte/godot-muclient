@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvc10gioyhv0l"
+path="res://.godot/imported/muun_level_tempest.OZT-c473d15108c60bd768afd589b6374877.res"
+
+[deps]
+
+source_file="res://Data/Interface/muun_level_tempest.OZT"
+dest_files=["res://.godot/imported/muun_level_tempest.OZT-c473d15108c60bd768afd589b6374877.res"]
+
+[params]
+

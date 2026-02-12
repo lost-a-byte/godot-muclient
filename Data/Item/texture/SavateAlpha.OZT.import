@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfw57hfppnbbm"
+path="res://.godot/imported/SavateAlpha.OZT-4bdb154fe4603c0cd95511fc8848ef17.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SavateAlpha.OZT"
+dest_files=["res://.godot/imported/SavateAlpha.OZT-4bdb154fe4603c0cd95511fc8848ef17.res"]
+
+[params]
+

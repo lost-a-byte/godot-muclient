@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://34y2gu1qmpj1"
+path="res://.godot/imported/boss_body_violet_r.OZJ-c42c5b47abda367f838e26dec996b699.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_body_violet_r.OZJ"
+dest_files=["res://.godot/imported/boss_body_violet_r.OZJ-c42c5b47abda367f838e26dec996b699.res"]
+
+[params]
+

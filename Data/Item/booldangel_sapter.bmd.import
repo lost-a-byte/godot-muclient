@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dcnlhq1objmg7"
+path="res://.godot/imported/booldangel_sapter.bmd-6606251dbfbd3059a5ed349832df4a57.scn"
+
+[deps]
+
+source_file="res://Data/Item/booldangel_sapter.bmd"
+dest_files=["res://.godot/imported/booldangel_sapter.bmd-6606251dbfbd3059a5ed349832df4a57.scn"]
+
+[params]
+
+modelScale=0.01

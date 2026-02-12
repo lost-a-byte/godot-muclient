@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bhn0pldv4w0i"
+path="res://.godot/imported/cape_of_death.bmd-d2745a7c06c1a4708e908aa1c769cd17.scn"
+
+[deps]
+
+source_file="res://Data/Item/cape_of_death.bmd"
+dest_files=["res://.godot/imported/cape_of_death.bmd-d2745a7c06c1a4708e908aa1c769cd17.scn"]
+
+[params]
+
+modelScale=0.01

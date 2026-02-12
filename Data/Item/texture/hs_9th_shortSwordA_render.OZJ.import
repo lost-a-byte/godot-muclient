@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jj84p0lhpr55"
+path="res://.godot/imported/hs_9th_shortSwordA_render.OZJ-562f0e7ac1eb0f45f7615a663bfa3a08.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_9th_shortSwordA_render.OZJ"
+dest_files=["res://.godot/imported/hs_9th_shortSwordA_render.OZJ-562f0e7ac1eb0f45f7615a663bfa3a08.res"]
+
+[params]
+

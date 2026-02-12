@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bebfxte7mlkpa"
+path="res://.godot/imported/snowman.OZJ-c9604822950f8018b06e34c526523992.res"
+
+[deps]
+
+source_file="res://Data/NPC/snowman.OZJ"
+dest_files=["res://.godot/imported/snowman.OZJ-c9604822950f8018b06e34c526523992.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coypdoufpq87p"
+path="res://.godot/imported/satyros1.OZJ-19fab4c5a8acd4d25787a9ee61dfe2f2.res"
+
+[deps]
+
+source_file="res://Data/Monster/satyros1.OZJ"
+dest_files=["res://.godot/imported/satyros1.OZJ-19fab4c5a8acd4d25787a9ee61dfe2f2.res"]
+
+[params]
+

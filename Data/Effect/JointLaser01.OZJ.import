@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1n28247hxx3d"
+path="res://.godot/imported/JointLaser01.OZJ-0b9343025fc5499f102208d2c6c98da8.res"
+
+[deps]
+
+source_file="res://Data/Effect/JointLaser01.OZJ"
+dest_files=["res://.godot/imported/JointLaser01.OZJ-0b9343025fc5499f102208d2c6c98da8.res"]
+
+[params]
+

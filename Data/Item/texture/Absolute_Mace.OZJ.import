@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ufsllgqvhvc"
+path="res://.godot/imported/Absolute_Mace.OZJ-dee739df43d92f22f95dc557e980c4bf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Absolute_Mace.OZJ"
+dest_files=["res://.godot/imported/Absolute_Mace.OZJ-dee739df43d92f22f95dc557e980c4bf.res"]
+
+[params]
+

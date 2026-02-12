@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmw3mbc5gah5o"
+path="res://.godot/imported/kni02.OZJ-2a98dba4983913aee483b500728c4d8d.res"
+
+[deps]
+
+source_file="res://Data/Monster/kni02.OZJ"
+dest_files=["res://.godot/imported/kni02.OZJ-2a98dba4983913aee483b500728c4d8d.res"]
+
+[params]
+

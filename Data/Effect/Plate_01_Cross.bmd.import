@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ce3txia7mxa37"
+path="res://.godot/imported/Plate_01_Cross.bmd-f4f2451254f34dd0a7b7800654f128b6.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Plate_01_Cross.bmd"
+dest_files=["res://.godot/imported/Plate_01_Cross.bmd-f4f2451254f34dd0a7b7800654f128b6.scn"]
+
+[params]
+
+modelScale=0.01

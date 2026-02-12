@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdmcypu43twql"
+path="res://.godot/imported/kundunStic2.ozj-4a66a77ee49fc426571439be642d090a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundunStic2.ozj"
+dest_files=["res://.godot/imported/kundunStic2.ozj-4a66a77ee49fc426571439be642d090a.res"]
+
+[params]
+

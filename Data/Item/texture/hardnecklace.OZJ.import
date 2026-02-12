@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnmiyocpuk3j8"
+path="res://.godot/imported/hardnecklace.OZJ-0e4e0c9bc2fd70fd13b7fd1423ea066b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hardnecklace.OZJ"
+dest_files=["res://.godot/imported/hardnecklace.OZJ-0e4e0c9bc2fd70fd13b7fd1423ea066b.res"]
+
+[params]
+

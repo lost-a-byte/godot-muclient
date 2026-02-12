@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://imnh1uh65ncd"
+path="res://.godot/imported/Leicesterpet.bmd-1b69df2ae89762b293c74ccd191ef5cc.scn"
+
+[deps]
+
+source_file="res://Data/Item/Leicesterpet.bmd"
+dest_files=["res://.godot/imported/Leicesterpet.bmd-1b69df2ae89762b293c74ccd191ef5cc.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmkugu0cknywl"
+path="res://.godot/imported/Ghost_horse_Body.OZJ-224cc9ed0ac70ea5f1edbcaec3f3bb8e.res"
+
+[deps]
+
+source_file="res://Data/Skill/Ghost_horse_Body.OZJ"
+dest_files=["res://.godot/imported/Ghost_horse_Body.OZJ-224cc9ed0ac70ea5f1edbcaec3f3bb8e.res"]
+
+[params]
+

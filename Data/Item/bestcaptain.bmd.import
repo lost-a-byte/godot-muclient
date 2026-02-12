@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mhixuvgy8wtk"
+path="res://.godot/imported/bestcaptain.bmd-b04c53437f45de6475a092f9a191892c.scn"
+
+[deps]
+
+source_file="res://Data/Item/bestcaptain.bmd"
+dest_files=["res://.godot/imported/bestcaptain.bmd-b04c53437f45de6475a092f9a191892c.scn"]
+
+[params]
+
+modelScale=0.01

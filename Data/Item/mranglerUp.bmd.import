@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bj5wxnawlv0g5"
+path="res://.godot/imported/mranglerUp.bmd-b96fca0b896d28e99aa60ac673ef4513.scn"
+
+[deps]
+
+source_file="res://Data/Item/mranglerUp.bmd"
+dest_files=["res://.godot/imported/mranglerUp.bmd-b96fca0b896d28e99aa60ac673ef4513.scn"]
+
+[params]
+
+modelScale=0.01

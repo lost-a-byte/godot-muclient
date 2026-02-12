@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://77xc2rrma3or"
+path="res://.godot/imported/GBctA.ozj-454a8b2e342ab6abe792876371a7646f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GBctA.ozj"
+dest_files=["res://.godot/imported/GBctA.ozj-454a8b2e342ab6abe792876371a7646f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0gv36xgtvuak"
+path="res://.godot/imported/Imperial_anvil_1.OZJ-dcbbcb6f295dfab6ef4e45bac78e3130.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_anvil_1.OZJ"
+dest_files=["res://.godot/imported/Imperial_anvil_1.OZJ-dcbbcb6f295dfab6ef4e45bac78e3130.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ckeo42cdh72rm"
+path="res://.godot/imported/magic_piece.bmd-b985ee856485c2a7f36fec3299aa874e.scn"
+
+[deps]
+
+source_file="res://Data/Item/magic_piece.bmd"
+dest_files=["res://.godot/imported/magic_piece.bmd-b985ee856485c2a7f36fec3299aa874e.scn"]
+
+[params]
+
+modelScale=0.01

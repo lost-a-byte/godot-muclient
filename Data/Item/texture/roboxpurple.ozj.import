@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3c12owx364uo"
+path="res://.godot/imported/roboxpurple.ozj-72df84ffb1dcfedf3464969ac77cf7c0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/roboxpurple.ozj"
+dest_files=["res://.godot/imported/roboxpurple.ozj-72df84ffb1dcfedf3464969ac77cf7c0.res"]
+
+[params]
+

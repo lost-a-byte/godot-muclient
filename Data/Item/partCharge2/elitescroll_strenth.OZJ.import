@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xwpk1mvojria"
+path="res://.godot/imported/elitescroll_strenth.OZJ-2920537ca5efe28ebcfa1c1761fc9c92.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/elitescroll_strenth.OZJ"
+dest_files=["res://.godot/imported/elitescroll_strenth.OZJ-2920537ca5efe28ebcfa1c1761fc9c92.res"]
+
+[params]
+

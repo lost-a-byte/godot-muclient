@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vgcya20kybsd"
+path="res://.godot/imported/boss_wing_violet1.OZT-e4eb2b90745c91c8e368d698c93d75df.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_wing_violet1.OZT"
+dest_files=["res://.godot/imported/boss_wing_violet1.OZT-e4eb2b90745c91c8e368d698c93d75df.res"]
+
+[params]
+

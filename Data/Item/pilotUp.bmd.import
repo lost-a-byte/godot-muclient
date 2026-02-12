@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvlcdd8mfxc1r"
+path="res://.godot/imported/pilotUp.bmd-1f6efe111c579afae0e37188008addeb.scn"
+
+[deps]
+
+source_file="res://Data/Item/pilotUp.bmd"
+dest_files=["res://.godot/imported/pilotUp.bmd-1f6efe111c579afae0e37188008addeb.scn"]
+
+[params]
+
+modelScale=0.01

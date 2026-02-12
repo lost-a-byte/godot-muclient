@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cb221eaey6oeh"
+path="res://.godot/imported/stonemortarrabbit.bmd-b64d534fb8a5fd3e163184e40f46da2d.scn"
+
+[deps]
+
+source_file="res://Data/Item/stonemortarrabbit.bmd"
+dest_files=["res://.godot/imported/stonemortarrabbit.bmd-b64d534fb8a5fd3e163184e40f46da2d.scn"]
+
+[params]
+
+modelScale=0.01

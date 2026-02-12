@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm1t1x1e0x7s4"
+path="res://.godot/imported/spinmark01.OZJ-458eeeb64fc005d2945c813837540bbe.res"
+
+[deps]
+
+source_file="res://Data/Effect/spinmark01.OZJ"
+dest_files=["res://.godot/imported/spinmark01.OZJ-458eeeb64fc005d2945c813837540bbe.res"]
+
+[params]
+

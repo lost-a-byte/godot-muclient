@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tbktbaceb5xh"
+path="res://.godot/imported/blast_r.ozj-d7e78a2f3fe80091712daf6c3e615693.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blast_r.ozj"
+dest_files=["res://.godot/imported/blast_r.ozj-d7e78a2f3fe80091712daf6c3e615693.res"]
+
+[params]
+

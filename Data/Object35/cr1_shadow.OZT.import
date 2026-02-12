@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8qga3vsudagg"
+path="res://.godot/imported/cr1_shadow.OZT-0d2eaf08f6a61b81c6821fcc0fa23f9b.res"
+
+[deps]
+
+source_file="res://Data/Object35/cr1_shadow.OZT"
+dest_files=["res://.godot/imported/cr1_shadow.OZT-0d2eaf08f6a61b81c6821fcc0fa23f9b.res"]
+
+[params]
+

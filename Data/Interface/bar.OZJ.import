@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blwrowmbp0j07"
+path="res://.godot/imported/bar.OZJ-4bc1de767c826e340a3acbbcd0def454.res"
+
+[deps]
+
+source_file="res://Data/Interface/bar.OZJ"
+dest_files=["res://.godot/imported/bar.OZJ-4bc1de767c826e340a3acbbcd0def454.res"]
+
+[params]
+

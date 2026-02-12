@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c70hlk0uk2eeh"
+path="res://.godot/imported/gapppet_evol.bmd-8b21219a79afa7cfe33756dce059098c.scn"
+
+[deps]
+
+source_file="res://Data/Item/gapppet_evol.bmd"
+dest_files=["res://.godot/imported/gapppet_evol.bmd-8b21219a79afa7cfe33756dce059098c.scn"]
+
+[params]
+
+modelScale=0.01

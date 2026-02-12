@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ddh8cf7u1n5ws"
+path="res://.godot/imported/bateria.bmd-f0f1851e0adb9adc80cdc71b57e636a9.scn"
+
+[deps]
+
+source_file="res://Data/Item/bateria.bmd"
+dest_files=["res://.godot/imported/bateria.bmd-f0f1851e0adb9adc80cdc71b57e636a9.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bbqy10gcoomtu"
+path="res://.godot/imported/GroundStone2.bmd-ddb65cf7afc8b39ef4e677c5f69f84a2.scn"
+
+[deps]
+
+source_file="res://Data/Skill/GroundStone2.bmd"
+dest_files=["res://.godot/imported/GroundStone2.bmd-ddb65cf7afc8b39ef4e677c5f69f84a2.scn"]
+
+[params]
+
+modelScale=0.01

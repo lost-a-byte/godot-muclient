@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4e2juo1ksg32"
+path="res://.godot/imported/Blur_Aura002.OZJ-52b92fd4549e7d8fd78131d25932a251.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Blur_Aura002.OZJ"
+dest_files=["res://.godot/imported/Blur_Aura002.OZJ-52b92fd4549e7d8fd78131d25932a251.res"]
+
+[params]
+

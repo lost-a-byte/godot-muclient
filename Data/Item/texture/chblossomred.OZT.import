@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btohr4ls2e1xp"
+path="res://.godot/imported/chblossomred.OZT-ecea922a1dae5c2aeb26d75f28a9b4dd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chblossomred.OZT"
+dest_files=["res://.godot/imported/chblossomred.OZT-ecea922a1dae5c2aeb26d75f28a9b4dd.res"]
+
+[params]
+

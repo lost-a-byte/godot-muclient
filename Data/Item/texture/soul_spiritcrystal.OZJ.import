@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqa5lng6bkqtj"
+path="res://.godot/imported/soul_spiritcrystal.OZJ-65c5d166f52779c78840fe59814373d0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soul_spiritcrystal.OZJ"
+dest_files=["res://.godot/imported/soul_spiritcrystal.OZJ-65c5d166f52779c78840fe59814373d0.res"]
+
+[params]
+

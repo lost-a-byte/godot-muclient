@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vo06eq7xhyc7"
+path="res://.godot/imported/Magma_shaman_render.OZJ-113a5104fd5b596de510753a071e3b32.res"
+
+[deps]
+
+source_file="res://Data/Monster/Magma_shaman_render.OZJ"
+dest_files=["res://.godot/imported/Magma_shaman_render.OZJ-113a5104fd5b596de510753a071e3b32.res"]
+
+[params]
+

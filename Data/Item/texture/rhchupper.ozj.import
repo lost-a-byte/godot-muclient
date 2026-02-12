@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://duhghmbr7rdb7"
+path="res://.godot/imported/rhchupper.ozj-2f63ef75326d7a98e2ceb85a78c92183.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rhchupper.ozj"
+dest_files=["res://.godot/imported/rhchupper.ozj-2f63ef75326d7a98e2ceb85a78c92183.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://qbkcqjp8mloo"
+path="res://.godot/imported/Taurus_inven.bmd-1fb8e469429c710dd078ab8549d75f63.scn"
+
+[deps]
+
+source_file="res://Data/Item/Taurus_inven.bmd"
+dest_files=["res://.godot/imported/Taurus_inven.bmd-1fb8e469429c710dd078ab8549d75f63.scn"]
+
+[params]
+
+modelScale=0.01

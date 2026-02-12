@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2n3hpjneyu4r"
+path="res://.godot/imported/HolyAngelQuiver.bmd-287754d4798d2ed86abccc6515f9bcff.scn"
+
+[deps]
+
+source_file="res://Data/Item/HolyAngelQuiver.bmd"
+dest_files=["res://.godot/imported/HolyAngelQuiver.bmd-287754d4798d2ed86abccc6515f9bcff.scn"]
+
+[params]
+
+modelScale=0.01

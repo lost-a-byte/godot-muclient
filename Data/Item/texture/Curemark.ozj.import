@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt8neaym7i7th"
+path="res://.godot/imported/Curemark.ozj-6c6503579475722d7e80509753a34b87.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Curemark.ozj"
+dest_files=["res://.godot/imported/Curemark.ozj-6c6503579475722d7e80509753a34b87.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://br73mt3xmfxr8"
+path="res://.godot/imported/soram02.OZJ-3f5c05484c7e937fe03554cbdab359cf.res"
+
+[deps]
+
+source_file="res://Data/Monster/soram02.OZJ"
+dest_files=["res://.godot/imported/soram02.OZJ-3f5c05484c7e937fe03554cbdab359cf.res"]
+
+[params]
+

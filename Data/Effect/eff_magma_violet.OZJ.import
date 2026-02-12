@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq3ilvfmpfx2i"
+path="res://.godot/imported/eff_magma_violet.OZJ-74e51d416747c209ed1464880e2cea39.res"
+
+[deps]
+
+source_file="res://Data/Effect/eff_magma_violet.OZJ"
+dest_files=["res://.godot/imported/eff_magma_violet.OZJ-74e51d416747c209ed1464880e2cea39.res"]
+
+[params]
+

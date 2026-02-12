@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://r3xbde4lrcvn"
+path="res://.godot/imported/agnecklace.bmd-28bf27bf362b22ff436bc38f98a5e039.scn"
+
+[deps]
+
+source_file="res://Data/Item/agnecklace.bmd"
+dest_files=["res://.godot/imported/agnecklace.bmd-28bf27bf362b22ff436bc38f98a5e039.scn"]
+
+[params]
+
+modelScale=0.01

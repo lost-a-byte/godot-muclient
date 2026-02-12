@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyfhlf640t832"
+path="res://.godot/imported/Flame01.OZJ-80b279e8f7b079bc7bc3c954b40a24d8.res"
+
+[deps]
+
+source_file="res://Data/Effect/Flame01.OZJ"
+dest_files=["res://.godot/imported/Flame01.OZJ-80b279e8f7b079bc7bc3c954b40a24d8.res"]
+
+[params]
+

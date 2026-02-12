@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crkrtk5hsmd0j"
+path="res://.godot/imported/hs_clouds03.OZT-fe94bd25cb3c6c0d3bb60f211aff759e.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_clouds03.OZT"
+dest_files=["res://.godot/imported/hs_clouds03.OZT-fe94bd25cb3c6c0d3bb60f211aff759e.res"]
+
+[params]
+

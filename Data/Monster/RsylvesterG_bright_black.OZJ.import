@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddr8lihsoqy3f"
+path="res://.godot/imported/RsylvesterG_bright_black.OZJ-3c99372a93aeed1a9cb6df69e3d60a75.res"
+
+[deps]
+
+source_file="res://Data/Monster/RsylvesterG_bright_black.OZJ"
+dest_files=["res://.godot/imported/RsylvesterG_bright_black.OZJ-3c99372a93aeed1a9cb6df69e3d60a75.res"]
+
+[params]
+

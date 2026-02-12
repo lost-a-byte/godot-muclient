@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bpjpkwueldou3"
+path="res://.godot/imported/Lord_Silverster_Lance_panel.bmd-ba745ee8941363d3a67a0f4ea44a657c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Lord_Silverster_Lance_panel.bmd"
+dest_files=["res://.godot/imported/Lord_Silverster_Lance_panel.bmd-ba745ee8941363d3a67a0f4ea44a657c.scn"]
+
+[params]
+
+modelScale=0.01

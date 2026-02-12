@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfor5o2vgx1vh"
+path="res://.godot/imported/impact_01.OZJ-4950b927d2596a2c8905cfc1d2d2d162.res"
+
+[deps]
+
+source_file="res://Data/Effect/impact_01.OZJ"
+dest_files=["res://.godot/imported/impact_01.OZJ-4950b927d2596a2c8905cfc1d2d2d162.res"]
+
+[params]
+

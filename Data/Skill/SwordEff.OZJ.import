@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp2aqtsu1itpx"
+path="res://.godot/imported/SwordEff.OZJ-c5f4d11d2843162752c3e9032fb0d0a4.res"
+
+[deps]
+
+source_file="res://Data/Skill/SwordEff.OZJ"
+dest_files=["res://.godot/imported/SwordEff.OZJ-c5f4d11d2843162752c3e9032fb0d0a4.res"]
+
+[params]
+

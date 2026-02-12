@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boikjnsd7bwj6"
+path="res://.godot/imported/hs_Earring4th_ML.OZJ-56622379d22d1b907646d6e072e4df64.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_Earring4th_ML.OZJ"
+dest_files=["res://.godot/imported/hs_Earring4th_ML.OZJ-56622379d22d1b907646d6e072e4df64.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3ogleeoc5p3q"
+path="res://.godot/imported/ArchangelusWeapon.OZT-4992fc3e857479e24f9903aeb37411b6.res"
+
+[deps]
+
+source_file="res://Data/Item/ArchangelusWeapon.OZT"
+dest_files=["res://.godot/imported/ArchangelusWeapon.OZT-4992fc3e857479e24f9903aeb37411b6.res"]
+
+[params]
+

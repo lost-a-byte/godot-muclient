@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csfp5p2iwcls4"
+path="res://.godot/imported/ingame_gift_namebox.OZT-a4ad793a669d6f33d8290746346d57e1.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_gift_namebox.OZT"
+dest_files=["res://.godot/imported/ingame_gift_namebox.OZT-a4ad793a669d6f33d8290746346d57e1.res"]
+
+[params]
+

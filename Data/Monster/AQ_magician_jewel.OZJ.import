@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpag31dvghu73"
+path="res://.godot/imported/AQ_magician_jewel.OZJ-0f7e76bacd0f9b29577a4635c1bba3fa.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_magician_jewel.OZJ"
+dest_files=["res://.godot/imported/AQ_magician_jewel.OZJ-0f7e76bacd0f9b29577a4635c1bba3fa.res"]
+
+[params]
+

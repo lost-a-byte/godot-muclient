@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tauxkjuccv3l"
+path="res://.godot/imported/GarudaFeather.OZJ-3bb716f2c4a909b5cd7bac84dbda6abb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GarudaFeather.OZJ"
+dest_files=["res://.godot/imported/GarudaFeather.OZJ-3bb716f2c4a909b5cd7bac84dbda6abb.res"]
+
+[params]
+

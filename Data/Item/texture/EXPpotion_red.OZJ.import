@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csntrunrojx8"
+path="res://.godot/imported/EXPpotion_red.OZJ-811e31ed6a76cfd8e02526f1aa878101.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/EXPpotion_red.OZJ"
+dest_files=["res://.godot/imported/EXPpotion_red.OZJ-811e31ed6a76cfd8e02526f1aa878101.res"]
+
+[params]
+

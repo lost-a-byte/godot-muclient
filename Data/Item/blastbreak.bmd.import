@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mmp80t010ya7"
+path="res://.godot/imported/blastbreak.bmd-9705bdac1acdc24ffed5ac0ec35f88ac.scn"
+
+[deps]
+
+source_file="res://Data/Item/blastbreak.bmd"
+dest_files=["res://.godot/imported/blastbreak.bmd-9705bdac1acdc24ffed5ac0ec35f88ac.scn"]
+
+[params]
+
+modelScale=0.01

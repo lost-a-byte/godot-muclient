@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boe4uaj72uyuk"
+path="res://.godot/imported/BonpeuBa_render.OZJ-a050e450d546d694f8dfbf67ff793df1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BonpeuBa_render.OZJ"
+dest_files=["res://.godot/imported/BonpeuBa_render.OZJ-a050e450d546d694f8dfbf67ff793df1.res"]
+
+[params]
+

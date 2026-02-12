@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dpke830fc7a5e"
+path="res://.godot/imported/Flybigstone2.bmd-695296297e6f9690c4e9d3394a491537.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Flybigstone2.bmd"
+dest_files=["res://.godot/imported/Flybigstone2.bmd-695296297e6f9690c4e9d3394a491537.scn"]
+
+[params]
+
+modelScale=0.01

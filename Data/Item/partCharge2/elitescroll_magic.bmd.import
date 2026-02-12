@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://crij16p38yb2h"
+path="res://.godot/imported/elitescroll_magic.bmd-3ea821e3bedfaf3448928e8b83457231.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/elitescroll_magic.bmd"
+dest_files=["res://.godot/imported/elitescroll_magic.bmd-3ea821e3bedfaf3448928e8b83457231.scn"]
+
+[params]
+
+modelScale=0.01

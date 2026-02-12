@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw1bids06vf57"
+path="res://.godot/imported/Minimap46.OZJ-0dd397c0d23e78cb902307d051462675.res"
+
+[deps]
+
+source_file="res://Data/Interface/Minimap46.OZJ"
+dest_files=["res://.godot/imported/Minimap46.OZJ-0dd397c0d23e78cb902307d051462675.res"]
+
+[params]
+

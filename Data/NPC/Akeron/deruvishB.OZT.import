@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnydi1hgu612s"
+path="res://.godot/imported/deruvishB.OZT-0d43d2fd00264069bc2292650dadb738.res"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/deruvishB.OZT"
+dest_files=["res://.godot/imported/deruvishB.OZT-0d43d2fd00264069bc2292650dadb738.res"]
+
+[params]
+

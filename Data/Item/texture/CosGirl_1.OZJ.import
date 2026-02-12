@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://inn53hu0thrd"
+path="res://.godot/imported/CosGirl_1.OZJ-dc24bcf2cc99832c76ff0ffb5ddaf62a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CosGirl_1.OZJ"
+dest_files=["res://.godot/imported/CosGirl_1.OZJ-dc24bcf2cc99832c76ff0ffb5ddaf62a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyprneaxmsh2r"
+path="res://.godot/imported/ingame_Deco_Center.OZT-54c667da4ed59f22d4978516bf2c0fc7.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Deco_Center.OZT"
+dest_files=["res://.godot/imported/ingame_Deco_Center.OZT-54c667da4ed59f22d4978516bf2c0fc7.res"]
+
+[params]
+

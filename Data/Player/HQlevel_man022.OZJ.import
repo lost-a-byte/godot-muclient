@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7rclgsi0srvk"
+path="res://.godot/imported/HQlevel_man022.OZJ-b8b4de2c0ebbb61830ba85c7b7db1d78.res"
+
+[deps]
+
+source_file="res://Data/Player/HQlevel_man022.OZJ"
+dest_files=["res://.godot/imported/HQlevel_man022.OZJ-b8b4de2c0ebbb61830ba85c7b7db1d78.res"]
+
+[params]
+

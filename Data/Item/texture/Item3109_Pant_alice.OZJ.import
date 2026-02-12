@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://io5p7mtvt337"
+path="res://.godot/imported/Item3109_Pant_alice.OZJ-7d6a9e22bd0f7569950b2df161e6faaa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3109_Pant_alice.OZJ"
+dest_files=["res://.godot/imported/Item3109_Pant_alice.OZJ-7d6a9e22bd0f7569950b2df161e6faaa.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dn18f77xl2j61"
+path="res://.godot/imported/chaos_piece_soul.bmd-3388b14cb76109eab15431a6522ca139.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_piece_soul.bmd"
+dest_files=["res://.godot/imported/chaos_piece_soul.bmd-3388b14cb76109eab15431a6522ca139.scn"]
+
+[params]
+
+modelScale=0.01

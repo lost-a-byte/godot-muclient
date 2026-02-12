@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cugk60wyj1mh6"
+path="res://.godot/imported/ScorchedMagician_Effect_B.OZJ-5a28b7b039510bc3284c30c71a666418.res"
+
+[deps]
+
+source_file="res://Data/Monster/ScorchedMagician_Effect_B.OZJ"
+dest_files=["res://.godot/imported/ScorchedMagician_Effect_B.OZJ-5a28b7b039510bc3284c30c71a666418.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4xc2qcy8tgll"
+path="res://.godot/imported/darkepsostep_Cepter.ozj-4f552f5160dd49480a5f1c00522ac127.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkepsostep_Cepter.ozj"
+dest_files=["res://.godot/imported/darkepsostep_Cepter.ozj-4f552f5160dd49480a5f1c00522ac127.res"]
+
+[params]
+

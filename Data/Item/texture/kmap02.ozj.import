@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b40x7d26ikjw1"
+path="res://.godot/imported/kmap02.ozj-b72fecd338a90685a50600b4fd3e4392.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kmap02.ozj"
+dest_files=["res://.godot/imported/kmap02.ozj-b72fecd338a90685a50600b4fd3e4392.res"]
+
+[params]
+

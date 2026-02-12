@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uyb3r3wkhx2x"
+path="res://.godot/imported/necklaceblue_R.OZJ-dbebe0bb186ae3941554bc2350510693.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/necklaceblue_R.OZJ"
+dest_files=["res://.godot/imported/necklaceblue_R.OZJ-dbebe0bb186ae3941554bc2350510693.res"]
+
+[params]
+

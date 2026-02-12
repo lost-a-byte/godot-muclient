@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwrewgdmlv53d"
+path="res://.godot/imported/Dtree_nomleg.OZJ-90108d089afb7a6a5e2dd1ad4cc6eee5.res"
+
+[deps]
+
+source_file="res://Data/Monster/Dtree_nomleg.OZJ"
+dest_files=["res://.godot/imported/Dtree_nomleg.OZJ-90108d089afb7a6a5e2dd1ad4cc6eee5.res"]
+
+[params]
+

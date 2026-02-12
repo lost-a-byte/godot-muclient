@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sdpl76evyivi"
+path="res://.godot/imported/wind14_damge_color2.OZJ-deea52754f57cf212d28e753d74680da.res"
+
+[deps]
+
+source_file="res://Data/Effect/wind14_damge_color2.OZJ"
+dest_files=["res://.godot/imported/wind14_damge_color2.OZJ-deea52754f57cf212d28e753d74680da.res"]
+
+[params]
+

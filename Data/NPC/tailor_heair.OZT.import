@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cciarquo0h4n8"
+path="res://.godot/imported/tailor_heair.OZT-55283736f03559a967b74191a2f46c26.res"
+
+[deps]
+
+source_file="res://Data/NPC/tailor_heair.OZT"
+dest_files=["res://.godot/imported/tailor_heair.OZT-55283736f03559a967b74191a2f46c26.res"]
+
+[params]
+

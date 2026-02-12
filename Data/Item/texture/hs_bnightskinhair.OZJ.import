@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://de2ppvmbmviud"
+path="res://.godot/imported/hs_bnightskinhair.OZJ-8cf6e31de307f87ce6e0310417bc266c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_bnightskinhair.OZJ"
+dest_files=["res://.godot/imported/hs_bnightskinhair.OZJ-8cf6e31de307f87ce6e0310417bc266c.res"]
+
+[params]
+

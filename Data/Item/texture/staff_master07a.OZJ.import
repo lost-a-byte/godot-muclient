@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsp1q2bpvxj2o"
+path="res://.godot/imported/staff_master07a.OZJ-f7ef302eb902a98112c77fc2b8619c4d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/staff_master07a.OZJ"
+dest_files=["res://.godot/imported/staff_master07a.OZJ-f7ef302eb902a98112c77fc2b8619c4d.res"]
+
+[params]
+

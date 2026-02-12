@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cs5jtuqptrwt"
+path="res://.godot/imported/ChangeCharmYellow.bmd-eef184299a2164ec2a01bf935f6c5d9b.scn"
+
+[deps]
+
+source_file="res://Data/Item/ChangeCharmYellow.bmd"
+dest_files=["res://.godot/imported/ChangeCharmYellow.bmd-eef184299a2164ec2a01bf935f6c5d9b.scn"]
+
+[params]
+
+modelScale=0.01

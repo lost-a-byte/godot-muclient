@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cks54j0354jaj"
+path="res://.godot/imported/devil_wing.OZT-4a7a71f6bdad619549def335e67c5d2d.res"
+
+[deps]
+
+source_file="res://Data/Item/devil_wing.OZT"
+dest_files=["res://.godot/imported/devil_wing.OZT-4a7a71f6bdad619549def335e67c5d2d.res"]
+
+[params]
+

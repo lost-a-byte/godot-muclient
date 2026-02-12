@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx1hokp0ji2om"
+path="res://.godot/imported/sharke_arrows_blue.OZJ-ee2126070b9979fc0546c945e846e982.res"
+
+[deps]
+
+source_file="res://Data/Effect/sharke_arrows_blue.OZJ"
+dest_files=["res://.godot/imported/sharke_arrows_blue.OZJ-ee2126070b9979fc0546c945e846e982.res"]
+
+[params]
+

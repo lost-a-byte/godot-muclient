@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dnnx52oq86u0k"
+path="res://.godot/imported/fenrir_red.bmd-015a32192105f2d29db88cd4e5508deb.scn"
+
+[deps]
+
+source_file="res://Data/Skill/fenrir_red.bmd"
+dest_files=["res://.godot/imported/fenrir_red.bmd-015a32192105f2d29db88cd4e5508deb.scn"]
+
+[params]
+
+modelScale=0.01

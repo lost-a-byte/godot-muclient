@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bau80c8yjobjw"
+path="res://.godot/imported/wollpets.OZT-fa3319f1258a3ebc4b831fdbf3c65c84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wollpets.OZT"
+dest_files=["res://.godot/imported/wollpets.OZT-fa3319f1258a3ebc4b831fdbf3c65c84.res"]
+
+[params]
+

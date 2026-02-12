@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bupj2ocmero3k"
+path="res://.godot/imported/glove22.OZJ-61444e352aea06eb8d886a21933d85b0.res"
+
+[deps]
+
+source_file="res://Data/Player/glove22.OZJ"
+dest_files=["res://.godot/imported/glove22.OZJ-61444e352aea06eb8d886a21933d85b0.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://x8ec2km5kwnh"
+path="res://.godot/imported/attgempiece.bmd-e718332fece25bc220eba1a25895678e.scn"
+
+[deps]
+
+source_file="res://Data/Item/attgempiece.bmd"
+dest_files=["res://.godot/imported/attgempiece.bmd-e718332fece25bc220eba1a25895678e.scn"]
+
+[params]
+
+modelScale=0.01

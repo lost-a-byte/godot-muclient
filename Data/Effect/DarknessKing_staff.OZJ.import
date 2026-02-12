@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2rg50yeq6ahi"
+path="res://.godot/imported/DarknessKing_staff.OZJ-ccb54a2a0a723bc95ee83123b375e344.res"
+
+[deps]
+
+source_file="res://Data/Effect/DarknessKing_staff.OZJ"
+dest_files=["res://.godot/imported/DarknessKing_staff.OZJ-ccb54a2a0a723bc95ee83123b375e344.res"]
+
+[params]
+

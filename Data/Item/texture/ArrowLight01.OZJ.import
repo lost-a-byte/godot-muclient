@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f3yyyb7op7lf"
+path="res://.godot/imported/ArrowLight01.OZJ-e44e0a9097a0dc1447977cc477a2f03d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ArrowLight01.OZJ"
+dest_files=["res://.godot/imported/ArrowLight01.OZJ-e44e0a9097a0dc1447977cc477a2f03d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c37i3blapa8nj"
+path="res://.godot/imported/jujum_R.OZJ-ce6800de18f061169495ff9d0abb6000.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge3/jujum_R.OZJ"
+dest_files=["res://.godot/imported/jujum_R.OZJ-ce6800de18f061169495ff9d0abb6000.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsuiaepxtippx"
+path="res://.godot/imported/warrior_back.OZJ-d6bee512070504a2634b7db722b69772.res"
+
+[deps]
+
+source_file="res://Data/Logo/warrior_back.OZJ"
+dest_files=["res://.godot/imported/warrior_back.OZJ-d6bee512070504a2634b7db722b69772.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://87lgy1pwrih1"
+path="res://.godot/imported/dknightwing4dc.OZJ-4ac31f87a2706a3751e01b76195e9e4e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dknightwing4dc.OZJ"
+dest_files=["res://.godot/imported/dknightwing4dc.OZJ-4ac31f87a2706a3751e01b76195e9e4e.res"]
+
+[params]
+

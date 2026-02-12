@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwiytt5yloidk"
+path="res://.godot/imported/LuckyCardgreenA.OZJ-17aeda11ee9e2b3636362eb71a334f34.res"
+
+[deps]
+
+source_file="res://Data/Item/LuckyItem/LuckyCardgreenA.OZJ"
+dest_files=["res://.godot/imported/LuckyCardgreenA.OZJ-17aeda11ee9e2b3636362eb71a334f34.res"]
+
+[params]
+

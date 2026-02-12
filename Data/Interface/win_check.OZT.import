@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxmewvhlyqeli"
+path="res://.godot/imported/win_check.OZT-b130fd945b69725bf4988d780f381863.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_check.OZT"
+dest_files=["res://.godot/imported/win_check.OZT-b130fd945b69725bf4988d780f381863.res"]
+
+[params]
+

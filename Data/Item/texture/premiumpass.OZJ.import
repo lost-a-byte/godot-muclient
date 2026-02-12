@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsnkuch8o2ah6"
+path="res://.godot/imported/premiumpass.OZJ-792e5f7e4d411f3fb188d25553846ef2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/premiumpass.OZJ"
+dest_files=["res://.godot/imported/premiumpass.OZJ-792e5f7e4d411f3fb188d25553846ef2.res"]
+
+[params]
+

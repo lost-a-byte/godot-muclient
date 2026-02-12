@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1exyag4hnlei"
+path="res://.godot/imported/CCWnpc2Body.OZJ-2fa1782338c4606af53342cbb8d4c8f4.res"
+
+[deps]
+
+source_file="res://Data/NPC/CCWnpc2Body.OZJ"
+dest_files=["res://.godot/imported/CCWnpc2Body.OZJ-2fa1782338c4606af53342cbb8d4c8f4.res"]
+
+[params]
+

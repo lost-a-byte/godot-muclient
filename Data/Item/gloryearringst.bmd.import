@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dkaptsb0r5leq"
+path="res://.godot/imported/gloryearringst.bmd-d8e75a144ddf22ea1534357b367fee74.scn"
+
+[deps]
+
+source_file="res://Data/Item/gloryearringst.bmd"
+dest_files=["res://.godot/imported/gloryearringst.bmd-d8e75a144ddf22ea1534357b367fee74.scn"]
+
+[params]
+
+modelScale=0.01

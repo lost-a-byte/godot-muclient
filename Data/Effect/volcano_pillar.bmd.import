@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cf26md7w6wypt"
+path="res://.godot/imported/volcano_pillar.bmd-c871c1f1891e2f856ec064fa6e0f5fe5.scn"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_pillar.bmd"
+dest_files=["res://.godot/imported/volcano_pillar.bmd-c871c1f1891e2f856ec064fa6e0f5fe5.scn"]
+
+[params]
+
+modelScale=0.01

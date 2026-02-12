@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnh60tik8ryo4"
+path="res://.godot/imported/sidepole.OZJ-dbdfa8fa53a5c1ccc575a809e8651129.res"
+
+[deps]
+
+source_file="res://Data/Object31/sidepole.OZJ"
+dest_files=["res://.godot/imported/sidepole.OZJ-dbdfa8fa53a5c1ccc575a809e8651129.res"]
+
+[params]
+

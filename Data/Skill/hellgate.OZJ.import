@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfoaxgkj2fiq8"
+path="res://.godot/imported/hellgate.OZJ-fc5d9181fa99682b3dd4a1bb7fc42571.res"
+
+[deps]
+
+source_file="res://Data/Skill/hellgate.OZJ"
+dest_files=["res://.godot/imported/hellgate.OZJ-fc5d9181fa99682b3dd4a1bb7fc42571.res"]
+
+[params]
+

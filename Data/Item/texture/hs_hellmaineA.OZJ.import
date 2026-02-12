@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4re5fay4w26j"
+path="res://.godot/imported/hs_hellmaineA.OZJ-06d41616977f52ba298b7341016aaa27.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_hellmaineA.OZJ"
+dest_files=["res://.godot/imported/hs_hellmaineA.OZJ-06d41616977f52ba298b7341016aaa27.res"]
+
+[params]
+

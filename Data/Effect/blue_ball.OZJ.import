@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ci4heqpq15b25"
+path="res://.godot/imported/blue_ball.OZJ-3c3595ba28f003775fe0a263ba1f6ed0.res"
+
+[deps]
+
+source_file="res://Data/Effect/blue_ball.OZJ"
+dest_files=["res://.godot/imported/blue_ball.OZJ-3c3595ba28f003775fe0a263ba1f6ed0.res"]
+
+[params]
+

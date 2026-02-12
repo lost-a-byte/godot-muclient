@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0x5dx3blc7hm"
+path="res://.godot/imported/TileRock04.OZJ-5f0710cf52da19087a2937775eed2431.res"
+
+[deps]
+
+source_file="res://Data/World67/TileRock04.OZJ"
+dest_files=["res://.godot/imported/TileRock04.OZJ-5f0710cf52da19087a2937775eed2431.res"]
+
+[params]
+

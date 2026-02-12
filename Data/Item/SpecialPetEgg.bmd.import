@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://00b4f8lo5vtj"
+path="res://.godot/imported/SpecialPetEgg.bmd-c611b20d9cd9728487f7fbf75077a401.scn"
+
+[deps]
+
+source_file="res://Data/Item/SpecialPetEgg.bmd"
+dest_files=["res://.godot/imported/SpecialPetEgg.bmd-c611b20d9cd9728487f7fbf75077a401.scn"]
+
+[params]
+
+modelScale=0.01

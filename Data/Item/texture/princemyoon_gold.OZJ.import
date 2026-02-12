@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlxg3snshbyit"
+path="res://.godot/imported/princemyoon_gold.OZJ-6760198137ac94cc18ece0c6a9c8eb75.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/princemyoon_gold.OZJ"
+dest_files=["res://.godot/imported/princemyoon_gold.OZJ-6760198137ac94cc18ece0c6a9c8eb75.res"]
+
+[params]
+

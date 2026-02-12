@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgyrn16q7suwy"
+path="res://.godot/imported/Valkyrie_red.OZJ-a3571626403e838daa002ce72cdcb249.res"
+
+[deps]
+
+source_file="res://Data/Monster/Valkyrie_red.OZJ"
+dest_files=["res://.godot/imported/Valkyrie_red.OZJ-a3571626403e838daa002ce72cdcb249.res"]
+
+[params]
+

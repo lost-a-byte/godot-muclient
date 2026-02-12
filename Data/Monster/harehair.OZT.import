@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cr15irib3qoeq"
+path="res://.godot/imported/harehair.OZT-f5cff2126fcda8c0e0fb624d4e0d4079.res"
+
+[deps]
+
+source_file="res://Data/Monster/harehair.OZT"
+dest_files=["res://.godot/imported/harehair.OZT-f5cff2126fcda8c0e0fb624d4e0d4079.res"]
+
+[params]
+

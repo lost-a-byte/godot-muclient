@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ytesc5ro0r2y"
+path="res://.godot/imported/eff_magma_red.OZJ-f5105904ab3d2679e95801c946e3c6ff.res"
+
+[deps]
+
+source_file="res://Data/Effect/eff_magma_red.OZJ"
+dest_files=["res://.godot/imported/eff_magma_red.OZJ-f5105904ab3d2679e95801c946e3c6ff.res"]
+
+[params]
+

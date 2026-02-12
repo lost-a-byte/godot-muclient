@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5xk5cv7r5l0i"
+path="res://.godot/imported/chaos_amulet_darkangel.OZJ-c46f75a862d87327b92417e753ca0231.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_darkangel.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_darkangel.OZJ-c46f75a862d87327b92417e753ca0231.res"]
+
+[params]
+

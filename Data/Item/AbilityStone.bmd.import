@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bl5fv4hpcc4wj"
+path="res://.godot/imported/AbilityStone.bmd-bb1b3f48a1be62415438d11380196020.scn"
+
+[deps]
+
+source_file="res://Data/Item/AbilityStone.bmd"
+dest_files=["res://.godot/imported/AbilityStone.bmd-bb1b3f48a1be62415438d11380196020.scn"]
+
+[params]
+
+modelScale=0.01

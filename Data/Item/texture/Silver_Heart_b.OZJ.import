@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb8bogfan0ffh"
+path="res://.godot/imported/Silver_Heart_b.OZJ-d60d473e4effb3968dc9fdb1caf57ccf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Silver_Heart_b.OZJ"
+dest_files=["res://.godot/imported/Silver_Heart_b.OZJ-d60d473e4effb3968dc9fdb1caf57ccf.res"]
+
+[params]
+

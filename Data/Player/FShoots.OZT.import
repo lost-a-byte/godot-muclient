@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpk0fp41pi3cl"
+path="res://.godot/imported/FShoots.OZT-92fc4636a606c0c76f6d46ede540d3dd.res"
+
+[deps]
+
+source_file="res://Data/Player/FShoots.OZT"
+dest_files=["res://.godot/imported/FShoots.OZT-92fc4636a606c0c76f6d46ede540d3dd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fploicl6rnu5"
+path="res://.godot/imported/upper_luck09c.OZT-2b57d7c1a6eeed12b096d1e9bb8b86cd.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/64/upper_luck09c.OZT"
+dest_files=["res://.godot/imported/upper_luck09c.OZT-2b57d7c1a6eeed12b096d1e9bb8b86cd.res"]
+
+[params]
+

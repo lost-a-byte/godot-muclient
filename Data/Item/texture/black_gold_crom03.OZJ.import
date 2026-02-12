@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gbijp2mpwwhg"
+path="res://.godot/imported/black_gold_crom03.OZJ-d9895628b2060f2fc0d672ff5d774ee0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/black_gold_crom03.OZJ"
+dest_files=["res://.godot/imported/black_gold_crom03.OZJ-d9895628b2060f2fc0d672ff5d774ee0.res"]
+
+[params]
+

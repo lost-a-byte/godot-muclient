@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbs4ecpuvv0t5"
+path="res://.godot/imported/runemace300b_R.OZJ-4eaa92816fe55b960873fa4144a59c27.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runemace300b_R.OZJ"
+dest_files=["res://.godot/imported/runemace300b_R.OZJ-4eaa92816fe55b960873fa4144a59c27.res"]
+
+[params]
+

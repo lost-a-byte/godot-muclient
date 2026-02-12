@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmu3odkatosqq"
+path="res://.godot/imported/merinopet_evol.bmd-eab86d1f0bab0901e148fbd41845e6cd.scn"
+
+[deps]
+
+source_file="res://Data/Item/merinopet_evol.bmd"
+dest_files=["res://.godot/imported/merinopet_evol.bmd-eab86d1f0bab0901e148fbd41845e6cd.scn"]
+
+[params]
+
+modelScale=0.01

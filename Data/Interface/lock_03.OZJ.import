@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7lsw1sb5xhu5"
+path="res://.godot/imported/lock_03.OZJ-f96e69477ff4d706720b66b9e9619e80.res"
+
+[deps]
+
+source_file="res://Data/Interface/lock_03.OZJ"
+dest_files=["res://.godot/imported/lock_03.OZJ-f96e69477ff4d706720b66b9e9619e80.res"]
+
+[params]
+

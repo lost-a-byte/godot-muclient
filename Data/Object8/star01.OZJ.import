@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://h5dp6lusm6pf"
+path="res://.godot/imported/star01.OZJ-78760e2d19f01265b29d999d6485c49d.res"
+
+[deps]
+
+source_file="res://Data/Object8/star01.OZJ"
+dest_files=["res://.godot/imported/star01.OZJ-78760e2d19f01265b29d999d6485c49d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf773ajh2pk7i"
+path="res://.godot/imported/hs_magic_SKY.OZJ-5539ff4235e3fa786da6d9e6366f3164.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_magic_SKY.OZJ"
+dest_files=["res://.godot/imported/hs_magic_SKY.OZJ-5539ff4235e3fa786da6d9e6366f3164.res"]
+
+[params]
+

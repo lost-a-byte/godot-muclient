@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0oubvlqfddxc"
+path="res://.godot/imported/coin7.bmd-8de092e6cee2ec8521384e195432f694.scn"
+
+[deps]
+
+source_file="res://Data/Item/coin7.bmd"
+dest_files=["res://.godot/imported/coin7.bmd-8de092e6cee2ec8521384e195432f694.scn"]
+
+[params]
+
+modelScale=0.01

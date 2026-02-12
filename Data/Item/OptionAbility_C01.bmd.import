@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c5los683fji2f"
+path="res://.godot/imported/OptionAbility_C01.bmd-5be9645f3e28641ee73efbcacd69eaad.scn"
+
+[deps]
+
+source_file="res://Data/Item/OptionAbility_C01.bmd"
+dest_files=["res://.godot/imported/OptionAbility_C01.bmd-5be9645f3e28641ee73efbcacd69eaad.scn"]
+
+[params]
+
+modelScale=0.01

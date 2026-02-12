@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://duw2kjsl8ee7c"
+path="res://.godot/imported/tribe2b.OZJ-b5b1092c14e02a570c0efe41130d0085.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/tribe2b.OZJ"
+dest_files=["res://.godot/imported/tribe2b.OZJ-b5b1092c14e02a570c0efe41130d0085.res"]
+
+[params]
+

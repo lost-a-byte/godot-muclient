@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqd0vmrcvkiep"
+path="res://.godot/imported/hs_GateA.OZJ-700cb9fadc8f0c4b0c61f1b26dd69bf8.res"
+
+[deps]
+
+source_file="res://Data/Object3/hs_GateA.OZJ"
+dest_files=["res://.godot/imported/hs_GateA.OZJ-700cb9fadc8f0c4b0c61f1b26dd69bf8.res"]
+
+[params]
+

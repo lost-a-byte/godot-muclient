@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8cxr704k5hcr"
+path="res://.godot/imported/cherryspirit.OZJ-4c1d81061f479c12e6d1a8248543ec6a.res"
+
+[deps]
+
+source_file="res://Data/NPC/cherryblossom/cherryspirit.OZJ"
+dest_files=["res://.godot/imported/cherryspirit.OZJ-4c1d81061f479c12e6d1a8248543ec6a.res"]
+
+[params]
+

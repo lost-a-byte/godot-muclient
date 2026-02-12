@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bxb72u03ttc4j"
+path="res://.godot/imported/baseball_player.bmd-e193f5f0d1f0824364083af31ddd56d2.scn"
+
+[deps]
+
+source_file="res://Data/Item/baseball_player.bmd"
+dest_files=["res://.godot/imported/baseball_player.bmd-e193f5f0d1f0824364083af31ddd56d2.scn"]
+
+[params]
+
+modelScale=0.01

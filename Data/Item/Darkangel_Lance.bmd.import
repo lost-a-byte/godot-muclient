@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvxlossdk0lvn"
+path="res://.godot/imported/Darkangel_Lance.bmd-79d57acc5e430f018f75948056ade293.scn"
+
+[deps]
+
+source_file="res://Data/Item/Darkangel_Lance.bmd"
+dest_files=["res://.godot/imported/Darkangel_Lance.bmd-79d57acc5e430f018f75948056ade293.scn"]
+
+[params]
+
+modelScale=0.01

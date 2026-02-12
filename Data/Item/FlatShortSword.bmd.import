@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cn5jc3xm7el7y"
+path="res://.godot/imported/FlatShortSword.bmd-341e3564e69eff11b1128156a1f84e77.scn"
+
+[deps]
+
+source_file="res://Data/Item/FlatShortSword.bmd"
+dest_files=["res://.godot/imported/FlatShortSword.bmd-341e3564e69eff11b1128156a1f84e77.scn"]
+
+[params]
+
+modelScale=0.01

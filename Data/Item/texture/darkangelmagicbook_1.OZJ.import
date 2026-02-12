@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddy8krdviggfw"
+path="res://.godot/imported/darkangelmagicbook_1.OZJ-c5347402f42ab00f4d1ea1fe51bd05f2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkangelmagicbook_1.OZJ"
+dest_files=["res://.godot/imported/darkangelmagicbook_1.OZJ-c5347402f42ab00f4d1ea1fe51bd05f2.res"]
+
+[params]
+

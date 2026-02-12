@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mxc7ty5m8jkq"
+path="res://.godot/imported/blood_beamhair.OZT-176dd47a6bc0f5710b8f67f7c42e2256.res"
+
+[deps]
+
+source_file="res://Data/Monster/blood_beamhair.OZT"
+dest_files=["res://.godot/imported/blood_beamhair.OZT-176dd47a6bc0f5710b8f67f7c42e2256.res"]
+
+[params]
+

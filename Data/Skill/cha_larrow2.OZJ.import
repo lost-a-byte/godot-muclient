@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://iwykwnyt3ryw"
+path="res://.godot/imported/cha_larrow2.OZJ-51d9ad685ef03a02465faa01c47f35c4.res"
+
+[deps]
+
+source_file="res://Data/Skill/cha_larrow2.OZJ"
+dest_files=["res://.godot/imported/cha_larrow2.OZJ-51d9ad685ef03a02465faa01c47f35c4.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dckvn4c3bknhr"
+path="res://.godot/imported/jaspernecklace.bmd-c6a9fe042edc9b4ef352442f47136ddc.scn"
+
+[deps]
+
+source_file="res://Data/Item/jaspernecklace.bmd"
+dest_files=["res://.godot/imported/jaspernecklace.bmd-c6a9fe042edc9b4ef352442f47136ddc.scn"]
+
+[params]
+
+modelScale=0.01

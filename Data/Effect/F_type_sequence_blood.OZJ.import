@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://codrk8upo05s5"
+path="res://.godot/imported/F_type_sequence_blood.OZJ-5f2da4c7db6e9ec078ec3f616c4af78e.res"
+
+[deps]
+
+source_file="res://Data/Effect/F_type_sequence_blood.OZJ"
+dest_files=["res://.godot/imported/F_type_sequence_blood.OZJ-5f2da4c7db6e9ec078ec3f616c4af78e.res"]
+
+[params]
+

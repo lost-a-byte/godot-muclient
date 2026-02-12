@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sn5o1pkmhh0h"
+path="res://.godot/imported/XerA.OZJ-e85190a2f27350d73da08fd6a4b74cd1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/XerA.OZJ"
+dest_files=["res://.godot/imported/XerA.OZJ-e85190a2f27350d73da08fd6a4b74cd1.res"]
+
+[params]
+

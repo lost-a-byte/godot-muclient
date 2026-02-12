@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://daykwb34jg6gr"
+path="res://.godot/imported/Tomb01.bmd-8bda207ae293c67946d81c98847093b0.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Tomb01.bmd"
+dest_files=["res://.godot/imported/Tomb01.bmd-8bda207ae293c67946d81c98847093b0.scn"]
+
+[params]
+
+modelScale=0.01

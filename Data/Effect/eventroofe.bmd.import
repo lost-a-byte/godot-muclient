@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxgnsrsc4cyng"
+path="res://.godot/imported/eventroofe.bmd-3b1663e3a795a10e51b3136e4af8322b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/eventroofe.bmd"
+dest_files=["res://.godot/imported/eventroofe.bmd-3b1663e3a795a10e51b3136e4af8322b.scn"]
+
+[params]
+
+modelScale=0.01

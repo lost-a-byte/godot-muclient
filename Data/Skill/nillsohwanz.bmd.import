@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cwlxryc8ti4jv"
+path="res://.godot/imported/nillsohwanz.bmd-efea2679bd9e5ee2d6324da0f5f66f68.scn"
+
+[deps]
+
+source_file="res://Data/Skill/nillsohwanz.bmd"
+dest_files=["res://.godot/imported/nillsohwanz.bmd-efea2679bd9e5ee2d6324da0f5f66f68.scn"]
+
+[params]
+
+modelScale=0.01

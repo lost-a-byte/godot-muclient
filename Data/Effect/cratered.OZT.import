@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcyxrlws4i32g"
+path="res://.godot/imported/cratered.OZT-adbd0911a945a04ab5da5dfcd0cce441.res"
+
+[deps]
+
+source_file="res://Data/Effect/cratered.OZT"
+dest_files=["res://.godot/imported/cratered.OZT-adbd0911a945a04ab5da5dfcd0cce441.res"]
+
+[params]
+

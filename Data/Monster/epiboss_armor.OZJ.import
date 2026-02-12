@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://iahnb5cjcqb8"
+path="res://.godot/imported/epiboss_armor.OZJ-7b5d3fd81d43904ba91381acb768cbb9.res"
+
+[deps]
+
+source_file="res://Data/Monster/epiboss_armor.OZJ"
+dest_files=["res://.godot/imported/epiboss_armor.OZJ-7b5d3fd81d43904ba91381acb768cbb9.res"]
+
+[params]
+

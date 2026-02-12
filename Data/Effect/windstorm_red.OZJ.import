@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfpxxkmby835s"
+path="res://.godot/imported/windstorm_red.OZJ-7396221fa4de7326b8386f7080c5ca1f.res"
+
+[deps]
+
+source_file="res://Data/Effect/windstorm_red.OZJ"
+dest_files=["res://.godot/imported/windstorm_red.OZJ-7396221fa4de7326b8386f7080c5ca1f.res"]
+
+[params]
+

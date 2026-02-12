@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxk6l5pbcs72q"
+path="res://.godot/imported/arrows02.OZJ-da2f7042e4aaa87a18bb7b81f0065b52.res"
+
+[deps]
+
+source_file="res://Data/Effect/arrows02.OZJ"
+dest_files=["res://.godot/imported/arrows02.OZJ-da2f7042e4aaa87a18bb7b81f0065b52.res"]
+
+[params]
+

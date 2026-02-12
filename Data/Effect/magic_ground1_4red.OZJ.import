@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chqb8x1ydp45p"
+path="res://.godot/imported/magic_ground1_4red.OZJ-9627c9c9ee6ab592ff2868af0aff590a.res"
+
+[deps]
+
+source_file="res://Data/Effect/magic_ground1_4red.OZJ"
+dest_files=["res://.godot/imported/magic_ground1_4red.OZJ-9627c9c9ee6ab592ff2868af0aff590a.res"]
+
+[params]
+

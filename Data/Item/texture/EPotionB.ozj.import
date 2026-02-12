@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rrih5n4d1nap"
+path="res://.godot/imported/EPotionB.ozj-13d69b756c6f6f395abeb392da95377e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/EPotionB.ozj"
+dest_files=["res://.godot/imported/EPotionB.ozj-13d69b756c6f6f395abeb392da95377e.res"]
+
+[params]
+

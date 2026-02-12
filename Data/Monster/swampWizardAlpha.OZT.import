@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buuj2d7d6byhq"
+path="res://.godot/imported/swampWizardAlpha.OZT-6ad9ea1650d21a6f5ae9502ff23a7bbf.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampWizardAlpha.OZT"
+dest_files=["res://.godot/imported/swampWizardAlpha.OZT-6ad9ea1650d21a6f5ae9502ff23a7bbf.res"]
+
+[params]
+

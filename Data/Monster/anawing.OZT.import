@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cu7nobn5pej21"
+path="res://.godot/imported/anawing.OZT-52bf6ab9500f55e9a77dc85743e68b8a.res"
+
+[deps]
+
+source_file="res://Data/Monster/anawing.OZT"
+dest_files=["res://.godot/imported/anawing.OZT-52bf6ab9500f55e9a77dc85743e68b8a.res"]
+
+[params]
+

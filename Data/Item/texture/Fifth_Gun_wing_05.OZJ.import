@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgv3fnsinc7c6"
+path="res://.godot/imported/Fifth_Gun_wing_05.OZJ-1898ca8281c5e15fff5696e8429e3ccb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Gun_wing_05.OZJ"
+dest_files=["res://.godot/imported/Fifth_Gun_wing_05.OZJ-1898ca8281c5e15fff5696e8429e3ccb.res"]
+
+[params]
+

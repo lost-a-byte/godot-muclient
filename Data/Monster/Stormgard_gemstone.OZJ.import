@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbggoyakl4dr8"
+path="res://.godot/imported/Stormgard_gemstone.OZJ-d2c8be69cea94faf4694e15382c2c8d4.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormgard_gemstone.OZJ"
+dest_files=["res://.godot/imported/Stormgard_gemstone.OZJ-d2c8be69cea94faf4694e15382c2c8d4.res"]
+
+[params]
+

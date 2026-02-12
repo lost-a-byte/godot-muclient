@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://busbhoe3tdctl"
+path="res://.godot/imported/Grass03.bmd-ae0a8fa1f6b674186014644d927f34f6.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Grass03.bmd"
+dest_files=["res://.godot/imported/Grass03.bmd-ae0a8fa1f6b674186014644d927f34f6.scn"]
+
+[params]
+
+modelScale=0.01

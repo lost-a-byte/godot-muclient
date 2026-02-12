@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6du23gvppaaj"
+path="res://.godot/imported/hs_guardian_icarus.bmd-c9a6e8d1e7c4c89bdae755d4b55dc746.scn"
+
+[deps]
+
+source_file="res://Data/NPC/hs_guardian_icarus.bmd"
+dest_files=["res://.godot/imported/hs_guardian_icarus.bmd-c9a6e8d1e7c4c89bdae755d4b55dc746.scn"]
+
+[params]
+
+modelScale=0.01

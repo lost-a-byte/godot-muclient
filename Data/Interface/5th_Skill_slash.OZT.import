@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gea6w08tn5rd"
+path="res://.godot/imported/5th_Skill_slash.OZT-85c6b7bfd9ef235c10a89faec0814702.res"
+
+[deps]
+
+source_file="res://Data/Interface/5th_Skill_slash.OZT"
+dest_files=["res://.godot/imported/5th_Skill_slash.OZT-85c6b7bfd9ef235c10a89faec0814702.res"]
+
+[params]
+

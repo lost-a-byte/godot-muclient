@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://du6ekfhuhv71f"
+path="res://.godot/imported/mzine_typer4.bmd-4a5db487d03c9ce029eecef69af7b7b4.scn"
+
+[deps]
+
+source_file="res://Data/Effect/mzine_typer4.bmd"
+dest_files=["res://.godot/imported/mzine_typer4.bmd-4a5db487d03c9ce029eecef69af7b7b4.scn"]
+
+[params]
+
+modelScale=0.01

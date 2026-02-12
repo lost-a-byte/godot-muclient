@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmj3qvv1lpx6d"
+path="res://.godot/imported/toysoldier.bmd-8c684ef9315566a759d7797f06215b29.scn"
+
+[deps]
+
+source_file="res://Data/Item/toysoldier.bmd"
+dest_files=["res://.godot/imported/toysoldier.bmd-8c684ef9315566a759d7797f06215b29.scn"]
+
+[params]
+
+modelScale=0.01

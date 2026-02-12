@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmwysofecegj"
+path="res://.godot/imported/xmaseyangbal.bmd-079cc0fa37cf3f6af01b280c540f61c3.scn"
+
+[deps]
+
+source_file="res://Data/Skill/xmaseyangbal.bmd"
+dest_files=["res://.godot/imported/xmaseyangbal.bmd-079cc0fa37cf3f6af01b280c540f61c3.scn"]
+
+[params]
+
+modelScale=0.01

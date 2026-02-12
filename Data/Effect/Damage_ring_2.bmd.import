@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dsxsmcx6l0kk8"
+path="res://.godot/imported/Damage_ring_2.bmd-eb6b9fe26491f619f7cbe7ea4fff5a3b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Damage_ring_2.bmd"
+dest_files=["res://.godot/imported/Damage_ring_2.bmd-eb6b9fe26491f619f7cbe7ea4fff5a3b.scn"]
+
+[params]
+
+modelScale=0.01

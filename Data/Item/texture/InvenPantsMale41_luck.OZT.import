@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2r7w3tgyxxg"
+path="res://.godot/imported/InvenPantsMale41_luck.OZT-2f882d56970d9d5250466abf4b1b5bdb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/InvenPantsMale41_luck.OZT"
+dest_files=["res://.godot/imported/InvenPantsMale41_luck.OZT-2f882d56970d9d5250466abf4b1b5bdb.res"]
+
+[params]
+

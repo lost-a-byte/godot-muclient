@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://htrjeyj0150f"
+path="res://.godot/imported/RudeBox_red.bmd-01456949d658573a7036cf3073ee300e.scn"
+
+[deps]
+
+source_file="res://Data/Item/RudeBox_red.bmd"
+dest_files=["res://.godot/imported/RudeBox_red.bmd-01456949d658573a7036cf3073ee300e.scn"]
+
+[params]
+
+modelScale=0.01

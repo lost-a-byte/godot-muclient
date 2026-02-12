@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6nkqwpfruq1x"
+path="res://.godot/imported/Scochid_warrior.OZJ-6b94e14e84ef48d507f1e228fc85b5dc.res"
+
+[deps]
+
+source_file="res://Data/Monster/Scochid_warrior.OZJ"
+dest_files=["res://.godot/imported/Scochid_warrior.OZJ-6b94e14e84ef48d507f1e228fc85b5dc.res"]
+
+[params]
+

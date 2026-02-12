@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvncy1f4k86jt"
+path="res://.godot/imported/darkstonered.OZJ-7eda29c712a1f8282842e9cfd7367c4b.res"
+
+[deps]
+
+source_file="res://Data/Item/darkstonered.OZJ"
+dest_files=["res://.godot/imported/darkstonered.OZJ-7eda29c712a1f8282842e9cfd7367c4b.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bl718sp8c6kmv"
+path="res://.godot/imported/sakuratree.bmd-d5aaea96507a0d11ae542a26ab57b8a3.scn"
+
+[deps]
+
+source_file="res://Data/NPC/cherryblossom/sakuratree.bmd"
+dest_files=["res://.godot/imported/sakuratree.bmd-d5aaea96507a0d11ae542a26ab57b8a3.scn"]
+
+[params]
+
+modelScale=0.01

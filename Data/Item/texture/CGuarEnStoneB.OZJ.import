@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dc34wj4sne6ce"
+path="res://.godot/imported/CGuarEnStoneB.OZJ-9d54185d0a5656c40f0e52b2d2cfd491.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CGuarEnStoneB.OZJ"
+dest_files=["res://.godot/imported/CGuarEnStoneB.OZJ-9d54185d0a5656c40f0e52b2d2cfd491.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpp5js8gc8ll8"
+path="res://.godot/imported/khair.OZT-c983b638fa6c1ef717e6d05982657e74.res"
+
+[deps]
+
+source_file="res://Data/Player/khair.OZT"
+dest_files=["res://.godot/imported/khair.OZT-c983b638fa6c1ef717e6d05982657e74.res"]
+
+[params]
+

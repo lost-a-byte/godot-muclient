@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://e2lftpqko648"
+path="res://.godot/imported/ex01green_shadows.OZJ-dc0447c857f8c9c3525b17a62cee8ecf.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01green_shadows.OZJ"
+dest_files=["res://.godot/imported/ex01green_shadows.OZJ-dc0447c857f8c9c3525b17a62cee8ecf.res"]
+
+[params]
+

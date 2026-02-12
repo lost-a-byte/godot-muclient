@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cudkn2hylwh20"
+path="res://.godot/imported/Item402_Cape.OZT-ce660ff018ab6b2ef39557aca1962aa7.res"
+
+[deps]
+
+source_file="res://Data/Player/Item402_Cape.OZT"
+dest_files=["res://.godot/imported/Item402_Cape.OZT-ce660ff018ab6b2ef39557aca1962aa7.res"]
+
+[params]
+

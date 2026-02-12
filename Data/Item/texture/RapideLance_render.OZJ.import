@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1q7t68hdmjpn"
+path="res://.godot/imported/RapideLance_render.OZJ-7b4ef38bce3a7b89bfd40cfce4b1669a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RapideLance_render.OZJ"
+dest_files=["res://.godot/imported/RapideLance_render.OZJ-7b4ef38bce3a7b89bfd40cfce4b1669a.res"]
+
+[params]
+

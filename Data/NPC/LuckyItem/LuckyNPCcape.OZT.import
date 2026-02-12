@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0vkvwody21v1"
+path="res://.godot/imported/LuckyNPCcape.OZT-d0cf7128f0f0856613637919fb83fb7e.res"
+
+[deps]
+
+source_file="res://Data/NPC/LuckyItem/LuckyNPCcape.OZT"
+dest_files=["res://.godot/imported/LuckyNPCcape.OZT-d0cf7128f0f0856613637919fb83fb7e.res"]
+
+[params]
+

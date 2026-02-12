@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd5mc05q7ujit"
+path="res://.godot/imported/ChangeCharmMagenta.OZJ-3776e26d32d0a753d50648f0b2cf59d5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ChangeCharmMagenta.OZJ"
+dest_files=["res://.godot/imported/ChangeCharmMagenta.OZJ-3776e26d32d0a753d50648f0b2cf59d5.res"]
+
+[params]
+

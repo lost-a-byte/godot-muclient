@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bapfyxmupiikk"
+path="res://.godot/imported/ex01shadow_weapons.OZJ-f842c54f762da8aebec435acc38000a0.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01shadow_weapons.OZJ"
+dest_files=["res://.godot/imported/ex01shadow_weapons.OZJ-f842c54f762da8aebec435acc38000a0.res"]
+
+[params]
+

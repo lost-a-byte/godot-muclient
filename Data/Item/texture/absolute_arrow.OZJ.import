@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp8oojbl2fsun"
+path="res://.godot/imported/absolute_arrow.OZJ-12427be35eca41ff87816dbeefafce4e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/absolute_arrow.OZJ"
+dest_files=["res://.godot/imported/absolute_arrow.OZJ-12427be35eca41ff87816dbeefafce4e.res"]
+
+[params]
+

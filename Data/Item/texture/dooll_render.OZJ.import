@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boa1peipyb4rm"
+path="res://.godot/imported/dooll_render.OZJ-6041956b51c5ec5e82730f477788c9fa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dooll_render.OZJ"
+dest_files=["res://.godot/imported/dooll_render.OZJ-6041956b51c5ec5e82730f477788c9fa.res"]
+
+[params]
+

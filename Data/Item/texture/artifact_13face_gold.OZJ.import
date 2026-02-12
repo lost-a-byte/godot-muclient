@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rmfrwn1uto2i"
+path="res://.godot/imported/artifact_13face_gold.OZJ-377243eede432c9b957dfadadb16d491.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/artifact_13face_gold.OZJ"
+dest_files=["res://.godot/imported/artifact_13face_gold.OZJ-377243eede432c9b957dfadadb16d491.res"]
+
+[params]
+

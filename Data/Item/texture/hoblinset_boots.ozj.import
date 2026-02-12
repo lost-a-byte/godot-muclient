@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://48bg3gqknhds"
+path="res://.godot/imported/hoblinset_boots.ozj-f0c96d0392389334ee1529ffc8be8e40.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hoblinset_boots.ozj"
+dest_files=["res://.godot/imported/hoblinset_boots.ozj-f0c96d0392389334ee1529ffc8be8e40.res"]
+
+[params]
+

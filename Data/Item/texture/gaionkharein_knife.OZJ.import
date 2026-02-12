@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d14g18smlx0sc"
+path="res://.godot/imported/gaionkharein_knife.OZJ-3c720d40d5ffa3b9d9f85c2e2407ecd1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gaionkharein_knife.OZJ"
+dest_files=["res://.godot/imported/gaionkharein_knife.OZJ-3c720d40d5ffa3b9d9f85c2e2407ecd1.res"]
+
+[params]
+

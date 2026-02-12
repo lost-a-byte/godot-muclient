@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jglwnamwkc8x"
+path="res://.godot/imported/satan2.ozt-0d8a98b7eaebffee163662905904e9b7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/satan2.ozt"
+dest_files=["res://.godot/imported/satan2.ozt-0d8a98b7eaebffee163662905904e9b7.res"]
+
+[params]
+

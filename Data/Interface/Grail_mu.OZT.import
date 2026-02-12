@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnf44losyon14"
+path="res://.godot/imported/Grail_mu.OZT-91c0d4b4a20cb97b39eb91de44dfcb0a.res"
+
+[deps]
+
+source_file="res://Data/Interface/Grail_mu.OZT"
+dest_files=["res://.godot/imported/Grail_mu.OZT-91c0d4b4a20cb97b39eb91de44dfcb0a.res"]
+
+[params]
+

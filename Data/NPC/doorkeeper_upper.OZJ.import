@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yx35vssfk1xg"
+path="res://.godot/imported/doorkeeper_upper.OZJ-34d5afce7ac618f471333553f949a68b.res"
+
+[deps]
+
+source_file="res://Data/NPC/doorkeeper_upper.OZJ"
+dest_files=["res://.godot/imported/doorkeeper_upper.OZJ-34d5afce7ac618f471333553f949a68b.res"]
+
+[params]
+

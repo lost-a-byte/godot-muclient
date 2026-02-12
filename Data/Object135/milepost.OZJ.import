@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nqvkoda0ptgw"
+path="res://.godot/imported/milepost.OZJ-3ff357c247f50b10c5e90c6a4409ad5f.res"
+
+[deps]
+
+source_file="res://Data/Object135/milepost.OZJ"
+dest_files=["res://.godot/imported/milepost.OZJ-3ff357c247f50b10c5e90c6a4409ad5f.res"]
+
+[params]
+

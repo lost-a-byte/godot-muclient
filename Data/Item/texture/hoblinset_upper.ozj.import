@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c15tomdyu0tia"
+path="res://.godot/imported/hoblinset_upper.ozj-9a9eccb02939924c8e427f93516aa6a7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hoblinset_upper.ozj"
+dest_files=["res://.godot/imported/hoblinset_upper.ozj-9a9eccb02939924c8e427f93516aa6a7.res"]
+
+[params]
+

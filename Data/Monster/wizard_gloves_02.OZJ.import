@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu0x673ftowsm"
+path="res://.godot/imported/wizard_gloves_02.OZJ-259e828ef72555d343eb9c929b6b3a0b.res"
+
+[deps]
+
+source_file="res://Data/Monster/wizard_gloves_02.OZJ"
+dest_files=["res://.godot/imported/wizard_gloves_02.OZJ-259e828ef72555d343eb9c929b6b3a0b.res"]
+
+[params]
+

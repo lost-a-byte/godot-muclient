@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://j7sljl82jinr"
+path="res://.godot/imported/ginkgo.bmd-51c8216e00502ee9a92592974b192296.scn"
+
+[deps]
+
+source_file="res://Data/Item/ginkgo.bmd"
+dest_files=["res://.godot/imported/ginkgo.bmd-51c8216e00502ee9a92592974b192296.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://civb03q3oxaf6"
+path="res://.godot/imported/fireeffect.OZJ-6d12666263f50a06d69b5f27f2c048b1.res"
+
+[deps]
+
+source_file="res://Data/Monster/fireeffect.OZJ"
+dest_files=["res://.godot/imported/fireeffect.OZJ-6d12666263f50a06d69b5f27f2c048b1.res"]
+
+[params]
+

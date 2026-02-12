@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://54xf2mecmyng"
+path="res://.godot/imported/Gunmanw01.bmd-0440e45cd3acd7796c0abd36d228e527.scn"
+
+[deps]
+
+source_file="res://Data/Item/Gunmanw01.bmd"
+dest_files=["res://.godot/imported/Gunmanw01.bmd-0440e45cd3acd7796c0abd36d228e527.scn"]
+
+[params]
+
+modelScale=0.01

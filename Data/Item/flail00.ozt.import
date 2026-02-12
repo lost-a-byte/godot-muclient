@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmy0771qcfcbr"
+path="res://.godot/imported/flail00.ozt-b4e3cf9ca4d358d7b94c0883c135f265.res"
+
+[deps]
+
+source_file="res://Data/Item/flail00.ozt"
+dest_files=["res://.godot/imported/flail00.ozt-b4e3cf9ca4d358d7b94c0883c135f265.res"]
+
+[params]
+

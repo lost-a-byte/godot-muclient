@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bckteuq1uptol"
+path="res://.godot/imported/dandelionUp_2.OZJ-32a5edd14abd940bdcb60a8f274b4cdd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dandelionUp_2.OZJ"
+dest_files=["res://.godot/imported/dandelionUp_2.OZJ-32a5edd14abd940bdcb60a8f274b4cdd.res"]
+
+[params]
+

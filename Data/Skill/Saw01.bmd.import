@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://chl6m0bmyyyj4"
+path="res://.godot/imported/Saw01.bmd-b7da2178b94b35496d54fdcf8efdda7b.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Saw01.bmd"
+dest_files=["res://.godot/imported/Saw01.bmd-b7da2178b94b35496d54fdcf8efdda7b.scn"]
+
+[params]
+
+modelScale=0.01

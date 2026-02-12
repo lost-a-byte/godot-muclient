@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg82rdcw20n06"
+path="res://.godot/imported/elfwing3d_R.OZJ-622363c823e64ba7f880cd077e4b53a8.res"
+
+[deps]
+
+source_file="res://Data/Item/elfwing3d_R.OZJ"
+dest_files=["res://.godot/imported/elfwing3d_R.OZJ-622363c823e64ba7f880cd077e4b53a8.res"]
+
+[params]
+

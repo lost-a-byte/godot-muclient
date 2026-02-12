@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coxsnj15ay460"
+path="res://.godot/imported/newui_item_cap.OZT-771afbcaaaeae0ee916d2123dcdd210a.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_cap.OZT"
+dest_files=["res://.godot/imported/newui_item_cap.OZT-771afbcaaaeae0ee916d2123dcdd210a.res"]
+
+[params]
+

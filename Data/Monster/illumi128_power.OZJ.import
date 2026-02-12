@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0ji3puicni0f"
+path="res://.godot/imported/illumi128_power.OZJ-cd096a67520299dbf6d9bc82b33b2337.res"
+
+[deps]
+
+source_file="res://Data/Monster/illumi128_power.OZJ"
+dest_files=["res://.godot/imported/illumi128_power.OZJ-cd096a67520299dbf6d9bc82b33b2337.res"]
+
+[params]
+

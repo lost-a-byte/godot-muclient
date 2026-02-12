@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjloa2cx4g5sk"
+path="res://.godot/imported/Baski_Ground.OZJ-f8469d25a3c121e68f5b6dd703c9e59b.res"
+
+[deps]
+
+source_file="res://Data/Monster/Baski_Ground.OZJ"
+dest_files=["res://.godot/imported/Baski_Ground.OZJ-f8469d25a3c121e68f5b6dd703c9e59b.res"]
+
+[params]
+

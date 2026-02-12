@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2u8hfidmdkue"
+path="res://.godot/imported/NPC_A_07_green.OZJ-6c29009fa6c23b3a6eb4b5b2ae4f5c56.res"
+
+[deps]
+
+source_file="res://Data/Monster/NPC_A_07_green.OZJ"
+dest_files=["res://.godot/imported/NPC_A_07_green.OZJ-6c29009fa6c23b3a6eb4b5b2ae4f5c56.res"]
+
+[params]
+

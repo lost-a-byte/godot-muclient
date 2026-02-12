@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cg8fnqwr1uhqp"
+path="res://.godot/imported/loglepet.bmd-aae00661a4b13a306fd84914574f3511.scn"
+
+[deps]
+
+source_file="res://Data/Item/loglepet.bmd"
+dest_files=["res://.godot/imported/loglepet.bmd-aae00661a4b13a306fd84914574f3511.scn"]
+
+[params]
+
+modelScale=0.01

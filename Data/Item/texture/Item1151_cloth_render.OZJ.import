@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbue0m25tnc7i"
+path="res://.godot/imported/Item1151_cloth_render.OZJ-a339766dac358a33b64f4792c7255b94.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1151_cloth_render.OZJ"
+dest_files=["res://.godot/imported/Item1151_cloth_render.OZJ-a339766dac358a33b64f4792c7255b94.res"]
+
+[params]
+

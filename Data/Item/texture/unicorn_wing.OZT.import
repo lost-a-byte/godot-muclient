@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5it1trlwbf8g"
+path="res://.godot/imported/unicorn_wing.OZT-237762d2f5e3f224724c249be51b7cb5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/unicorn_wing.OZT"
+dest_files=["res://.godot/imported/unicorn_wing.OZT-237762d2f5e3f224724c249be51b7cb5.res"]
+
+[params]
+

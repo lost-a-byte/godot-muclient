@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bigst8j2qji46"
+path="res://.godot/imported/treeelfUp.bmd-2f7a05b8e2903ec204e033d3fb64f2ca.scn"
+
+[deps]
+
+source_file="res://Data/Item/treeelfUp.bmd"
+dest_files=["res://.godot/imported/treeelfUp.bmd-2f7a05b8e2903ec204e033d3fb64f2ca.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxx2c51cxldol"
+path="res://.godot/imported/mermaidpet.bmd-48d8f6e822a70700931b5a7375653229.scn"
+
+[deps]
+
+source_file="res://Data/Item/mermaidpet.bmd"
+dest_files=["res://.godot/imported/mermaidpet.bmd-48d8f6e822a70700931b5a7375653229.scn"]
+
+[params]
+
+modelScale=0.01

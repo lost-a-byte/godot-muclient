@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://jdco8n755k6p"
+path="res://.godot/imported/Book_of_Neil.bmd-b1121093eb419576113fb1cf299b04a3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Book_of_Neil.bmd"
+dest_files=["res://.godot/imported/Book_of_Neil.bmd-b1121093eb419576113fb1cf299b04a3.scn"]
+
+[params]
+
+modelScale=0.01

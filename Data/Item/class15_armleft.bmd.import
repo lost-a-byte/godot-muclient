@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://0aa44reooxsq"
+path="res://.godot/imported/class15_armleft.bmd-b94683b5806e2b6ad83aa949ce353ec1.scn"
+
+[deps]
+
+source_file="res://Data/Item/class15_armleft.bmd"
+dest_files=["res://.godot/imported/class15_armleft.bmd-b94683b5806e2b6ad83aa949ce353ec1.scn"]
+
+[params]
+
+modelScale=0.01

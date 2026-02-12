@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cspywikc6leen"
+path="res://.godot/imported/Item1131_Pant_B.OZJ-bf1c39f926df1c228db0182bd3a68d8c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1131_Pant_B.OZJ"
+dest_files=["res://.godot/imported/Item1131_Pant_B.OZJ-bf1c39f926df1c228db0182bd3a68d8c.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cnnigt6gqqw46"
+path="res://.godot/imported/HELLASITEM01.bmd-0a0a5c8bc798a7d6b63815e7046a83d9.scn"
+
+[deps]
+
+source_file="res://Data/Item/HELLASITEM01.bmd"
+dest_files=["res://.godot/imported/HELLASITEM01.bmd-0a0a5c8bc798a7d6b63815e7046a83d9.scn"]
+
+[params]
+
+modelScale=0.01

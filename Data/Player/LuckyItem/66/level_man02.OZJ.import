@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brgp7bvnh0ddp"
+path="res://.godot/imported/level_man02.OZJ-68cdb1ceb9e2a9586084825bc391c6b1.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/66/level_man02.OZJ"
+dest_files=["res://.godot/imported/level_man02.OZJ-68cdb1ceb9e2a9586084825bc391c6b1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqidys540xdst"
+path="res://.godot/imported/knightunion_body.OZJ-9774dc4a170541d0355ff580f0dc40d8.res"
+
+[deps]
+
+source_file="res://Data/Monster/knightunion_body.OZJ"
+dest_files=["res://.godot/imported/knightunion_body.OZJ-9774dc4a170541d0355ff580f0dc40d8.res"]
+
+[params]
+

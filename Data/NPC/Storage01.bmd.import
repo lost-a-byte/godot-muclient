@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1yait6ef7wrx"
+path="res://.godot/imported/Storage01.bmd-eef63492d685bd45be4eaae356061a3d.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Storage01.bmd"
+dest_files=["res://.godot/imported/Storage01.bmd-eef63492d685bd45be4eaae356061a3d.scn"]
+
+[params]
+
+modelScale=0.01

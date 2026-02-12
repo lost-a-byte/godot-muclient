@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://j1u4dgq40vkw"
+path="res://.godot/imported/ripieoUp.bmd-6e80efa4fca374380041440d92c1ca49.scn"
+
+[deps]
+
+source_file="res://Data/Item/ripieoUp.bmd"
+dest_files=["res://.godot/imported/ripieoUp.bmd-6e80efa4fca374380041440d92c1ca49.scn"]
+
+[params]
+
+modelScale=0.01

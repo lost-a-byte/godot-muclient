@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co3lubkr1phqj"
+path="res://.godot/imported/DustAura00.OZJ-2e4b823d245356b9ab8d2083ed4e7fae.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DustAura00.OZJ"
+dest_files=["res://.godot/imported/DustAura00.OZJ-2e4b823d245356b9ab8d2083ed4e7fae.res"]
+
+[params]
+

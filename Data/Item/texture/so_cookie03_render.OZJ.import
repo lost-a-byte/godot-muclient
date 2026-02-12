@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://i0muijhfqggy"
+path="res://.godot/imported/so_cookie03_render.OZJ-e36738f7eb11b598fdbc25ef96a4d832.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_cookie03_render.OZJ"
+dest_files=["res://.godot/imported/so_cookie03_render.OZJ-e36738f7eb11b598fdbc25ef96a4d832.res"]
+
+[params]
+

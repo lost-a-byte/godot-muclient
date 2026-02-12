@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdeggd5tilg1x"
+path="res://.godot/imported/hs_WallEmblemA.OZJ-7c3134a22955bf6e29ba6855a3a9d3a8.res"
+
+[deps]
+
+source_file="res://Data/Object146/hs_WallEmblemA.OZJ"
+dest_files=["res://.godot/imported/hs_WallEmblemA.OZJ-7c3134a22955bf6e29ba6855a3a9d3a8.res"]
+
+[params]
+

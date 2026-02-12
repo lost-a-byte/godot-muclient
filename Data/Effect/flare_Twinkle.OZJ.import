@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5q4t0tmfjkx8"
+path="res://.godot/imported/flare_Twinkle.OZJ-ba02b0d6cec085148d7fddc0951c0f02.res"
+
+[deps]
+
+source_file="res://Data/Effect/flare_Twinkle.OZJ"
+dest_files=["res://.godot/imported/flare_Twinkle.OZJ-ba02b0d6cec085148d7fddc0951c0f02.res"]
+
+[params]
+

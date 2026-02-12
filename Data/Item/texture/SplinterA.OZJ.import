@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhdoxtchjtr02"
+path="res://.godot/imported/SplinterA.OZJ-c7f11fcc598eb17235229622b2480b6c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SplinterA.OZJ"
+dest_files=["res://.godot/imported/SplinterA.OZJ-c7f11fcc598eb17235229622b2480b6c.res"]
+
+[params]
+

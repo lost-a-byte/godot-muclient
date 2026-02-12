@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bwu66o0533k7l"
+path="res://.godot/imported/dandelionUp.bmd-00a9e740671046c8bed2956bfe06dedd.scn"
+
+[deps]
+
+source_file="res://Data/Item/dandelionUp.bmd"
+dest_files=["res://.godot/imported/dandelionUp.bmd-00a9e740671046c8bed2956bfe06dedd.scn"]
+
+[params]
+
+modelScale=0.01

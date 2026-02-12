@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgyx47fdrxelb"
+path="res://.godot/imported/lightning_anvil_02.OZJ-0c32a1cc9d2dbdba87ff97f9227b4304.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_anvil_02.OZJ"
+dest_files=["res://.godot/imported/lightning_anvil_02.OZJ-0c32a1cc9d2dbdba87ff97f9227b4304.res"]
+
+[params]
+

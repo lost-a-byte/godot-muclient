@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmwo1aua61fy4"
+path="res://.godot/imported/Stormleaper_wea.OZT-811b411d57b2e50d4b5f68794a3d608d.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormleaper_wea.OZT"
+dest_files=["res://.godot/imported/Stormleaper_wea.OZT-811b411d57b2e50d4b5f68794a3d608d.res"]
+
+[params]
+

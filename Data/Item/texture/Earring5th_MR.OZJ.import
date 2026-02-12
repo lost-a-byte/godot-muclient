@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cl8f2hla04hrb"
+path="res://.godot/imported/Earring5th_MR.OZJ-becaa891baf2438155d1b1c56f82f581.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Earring5th_MR.OZJ"
+dest_files=["res://.godot/imported/Earring5th_MR.OZJ-becaa891baf2438155d1b1c56f82f581.res"]
+
+[params]
+

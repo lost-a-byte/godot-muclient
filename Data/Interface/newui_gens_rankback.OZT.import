@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crx2tqn18eteo"
+path="res://.godot/imported/newui_gens_rankback.OZT-0cf03c9d649b42ed07bc096eba751bd5.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_gens_rankback.OZT"
+dest_files=["res://.godot/imported/newui_gens_rankback.OZT-0cf03c9d649b42ed07bc096eba751bd5.res"]
+
+[params]
+

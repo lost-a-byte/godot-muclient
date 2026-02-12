@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://davbsdk5p26uk"
+path="res://.godot/imported/VisShield3_R.OZJ-bcc2d815f832fde2fdaa5c14e8c29c75.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/VisShield3_R.OZJ"
+dest_files=["res://.godot/imported/VisShield3_R.OZJ-bcc2d815f832fde2fdaa5c14e8c29c75.res"]
+
+[params]
+

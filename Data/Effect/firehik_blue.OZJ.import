@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgcc6kanaoumq"
+path="res://.godot/imported/firehik_blue.OZJ-ccdb8fbcfa0883a2af62133e771a836e.res"
+
+[deps]
+
+source_file="res://Data/Effect/firehik_blue.OZJ"
+dest_files=["res://.godot/imported/firehik_blue.OZJ-ccdb8fbcfa0883a2af62133e771a836e.res"]
+
+[params]
+

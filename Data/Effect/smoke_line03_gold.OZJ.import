@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs33br3c1igiy"
+path="res://.godot/imported/smoke_line03_gold.OZJ-34fab2ffaf22d0133a80aa5505968300.res"
+
+[deps]
+
+source_file="res://Data/Effect/smoke_line03_gold.OZJ"
+dest_files=["res://.godot/imported/smoke_line03_gold.OZJ-34fab2ffaf22d0133a80aa5505968300.res"]
+
+[params]
+

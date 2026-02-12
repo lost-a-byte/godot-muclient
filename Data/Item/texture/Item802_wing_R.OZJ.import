@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6olhnvyidx1q"
+path="res://.godot/imported/Item802_wing_R.OZJ-0ceaec66a347640c3eb10a2f044dfccb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item802_wing_R.OZJ"
+dest_files=["res://.godot/imported/Item802_wing_R.OZJ-0ceaec66a347640c3eb10a2f044dfccb.res"]
+
+[params]
+

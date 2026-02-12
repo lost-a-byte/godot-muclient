@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs16yb1y2axgd"
+path="res://.godot/imported/lazuritenecklace_R.OZJ-401e905b6f3737e17fe60fa417d95454.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lazuritenecklace_R.OZJ"
+dest_files=["res://.godot/imported/lazuritenecklace_R.OZJ-401e905b6f3737e17fe60fa417d95454.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vaocaynrlj8e"
+path="res://.godot/imported/apocalypse_twohandA.OZJ-c6f8dca5a8ba1d86f8b585d6ebbffe2d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_twohandA.OZJ"
+dest_files=["res://.godot/imported/apocalypse_twohandA.OZJ-c6f8dca5a8ba1d86f8b585d6ebbffe2d.res"]
+
+[params]
+

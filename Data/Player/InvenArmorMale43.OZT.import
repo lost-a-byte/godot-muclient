@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ynglyd6mwsvp"
+path="res://.godot/imported/InvenArmorMale43.OZT-6027238abad79c8606b9e9a5ef041ec4.res"
+
+[deps]
+
+source_file="res://Data/Player/InvenArmorMale43.OZT"
+dest_files=["res://.godot/imported/InvenArmorMale43.OZT-6027238abad79c8606b9e9a5ef041ec4.res"]
+
+[params]
+

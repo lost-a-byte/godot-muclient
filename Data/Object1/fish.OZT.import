@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlomec1j11kyf"
+path="res://.godot/imported/fish.OZT-4fcaff8d42dfd6fc109f27f1e43514f0.res"
+
+[deps]
+
+source_file="res://Data/Object1/fish.OZT"
+dest_files=["res://.godot/imported/fish.OZT-4fcaff8d42dfd6fc109f27f1e43514f0.res"]
+
+[params]
+

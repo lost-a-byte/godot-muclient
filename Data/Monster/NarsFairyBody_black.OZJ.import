@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqqnc386wf4df"
+path="res://.godot/imported/NarsFairyBody_black.OZJ-4230e361e221a6461af165b2655c5a14.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsFairyBody_black.OZJ"
+dest_files=["res://.godot/imported/NarsFairyBody_black.OZJ-4230e361e221a6461af165b2655c5a14.res"]
+
+[params]
+

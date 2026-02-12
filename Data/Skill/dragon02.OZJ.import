@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://la1ru3n05gus"
+path="res://.godot/imported/dragon02.OZJ-fc3379d23768a669b488a0e407292b88.res"
+
+[deps]
+
+source_file="res://Data/Skill/dragon02.OZJ"
+dest_files=["res://.godot/imported/dragon02.OZJ-fc3379d23768a669b488a0e407292b88.res"]
+
+[params]
+

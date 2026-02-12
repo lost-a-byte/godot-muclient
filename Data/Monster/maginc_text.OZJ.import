@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3odq5ilgyp4e"
+path="res://.godot/imported/maginc_text.OZJ-afed75bd1ad1e897f9f9e636f15acf81.res"
+
+[deps]
+
+source_file="res://Data/Monster/maginc_text.OZJ"
+dest_files=["res://.godot/imported/maginc_text.OZJ-afed75bd1ad1e897f9f9e636f15acf81.res"]
+
+[params]
+

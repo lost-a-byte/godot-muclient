@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgkb51p4a0pcu"
+path="res://.godot/imported/newui_Bt_Chat_party.OZJ-f92c22dec1b79ee17c2d924014805068.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Bt_Chat_party.OZJ"
+dest_files=["res://.godot/imported/newui_Bt_Chat_party.OZJ-f92c22dec1b79ee17c2d924014805068.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://f8sbwkviq1f"
+path="res://.godot/imported/GuardRing.bmd-6a1a942fe8d3d104183b0b33045acf19.scn"
+
+[deps]
+
+source_file="res://Data/Item/GuardRing.bmd"
+dest_files=["res://.godot/imported/GuardRing.bmd-6a1a942fe8d3d104183b0b33045acf19.scn"]
+
+[params]
+
+modelScale=0.01

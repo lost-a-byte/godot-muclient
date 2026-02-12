@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsgoc7k0563kh"
+path="res://.godot/imported/force_Pillar.OZJ-ca6acae0c2adc1f8c29d94066a961027.res"
+
+[deps]
+
+source_file="res://Data/Effect/force_Pillar.OZJ"
+dest_files=["res://.godot/imported/force_Pillar.OZJ-ca6acae0c2adc1f8c29d94066a961027.res"]
+
+[params]
+

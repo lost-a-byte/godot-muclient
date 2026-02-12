@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bws53nigsy6cw"
+path="res://.godot/imported/iui01.OZT-65162c968f5d024276a561c7d87b1100.res"
+
+[deps]
+
+source_file="res://Data/Monster/iui01.OZT"
+dest_files=["res://.godot/imported/iui01.OZT-65162c968f5d024276a561c7d87b1100.res"]
+
+[params]
+

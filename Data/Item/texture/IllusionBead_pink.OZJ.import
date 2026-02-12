@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xs2nubngyh5f"
+path="res://.godot/imported/IllusionBead_pink.OZJ-eef8fc6aec8f74c8ac6dd6c407217eca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/IllusionBead_pink.OZJ"
+dest_files=["res://.godot/imported/IllusionBead_pink.OZJ-eef8fc6aec8f74c8ac6dd6c407217eca.res"]
+
+[params]
+

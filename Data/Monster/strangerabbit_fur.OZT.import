@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bl8m7r5vtax8x"
+path="res://.godot/imported/strangerabbit_fur.OZT-c081693301d10cb5fae9ab2877610dbc.res"
+
+[deps]
+
+source_file="res://Data/Monster/strangerabbit_fur.OZT"
+dest_files=["res://.godot/imported/strangerabbit_fur.OZT-c081693301d10cb5fae9ab2877610dbc.res"]
+
+[params]
+

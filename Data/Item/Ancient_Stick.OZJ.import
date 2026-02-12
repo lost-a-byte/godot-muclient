@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddhd4ean637ol"
+path="res://.godot/imported/Ancient_Stick.OZJ-9d2a816f6f200c213de85f056dfd7443.res"
+
+[deps]
+
+source_file="res://Data/Item/Ancient_Stick.OZJ"
+dest_files=["res://.godot/imported/Ancient_Stick.OZJ-9d2a816f6f200c213de85f056dfd7443.res"]
+
+[params]
+

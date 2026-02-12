@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq5fnquxtvm4o"
+path="res://.godot/imported/server_credit_b_all.OZT-fd5c79cb113edf9b8513ca582148c5b3.res"
+
+[deps]
+
+source_file="res://Data/Interface/server_credit_b_all.OZT"
+dest_files=["res://.godot/imported/server_credit_b_all.OZT-fd5c79cb113edf9b8513ca582148c5b3.res"]
+
+[params]
+

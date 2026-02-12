@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2g3fvfppi875"
+path="res://.godot/imported/warrior03.ozt-13dd3eb15ca2ac3efc4d3c33ff5e5deb.res"
+
+[deps]
+
+source_file="res://Data/Logo/warrior03.ozt"
+dest_files=["res://.godot/imported/warrior03.ozt-13dd3eb15ca2ac3efc4d3c33ff5e5deb.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7je7k4c1gkj0"
+path="res://.godot/imported/IllusionTemple.OZT-c21bcc65bca82fae7646494fea4fd9f3.res"
+
+[deps]
+
+source_file="res://Data/Interface/IllusionTemple.OZT"
+dest_files=["res://.godot/imported/IllusionTemple.OZT-c21bcc65bca82fae7646494fea4fd9f3.res"]
+
+[params]
+

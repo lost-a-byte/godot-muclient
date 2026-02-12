@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c0rcrhhg2v1ed"
+path="res://.godot/imported/mapletree.bmd-b55a8bea0127bb8d8885715dcc6cc642.scn"
+
+[deps]
+
+source_file="res://Data/NPC/mapletree.bmd"
+dest_files=["res://.godot/imported/mapletree.bmd-b55a8bea0127bb8d8885715dcc6cc642.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjaa2cb0nmlt"
+path="res://.godot/imported/seamanFX3.OZJ-3f5ebaf95e85e90bf57c7735ccdb3acf.res"
+
+[deps]
+
+source_file="res://Data/Skill/seamanFX3.OZJ"
+dest_files=["res://.godot/imported/seamanFX3.OZJ-3f5ebaf95e85e90bf57c7735ccdb3acf.res"]
+
+[params]
+

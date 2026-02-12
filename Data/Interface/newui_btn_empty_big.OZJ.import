@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://du203wd5t7a4g"
+path="res://.godot/imported/newui_btn_empty_big.OZJ-b0b07b673497771b8a7babc5003c5fb1.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_btn_empty_big.OZJ"
+dest_files=["res://.godot/imported/newui_btn_empty_big.OZJ-b0b07b673497771b8a7babc5003c5fb1.res"]
+
+[params]
+

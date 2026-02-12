@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bdmq3csh0id4e"
+path="res://.godot/imported/ScytheEffAni03.bmd-ef8fdbc0ea1af540a16fc4cece5768b1.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ScytheEffAni03.bmd"
+dest_files=["res://.godot/imported/ScytheEffAni03.bmd-ef8fdbc0ea1af540a16fc4cece5768b1.scn"]
+
+[params]
+
+modelScale=0.01

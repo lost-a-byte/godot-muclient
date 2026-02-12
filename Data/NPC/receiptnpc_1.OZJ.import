@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0u7ldkf8422x"
+path="res://.godot/imported/receiptnpc_1.OZJ-d937bd32dc5ca37d640ce22ff4055de3.res"
+
+[deps]
+
+source_file="res://Data/NPC/receiptnpc_1.OZJ"
+dest_files=["res://.godot/imported/receiptnpc_1.OZJ-d937bd32dc5ca37d640ce22ff4055de3.res"]
+
+[params]
+

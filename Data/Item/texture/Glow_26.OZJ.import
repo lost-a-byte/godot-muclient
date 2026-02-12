@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgl60wpj84ewi"
+path="res://.godot/imported/Glow_26.OZJ-2e0050ad7a6a673e1a96ff25d5342130.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Glow_26.OZJ"
+dest_files=["res://.godot/imported/Glow_26.OZJ-2e0050ad7a6a673e1a96ff25d5342130.res"]
+
+[params]
+

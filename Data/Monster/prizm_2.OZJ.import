@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm82oyp61v8yj"
+path="res://.godot/imported/prizm_2.OZJ-11c616d32c7a5f7b261631cc5c0b0102.res"
+
+[deps]
+
+source_file="res://Data/Monster/prizm_2.OZJ"
+dest_files=["res://.godot/imported/prizm_2.OZJ-11c616d32c7a5f7b261631cc5c0b0102.res"]
+
+[params]
+

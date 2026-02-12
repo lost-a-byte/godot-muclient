@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b71gjfxv3a1lw"
+path="res://.godot/imported/duprian_head.OZJ-af311c7aa41180e6db4f8724c0832dbd.res"
+
+[deps]
+
+source_file="res://Data/NPC/duprian_head.OZJ"
+dest_files=["res://.godot/imported/duprian_head.OZJ-af311c7aa41180e6db4f8724c0832dbd.res"]
+
+[params]
+

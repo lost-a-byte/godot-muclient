@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dol7hvf1f7f72"
+path="res://.godot/imported/hourglass.OZT-1cd5ae8c66611d40058b93c4f8c1779c.res"
+
+[deps]
+
+source_file="res://Data/Interface/hourglass.OZT"
+dest_files=["res://.godot/imported/hourglass.OZT-1cd5ae8c66611d40058b93c4f8c1779c.res"]
+
+[params]
+

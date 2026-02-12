@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nqcam45t6wbd"
+path="res://.godot/imported/gloves_luck13m.OZJ-3235c249b6e753a6d1e8a7d023e48eeb.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/69/gloves_luck13m.OZJ"
+dest_files=["res://.godot/imported/gloves_luck13m.OZJ-3235c249b6e753a6d1e8a7d023e48eeb.res"]
+
+[params]
+

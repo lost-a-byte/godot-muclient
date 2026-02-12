@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cado0wnsgtidr"
+path="res://.godot/imported/HS_Bilding03.OZJ-625b3a0e8be2eb783ebbd6b6320ccfc2.res"
+
+[deps]
+
+source_file="res://Data/Object92/HS_Bilding03.OZJ"
+dest_files=["res://.godot/imported/HS_Bilding03.OZJ-625b3a0e8be2eb783ebbd6b6320ccfc2.res"]
+
+[params]
+

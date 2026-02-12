@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://o2tltj7iwrn"
+path="res://.godot/imported/sword47.bmd-87d0e545d848d63d5688178cfeffd5ad.scn"
+
+[deps]
+
+source_file="res://Data/Item/sword47.bmd"
+dest_files=["res://.godot/imported/sword47.bmd-87d0e545d848d63d5688178cfeffd5ad.scn"]
+
+[params]
+
+modelScale=0.01

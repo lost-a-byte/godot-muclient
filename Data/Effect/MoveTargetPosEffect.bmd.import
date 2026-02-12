@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bovdw4fskax0l"
+path="res://.godot/imported/MoveTargetPosEffect.bmd-13aaf75a67b85c9011674c529a5272a3.scn"
+
+[deps]
+
+source_file="res://Data/Effect/MoveTargetPosEffect.bmd"
+dest_files=["res://.godot/imported/MoveTargetPosEffect.bmd-13aaf75a67b85c9011674c529a5272a3.scn"]
+
+[params]
+
+modelScale=0.01

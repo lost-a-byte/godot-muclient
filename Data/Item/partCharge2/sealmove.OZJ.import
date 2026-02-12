@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4e0xshnvctk2"
+path="res://.godot/imported/sealmove.OZJ-604c4c0b853777c9a7182858ae7fdea1.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/sealmove.OZJ"
+dest_files=["res://.godot/imported/sealmove.OZJ-604c4c0b853777c9a7182858ae7fdea1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxicq736mrevm"
+path="res://.godot/imported/Mermaid_yellow.OZJ-0cbc0d10cb8dc5e01fe2054e9cabf0bf.res"
+
+[deps]
+
+source_file="res://Data/Monster/Mermaid_yellow.OZJ"
+dest_files=["res://.godot/imported/Mermaid_yellow.OZJ-0cbc0d10cb8dc5e01fe2054e9cabf0bf.res"]
+
+[params]
+

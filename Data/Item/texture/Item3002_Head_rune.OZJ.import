@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgq8uy034qrf0"
+path="res://.godot/imported/Item3002_Head_rune.OZJ-a519f5e512d3b4fc9f943995a291f468.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3002_Head_rune.OZJ"
+dest_files=["res://.godot/imported/Item3002_Head_rune.OZJ-a519f5e512d3b4fc9f943995a291f468.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://di80j7p3c7k8x"
+path="res://.godot/imported/Imperial_staff.bmd-3d5a150048f484e6c197eb569a1e79b2.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_staff.bmd"
+dest_files=["res://.godot/imported/Imperial_staff.bmd-3d5a150048f484e6c197eb569a1e79b2.scn"]
+
+[params]
+
+modelScale=0.01

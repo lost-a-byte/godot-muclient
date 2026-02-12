@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlvpvqq4h2h76"
+path="res://.godot/imported/sd_mummy02.OZJ-695c8c4ae60eedd9d0fbd9d8d5ee30b8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_mummy02.OZJ"
+dest_files=["res://.godot/imported/sd_mummy02.OZJ-695c8c4ae60eedd9d0fbd9d8d5ee30b8.res"]
+
+[params]
+

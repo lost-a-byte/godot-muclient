@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ct6jrusqhkn4p"
+path="res://.godot/imported/ferea_general_shoulder_nomal.OZJ-1d4d4e5f759494cfd40674c89c1b2513.res"
+
+[deps]
+
+source_file="res://Data/Monster/ferea_general_shoulder_nomal.OZJ"
+dest_files=["res://.godot/imported/ferea_general_shoulder_nomal.OZJ-1d4d4e5f759494cfd40674c89c1b2513.res"]
+
+[params]
+

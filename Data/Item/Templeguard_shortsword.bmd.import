@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://gn3bqbdblm2i"
+path="res://.godot/imported/Templeguard_shortsword.bmd-2eac89287dc923761e7dbbe06abef3a7.scn"
+
+[deps]
+
+source_file="res://Data/Item/Templeguard_shortsword.bmd"
+dest_files=["res://.godot/imported/Templeguard_shortsword.bmd-2eac89287dc923761e7dbbe06abef3a7.scn"]
+
+[params]
+
+modelScale=0.01

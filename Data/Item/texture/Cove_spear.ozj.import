@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf0vxnpia2jhx"
+path="res://.godot/imported/Cove_spear.ozj-4ff1a97156bbf63b1350b767917e25dd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Cove_spear.ozj"
+dest_files=["res://.godot/imported/Cove_spear.ozj-4ff1a97156bbf63b1350b767917e25dd.res"]
+
+[params]
+

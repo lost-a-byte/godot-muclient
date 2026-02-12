@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lxti1id7g7r2"
+path="res://.godot/imported/guard_hair.ozt-bd823bf4bae140428b119737e627a64e.res"
+
+[deps]
+
+source_file="res://Data/Object10/guard_hair.ozt"
+dest_files=["res://.godot/imported/guard_hair.ozt-bd823bf4bae140428b119737e627a64e.res"]
+
+[params]
+

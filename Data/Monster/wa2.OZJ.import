@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o88nmh7elkyi"
+path="res://.godot/imported/wa2.OZJ-16cd83e8e4056826a58b93c86f5f48ec.res"
+
+[deps]
+
+source_file="res://Data/Monster/wa2.OZJ"
+dest_files=["res://.godot/imported/wa2.OZJ-16cd83e8e4056826a58b93c86f5f48ec.res"]
+
+[params]
+

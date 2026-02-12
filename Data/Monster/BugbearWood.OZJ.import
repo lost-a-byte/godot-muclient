@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccl5u13f8aeh4"
+path="res://.godot/imported/BugbearWood.OZJ-8a3ab77cd8c2eabe7becfe2b241cb9f1.res"
+
+[deps]
+
+source_file="res://Data/Monster/BugbearWood.OZJ"
+dest_files=["res://.godot/imported/BugbearWood.OZJ-8a3ab77cd8c2eabe7becfe2b241cb9f1.res"]
+
+[params]
+

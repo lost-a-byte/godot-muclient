@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dodm3ipcufgis"
+path="res://.godot/imported/RDgon.OZJ-c31ccb0b6bc5e08a37a6d03b64a1a871.res"
+
+[deps]
+
+source_file="res://Data/Skill/RDgon.OZJ"
+dest_files=["res://.godot/imported/RDgon.OZJ-c31ccb0b6bc5e08a37a6d03b64a1a871.res"]
+
+[params]
+

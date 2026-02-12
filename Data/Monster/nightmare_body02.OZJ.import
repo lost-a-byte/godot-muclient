@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0vd2r4pawrsv"
+path="res://.godot/imported/nightmare_body02.OZJ-5165789dcdd27c721fac02c41c1606ce.res"
+
+[deps]
+
+source_file="res://Data/Monster/nightmare_body02.OZJ"
+dest_files=["res://.godot/imported/nightmare_body02.OZJ-5165789dcdd27c721fac02c41c1606ce.res"]
+
+[params]
+

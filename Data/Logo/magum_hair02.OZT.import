@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dv48vhlqqe68i"
+path="res://.godot/imported/magum_hair02.OZT-d67cad66b7541b0cd173f73e3f43aaec.res"
+
+[deps]
+
+source_file="res://Data/Logo/magum_hair02.OZT"
+dest_files=["res://.godot/imported/magum_hair02.OZT-d67cad66b7541b0cd173f73e3f43aaec.res"]
+
+[params]
+

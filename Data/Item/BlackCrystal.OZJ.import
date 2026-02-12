@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2rqrrb2fxs0h"
+path="res://.godot/imported/BlackCrystal.OZJ-4c592a8e7c6e2a354eb99346d4954a4d.res"
+
+[deps]
+
+source_file="res://Data/Item/BlackCrystal.OZJ"
+dest_files=["res://.godot/imported/BlackCrystal.OZJ-4c592a8e7c6e2a354eb99346d4954a4d.res"]
+
+[params]
+

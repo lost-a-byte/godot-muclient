@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://14g88wx6mhhb"
+path="res://.godot/imported/penta01H.bmd-86cd0cc2c0466560d349beab46de9aca.scn"
+
+[deps]
+
+source_file="res://Data/Item/penta01H.bmd"
+dest_files=["res://.godot/imported/penta01H.bmd-86cd0cc2c0466560d349beab46de9aca.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fr8jo8kcf8gb"
+path="res://.godot/imported/gamblestick_R.OZJ-495f55a9a4b6b7bb6aaf3a19cbd4207b.res"
+
+[deps]
+
+source_file="res://Data/NPC/gamblestick_R.OZJ"
+dest_files=["res://.godot/imported/gamblestick_R.OZJ-495f55a9a4b6b7bb6aaf3a19cbd4207b.res"]
+
+[params]
+

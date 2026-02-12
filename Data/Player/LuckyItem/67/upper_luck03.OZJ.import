@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dewnsxjj757y"
+path="res://.godot/imported/upper_luck03.OZJ-ecdaa868b3266ff42872298a5057c07f.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/67/upper_luck03.OZJ"
+dest_files=["res://.godot/imported/upper_luck03.OZJ-ecdaa868b3266ff42872298a5057c07f.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cu0ui248etnpo"
+path="res://.godot/imported/soicapr04.bmd-92456bcbfe08148254f10f919940c5bb.scn"
+
+[deps]
+
+source_file="res://Data/Item/soicapr04.bmd"
+dest_files=["res://.godot/imported/soicapr04.bmd-92456bcbfe08148254f10f919940c5bb.scn"]
+
+[params]
+
+modelScale=0.01

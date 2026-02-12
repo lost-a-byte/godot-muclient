@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cujfoafbml4lh"
+path="res://.godot/imported/sea3gate01.OZJ-cc041fd8fd5bd7eb415ddc7d45cf0d6f.res"
+
+[deps]
+
+source_file="res://Data/Object52/sea3gate01.OZJ"
+dest_files=["res://.godot/imported/sea3gate01.OZJ-cc041fd8fd5bd7eb415ddc7d45cf0d6f.res"]
+
+[params]
+

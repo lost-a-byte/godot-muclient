@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cph3857wo7jvh"
+path="res://.godot/imported/CowSatan_03.OZJ-cef3e7643d1e3e701a727137859fe9b7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CowSatan_03.OZJ"
+dest_files=["res://.godot/imported/CowSatan_03.OZJ-cef3e7643d1e3e701a727137859fe9b7.res"]
+
+[params]
+

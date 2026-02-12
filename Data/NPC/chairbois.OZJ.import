@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bh7p4j48c04j4"
+path="res://.godot/imported/chairbois.OZJ-42682daa9f964a9cb1e57ba960eb5a45.res"
+
+[deps]
+
+source_file="res://Data/NPC/chairbois.OZJ"
+dest_files=["res://.godot/imported/chairbois.OZJ-42682daa9f964a9cb1e57ba960eb5a45.res"]
+
+[params]
+

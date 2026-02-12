@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bx8lf6lud352n"
+path="res://.godot/imported/eyejam_R.OZJ-0f00a661437a094ae7648b7db41da3c6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/eyejam_R.OZJ"
+dest_files=["res://.godot/imported/eyejam_R.OZJ-0f00a661437a094ae7648b7db41da3c6.res"]
+
+[params]
+

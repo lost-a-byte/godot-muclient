@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2yklg01kq54y"
+path="res://.godot/imported/gorizungal.OZJ-3e5f1b551af6ad9a0f84a166c6a04303.res"
+
+[deps]
+
+source_file="res://Data/Monster/gorizungal.OZJ"
+dest_files=["res://.godot/imported/gorizungal.OZJ-3e5f1b551af6ad9a0f84a166c6a04303.res"]
+
+[params]
+

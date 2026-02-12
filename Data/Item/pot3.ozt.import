@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gcgy7dc7kqmw"
+path="res://.godot/imported/pot3.ozt-aae884045e71f4355fe447c553053c95.res"
+
+[deps]
+
+source_file="res://Data/Item/pot3.ozt"
+dest_files=["res://.godot/imported/pot3.ozt-aae884045e71f4355fe447c553053c95.res"]
+
+[params]
+

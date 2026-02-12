@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://g2uqlc5fjnsu"
+path="res://.godot/imported/toothed_whee.OZJ-ca3eee8760e3c4ba649e71317b365b9a.res"
+
+[deps]
+
+source_file="res://Data/Skill/toothed_whee.OZJ"
+dest_files=["res://.godot/imported/toothed_whee.OZJ-ca3eee8760e3c4ba649e71317b365b9a.res"]
+
+[params]
+

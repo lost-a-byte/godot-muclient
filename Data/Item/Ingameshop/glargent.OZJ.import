@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5gxqu7k83r4o"
+path="res://.godot/imported/glargent.OZJ-8ff04f0cada35fd5a5f7ccd0dbfa91aa.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/glargent.OZJ"
+dest_files=["res://.godot/imported/glargent.OZJ-8ff04f0cada35fd5a5f7ccd0dbfa91aa.res"]
+
+[params]
+

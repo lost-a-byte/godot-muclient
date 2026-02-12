@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1q1qxgmt825e"
+path="res://.godot/imported/paraka_Fire.OZJ-4295b03c74e1e85cd8bc81b8aba550a2.res"
+
+[deps]
+
+source_file="res://Data/Monster/paraka_Fire.OZJ"
+dest_files=["res://.godot/imported/paraka_Fire.OZJ-4295b03c74e1e85cd8bc81b8aba550a2.res"]
+
+[params]
+

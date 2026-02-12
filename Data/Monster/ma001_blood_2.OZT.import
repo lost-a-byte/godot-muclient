@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drtlbth1isi4k"
+path="res://.godot/imported/ma001_blood_2.OZT-411fd1cdaf656ea40995190f4892ea7d.res"
+
+[deps]
+
+source_file="res://Data/Monster/ma001_blood_2.OZT"
+dest_files=["res://.godot/imported/ma001_blood_2.OZT-411fd1cdaf656ea40995190f4892ea7d.res"]
+
+[params]
+

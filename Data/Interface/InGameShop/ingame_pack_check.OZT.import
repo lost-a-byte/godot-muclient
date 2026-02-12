@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://maxek7fdqrsn"
+path="res://.godot/imported/ingame_pack_check.OZT-4f9800c5564c568715a090c2ecdf3c43.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_pack_check.OZT"
+dest_files=["res://.godot/imported/ingame_pack_check.OZT-4f9800c5564c568715a090c2ecdf3c43.res"]
+
+[params]
+

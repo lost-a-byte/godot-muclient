@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pnsyw42akuru"
+path="res://.godot/imported/PrickleGloveB.OZJ-127ab5d3e79cbca697284c61538f9ce0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PrickleGloveB.OZJ"
+dest_files=["res://.godot/imported/PrickleGloveB.OZJ-127ab5d3e79cbca697284c61538f9ce0.res"]
+
+[params]
+

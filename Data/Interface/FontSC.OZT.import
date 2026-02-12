@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cp0kj43ndd44d"
+path="res://.godot/imported/FontSC.OZT-ca63dca83c6f16cc7adbccc6dd18c207.res"
+
+[deps]
+
+source_file="res://Data/Interface/FontSC.OZT"
+dest_files=["res://.godot/imported/FontSC.OZT-ca63dca83c6f16cc7adbccc6dd18c207.res"]
+
+[params]
+

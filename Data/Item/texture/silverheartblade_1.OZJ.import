@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vhx8ekb3avcp"
+path="res://.godot/imported/silverheartblade_1.OZJ-262a5d4d0cbd4f7e73f6dc6ff6c1b30b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/silverheartblade_1.OZJ"
+dest_files=["res://.godot/imported/silverheartblade_1.OZJ-262a5d4d0cbd4f7e73f6dc6ff6c1b30b.res"]
+
+[params]
+

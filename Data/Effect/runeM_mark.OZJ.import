@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qeg07oen0q5j"
+path="res://.godot/imported/runeM_mark.OZJ-94c9cfa1bf9ab33c4f2105960f2bb64f.res"
+
+[deps]
+
+source_file="res://Data/Effect/runeM_mark.OZJ"
+dest_files=["res://.godot/imported/runeM_mark.OZJ-94c9cfa1bf9ab33c4f2105960f2bb64f.res"]
+
+[params]
+

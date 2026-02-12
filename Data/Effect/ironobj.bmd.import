@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://catbpxhh8ymkh"
+path="res://.godot/imported/ironobj.bmd-490903af7c0959887b76b2269611c79c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/ironobj.bmd"
+dest_files=["res://.godot/imported/ironobj.bmd-490903af7c0959887b76b2269611c79c.scn"]
+
+[params]
+
+modelScale=0.01

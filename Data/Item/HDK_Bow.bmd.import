@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ch1jb8gvajft"
+path="res://.godot/imported/HDK_Bow.bmd-f153a78fe617a916683573051b9b98fd.scn"
+
+[deps]
+
+source_file="res://Data/Item/HDK_Bow.bmd"
+dest_files=["res://.godot/imported/HDK_Bow.bmd-f153a78fe617a916683573051b9b98fd.scn"]
+
+[params]
+
+modelScale=0.01

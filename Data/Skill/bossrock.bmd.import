@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d0owog8aihpso"
+path="res://.godot/imported/bossrock.bmd-365a466ba6b2d84f0bfb223e66b9a1e3.scn"
+
+[deps]
+
+source_file="res://Data/Skill/bossrock.bmd"
+dest_files=["res://.godot/imported/bossrock.bmd-365a466ba6b2d84f0bfb223e66b9a1e3.scn"]
+
+[params]
+
+modelScale=0.01

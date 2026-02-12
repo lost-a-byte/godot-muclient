@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfcrldw14egn2"
+path="res://.godot/imported/ESDPotion.bmd-c3491bcf6d8aec83dd203d9215943bd5.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge7/ESDPotion.bmd"
+dest_files=["res://.godot/imported/ESDPotion.bmd-c3491bcf6d8aec83dd203d9215943bd5.scn"]
+
+[params]
+
+modelScale=0.01

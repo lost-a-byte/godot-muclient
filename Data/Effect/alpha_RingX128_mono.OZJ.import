@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gmxouch4uay1"
+path="res://.godot/imported/alpha_RingX128_mono.OZJ-2a9c91cd3d718cb6cd4aff6d185a853f.res"
+
+[deps]
+
+source_file="res://Data/Effect/alpha_RingX128_mono.OZJ"
+dest_files=["res://.godot/imported/alpha_RingX128_mono.OZJ-2a9c91cd3d718cb6cd4aff6d185a853f.res"]
+
+[params]
+

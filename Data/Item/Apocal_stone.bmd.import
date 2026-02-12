@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d1lxhu5bllaov"
+path="res://.godot/imported/Apocal_stone.bmd-9ab5afab06d52be62ffcd1c2493df2b3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Apocal_stone.bmd"
+dest_files=["res://.godot/imported/Apocal_stone.bmd-9ab5afab06d52be62ffcd1c2493df2b3.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bacnxx5eebufy"
+path="res://.godot/imported/Ebow4.ozj-52ff6513e06e8eb6bc9bc4343dd51fb3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ebow4.ozj"
+dest_files=["res://.godot/imported/Ebow4.ozj-52ff6513e06e8eb6bc9bc4343dd51fb3.res"]
+
+[params]
+

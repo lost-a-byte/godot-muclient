@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bx3cc0psg3nc0"
+path="res://.godot/imported/water_wall.OZT-62dceae0708a99c2b827d2a9ed637dc9.res"
+
+[deps]
+
+source_file="res://Data/Effect/water_wall.OZT"
+dest_files=["res://.godot/imported/water_wall.OZT-62dceae0708a99c2b827d2a9ed637dc9.res"]
+
+[params]
+

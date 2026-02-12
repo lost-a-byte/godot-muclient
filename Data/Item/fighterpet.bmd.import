@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://brj3i42o6ud2p"
+path="res://.godot/imported/fighterpet.bmd-b604b0f3fc1e9f2adc25a06930f0eac6.scn"
+
+[deps]
+
+source_file="res://Data/Item/fighterpet.bmd"
+dest_files=["res://.godot/imported/fighterpet.bmd-b604b0f3fc1e9f2adc25a06930f0eac6.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dy8tbraq1bipq"
+path="res://.godot/imported/TileWood01.OZJ-877d0c871d9f8d5c4fd0f07694f307ae.res"
+
+[deps]
+
+source_file="res://Data/World68/TileWood01.OZJ"
+dest_files=["res://.godot/imported/TileWood01.OZJ-877d0c871d9f8d5c4fd0f07694f307ae.res"]
+
+[params]
+

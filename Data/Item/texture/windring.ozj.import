@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dus2ossj6h0cb"
+path="res://.godot/imported/windring.ozj-778ba4d3246422c279a12e40a2e840ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/windring.ozj"
+dest_files=["res://.godot/imported/windring.ozj-778ba4d3246422c279a12e40a2e840ea.res"]
+
+[params]
+

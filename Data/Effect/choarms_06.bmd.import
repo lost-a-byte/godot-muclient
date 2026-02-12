@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfowk3qg43pn4"
+path="res://.godot/imported/choarms_06.bmd-dc2db0bccfbc5d5f9a978e28e83e3aac.scn"
+
+[deps]
+
+source_file="res://Data/Effect/choarms_06.bmd"
+dest_files=["res://.godot/imported/choarms_06.bmd-dc2db0bccfbc5d5f9a978e28e83e3aac.scn"]
+
+[params]
+
+modelScale=0.01

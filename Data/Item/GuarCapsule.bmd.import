@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bm10udikdnh5s"
+path="res://.godot/imported/GuarCapsule.bmd-bf2a0e69cf15565647febc5ecb35abd3.scn"
+
+[deps]
+
+source_file="res://Data/Item/GuarCapsule.bmd"
+dest_files=["res://.godot/imported/GuarCapsule.bmd-bf2a0e69cf15565647febc5ecb35abd3.scn"]
+
+[params]
+
+modelScale=0.01

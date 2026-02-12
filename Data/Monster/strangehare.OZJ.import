@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clsesqgk6big0"
+path="res://.godot/imported/strangehare.OZJ-1cdbb12908ff2dd7a5287ecca1b8a7c2.res"
+
+[deps]
+
+source_file="res://Data/Monster/strangehare.OZJ"
+dest_files=["res://.godot/imported/strangehare.OZJ-1cdbb12908ff2dd7a5287ecca1b8a7c2.res"]
+
+[params]
+

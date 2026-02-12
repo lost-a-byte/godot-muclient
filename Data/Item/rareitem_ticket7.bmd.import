@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://euyabf2e7uke"
+path="res://.godot/imported/rareitem_ticket7.bmd-39bea62ed04c4e54a313b20fa040e0e4.scn"
+
+[deps]
+
+source_file="res://Data/Item/rareitem_ticket7.bmd"
+dest_files=["res://.godot/imported/rareitem_ticket7.bmd-39bea62ed04c4e54a313b20fa040e0e4.scn"]
+
+[params]
+
+modelScale=0.01

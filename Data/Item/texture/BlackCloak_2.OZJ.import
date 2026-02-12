@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cidyof45p0frq"
+path="res://.godot/imported/BlackCloak_2.OZJ-f8f2127a66396f65735ec33fdcee9874.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlackCloak_2.OZJ"
+dest_files=["res://.godot/imported/BlackCloak_2.OZJ-f8f2127a66396f65735ec33fdcee9874.res"]
+
+[params]
+

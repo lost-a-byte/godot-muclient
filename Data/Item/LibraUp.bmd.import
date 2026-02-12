@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cydnrugh5k6yq"
+path="res://.godot/imported/LibraUp.bmd-dd73f5d96673deef3f8693780aef3b1a.scn"
+
+[deps]
+
+source_file="res://Data/Item/LibraUp.bmd"
+dest_files=["res://.godot/imported/LibraUp.bmd-dd73f5d96673deef3f8693780aef3b1a.scn"]
+
+[params]
+
+modelScale=0.01

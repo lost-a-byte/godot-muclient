@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cu0mr24tihfmr"
+path="res://.godot/imported/so_pino03.OZJ-2cf7833c725347170c68df3567449d3b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_pino03.OZJ"
+dest_files=["res://.godot/imported/so_pino03.OZJ-2cf7833c725347170c68df3567449d3b.res"]
+
+[params]
+

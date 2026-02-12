@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2odpd0fb57fe"
+path="res://.godot/imported/flareRed.OZJ-5cebfc02d92fed2bba0e71f18c39fa91.res"
+
+[deps]
+
+source_file="res://Data/Skill/flareRed.OZJ"
+dest_files=["res://.godot/imported/flareRed.OZJ-5cebfc02d92fed2bba0e71f18c39fa91.res"]
+
+[params]
+

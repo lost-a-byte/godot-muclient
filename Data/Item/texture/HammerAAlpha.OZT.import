@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3mpdx4142x2l"
+path="res://.godot/imported/HammerAAlpha.OZT-ad9bfe7dacd599e9f7814ca06a8c320b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HammerAAlpha.OZT"
+dest_files=["res://.godot/imported/HammerAAlpha.OZT-ad9bfe7dacd599e9f7814ca06a8c320b.res"]
+
+[params]
+

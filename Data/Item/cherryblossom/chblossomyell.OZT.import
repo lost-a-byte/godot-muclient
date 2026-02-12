@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsioavb1km58o"
+path="res://.godot/imported/chblossomyell.OZT-d3c8e8e10664b6eee3bdbccb24fbd09e.res"
+
+[deps]
+
+source_file="res://Data/Item/cherryblossom/chblossomyell.OZT"
+dest_files=["res://.godot/imported/chblossomyell.OZT-d3c8e8e10664b6eee3bdbccb24fbd09e.res"]
+
+[params]
+

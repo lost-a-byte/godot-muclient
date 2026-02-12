@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btwird7gf34xf"
+path="res://.godot/imported/effectTest.OZJ-3b9d3aff0a530428787f49473fc36623.res"
+
+[deps]
+
+source_file="res://Data/Effect/effectTest.OZJ"
+dest_files=["res://.godot/imported/effectTest.OZJ-3b9d3aff0a530428787f49473fc36623.res"]
+
+[params]
+

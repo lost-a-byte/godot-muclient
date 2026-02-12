@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://64ujae1pp4ec"
+path="res://.godot/imported/lagul_head.bmd-ffe8f03af0e2cc37ae89b2475d0c66f6.scn"
+
+[deps]
+
+source_file="res://Data/Skill/lagul_head.bmd"
+dest_files=["res://.godot/imported/lagul_head.bmd-ffe8f03af0e2cc37ae89b2475d0c66f6.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7gkj3j6y4yxv"
+path="res://.godot/imported/CommanderB_render.OZJ-8eff83ecde90d1dc5f42101a112b2762.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CommanderB_render.OZJ"
+dest_files=["res://.godot/imported/CommanderB_render.OZJ-8eff83ecde90d1dc5f42101a112b2762.res"]
+
+[params]
+

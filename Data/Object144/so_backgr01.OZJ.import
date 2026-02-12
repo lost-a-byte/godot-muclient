@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb8vwfp2tux12"
+path="res://.godot/imported/so_backgr01.OZJ-43e781675182b67f16910eaeaa4b51e2.res"
+
+[deps]
+
+source_file="res://Data/Object144/so_backgr01.OZJ"
+dest_files=["res://.godot/imported/so_backgr01.OZJ-43e781675182b67f16910eaeaa4b51e2.res"]
+
+[params]
+

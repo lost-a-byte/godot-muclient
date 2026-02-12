@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2vgx0kkylbtr"
+path="res://.godot/imported/floorwall.OZJ-0739eda6c8b1f2f0b6a76dbfceb10f36.res"
+
+[deps]
+
+source_file="res://Data/Object31/floorwall.OZJ"
+dest_files=["res://.godot/imported/floorwall.OZJ-0739eda6c8b1f2f0b6a76dbfceb10f36.res"]
+
+[params]
+

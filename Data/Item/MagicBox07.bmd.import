@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://scl00uabtck2"
+path="res://.godot/imported/MagicBox07.bmd-99ff041abad3d46ed0920e8ec54e8561.scn"
+
+[deps]
+
+source_file="res://Data/Item/MagicBox07.bmd"
+dest_files=["res://.godot/imported/MagicBox07.bmd-99ff041abad3d46ed0920e8ec54e8561.scn"]
+
+[params]
+
+modelScale=0.01

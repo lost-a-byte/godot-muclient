@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4jhela82fuul"
+path="res://.godot/imported/SPweapon.OZJ-e89f50ca5f6bbef96e27c32ed2ec7e00.res"
+
+[deps]
+
+source_file="res://Data/Player/SPweapon.OZJ"
+dest_files=["res://.godot/imported/SPweapon.OZJ-e89f50ca5f6bbef96e27c32ed2ec7e00.res"]
+
+[params]
+

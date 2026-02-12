@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3136f531qctg"
+path="res://.godot/imported/bigrock.OZJ-f281a6f5de821378132bcc5526521140.res"
+
+[deps]
+
+source_file="res://Data/Object25/bigrock.OZJ"
+dest_files=["res://.godot/imported/bigrock.OZJ-f281a6f5de821378132bcc5526521140.res"]
+
+[params]
+

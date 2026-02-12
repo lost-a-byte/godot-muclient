@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cr8skia12drsb"
+path="res://.godot/imported/soket_arrows.OZT-94af31c51aca154c8dbc8f6901956356.res"
+
+[deps]
+
+source_file="res://Data/Item/soket_arrows.OZT"
+dest_files=["res://.godot/imported/soket_arrows.OZT-94af31c51aca154c8dbc8f6901956356.res"]
+
+[params]
+

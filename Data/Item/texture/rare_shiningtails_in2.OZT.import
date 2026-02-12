@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwo8bo12t7xwr"
+path="res://.godot/imported/rare_shiningtails_in2.OZT-136a7b72e0fc51e77d0c125a32ded7c7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rare_shiningtails_in2.OZT"
+dest_files=["res://.godot/imported/rare_shiningtails_in2.OZT-136a7b72e0fc51e77d0c125a32ded7c7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh0y60nmcgax2"
+path="res://.godot/imported/punja.ozj-4a9128baa81218793eff8838b975ae11.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/punja.ozj"
+dest_files=["res://.godot/imported/punja.ozj-4a9128baa81218793eff8838b975ae11.res"]
+
+[params]
+

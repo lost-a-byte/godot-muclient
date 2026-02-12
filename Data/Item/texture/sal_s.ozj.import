@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuqxk8rcktigo"
+path="res://.godot/imported/sal_s.ozj-2c555ff002172443c206bdee636dbb0a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sal_s.ozj"
+dest_files=["res://.godot/imported/sal_s.ozj-2c555ff002172443c206bdee636dbb0a.res"]
+
+[params]
+

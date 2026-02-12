@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://k30k32i4mmga"
+path="res://.godot/imported/Map_Smoke1.OZJ-9696300bd32e2e8b42bc3959805b6fc7.res"
+
+[deps]
+
+source_file="res://Data/World142/Map_Smoke1.OZJ"
+dest_files=["res://.godot/imported/Map_Smoke1.OZJ-9696300bd32e2e8b42bc3959805b6fc7.res"]
+
+[params]
+

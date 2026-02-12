@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj3ay3lstyc62"
+path="res://.godot/imported/anacondasword_mega.OZJ-51dd95990f5d6222d4abf83200983755.res"
+
+[deps]
+
+source_file="res://Data/Monster/anacondasword_mega.OZJ"
+dest_files=["res://.godot/imported/anacondasword_mega.OZJ-51dd95990f5d6222d4abf83200983755.res"]
+
+[params]
+

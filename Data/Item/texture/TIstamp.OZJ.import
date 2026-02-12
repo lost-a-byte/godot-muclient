@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceyi01v4yidye"
+path="res://.godot/imported/TIstamp.OZJ-8ecfad60636df5e14bbdb811bca963cd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TIstamp.OZJ"
+dest_files=["res://.godot/imported/TIstamp.OZJ-8ecfad60636df5e14bbdb811bca963cd.res"]
+
+[params]
+

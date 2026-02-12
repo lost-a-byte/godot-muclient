@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxbl1220rl3gr"
+path="res://.godot/imported/xmaseffitemx.OZJ-e7427279c832451701dc4bae60cf3418.res"
+
+[deps]
+
+source_file="res://Data/Item/xmas/xmaseffitemx.OZJ"
+dest_files=["res://.godot/imported/xmaseffitemx.OZJ-e7427279c832451701dc4bae60cf3418.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgfjq4v5d34km"
+path="res://.godot/imported/hs_WizardB02.OZJ-15781d7caa932887b5ee2d104f3e8d2b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_WizardB02.OZJ"
+dest_files=["res://.godot/imported/hs_WizardB02.OZJ-15781d7caa932887b5ee2d104f3e8d2b.res"]
+
+[params]
+

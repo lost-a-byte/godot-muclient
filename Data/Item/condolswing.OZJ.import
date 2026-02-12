@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ds07sjp24rcp2"
+path="res://.godot/imported/condolswing.OZJ-786377e7a187cbdca1edeb98bf10fef1.res"
+
+[deps]
+
+source_file="res://Data/Item/condolswing.OZJ"
+dest_files=["res://.godot/imported/condolswing.OZJ-786377e7a187cbdca1edeb98bf10fef1.res"]
+
+[params]
+

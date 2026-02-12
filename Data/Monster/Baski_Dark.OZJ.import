@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bewklnluqb1en"
+path="res://.godot/imported/Baski_Dark.OZJ-e18d14ff08c8e8d8258be093960ac636.res"
+
+[deps]
+
+source_file="res://Data/Monster/Baski_Dark.OZJ"
+dest_files=["res://.godot/imported/Baski_Dark.OZJ-e18d14ff08c8e8d8258be093960ac636.res"]
+
+[params]
+

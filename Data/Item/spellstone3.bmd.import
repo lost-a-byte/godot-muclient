@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dabrif4ovfuy0"
+path="res://.godot/imported/spellstone3.bmd-4809e159d50f2fb8b341758c225214de.scn"
+
+[deps]
+
+source_file="res://Data/Item/spellstone3.bmd"
+dest_files=["res://.godot/imported/spellstone3.bmd-4809e159d50f2fb8b341758c225214de.scn"]
+
+[params]
+
+modelScale=0.01

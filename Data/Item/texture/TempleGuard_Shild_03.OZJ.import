@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhohd8h4vat6q"
+path="res://.godot/imported/TempleGuard_Shild_03.OZJ-122e78d0443b6d2bfb9bb7572f7a0b7f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_Shild_03.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_Shild_03.OZJ-122e78d0443b6d2bfb9bb7572f7a0b7f.res"]
+
+[params]
+

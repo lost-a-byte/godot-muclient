@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2klldy4yktb3"
+path="res://.godot/imported/devin.bmd-e0a1ae7c5da809d086b2ec3c9cef1480.scn"
+
+[deps]
+
+source_file="res://Data/NPC/devin.bmd"
+dest_files=["res://.godot/imported/devin.bmd-e0a1ae7c5da809d086b2ec3c9cef1480.scn"]
+
+[params]
+
+modelScale=0.01

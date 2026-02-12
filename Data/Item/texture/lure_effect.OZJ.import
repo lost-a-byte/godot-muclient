@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg4vfmn582sim"
+path="res://.godot/imported/lure_effect.OZJ-b56bff923b95a465c12626a320aaa565.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lure_effect.OZJ"
+dest_files=["res://.godot/imported/lure_effect.OZJ-b56bff923b95a465c12626a320aaa565.res"]
+
+[params]
+

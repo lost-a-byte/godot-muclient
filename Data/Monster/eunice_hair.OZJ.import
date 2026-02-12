@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4dsnufekgjel"
+path="res://.godot/imported/eunice_hair.OZJ-c1ea1e48388526e07ffa811d77baf54d.res"
+
+[deps]
+
+source_file="res://Data/Monster/eunice_hair.OZJ"
+dest_files=["res://.godot/imported/eunice_hair.OZJ-c1ea1e48388526e07ffa811d77baf54d.res"]
+
+[params]
+

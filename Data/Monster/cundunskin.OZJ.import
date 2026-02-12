@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://onvsruxvep52"
+path="res://.godot/imported/cundunskin.OZJ-5c7af401ef0e37817d349e70f1fbfb25.res"
+
+[deps]
+
+source_file="res://Data/Monster/cundunskin.OZJ"
+dest_files=["res://.godot/imported/cundunskin.OZJ-5c7af401ef0e37817d349e70f1fbfb25.res"]
+
+[params]
+

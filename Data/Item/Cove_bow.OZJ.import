@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbg2nyto0kvg2"
+path="res://.godot/imported/Cove_bow.OZJ-7b04b78a3877a9f45eb8ae04892a0aee.res"
+
+[deps]
+
+source_file="res://Data/Item/Cove_bow.OZJ"
+dest_files=["res://.godot/imported/Cove_bow.OZJ-7b04b78a3877a9f45eb8ae04892a0aee.res"]
+
+[params]
+

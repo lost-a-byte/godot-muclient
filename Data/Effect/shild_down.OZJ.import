@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7akmnnwe4boo"
+path="res://.godot/imported/shild_down.OZJ-0d10c980b0a64f6327bb95a2d8903ff6.res"
+
+[deps]
+
+source_file="res://Data/Effect/shild_down.OZJ"
+dest_files=["res://.godot/imported/shild_down.OZJ-0d10c980b0a64f6327bb95a2d8903ff6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqyyqapidbk8k"
+path="res://.godot/imported/bullet_diffuse.OZJ-9c59d95b7a1154594dada011e54d4056.res"
+
+[deps]
+
+source_file="res://Data/Effect/bullet_diffuse.OZJ"
+dest_files=["res://.godot/imported/bullet_diffuse.OZJ-9c59d95b7a1154594dada011e54d4056.res"]
+
+[params]
+

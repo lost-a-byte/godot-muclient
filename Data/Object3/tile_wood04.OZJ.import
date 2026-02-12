@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvbc3o2yras2m"
+path="res://.godot/imported/tile_wood04.OZJ-6739aec94b97be7097ae49fbc7238039.res"
+
+[deps]
+
+source_file="res://Data/Object3/tile_wood04.OZJ"
+dest_files=["res://.godot/imported/tile_wood04.OZJ-6739aec94b97be7097ae49fbc7238039.res"]
+
+[params]
+

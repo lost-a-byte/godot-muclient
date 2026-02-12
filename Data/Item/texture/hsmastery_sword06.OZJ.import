@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://40i33c5r8068"
+path="res://.godot/imported/hsmastery_sword06.OZJ-16ba5ec407f58ac68e230766a5af84c6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hsmastery_sword06.OZJ"
+dest_files=["res://.godot/imported/hsmastery_sword06.OZJ-16ba5ec407f58ac68e230766a5af84c6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1vklo2edpj41"
+path="res://.godot/imported/bulldug.OZJ-4ef292a5ccf91a97761d951e26e6a48b.res"
+
+[deps]
+
+source_file="res://Data/Object9/bulldug.OZJ"
+dest_files=["res://.godot/imported/bulldug.OZJ-4ef292a5ccf91a97761d951e26e6a48b.res"]
+
+[params]
+

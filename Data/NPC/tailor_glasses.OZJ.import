@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6k1y3cj5uatd"
+path="res://.godot/imported/tailor_glasses.OZJ-b41f0788c8acb43b5df2420d6da2c28d.res"
+
+[deps]
+
+source_file="res://Data/NPC/tailor_glasses.OZJ"
+dest_files=["res://.godot/imported/tailor_glasses.OZJ-b41f0788c8acb43b5df2420d6da2c28d.res"]
+
+[params]
+

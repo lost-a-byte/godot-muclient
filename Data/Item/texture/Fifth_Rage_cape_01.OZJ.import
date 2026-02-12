@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1exr6y423jjk"
+path="res://.godot/imported/Fifth_Rage_cape_01.OZJ-b32c8791d2d84d2b447fdfaa02f25a5d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Rage_cape_01.OZJ"
+dest_files=["res://.godot/imported/Fifth_Rage_cape_01.OZJ-b32c8791d2d84d2b447fdfaa02f25a5d.res"]
+
+[params]
+

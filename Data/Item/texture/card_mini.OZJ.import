@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2p5hj782mg4c"
+path="res://.godot/imported/card_mini.OZJ-6f09177c6b0f8ccdd42d69773fc10b5b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/card_mini.OZJ"
+dest_files=["res://.godot/imported/card_mini.OZJ-6f09177c6b0f8ccdd42d69773fc10b5b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b08tfqeoy1wmq"
+path="res://.godot/imported/Butterfly.OZT-54e4074bd1a1440e0ecc59ffefe0f11a.res"
+
+[deps]
+
+source_file="res://Data/Object1/Butterfly.OZT"
+dest_files=["res://.godot/imported/Butterfly.OZT-54e4074bd1a1440e0ecc59ffefe0f11a.res"]
+
+[params]
+

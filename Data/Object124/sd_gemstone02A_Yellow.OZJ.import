@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ds2n4gehe7pc4"
+path="res://.godot/imported/sd_gemstone02A_Yellow.OZJ-448969c33c5c68342e95abab48da84e1.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_gemstone02A_Yellow.OZJ"
+dest_files=["res://.godot/imported/sd_gemstone02A_Yellow.OZJ-448969c33c5c68342e95abab48da84e1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dogw4c1jqo7g2"
+path="res://.godot/imported/hikorora.OZJ-caf099fe445cb0355f9809ad55cfe717.res"
+
+[deps]
+
+source_file="res://Data/Effect/hikorora.OZJ"
+dest_files=["res://.godot/imported/hikorora.OZJ-caf099fe445cb0355f9809ad55cfe717.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2xnnn7vbaifi"
+path="res://.godot/imported/FRpotionB.ozj-0f91e84edf5aa466fa9dd1741917d582.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FRpotionB.ozj"
+dest_files=["res://.godot/imported/FRpotionB.ozj-0f91e84edf5aa466fa9dd1741917d582.res"]
+
+[params]
+

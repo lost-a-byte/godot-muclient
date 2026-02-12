@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blo4jheeffo5e"
+path="res://.godot/imported/deep_dragon.OZJ-d1fccf8f8b09b02407e32cdd3d2174ac.res"
+
+[deps]
+
+source_file="res://Data/Object118/deep_dragon.OZJ"
+dest_files=["res://.godot/imported/deep_dragon.OZJ-d1fccf8f8b09b02407e32cdd3d2174ac.res"]
+
+[params]
+

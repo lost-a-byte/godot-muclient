@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfqclx61n26xn"
+path="res://.godot/imported/king08.OZT-ab15b6116ad97f11024c829f7e331f73.res"
+
+[deps]
+
+source_file="res://Data/Monster/king08.OZT"
+dest_files=["res://.godot/imported/king08.OZT-ab15b6116ad97f11024c829f7e331f73.res"]
+
+[params]
+

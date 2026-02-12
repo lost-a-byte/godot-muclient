@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvm67u5uwsbaf"
+path="res://.godot/imported/fight_hair.OZT-8df424242344e215ba055d7106a7a2f9.res"
+
+[deps]
+
+source_file="res://Data/Logo/fight_hair.OZT"
+dest_files=["res://.godot/imported/fight_hair.OZT-8df424242344e215ba055d7106a7a2f9.res"]
+
+[params]
+

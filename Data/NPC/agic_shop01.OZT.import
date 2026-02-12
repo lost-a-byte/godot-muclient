@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bodlb8k8ns864"
+path="res://.godot/imported/agic_shop01.OZT-b5ef6902baeacba2cb5b88b595975fb3.res"
+
+[deps]
+
+source_file="res://Data/NPC/agic_shop01.OZT"
+dest_files=["res://.godot/imported/agic_shop01.OZT-b5ef6902baeacba2cb5b88b595975fb3.res"]
+
+[params]
+

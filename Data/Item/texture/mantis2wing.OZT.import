@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drnsimuel3y55"
+path="res://.godot/imported/mantis2wing.OZT-e2b84d375d81a10e7cea23bc012adb30.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mantis2wing.OZT"
+dest_files=["res://.godot/imported/mantis2wing.OZT-e2b84d375d81a10e7cea23bc012adb30.res"]
+
+[params]
+

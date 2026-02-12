@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmso7amc0bpiw"
+path="res://.godot/imported/ferline.OZJ-d2ebdc46f7538f5fe4724a989c05b9d2.res"
+
+[deps]
+
+source_file="res://Data/NPC/ferline.OZJ"
+dest_files=["res://.godot/imported/ferline.OZJ-d2ebdc46f7538f5fe4724a989c05b9d2.res"]
+
+[params]
+

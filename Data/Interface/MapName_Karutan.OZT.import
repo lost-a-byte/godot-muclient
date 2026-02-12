@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvb1q6y0qrrav"
+path="res://.godot/imported/MapName_Karutan.OZT-58917b7c7ef1dda7b4d540e7a8340659.res"
+
+[deps]
+
+source_file="res://Data/Interface/MapName_Karutan.OZT"
+dest_files=["res://.godot/imported/MapName_Karutan.OZT-58917b7c7ef1dda7b4d540e7a8340659.res"]
+
+[params]
+

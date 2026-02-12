@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvue02vc20yfv"
+path="res://.godot/imported/nfb4.ozt-d44aed9e35ee883f0cf695705195d7cb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nfb4.ozt"
+dest_files=["res://.godot/imported/nfb4.ozt-d44aed9e35ee883f0cf695705195d7cb.res"]
+
+[params]
+

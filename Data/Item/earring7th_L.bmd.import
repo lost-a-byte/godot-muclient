@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bgr6v6xm427tn"
+path="res://.godot/imported/earring7th_L.bmd-f2de920076a6b1c470e4015d006522c8.scn"
+
+[deps]
+
+source_file="res://Data/Item/earring7th_L.bmd"
+dest_files=["res://.godot/imported/earring7th_L.bmd-f2de920076a6b1c470e4015d006522c8.scn"]
+
+[params]
+
+modelScale=0.01

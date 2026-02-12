@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqeidnlus4n4h"
+path="res://.godot/imported/newui_guildmakeeditbox.OZT-b337ea44a92db72eaf3ee9e7bf08199f.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_guildmakeeditbox.OZT"
+dest_files=["res://.godot/imported/newui_guildmakeeditbox.OZT-b337ea44a92db72eaf3ee9e7bf08199f.res"]
+
+[params]
+

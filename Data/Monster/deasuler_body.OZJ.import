@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bamoybtonaili"
+path="res://.godot/imported/deasuler_body.OZJ-fdfcb3b5a79aa8a4f73025f7b85b2594.res"
+
+[deps]
+
+source_file="res://Data/Monster/deasuler_body.OZJ"
+dest_files=["res://.godot/imported/deasuler_body.OZJ-fdfcb3b5a79aa8a4f73025f7b85b2594.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://twxnc47wvqvl"
+path="res://.godot/imported/ghosteffect01.OZJ-782cdaa8f54553f10ef69e6c4231be78.res"
+
+[deps]
+
+source_file="res://Data/Effect/ghosteffect01.OZJ"
+dest_files=["res://.godot/imported/ghosteffect01.OZJ-782cdaa8f54553f10ef69e6c4231be78.res"]
+
+[params]
+

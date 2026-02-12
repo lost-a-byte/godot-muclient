@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c7ootc06gk5x7"
+path="res://.godot/imported/circle_shields.bmd-595ebd6006f3c1f7efa177552f0cfb57.scn"
+
+[deps]
+
+source_file="res://Data/Effect/circle_shields.bmd"
+dest_files=["res://.godot/imported/circle_shields.bmd-595ebd6006f3c1f7efa177552f0cfb57.scn"]
+
+[params]
+
+modelScale=0.01

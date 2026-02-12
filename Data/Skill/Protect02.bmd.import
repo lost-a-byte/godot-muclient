@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://datgd5aecs3dg"
+path="res://.godot/imported/Protect02.bmd-c09f2973403f7cf7c970468781549482.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Protect02.bmd"
+dest_files=["res://.godot/imported/Protect02.bmd-c09f2973403f7cf7c970468781549482.scn"]
+
+[params]
+
+modelScale=0.01

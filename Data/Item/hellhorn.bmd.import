@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ciowa80dukc7w"
+path="res://.godot/imported/hellhorn.bmd-6ffb208ada6a0cae00514c481d280279.scn"
+
+[deps]
+
+source_file="res://Data/Item/hellhorn.bmd"
+dest_files=["res://.godot/imported/hellhorn.bmd-6ffb208ada6a0cae00514c481d280279.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b4rckp6nkiutc"
+path="res://.godot/imported/growlance400weapon.bmd-2dd9079278cababb43190b099c2a4ad9.scn"
+
+[deps]
+
+source_file="res://Data/Item/growlance400weapon.bmd"
+dest_files=["res://.godot/imported/growlance400weapon.bmd-2dd9079278cababb43190b099c2a4ad9.scn"]
+
+[params]
+
+modelScale=0.01

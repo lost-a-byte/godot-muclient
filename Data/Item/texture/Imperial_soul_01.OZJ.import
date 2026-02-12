@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpwfy18ey12dp"
+path="res://.godot/imported/Imperial_soul_01.OZJ-3ef7ad9be0f08ea6065974ee62896bc1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_soul_01.OZJ"
+dest_files=["res://.godot/imported/Imperial_soul_01.OZJ-3ef7ad9be0f08ea6065974ee62896bc1.res"]
+
+[params]
+

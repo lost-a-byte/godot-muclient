@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj6a1gabwy1c8"
+path="res://.godot/imported/CRmuun_body.OZJ-c51aeeb492c14f6cd8f9e5dd8581dc72.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CRmuun_body.OZJ"
+dest_files=["res://.godot/imported/CRmuun_body.OZJ-c51aeeb492c14f6cd8f9e5dd8581dc72.res"]
+
+[params]
+

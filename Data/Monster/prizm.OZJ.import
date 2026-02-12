@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://demeimol1svmm"
+path="res://.godot/imported/prizm.OZJ-977a2c1cee8f1b6406febb3ef2a0abb4.res"
+
+[deps]
+
+source_file="res://Data/Monster/prizm.OZJ"
+dest_files=["res://.godot/imported/prizm.OZJ-977a2c1cee8f1b6406febb3ef2a0abb4.res"]
+
+[params]
+

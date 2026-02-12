@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnfic636qisk0"
+path="res://.godot/imported/wallstone02.OZJ-ca8ad746814ea3e36a61afb8dbc1ba2f.res"
+
+[deps]
+
+source_file="res://Data/Object32/wallstone02.OZJ"
+dest_files=["res://.godot/imported/wallstone02.OZJ-ca8ad746814ea3e36a61afb8dbc1ba2f.res"]
+
+[params]
+

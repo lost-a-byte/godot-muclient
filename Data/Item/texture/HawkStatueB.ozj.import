@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh0driis3ux4p"
+path="res://.godot/imported/HawkStatueB.ozj-88730839936e3c46208b8cf4e37ddc60.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HawkStatueB.ozj"
+dest_files=["res://.godot/imported/HawkStatueB.ozj-88730839936e3c46208b8cf4e37ddc60.res"]
+
+[params]
+

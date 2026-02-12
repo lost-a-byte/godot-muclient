@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6f15xorwrm83"
+path="res://.godot/imported/succubus_hear2.OZT-967455c318d35436ea3457d914c4d66c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_hear2.OZT"
+dest_files=["res://.godot/imported/succubus_hear2.OZT-967455c318d35436ea3457d914c4d66c.res"]
+
+[params]
+

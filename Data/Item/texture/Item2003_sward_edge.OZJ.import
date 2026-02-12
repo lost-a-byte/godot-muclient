@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djlp5goht4wux"
+path="res://.godot/imported/Item2003_sward_edge.OZJ-d856283eb023a8ec08eef74f25423881.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item2003_sward_edge.OZJ"
+dest_files=["res://.godot/imported/Item2003_sward_edge.OZJ-d856283eb023a8ec08eef74f25423881.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c237f6kgwav1s"
+path="res://.godot/imported/hs_angrychickenB.OZJ-2dd4ea36426d174cc222ba29b19971f1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_angrychickenB.OZJ"
+dest_files=["res://.godot/imported/hs_angrychickenB.OZJ-2dd4ea36426d174cc222ba29b19971f1.res"]
+
+[params]
+

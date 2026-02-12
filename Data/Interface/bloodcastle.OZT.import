@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ce8gsydi2c4q"
+path="res://.godot/imported/bloodcastle.OZT-a43e1b78303386f7174bea5a19b56a2d.res"
+
+[deps]
+
+source_file="res://Data/Interface/bloodcastle.OZT"
+dest_files=["res://.godot/imported/bloodcastle.OZT-a43e1b78303386f7174bea5a19b56a2d.res"]
+
+[params]
+

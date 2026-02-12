@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7h3ekv70wua"
+path="res://.godot/imported/change_monkey2.OZJ-7d6d29539e189c9a98c3b82726b694ec.res"
+
+[deps]
+
+source_file="res://Data/Item/change_monkey2.OZJ"
+dest_files=["res://.godot/imported/change_monkey2.OZJ-7d6d29539e189c9a98c3b82726b694ec.res"]
+
+[params]
+

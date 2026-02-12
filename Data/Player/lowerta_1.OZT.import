@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da6ot7ot0yv4x"
+path="res://.godot/imported/lowerta_1.OZT-6c0417f00c3f782a836a84e7a48d5a5c.res"
+
+[deps]
+
+source_file="res://Data/Player/lowerta_1.OZT"
+dest_files=["res://.godot/imported/lowerta_1.OZT-6c0417f00c3f782a836a84e7a48d5a5c.res"]
+
+[params]
+

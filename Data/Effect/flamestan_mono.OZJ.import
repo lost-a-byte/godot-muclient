@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgs6tpabkt5wy"
+path="res://.godot/imported/flamestan_mono.OZJ-2002af53a67a2ad992fb7690d69d7343.res"
+
+[deps]
+
+source_file="res://Data/Effect/flamestan_mono.OZJ"
+dest_files=["res://.godot/imported/flamestan_mono.OZJ-2002af53a67a2ad992fb7690d69d7343.res"]
+
+[params]
+

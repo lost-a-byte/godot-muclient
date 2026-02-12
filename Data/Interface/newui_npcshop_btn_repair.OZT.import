@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj73jlf8qn5o0"
+path="res://.godot/imported/newui_npcshop_btn_repair.OZT-5852ea6006c0c15ab23efd0ed9f35397.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_npcshop_btn_repair.OZT"
+dest_files=["res://.godot/imported/newui_npcshop_btn_repair.OZT-5852ea6006c0c15ab23efd0ed9f35397.res"]
+
+[params]
+

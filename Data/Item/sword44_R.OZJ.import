@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu48vk8u8nnmj"
+path="res://.godot/imported/sword44_R.OZJ-1e74948de804211b0145e2e03aaf94c5.res"
+
+[deps]
+
+source_file="res://Data/Item/sword44_R.OZJ"
+dest_files=["res://.godot/imported/sword44_R.OZJ-1e74948de804211b0145e2e03aaf94c5.res"]
+
+[params]
+

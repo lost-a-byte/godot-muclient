@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bcg3vknv1kpg0"
+path="res://.godot/imported/to3gate.bmd-1dc720fad679679deb45de29d424f80b.scn"
+
+[deps]
+
+source_file="res://Data/NPC/to3gate.bmd"
+dest_files=["res://.godot/imported/to3gate.bmd-1dc720fad679679deb45de29d424f80b.scn"]
+
+[params]
+
+modelScale=0.01

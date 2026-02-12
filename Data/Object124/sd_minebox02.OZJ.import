@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxwhhyvkryq3e"
+path="res://.godot/imported/sd_minebox02.OZJ-68c96e234d28c5d11a21aa151e3829e0.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_minebox02.OZJ"
+dest_files=["res://.godot/imported/sd_minebox02.OZJ-68c96e234d28c5d11a21aa151e3829e0.res"]
+
+[params]
+

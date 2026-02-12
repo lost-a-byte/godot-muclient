@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://btgevrdoyk7l4"
+path="res://.godot/imported/sackminer_stone02.bmd-46bf4c57eee2d9e878c145e4d25c0f5b.scn"
+
+[deps]
+
+source_file="res://Data/Skill/sackminer_stone02.bmd"
+dest_files=["res://.godot/imported/sackminer_stone02.bmd-46bf4c57eee2d9e878c145e4d25c0f5b.scn"]
+
+[params]
+
+modelScale=0.01

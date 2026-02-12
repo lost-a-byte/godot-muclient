@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bitl4l2afq1fr"
+path="res://.godot/imported/Skull2.OZJ-caf62432cecd4a6fcf661929a47d2aeb.res"
+
+[deps]
+
+source_file="res://Data/Object101/Skull2.OZJ"
+dest_files=["res://.godot/imported/Skull2.OZJ-caf62432cecd4a6fcf661929a47d2aeb.res"]
+
+[params]
+

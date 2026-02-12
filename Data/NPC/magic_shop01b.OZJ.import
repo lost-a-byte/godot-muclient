@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvxglb3e87egq"
+path="res://.godot/imported/magic_shop01b.OZJ-3244a24f1fe0b0d15ad37ee3eb8d6eed.res"
+
+[deps]
+
+source_file="res://Data/NPC/magic_shop01b.OZJ"
+dest_files=["res://.godot/imported/magic_shop01b.OZJ-3244a24f1fe0b0d15ad37ee3eb8d6eed.res"]
+
+[params]
+

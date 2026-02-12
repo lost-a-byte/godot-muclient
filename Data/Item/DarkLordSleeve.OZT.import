@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btyb2dask6ax0"
+path="res://.godot/imported/DarkLordSleeve.OZT-526a5f53ec6670d0bc0a74c70f38572d.res"
+
+[deps]
+
+source_file="res://Data/Item/DarkLordSleeve.OZT"
+dest_files=["res://.godot/imported/DarkLordSleeve.OZT-526a5f53ec6670d0bc0a74c70f38572d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bee5v2b37c0jj"
+path="res://.godot/imported/AlphaTile01.OZT-e2bb63b942505b0f0cf3505c063cd582.res"
+
+[deps]
+
+source_file="res://Data/World141/AlphaTile01.OZT"
+dest_files=["res://.godot/imported/AlphaTile01.OZT-e2bb63b942505b0f0cf3505c063cd582.res"]
+
+[params]
+

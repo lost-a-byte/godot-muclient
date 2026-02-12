@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq0txdgndi8vx"
+path="res://.godot/imported/Glacus.OZJ-9951ff0e5e9ff99cbafabad7071616f3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Glacus.OZJ"
+dest_files=["res://.godot/imported/Glacus.OZJ-9951ff0e5e9ff99cbafabad7071616f3.res"]
+
+[params]
+

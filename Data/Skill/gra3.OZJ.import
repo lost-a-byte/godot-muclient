@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7ug5d5bsyyfe"
+path="res://.godot/imported/gra3.OZJ-d84410464bf9568dfea2cae565970b3c.res"
+
+[deps]
+
+source_file="res://Data/Skill/gra3.OZJ"
+dest_files=["res://.godot/imported/gra3.OZJ-d84410464bf9568dfea2cae565970b3c.res"]
+
+[params]
+

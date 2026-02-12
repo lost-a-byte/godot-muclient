@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cj6ku7gaj1mr"
+path="res://.godot/imported/HolyAngelStaff.bmd-dad1eba8077cae7c34af822788d37b7a.scn"
+
+[deps]
+
+source_file="res://Data/Item/HolyAngelStaff.bmd"
+dest_files=["res://.godot/imported/HolyAngelStaff.bmd-dad1eba8077cae7c34af822788d37b7a.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clly6eis4h7y0"
+path="res://.godot/imported/Hero.OZT-3871d00d2d2359b445f84685c9e6a79e.res"
+
+[deps]
+
+source_file="res://Data/Interface/Hero.OZT"
+dest_files=["res://.godot/imported/Hero.OZT-3871d00d2d2359b445f84685c9e6a79e.res"]
+
+[params]
+

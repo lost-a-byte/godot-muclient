@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj87843u1ccjf"
+path="res://.godot/imported/stonegolem.OZJ-42be81a4b4f3694b62cc0c9ff306dd96.res"
+
+[deps]
+
+source_file="res://Data/Monster/stonegolem.OZJ"
+dest_files=["res://.godot/imported/stonegolem.OZJ-42be81a4b4f3694b62cc0c9ff306dd96.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cieot6uw7xv5l"
+path="res://.godot/imported/evolutionstone.OZJ-a546f68bbdc5bd1809a2f79361473e09.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/evolutionstone.OZJ"
+dest_files=["res://.godot/imported/evolutionstone.OZJ-a546f68bbdc5bd1809a2f79361473e09.res"]
+
+[params]
+

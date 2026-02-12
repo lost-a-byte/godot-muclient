@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwahukaub03ri"
+path="res://.godot/imported/magicstore_R.OZJ-dfc521766fe4f0324aba66e72a0f373a.res"
+
+[deps]
+
+source_file="res://Data/Monster/magicstore_R.OZJ"
+dest_files=["res://.godot/imported/magicstore_R.OZJ-dfc521766fe4f0324aba66e72a0f373a.res"]
+
+[params]
+

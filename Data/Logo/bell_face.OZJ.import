@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqbbnmdlng5r8"
+path="res://.godot/imported/bell_face.OZJ-a843af6550f280185e61e280cef03940.res"
+
+[deps]
+
+source_file="res://Data/Logo/bell_face.OZJ"
+dest_files=["res://.godot/imported/bell_face.OZJ-a843af6550f280185e61e280cef03940.res"]
+
+[params]
+

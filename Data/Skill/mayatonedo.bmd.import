@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ctc7x20nl1csk"
+path="res://.godot/imported/mayatonedo.bmd-91f10f86b49ed928b01ed240c658cb41.scn"
+
+[deps]
+
+source_file="res://Data/Skill/mayatonedo.bmd"
+dest_files=["res://.godot/imported/mayatonedo.bmd-91f10f86b49ed928b01ed240c658cb41.scn"]
+
+[params]
+
+modelScale=0.01

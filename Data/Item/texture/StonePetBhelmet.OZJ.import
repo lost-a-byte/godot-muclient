@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbjxixkpgbtbw"
+path="res://.godot/imported/StonePetBhelmet.OZJ-a3cb253ee5a10359d604927ab7e92c90.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/StonePetBhelmet.OZJ"
+dest_files=["res://.godot/imported/StonePetBhelmet.OZJ-a3cb253ee5a10359d604927ab7e92c90.res"]
+
+[params]
+

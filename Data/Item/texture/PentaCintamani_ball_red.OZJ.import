@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tpyq00ciowln"
+path="res://.godot/imported/PentaCintamani_ball_red.OZJ-120fc39171e090f920cf191c071684f7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaCintamani_ball_red.OZJ"
+dest_files=["res://.godot/imported/PentaCintamani_ball_red.OZJ-120fc39171e090f920cf191c071684f7.res"]
+
+[params]
+

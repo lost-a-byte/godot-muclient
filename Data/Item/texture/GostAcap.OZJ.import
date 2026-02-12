@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu37sche2mxhm"
+path="res://.godot/imported/GostAcap.OZJ-f64b3d664e21789a0295d44ca106a208.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GostAcap.OZJ"
+dest_files=["res://.godot/imported/GostAcap.OZJ-f64b3d664e21789a0295d44ca106a208.res"]
+
+[params]
+

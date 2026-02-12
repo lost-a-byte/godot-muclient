@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ulxcvwfvtnt6"
+path="res://.godot/imported/upper_luck13m.ozj-62ffef573f1fd92d93f37ac12363f306.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/upper_luck13m.ozj"
+dest_files=["res://.godot/imported/upper_luck13m.ozj-62ffef573f1fd92d93f37ac12363f306.res"]
+
+[params]
+

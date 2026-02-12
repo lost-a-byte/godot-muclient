@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://df2nf6cm8lcjy"
+path="res://.godot/imported/Ability_ContractStone.bmd-33cd3bdded798e5d00694dd423319b32.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ability_ContractStone.bmd"
+dest_files=["res://.godot/imported/Ability_ContractStone.bmd-33cd3bdded798e5d00694dd423319b32.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b4o3jl7bxuqgl"
+path="res://.godot/imported/icedragon_rare.bmd-57af5f4d0694270a1846a52556deb00c.scn"
+
+[deps]
+
+source_file="res://Data/Skill/icedragon_rare.bmd"
+dest_files=["res://.godot/imported/icedragon_rare.bmd-57af5f4d0694270a1846a52556deb00c.scn"]
+
+[params]
+
+modelScale=0.01

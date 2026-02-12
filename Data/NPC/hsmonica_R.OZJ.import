@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8hj783e7ocdg"
+path="res://.godot/imported/hsmonica_R.OZJ-dede2310d72c106fffb1a7319f3fb95b.res"
+
+[deps]
+
+source_file="res://Data/NPC/hsmonica_R.OZJ"
+dest_files=["res://.godot/imported/hsmonica_R.OZJ-dede2310d72c106fffb1a7319f3fb95b.res"]
+
+[params]
+

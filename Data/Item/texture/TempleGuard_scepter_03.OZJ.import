@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byeb41jcj41wi"
+path="res://.godot/imported/TempleGuard_scepter_03.OZJ-8f076f9930f973da9ad0c475e19e6268.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_scepter_03.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_scepter_03.OZJ-8f076f9930f973da9ad0c475e19e6268.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://78jpltfgce6v"
+path="res://.godot/imported/magma_R.OZJ-f2695f5449000dc8576dc8fe45b5c79c.res"
+
+[deps]
+
+source_file="res://Data/Object32/magma_R.OZJ"
+dest_files=["res://.godot/imported/magma_R.OZJ-f2695f5449000dc8576dc8fe45b5c79c.res"]
+
+[params]
+

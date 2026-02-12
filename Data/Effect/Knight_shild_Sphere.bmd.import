@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b33qgu1quyyga"
+path="res://.godot/imported/Knight_shild_Sphere.bmd-1bc43052fdefdf5acc7f55be852bbac6.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Knight_shild_Sphere.bmd"
+dest_files=["res://.godot/imported/Knight_shild_Sphere.bmd-1bc43052fdefdf5acc7f55be852bbac6.scn"]
+
+[params]
+
+modelScale=0.01

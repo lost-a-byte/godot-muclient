@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3hpoofcj6sjg"
+path="res://.godot/imported/SheepStatue.bmd-a8d283cf07b8b3830eb482f701169180.scn"
+
+[deps]
+
+source_file="res://Data/Item/SheepStatue.bmd"
+dest_files=["res://.godot/imported/SheepStatue.bmd-a8d283cf07b8b3830eb482f701169180.scn"]
+
+[params]
+
+modelScale=0.01

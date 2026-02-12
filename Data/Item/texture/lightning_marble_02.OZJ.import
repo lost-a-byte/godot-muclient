@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c03ectfqtgpmo"
+path="res://.godot/imported/lightning_marble_02.OZJ-941be1e3c38930ee38ecf639590a64c7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_marble_02.OZJ"
+dest_files=["res://.godot/imported/lightning_marble_02.OZJ-941be1e3c38930ee38ecf639590a64c7.res"]
+
+[params]
+

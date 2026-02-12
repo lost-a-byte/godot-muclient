@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcur1ia0gwi85"
+path="res://.godot/imported/DefenseMedicine.OZJ-a98883ae8e059c269333f1c4849ace87.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DefenseMedicine.OZJ"
+dest_files=["res://.godot/imported/DefenseMedicine.OZJ-a98883ae8e059c269333f1c4849ace87.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://di8pqrkdlxiv"
+path="res://.godot/imported/gunman3.OZJ-db719d68c910d52a9ea27fc3dd87a2e1.res"
+
+[deps]
+
+source_file="res://Data/Logo/gunman3.OZJ"
+dest_files=["res://.godot/imported/gunman3.OZJ-db719d68c910d52a9ea27fc3dd87a2e1.res"]
+
+[params]
+

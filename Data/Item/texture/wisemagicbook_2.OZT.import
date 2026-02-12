@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp586d2n535pw"
+path="res://.godot/imported/wisemagicbook_2.OZT-61e8a7fd5349d01136302f024f4d80ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wisemagicbook_2.OZT"
+dest_files=["res://.godot/imported/wisemagicbook_2.OZT-61e8a7fd5349d01136302f024f4d80ea.res"]
+
+[params]
+

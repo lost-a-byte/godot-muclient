@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp5nqwrfmxdx7"
+path="res://.godot/imported/growlancerwing4db_render.OZJ-3bd87e1c2d33a38173ba5942b93e80b8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/growlancerwing4db_render.OZJ"
+dest_files=["res://.godot/imported/growlancerwing4db_render.OZJ-3bd87e1c2d33a38173ba5942b93e80b8.res"]
+
+[params]
+

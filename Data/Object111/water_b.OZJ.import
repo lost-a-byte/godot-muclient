@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mv8l1fko7hnn"
+path="res://.godot/imported/water_b.OZJ-b7001fae5cf6a5a985ba7c91081c2f71.res"
+
+[deps]
+
+source_file="res://Data/Object111/water_b.OZJ"
+dest_files=["res://.godot/imported/water_b.OZJ-b7001fae5cf6a5a985ba7c91081c2f71.res"]
+
+[params]
+

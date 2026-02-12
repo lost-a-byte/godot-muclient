@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btn1bau7mpmbu"
+path="res://.godot/imported/TempleGuard_Quiver_01.OZJ-c32aa44c48cd855ad7b49445015d1187.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_Quiver_01.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_Quiver_01.OZJ-c32aa44c48cd855ad7b49445015d1187.res"]
+
+[params]
+

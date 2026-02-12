@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctoli7pxbtbv5"
+path="res://.godot/imported/Stormfiends_armor.OZJ-03a2837e7cfb359b4dad58aaae1a9ed3.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormfiends_armor.OZJ"
+dest_files=["res://.godot/imported/Stormfiends_armor.OZJ-03a2837e7cfb359b4dad58aaae1a9ed3.res"]
+
+[params]
+

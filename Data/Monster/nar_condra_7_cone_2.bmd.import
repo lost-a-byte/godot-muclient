@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://foqc1bcmaxyu"
+path="res://.godot/imported/nar_condra_7_cone_2.bmd-2d3dcd36c04f2c405a55b9470517bfba.scn"
+
+[deps]
+
+source_file="res://Data/Monster/nar_condra_7_cone_2.bmd"
+dest_files=["res://.godot/imported/nar_condra_7_cone_2.bmd-2d3dcd36c04f2c405a55b9470517bfba.scn"]
+
+[params]
+
+modelScale=0.01

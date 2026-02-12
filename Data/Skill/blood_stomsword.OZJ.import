@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clekro8oid636"
+path="res://.godot/imported/blood_stomsword.OZJ-cfbfa98eb8ce21505f9c3f81c2450644.res"
+
+[deps]
+
+source_file="res://Data/Skill/blood_stomsword.OZJ"
+dest_files=["res://.godot/imported/blood_stomsword.OZJ-cfbfa98eb8ce21505f9c3f81c2450644.res"]
+
+[params]
+

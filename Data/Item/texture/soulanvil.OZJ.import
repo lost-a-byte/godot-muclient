@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pl6ti3sumeki"
+path="res://.godot/imported/soulanvil.OZJ-1157d764952463e4a55bd1f0162d7309.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soulanvil.OZJ"
+dest_files=["res://.godot/imported/soulanvil.OZJ-1157d764952463e4a55bd1f0162d7309.res"]
+
+[params]
+

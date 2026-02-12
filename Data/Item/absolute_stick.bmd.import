@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cr53e4g6os0ev"
+path="res://.godot/imported/absolute_stick.bmd-8e40a6ac9731cdbb4fa832ef91f677d9.scn"
+
+[deps]
+
+source_file="res://Data/Item/absolute_stick.bmd"
+dest_files=["res://.godot/imported/absolute_stick.bmd-8e40a6ac9731cdbb4fa832ef91f677d9.scn"]
+
+[params]
+
+modelScale=0.01

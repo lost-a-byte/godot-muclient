@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4hts0uugse0t"
+path="res://.godot/imported/wing3chaking.ozj-4d8d7cf6906a2a5212f48167a88cfdfd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wing3chaking.ozj"
+dest_files=["res://.godot/imported/wing3chaking.ozj-4d8d7cf6906a2a5212f48167a88cfdfd.res"]
+
+[params]
+

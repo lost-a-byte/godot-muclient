@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb5roeoboafye"
+path="res://.godot/imported/devilcrossbowchok.OZJ-83aec50947d3fd5e883c6fb265318124.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/devilcrossbowchok.OZJ"
+dest_files=["res://.godot/imported/devilcrossbowchok.OZJ-83aec50947d3fd5e883c6fb265318124.res"]
+
+[params]
+

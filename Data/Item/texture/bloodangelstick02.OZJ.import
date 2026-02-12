@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdmonr7qvsa48"
+path="res://.godot/imported/bloodangelstick02.OZJ-1a4e36dcebf1b1e6c1293557d6b72b9c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodangelstick02.OZJ"
+dest_files=["res://.godot/imported/bloodangelstick02.OZJ-1a4e36dcebf1b1e6c1293557d6b72b9c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3fgajrckounk"
+path="res://.godot/imported/Attributes.OZJ-268bac416b8ee26a7a1e01d1ba46f4fe.res"
+
+[deps]
+
+source_file="res://Data/Effect/Attributes.OZJ"
+dest_files=["res://.godot/imported/Attributes.OZJ-268bac416b8ee26a7a1e01d1ba46f4fe.res"]
+
+[params]
+

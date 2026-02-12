@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cy7mmbmqaqfni"
+path="res://.godot/imported/sd_propertycard02.bmd-aea087bb19065dd217e0ef09643ca6be.scn"
+
+[deps]
+
+source_file="res://Data/Item/sd_propertycard02.bmd"
+dest_files=["res://.godot/imported/sd_propertycard02.bmd-aea087bb19065dd217e0ef09643ca6be.scn"]
+
+[params]
+
+modelScale=0.01

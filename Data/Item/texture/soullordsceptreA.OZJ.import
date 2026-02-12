@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3jxhghtrrcin"
+path="res://.godot/imported/soullordsceptreA.OZJ-fdf20bbd6d033fbf0a5c41738c358dff.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soullordsceptreA.OZJ"
+dest_files=["res://.godot/imported/soullordsceptreA.OZJ-fdf20bbd6d033fbf0a5c41738c358dff.res"]
+
+[params]
+

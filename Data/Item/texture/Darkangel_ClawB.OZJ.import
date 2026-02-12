@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q5nbygk0ysda"
+path="res://.godot/imported/Darkangel_ClawB.OZJ-f797b6f5458d26d510835e18adf53960.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Darkangel_ClawB.OZJ"
+dest_files=["res://.godot/imported/Darkangel_ClawB.OZJ-f797b6f5458d26d510835e18adf53960.res"]
+
+[params]
+

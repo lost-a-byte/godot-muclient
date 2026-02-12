@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpgyk7ce8nwji"
+path="res://.godot/imported/GroundEff.OZJ-a5544f558732f3f55d94cea2b1cbe75f.res"
+
+[deps]
+
+source_file="res://Data/Skill/GroundEff.OZJ"
+dest_files=["res://.godot/imported/GroundEff.OZJ-a5544f558732f3f55d94cea2b1cbe75f.res"]
+
+[params]
+

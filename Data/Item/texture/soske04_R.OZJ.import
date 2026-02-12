@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://u67m2ak31uie"
+path="res://.godot/imported/soske04_R.OZJ-fa9a0de93805578a6be8280d94bfdf82.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soske04_R.OZJ"
+dest_files=["res://.godot/imported/soske04_R.OZJ-fa9a0de93805578a6be8280d94bfdf82.res"]
+
+[params]
+

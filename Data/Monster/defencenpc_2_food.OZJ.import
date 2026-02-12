@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cho4j2lrjfn65"
+path="res://.godot/imported/defencenpc_2_food.OZJ-7f0fd1282b7ee2f633d4304a20aca279.res"
+
+[deps]
+
+source_file="res://Data/Monster/defencenpc_2_food.OZJ"
+dest_files=["res://.godot/imported/defencenpc_2_food.OZJ-7f0fd1282b7ee2f633d4304a20aca279.res"]
+
+[params]
+

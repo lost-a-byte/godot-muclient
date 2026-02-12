@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxfmtarlecc0s"
+path="res://.godot/imported/sphereGold_item.OZJ-4779daef3cf6df6ca932d6f51b9f457a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sphereGold_item.OZJ"
+dest_files=["res://.godot/imported/sphereGold_item.OZJ-4779daef3cf6df6ca932d6f51b9f457a.res"]
+
+[params]
+

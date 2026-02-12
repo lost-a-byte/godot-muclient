@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmo63mgsh2rbs"
+path="res://.godot/imported/alcamopet_evol.bmd-c24fc5a4abcf52a26ac51524678c83ab.scn"
+
+[deps]
+
+source_file="res://Data/Item/alcamopet_evol.bmd"
+dest_files=["res://.godot/imported/alcamopet_evol.bmd-c24fc5a4abcf52a26ac51524678c83ab.scn"]
+
+[params]
+
+modelScale=0.01

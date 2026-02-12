@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://det4i6yfjrtwb"
+path="res://.godot/imported/bass_ground.OZJ-0b3453b7d1d04616bd471bfa432ba2fd.res"
+
+[deps]
+
+source_file="res://Data/Monster/bass_ground.OZJ"
+dest_files=["res://.godot/imported/bass_ground.OZJ-0b3453b7d1d04616bd471bfa432ba2fd.res"]
+
+[params]
+

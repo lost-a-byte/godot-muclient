@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://noeo5lb4r0wl"
+path="res://.godot/imported/main_earth.OZJ-bcaa7a4f355b4b3183d192542adc57a0.res"
+
+[deps]
+
+source_file="res://Data/Logo/main_earth.OZJ"
+dest_files=["res://.godot/imported/main_earth.OZJ-bcaa7a4f355b4b3183d192542adc57a0.res"]
+
+[params]
+

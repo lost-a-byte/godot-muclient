@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buwkvyj4yhal"
+path="res://.godot/imported/Masteryshild_dk03.OZJ-50faad5739bfd8a1f121e836521224af.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Masteryshild_dk03.OZJ"
+dest_files=["res://.godot/imported/Masteryshild_dk03.OZJ-50faad5739bfd8a1f121e836521224af.res"]
+
+[params]
+

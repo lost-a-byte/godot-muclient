@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://88l8jmtw36av"
+path="res://.godot/imported/CursorPush.ozt-7f015f4f44a1d1f2d91c0a1f0baf1295.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorPush.ozt"
+dest_files=["res://.godot/imported/CursorPush.ozt-7f015f4f44a1d1f2d91c0a1f0baf1295.res"]
+
+[params]
+

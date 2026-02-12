@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b7iyd4a4132st"
+path="res://.godot/imported/Elhaz_Mace.bmd-3fe01ccb64a21a80723f51df3f0dc7e1.scn"
+
+[deps]
+
+source_file="res://Data/Item/Elhaz_Mace.bmd"
+dest_files=["res://.godot/imported/Elhaz_Mace.bmd-3fe01ccb64a21a80723f51df3f0dc7e1.scn"]
+
+[params]
+
+modelScale=0.01

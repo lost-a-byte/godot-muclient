@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgysqhdje30to"
+path="res://.godot/imported/chgateaux1.ozj-1b3c9a5a718c8dc555121534fd156720.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chgateaux1.ozj"
+dest_files=["res://.godot/imported/chgateaux1.ozj-1b3c9a5a718c8dc555121534fd156720.res"]
+
+[params]
+

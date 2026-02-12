@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2vjb3wcc3v0x"
+path="res://.godot/imported/cs_skill_part1.bmd-ae8d11df42a789ec82d16e925e05f2bf.scn"
+
+[deps]
+
+source_file="res://Data/Effect/cs_skill_part1.bmd"
+dest_files=["res://.godot/imported/cs_skill_part1.bmd-ae8d11df42a789ec82d16e925e05f2bf.scn"]
+
+[params]
+
+modelScale=0.01

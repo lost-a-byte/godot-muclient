@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbqpupdl4d6hc"
+path="res://.godot/imported/newui_cha_textbox02.OZT-29deec715cd24a95b1aba799cba5c256.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_cha_textbox02.OZT"
+dest_files=["res://.godot/imported/newui_cha_textbox02.OZT-29deec715cd24a95b1aba799cba5c256.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfk5bg3yaimio"
+path="res://.godot/imported/Snow02.bmd-8e927acced9115c43b5c1e5746945802.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Snow02.bmd"
+dest_files=["res://.godot/imported/Snow02.bmd-8e927acced9115c43b5c1e5746945802.scn"]
+
+[params]
+
+modelScale=0.01

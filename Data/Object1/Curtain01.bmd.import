@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ctuh84kubu0"
+path="res://.godot/imported/Curtain01.bmd-ecfb00be96357fe6818cdcda6ea4734d.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Curtain01.bmd"
+dest_files=["res://.godot/imported/Curtain01.bmd-ecfb00be96357fe6818cdcda6ea4734d.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3n2oopyq2230"
+path="res://.godot/imported/06mastery_bow0601.OZJ-3a5951e5870d6d8c8934eb531e640e06.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/06mastery_bow0601.OZJ"
+dest_files=["res://.godot/imported/06mastery_bow0601.OZJ-3a5951e5870d6d8c8934eb531e640e06.res"]
+
+[params]
+

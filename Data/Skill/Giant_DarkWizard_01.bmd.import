@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dn8cbqww6nbp1"
+path="res://.godot/imported/Giant_DarkWizard_01.bmd-4473c350b1c9c9666a46cd58aacdc152.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_DarkWizard_01.bmd"
+dest_files=["res://.godot/imported/Giant_DarkWizard_01.bmd-4473c350b1c9c9666a46cd58aacdc152.scn"]
+
+[params]
+
+modelScale=0.01

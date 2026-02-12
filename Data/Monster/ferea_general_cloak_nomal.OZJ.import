@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwi17qd53v4b3"
+path="res://.godot/imported/ferea_general_cloak_nomal.OZJ-84840c0b682896f76740bdbdd7f2cf5b.res"
+
+[deps]
+
+source_file="res://Data/Monster/ferea_general_cloak_nomal.OZJ"
+dest_files=["res://.godot/imported/ferea_general_cloak_nomal.OZJ-84840c0b682896f76740bdbdd7f2cf5b.res"]
+
+[params]
+

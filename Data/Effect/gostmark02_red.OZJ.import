@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccvjq4dd1a5v3"
+path="res://.godot/imported/gostmark02_red.OZJ-21d98d61298079cbb8a970928c3f6175.res"
+
+[deps]
+
+source_file="res://Data/Effect/gostmark02_red.OZJ"
+dest_files=["res://.godot/imported/gostmark02_red.OZJ-21d98d61298079cbb8a970928c3f6175.res"]
+
+[params]
+

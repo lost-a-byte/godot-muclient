@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cas0fx0x6vwro"
+path="res://.godot/imported/CRIMSON HARPY(1).wav-7f32862fd0f90a1ed59398b159ef5ae5.sample"
+
+[deps]
+
+source_file="res://Data/Sound/Kethotum/CRIMSON HARPY(1).wav"
+dest_files=["res://.godot/imported/CRIMSON HARPY(1).wav-7f32862fd0f90a1ed59398b159ef5ae5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

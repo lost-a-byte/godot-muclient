@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lhtani8t7ruy"
+path="res://.godot/imported/swordmagum_06e.ozj-b6f4c00c89dbd5516dde2a9461c4b399.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/swordmagum_06e.ozj"
+dest_files=["res://.godot/imported/swordmagum_06e.ozj-b6f4c00c89dbd5516dde2a9461c4b399.res"]
+
+[params]
+

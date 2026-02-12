@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgmcvulg2ryly"
+path="res://.godot/imported/PentaCintamani_ball_gold.OZJ-c337cd998cb36d9829a34b9b0018a0f7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaCintamani_ball_gold.OZJ"
+dest_files=["res://.godot/imported/PentaCintamani_ball_gold.OZJ-c337cd998cb36d9829a34b9b0018a0f7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dk50lcjdox6lf"
+path="res://.godot/imported/HeartGirlBWing.OZJ-d558b012ec48d69a23892134bd1c389e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HeartGirlBWing.OZJ"
+dest_files=["res://.godot/imported/HeartGirlBWing.OZJ-d558b012ec48d69a23892134bd1c389e.res"]
+
+[params]
+

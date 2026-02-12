@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d10rhsccp0bc5"
+path="res://.godot/imported/Model_Npc_Catapult_Def.bmd-778ad8872795a205d81a4398de7ed381.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Model_Npc_Catapult_Def.bmd"
+dest_files=["res://.godot/imported/Model_Npc_Catapult_Def.bmd-778ad8872795a205d81a4398de7ed381.scn"]
+
+[params]
+
+modelScale=0.01

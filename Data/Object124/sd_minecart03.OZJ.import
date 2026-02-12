@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vrbxrrc5f21d"
+path="res://.godot/imported/sd_minecart03.OZJ-cfd6c7e139d4ab8e640eddef4af45cc7.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_minecart03.OZJ"
+dest_files=["res://.godot/imported/sd_minecart03.OZJ-cfd6c7e139d4ab8e640eddef4af45cc7.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d0321tbggosd1"
+path="res://.godot/imported/seirenpet_evol.bmd-416775e8b04035d83f87e0339a6376ce.scn"
+
+[deps]
+
+source_file="res://Data/Item/seirenpet_evol.bmd"
+dest_files=["res://.godot/imported/seirenpet_evol.bmd-416775e8b04035d83f87e0339a6376ce.scn"]
+
+[params]
+
+modelScale=0.01

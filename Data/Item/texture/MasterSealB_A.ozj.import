@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cinh6p2nae1f6"
+path="res://.godot/imported/MasterSealB_A.ozj-66c72eae259d96dc06101038cbf72c5a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MasterSealB_A.ozj"
+dest_files=["res://.godot/imported/MasterSealB_A.ozj-66c72eae259d96dc06101038cbf72c5a.res"]
+
+[params]
+

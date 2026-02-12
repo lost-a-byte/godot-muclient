@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://e4wjkpiaiw7f"
+path="res://.godot/imported/terhead.OZJ-7205b8da7e6d1eb4c51d4d87880e1772.res"
+
+[deps]
+
+source_file="res://Data/NPC/terhead.OZJ"
+dest_files=["res://.godot/imported/terhead.OZJ-7205b8da7e6d1eb4c51d4d87880e1772.res"]
+
+[params]
+

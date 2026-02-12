@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1p2cne6f2ljs"
+path="res://.godot/imported/DragonWall.OZJ-4e7acb2519a004e7b52a00313b354432.res"
+
+[deps]
+
+source_file="res://Data/Object42/DragonWall.OZJ"
+dest_files=["res://.godot/imported/DragonWall.OZJ-4e7acb2519a004e7b52a00313b354432.res"]
+
+[params]
+

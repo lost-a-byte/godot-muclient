@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4nf461auxxd6"
+path="res://.godot/imported/KnightE.OZJ-b4dd2985144d1c2437ea367765c0f896.res"
+
+[deps]
+
+source_file="res://Data/Effect/KnightE.OZJ"
+dest_files=["res://.godot/imported/KnightE.OZJ-b4dd2985144d1c2437ea367765c0f896.res"]
+
+[params]
+

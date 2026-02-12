@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cake5ajf2c0c4"
+path="res://.godot/imported/xmasringA.ozj-5d93721cd02915a006302e56b54b2b7a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/xmasringA.ozj"
+dest_files=["res://.godot/imported/xmasringA.ozj-5d93721cd02915a006302e56b54b2b7a.res"]
+
+[params]
+

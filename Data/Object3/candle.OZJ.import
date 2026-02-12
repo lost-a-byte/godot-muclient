@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxenu8n0bh1vl"
+path="res://.godot/imported/candle.OZJ-827119870aa7b7db86c0dd3f9835a3b4.res"
+
+[deps]
+
+source_file="res://Data/Object3/candle.OZJ"
+dest_files=["res://.godot/imported/candle.OZJ-827119870aa7b7db86c0dd3f9835a3b4.res"]
+
+[params]
+

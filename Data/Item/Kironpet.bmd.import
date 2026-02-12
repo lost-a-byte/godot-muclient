@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xvt0cykadr32"
+path="res://.godot/imported/Kironpet.bmd-b39030c535d507e3d42dc55c81b943a8.scn"
+
+[deps]
+
+source_file="res://Data/Item/Kironpet.bmd"
+dest_files=["res://.godot/imported/Kironpet.bmd-b39030c535d507e3d42dc55c81b943a8.scn"]
+
+[params]
+
+modelScale=0.01

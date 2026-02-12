@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cp74vq566ifli"
+path="res://.godot/imported/SapiUnusleaf_R.OZJ-2450709d1724b9736a201b90fa94a2d1.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiUnusleaf_R.OZJ"
+dest_files=["res://.godot/imported/SapiUnusleaf_R.OZJ-2450709d1724b9736a201b90fa94a2d1.res"]
+
+[params]
+

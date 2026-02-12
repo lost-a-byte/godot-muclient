@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://di04buyoxw27g"
+path="res://.godot/imported/i_attack.OZT-6d4f2ac775fb048ae191b5bb4672fbb2.res"
+
+[deps]
+
+source_file="res://Data/Interface/i_attack.OZT"
+dest_files=["res://.godot/imported/i_attack.OZT-6d4f2ac775fb048ae191b5bb4672fbb2.res"]
+
+[params]
+

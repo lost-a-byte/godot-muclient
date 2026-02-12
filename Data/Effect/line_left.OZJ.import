@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnr0ml1rhtnw"
+path="res://.godot/imported/line_left.OZJ-5f217219bf59c0640ce0bbe6ab24ef3f.res"
+
+[deps]
+
+source_file="res://Data/Effect/line_left.OZJ"
+dest_files=["res://.godot/imported/line_left.OZJ-5f217219bf59c0640ce0bbe6ab24ef3f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://walc28oqrd8x"
+path="res://.godot/imported/pentaD.OZJ-2f426f8975467c1a3617933501a8a950.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pentaD.OZJ"
+dest_files=["res://.godot/imported/pentaD.OZJ-2f426f8975467c1a3617933501a8a950.res"]
+
+[params]
+

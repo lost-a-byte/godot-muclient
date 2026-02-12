@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xp5f8g3erv7p"
+path="res://.godot/imported/newui_chat_guild_on.OZJ-727de47d0bfb591bea2584fa99f1c584.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_chat_guild_on.OZJ"
+dest_files=["res://.godot/imported/newui_chat_guild_on.OZJ-727de47d0bfb591bea2584fa99f1c584.res"]
+
+[params]
+

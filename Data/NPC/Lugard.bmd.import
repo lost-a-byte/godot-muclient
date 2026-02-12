@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjesdxl523muy"
+path="res://.godot/imported/Lugard.bmd-666acc03a1c72aecbcb385a67c366af7.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Lugard.bmd"
+dest_files=["res://.godot/imported/Lugard.bmd-666acc03a1c72aecbcb385a67c366af7.scn"]
+
+[params]
+
+modelScale=0.01

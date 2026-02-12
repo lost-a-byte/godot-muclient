@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dyt8h54vdwnje"
+path="res://.godot/imported/elf_shield04.bmd-937b3e7a978d1e4ce0facf60c27c822a.scn"
+
+[deps]
+
+source_file="res://Data/Item/elf_shield04.bmd"
+dest_files=["res://.godot/imported/elf_shield04.bmd-937b3e7a978d1e4ce0facf60c27c822a.scn"]
+
+[params]
+
+modelScale=0.01

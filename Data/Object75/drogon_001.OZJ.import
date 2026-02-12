@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hvc1n814nmk2"
+path="res://.godot/imported/drogon_001.OZJ-e10c2302a171ba8ada50ef639814aaaa.res"
+
+[deps]
+
+source_file="res://Data/Object75/drogon_001.OZJ"
+dest_files=["res://.godot/imported/drogon_001.OZJ-e10c2302a171ba8ada50ef639814aaaa.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bduf0i4k213hp"
+path="res://.godot/imported/lightning_twohandsword.bmd-abdbe0aad562c5f749086d7aaf91e545.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_twohandsword.bmd"
+dest_files=["res://.godot/imported/lightning_twohandsword.bmd-abdbe0aad562c5f749086d7aaf91e545.scn"]
+
+[params]
+
+modelScale=0.01

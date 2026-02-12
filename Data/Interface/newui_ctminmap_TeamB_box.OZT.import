@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xb2flyu4gx0j"
+path="res://.godot/imported/newui_ctminmap_TeamB_box.OZT-7e97ff9eb06214ecfb7c469e7dd4bf5b.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_ctminmap_TeamB_box.OZT"
+dest_files=["res://.godot/imported/newui_ctminmap_TeamB_box.OZT-7e97ff9eb06214ecfb7c469e7dd4bf5b.res"]
+
+[params]
+

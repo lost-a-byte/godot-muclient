@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgdasv1fsqrsd"
+path="res://.godot/imported/Giant_darkW_Gray2.OZJ-9dd27529966c0c639a64a647be1d7215.res"
+
+[deps]
+
+source_file="res://Data/Monster/Giant_darkW_Gray2.OZJ"
+dest_files=["res://.godot/imported/Giant_darkW_Gray2.OZJ-9dd27529966c0c639a64a647be1d7215.res"]
+
+[params]
+

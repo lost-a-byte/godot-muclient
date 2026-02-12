@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpd68dgnc2an7"
+path="res://.godot/imported/potal_ground.OZJ-fe7baced793f70b54cf1925e6f415d0b.res"
+
+[deps]
+
+source_file="res://Data/Object101/potal_ground.OZJ"
+dest_files=["res://.godot/imported/potal_ground.OZJ-fe7baced793f70b54cf1925e6f415d0b.res"]
+
+[params]
+

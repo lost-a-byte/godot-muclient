@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ck2hl80g22g0n"
+path="res://.godot/imported/test2.OZT-5b33b8bf5a2e8c25ea9589b979e9c7e8.res"
+
+[deps]
+
+source_file="res://Data/Skill/test2.OZT"
+dest_files=["res://.godot/imported/test2.OZT-5b33b8bf5a2e8c25ea9589b979e9c7e8.res"]
+
+[params]
+

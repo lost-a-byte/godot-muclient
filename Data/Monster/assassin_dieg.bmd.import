@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dprvwa4dfmhgv"
+path="res://.godot/imported/assassin_dieg.bmd-a3674c1a7f30d0a67f33ce7d295382cd.scn"
+
+[deps]
+
+source_file="res://Data/Monster/assassin_dieg.bmd"
+dest_files=["res://.godot/imported/assassin_dieg.bmd-a3674c1a7f30d0a67f33ce7d295382cd.scn"]
+
+[params]
+
+modelScale=0.01

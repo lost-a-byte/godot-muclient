@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7vsjewb2xska"
+path="res://.godot/imported/DeadmineShovel_Crystal.OZJ-77c1a4bccb953247861c9a81fbf587ad.res"
+
+[deps]
+
+source_file="res://Data/Monster/DeadmineShovel_Crystal.OZJ"
+dest_files=["res://.godot/imported/DeadmineShovel_Crystal.OZJ-77c1a4bccb953247861c9a81fbf587ad.res"]
+
+[params]
+

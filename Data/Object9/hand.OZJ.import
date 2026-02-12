@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxkfkp0j8i1ww"
+path="res://.godot/imported/hand.OZJ-80f1c6d68eceb29ee7fbff2aa0b50700.res"
+
+[deps]
+
+source_file="res://Data/Object9/hand.OZJ"
+dest_files=["res://.godot/imported/hand.OZJ-80f1c6d68eceb29ee7fbff2aa0b50700.res"]
+
+[params]
+

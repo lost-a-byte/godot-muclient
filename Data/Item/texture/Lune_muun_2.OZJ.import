@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d06rcbhcbxwnv"
+path="res://.godot/imported/Lune_muun_2.OZJ-15a49084eba2380dc9c4254009864b50.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Lune_muun_2.OZJ"
+dest_files=["res://.godot/imported/Lune_muun_2.OZJ-15a49084eba2380dc9c4254009864b50.res"]
+
+[params]
+

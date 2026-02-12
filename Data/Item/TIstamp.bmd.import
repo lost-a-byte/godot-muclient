@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cg2wf4ngnlows"
+path="res://.godot/imported/TIstamp.bmd-1fe2ffe469110e504bca7f7d753e44df.scn"
+
+[deps]
+
+source_file="res://Data/Item/TIstamp.bmd"
+dest_files=["res://.godot/imported/TIstamp.bmd-1fe2ffe469110e504bca7f7d753e44df.scn"]
+
+[params]
+
+modelScale=0.01

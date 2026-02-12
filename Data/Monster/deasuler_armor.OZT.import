@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5flpg5xdaog"
+path="res://.godot/imported/deasuler_armor.OZT-2588162acf37d70e6da3172a8602c70a.res"
+
+[deps]
+
+source_file="res://Data/Monster/deasuler_armor.OZT"
+dest_files=["res://.godot/imported/deasuler_armor.OZT-2588162acf37d70e6da3172a8602c70a.res"]
+
+[params]
+

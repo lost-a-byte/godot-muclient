@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvw6ubdg3wa5e"
+path="res://.godot/imported/hs_cyclopsA.OZJ-52d663ccfca9ec297a4e3ea93f7a621e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_cyclopsA.OZJ"
+dest_files=["res://.godot/imported/hs_cyclopsA.OZJ-52d663ccfca9ec297a4e3ea93f7a621e.res"]
+
+[params]
+

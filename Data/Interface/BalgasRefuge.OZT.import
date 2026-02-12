@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dupsuddg7gp80"
+path="res://.godot/imported/BalgasRefuge.OZT-ef3af07264a1a0bce7ae239e614c9fef.res"
+
+[deps]
+
+source_file="res://Data/Interface/BalgasRefuge.OZT"
+dest_files=["res://.godot/imported/BalgasRefuge.OZT-ef3af07264a1a0bce7ae239e614c9fef.res"]
+
+[params]
+

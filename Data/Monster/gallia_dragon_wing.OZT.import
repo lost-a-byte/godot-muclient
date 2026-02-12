@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq1onh37vox3e"
+path="res://.godot/imported/gallia_dragon_wing.OZT-af3f502948dc900e77d0a88135fc25fe.res"
+
+[deps]
+
+source_file="res://Data/Monster/gallia_dragon_wing.OZT"
+dest_files=["res://.godot/imported/gallia_dragon_wing.OZT-af3f502948dc900e77d0a88135fc25fe.res"]
+
+[params]
+

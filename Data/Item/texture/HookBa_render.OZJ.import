@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbu4cm8th7cdo"
+path="res://.godot/imported/HookBa_render.OZJ-622d47d9f29eb5ea972c5f7160085dc3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HookBa_render.OZJ"
+dest_files=["res://.godot/imported/HookBa_render.OZJ-622d47d9f29eb5ea972c5f7160085dc3.res"]
+
+[params]
+

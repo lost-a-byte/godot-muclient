@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpocas0nqrgh2"
+path="res://.godot/imported/warrant.OZJ-bb9acf0ec3bd44b5337d280b5a8a600b.res"
+
+[deps]
+
+source_file="res://Data/Item/warrant.OZJ"
+dest_files=["res://.godot/imported/warrant.OZJ-bb9acf0ec3bd44b5337d280b5a8a600b.res"]
+
+[params]
+

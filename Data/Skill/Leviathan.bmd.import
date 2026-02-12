@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xrm4axjxtdbv"
+path="res://.godot/imported/Leviathan.bmd-f17d6347126d855930d94959fd7f5197.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Leviathan.bmd"
+dest_files=["res://.godot/imported/Leviathan.bmd-f17d6347126d855930d94959fd7f5197.scn"]
+
+[params]
+
+modelScale=0.01

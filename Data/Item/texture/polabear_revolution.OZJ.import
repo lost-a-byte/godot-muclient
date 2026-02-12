@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnlovh7rvre88"
+path="res://.godot/imported/polabear_revolution.OZJ-3fd72992c590ff2b0c680df242a45835.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/polabear_revolution.OZJ"
+dest_files=["res://.godot/imported/polabear_revolution.OZJ-3fd72992c590ff2b0c680df242a45835.res"]
+
+[params]
+

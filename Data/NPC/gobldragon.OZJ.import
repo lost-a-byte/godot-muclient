@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7fsnt6mc3u0s"
+path="res://.godot/imported/gobldragon.OZJ-519342cfba42d3bf6c755cb146fcef11.res"
+
+[deps]
+
+source_file="res://Data/NPC/gobldragon.OZJ"
+dest_files=["res://.godot/imported/gobldragon.OZJ-519342cfba42d3bf6c755cb146fcef11.res"]
+
+[params]
+

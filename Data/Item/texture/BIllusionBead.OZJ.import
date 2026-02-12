@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jipyek1x4miy"
+path="res://.godot/imported/BIllusionBead.OZJ-2ecb6688a8e036ff7f430a17e856a037.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BIllusionBead.OZJ"
+dest_files=["res://.godot/imported/BIllusionBead.OZJ-2ecb6688a8e036ff7f430a17e856a037.res"]
+
+[params]
+

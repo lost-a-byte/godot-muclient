@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgkfs1hmlidc8"
+path="res://.godot/imported/SpeedMedicine_R.OZJ-a978a638a0465e49d03d3d041c5acbc3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpeedMedicine_R.OZJ"
+dest_files=["res://.godot/imported/SpeedMedicine_R.OZJ-a978a638a0465e49d03d3d041c5acbc3.res"]
+
+[params]
+

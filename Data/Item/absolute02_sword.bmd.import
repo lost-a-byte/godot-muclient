@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmmr3dwf5sp3t"
+path="res://.godot/imported/absolute02_sword.bmd-7c747c5ab00e25503d636a29c84f07bf.scn"
+
+[deps]
+
+source_file="res://Data/Item/absolute02_sword.bmd"
+dest_files=["res://.godot/imported/absolute02_sword.bmd-7c747c5ab00e25503d636a29c84f07bf.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vvmnueb3g74h"
+path="res://.godot/imported/strongmark.ozj-0bdee3cf732d2f951510542387fe3e83.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/strongmark.ozj"
+dest_files=["res://.godot/imported/strongmark.ozj-0bdee3cf732d2f951510542387fe3e83.res"]
+
+[params]
+

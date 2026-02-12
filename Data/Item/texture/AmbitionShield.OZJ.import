@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgl8338hf337w"
+path="res://.godot/imported/AmbitionShield.OZJ-f1c6874c972d3b26c2c2304dd85206d8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AmbitionShield.OZJ"
+dest_files=["res://.godot/imported/AmbitionShield.OZJ-f1c6874c972d3b26c2c2304dd85206d8.res"]
+
+[params]
+

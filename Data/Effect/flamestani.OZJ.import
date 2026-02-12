@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfdq8qhvf1g83"
+path="res://.godot/imported/flamestani.OZJ-0c036d2a560302e50defd8f75a267089.res"
+
+[deps]
+
+source_file="res://Data/Effect/flamestani.OZJ"
+dest_files=["res://.godot/imported/flamestani.OZJ-0c036d2a560302e50defd8f75a267089.res"]
+
+[params]
+

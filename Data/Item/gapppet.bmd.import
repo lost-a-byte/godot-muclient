@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d6aw8kxjgdqd"
+path="res://.godot/imported/gapppet.bmd-a6fd668245279ba9bfe388716a766853.scn"
+
+[deps]
+
+source_file="res://Data/Item/gapppet.bmd"
+dest_files=["res://.godot/imported/gapppet.bmd-a6fd668245279ba9bfe388716a766853.scn"]
+
+[params]
+
+modelScale=0.01

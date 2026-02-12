@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co1dimldp6a6i"
+path="res://.godot/imported/bone02.OZT-2899e8355ae225c0c6da7895b52ab3f7.res"
+
+[deps]
+
+source_file="res://Data/Item/bone02.OZT"
+dest_files=["res://.godot/imported/bone02.OZT-2899e8355ae225c0c6da7895b52ab3f7.res"]
+
+[params]
+

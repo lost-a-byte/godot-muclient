@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkqqrg07pfxe0"
+path="res://.godot/imported/saramanda_effectfrie.OZJ-0cf65ec480d7897bfe31ffd90a8211f8.res"
+
+[deps]
+
+source_file="res://Data/Monster/saramanda_effectfrie.OZJ"
+dest_files=["res://.godot/imported/saramanda_effectfrie.OZJ-0cf65ec480d7897bfe31ffd90a8211f8.res"]
+
+[params]
+

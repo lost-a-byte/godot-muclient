@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crj87o0c40rl0"
+path="res://.godot/imported/flag.OZJ-9a1aa4426b866fd4aff899ae25a3bdd2.res"
+
+[deps]
+
+source_file="res://Data/Object31/flag.OZJ"
+dest_files=["res://.godot/imported/flag.OZJ-9a1aa4426b866fd4aff899ae25a3bdd2.res"]
+
+[params]
+

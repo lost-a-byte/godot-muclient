@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clfexau6dx8g4"
+path="res://.godot/imported/Pet_Emphasizer_di_h1.OZT-4389ba65fdb0756ea84ed3b5ef65897f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Pet_Emphasizer_di_h1.OZT"
+dest_files=["res://.godot/imported/Pet_Emphasizer_di_h1.OZT-4389ba65fdb0756ea84ed3b5ef65897f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyfr3vaoao1lb"
+path="res://.godot/imported/2_mono.OZJ-0764f8d521ef93b87523b196783503ba.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/2_mono.OZJ"
+dest_files=["res://.godot/imported/2_mono.OZJ-0764f8d521ef93b87523b196783503ba.res"]
+
+[params]
+

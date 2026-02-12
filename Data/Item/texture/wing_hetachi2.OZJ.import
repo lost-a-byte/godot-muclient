@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da07i20246q3k"
+path="res://.godot/imported/wing_hetachi2.OZJ-4f9e5f7c163a1c2ddce472a26fc611f2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wing_hetachi2.OZJ"
+dest_files=["res://.godot/imported/wing_hetachi2.OZJ-4f9e5f7c163a1c2ddce472a26fc611f2.res"]
+
+[params]
+

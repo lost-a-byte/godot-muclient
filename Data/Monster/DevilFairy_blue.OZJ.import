@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djr1beunouijd"
+path="res://.godot/imported/DevilFairy_blue.OZJ-b15e67d725dbc6c6e766f25843be516a.res"
+
+[deps]
+
+source_file="res://Data/Monster/DevilFairy_blue.OZJ"
+dest_files=["res://.godot/imported/DevilFairy_blue.OZJ-b15e67d725dbc6c6e766f25843be516a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3obkjv86hf2s"
+path="res://.godot/imported/ChannelCard.OZJ-716cdd2a337c5ac0f9bedcec2feceb60.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ChannelCard.OZJ"
+dest_files=["res://.godot/imported/ChannelCard.OZJ-716cdd2a337c5ac0f9bedcec2feceb60.res"]
+
+[params]
+

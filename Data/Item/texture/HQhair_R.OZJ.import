@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvjpbcj3b5u36"
+path="res://.godot/imported/HQhair_R.OZJ-110b8e4f870349150a5eddd7817c9cd2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HQhair_R.OZJ"
+dest_files=["res://.godot/imported/HQhair_R.OZJ-110b8e4f870349150a5eddd7817c9cd2.res"]
+
+[params]
+

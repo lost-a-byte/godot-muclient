@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://we57bl2ldu5x"
+path="res://.godot/imported/poodle.bmd-99e8b9399c9b7f994de2a563794c2901.scn"
+
+[deps]
+
+source_file="res://Data/Item/poodle.bmd"
+dest_files=["res://.godot/imported/poodle.bmd-99e8b9399c9b7f994de2a563794c2901.scn"]
+
+[params]
+
+modelScale=0.01

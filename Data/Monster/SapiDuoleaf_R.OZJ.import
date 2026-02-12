@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3jscrc78gh4a"
+path="res://.godot/imported/SapiDuoleaf_R.OZJ-fbb7b7206af44c142050034e609f34a6.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiDuoleaf_R.OZJ"
+dest_files=["res://.godot/imported/SapiDuoleaf_R.OZJ-fbb7b7206af44c142050034e609f34a6.res"]
+
+[params]
+

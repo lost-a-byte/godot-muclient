@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://y5cc7s67vqub"
+path="res://.godot/imported/steel_barred_door.OZT-52c825692702df3b1551d69cbca6aa50.res"
+
+[deps]
+
+source_file="res://Data/Object1/steel_barred_door.OZT"
+dest_files=["res://.godot/imported/steel_barred_door.OZT-52c825692702df3b1551d69cbca6aa50.res"]
+
+[params]
+

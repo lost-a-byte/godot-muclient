@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6jitphbpumh1"
+path="res://.godot/imported/mg_arm.ozt-31f727e9a0757edda56ac31bfaf0e9b4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mg_arm.ozt"
+dest_files=["res://.godot/imported/mg_arm.ozt-31f727e9a0757edda56ac31bfaf0e9b4.res"]
+
+[params]
+

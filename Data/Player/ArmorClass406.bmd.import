@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dvvhn0so7pn67"
+path="res://.godot/imported/ArmorClass406.bmd-7111df85216ba8518b016ca13bb100d6.scn"
+
+[deps]
+
+source_file="res://Data/Player/ArmorClass406.bmd"
+dest_files=["res://.godot/imported/ArmorClass406.bmd-7111df85216ba8518b016ca13bb100d6.scn"]
+
+[params]
+
+modelScale=0.01

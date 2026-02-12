@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dvld2w8dttt61"
+path="res://.godot/imported/IllusionBead_violet.bmd-e9474719f32e18b8ae9c258419b51aa8.scn"
+
+[deps]
+
+source_file="res://Data/Item/IllusionBead_violet.bmd"
+dest_files=["res://.godot/imported/IllusionBead_violet.bmd-e9474719f32e18b8ae9c258419b51aa8.scn"]
+
+[params]
+
+modelScale=0.01

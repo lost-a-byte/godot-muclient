@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bid4ffsux0uft"
+path="res://.godot/imported/maskingstone2.OZJ-f725872f432792cf9408f84b768fb84a.res"
+
+[deps]
+
+source_file="res://Data/Effect/maskingstone2.OZJ"
+dest_files=["res://.godot/imported/maskingstone2.OZJ-f725872f432792cf9408f84b768fb84a.res"]
+
+[params]
+

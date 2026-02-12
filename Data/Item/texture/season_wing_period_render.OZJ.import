@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhypk2l5g4mvb"
+path="res://.godot/imported/season_wing_period_render.OZJ-343135bf90e0651e872037393c64d4d0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/season_wing_period_render.OZJ"
+dest_files=["res://.godot/imported/season_wing_period_render.OZJ-343135bf90e0651e872037393c64d4d0.res"]
+
+[params]
+

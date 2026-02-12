@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5qpydufs33na"
+path="res://.godot/imported/alicecard_R.OZT-c675037072a6e3e059f74e5bf3a02bf1.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge3/alicecard_R.OZT"
+dest_files=["res://.godot/imported/alicecard_R.OZT-c675037072a6e3e059f74e5bf3a02bf1.res"]
+
+[params]
+

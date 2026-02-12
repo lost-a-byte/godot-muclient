@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4oq8ikcl7537"
+path="res://.godot/imported/TowerGateplane_R.OZJ-8644545ffc4fd79a53df21f004234147.res"
+
+[deps]
+
+source_file="res://Data/Skill/TowerGateplane_R.OZJ"
+dest_files=["res://.godot/imported/TowerGateplane_R.OZJ-8644545ffc4fd79a53df21f004234147.res"]
+
+[params]
+

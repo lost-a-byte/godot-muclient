@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1jhwfeptmu73"
+path="res://.godot/imported/kundun_innocence1.OZJ-133f8ed3d87a0e6e81e4e4362429348f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundun_innocence1.OZJ"
+dest_files=["res://.godot/imported/kundun_innocence1.OZJ-133f8ed3d87a0e6e81e4e4362429348f.res"]
+
+[params]
+

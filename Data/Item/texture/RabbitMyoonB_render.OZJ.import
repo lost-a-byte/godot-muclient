@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lruaoctqelv1"
+path="res://.godot/imported/RabbitMyoonB_render.OZJ-dc0a55776c8374b286a4e7842b4eba66.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RabbitMyoonB_render.OZJ"
+dest_files=["res://.godot/imported/RabbitMyoonB_render.OZJ-dc0a55776c8374b286a4e7842b4eba66.res"]
+
+[params]
+

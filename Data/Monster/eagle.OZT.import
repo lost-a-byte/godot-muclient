@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lghlsbi8iib3"
+path="res://.godot/imported/eagle.OZT-6a24b8f6933cb548e37160e16eca800f.res"
+
+[deps]
+
+source_file="res://Data/Monster/eagle.OZT"
+dest_files=["res://.godot/imported/eagle.OZT-6a24b8f6933cb548e37160e16eca800f.res"]
+
+[params]
+

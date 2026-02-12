@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr7k4op20dfri"
+path="res://.godot/imported/pk_mon03_red.OZJ-b4e6c608b6c6e325e4b2706630c143cc.res"
+
+[deps]
+
+source_file="res://Data/Effect/pk_mon03_red.OZJ"
+dest_files=["res://.godot/imported/pk_mon03_red.OZJ-b4e6c608b6c6e325e4b2706630c143cc.res"]
+
+[params]
+

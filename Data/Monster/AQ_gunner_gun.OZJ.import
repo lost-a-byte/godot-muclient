@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brgit1hnpcxex"
+path="res://.godot/imported/AQ_gunner_gun.OZJ-284878974fbf77e93b5e22af5f06b419.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_gunner_gun.OZJ"
+dest_files=["res://.godot/imported/AQ_gunner_gun.OZJ-284878974fbf77e93b5e22af5f06b419.res"]
+
+[params]
+

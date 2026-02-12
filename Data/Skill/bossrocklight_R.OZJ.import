@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2ubbgi1qhwad"
+path="res://.godot/imported/bossrocklight_R.OZJ-8a7a15c9b20008246f67ec68b5bce10e.res"
+
+[deps]
+
+source_file="res://Data/Skill/bossrocklight_R.OZJ"
+dest_files=["res://.godot/imported/bossrocklight_R.OZJ-8a7a15c9b20008246f67ec68b5bce10e.res"]
+
+[params]
+

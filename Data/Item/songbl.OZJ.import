@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcacb1iyc3ebd"
+path="res://.godot/imported/songbl.OZJ-7b752ecc91ffff399ee2f4a5b8e71616.res"
+
+[deps]
+
+source_file="res://Data/Item/songbl.OZJ"
+dest_files=["res://.godot/imported/songbl.OZJ-7b752ecc91ffff399ee2f4a5b8e71616.res"]
+
+[params]
+

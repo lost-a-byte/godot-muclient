@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqx72f70gjlby"
+path="res://.godot/imported/wolf_pet2.OZJ-a2238a9513a1c5534348b7776ae3f412.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wolf_pet2.OZJ"
+dest_files=["res://.godot/imported/wolf_pet2.OZJ-a2238a9513a1c5534348b7776ae3f412.res"]
+
+[params]
+

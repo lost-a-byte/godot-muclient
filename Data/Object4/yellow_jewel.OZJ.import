@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvq2pyqwwqe66"
+path="res://.godot/imported/yellow_jewel.OZJ-389f900f127ee163cc0357d00bc8b56e.res"
+
+[deps]
+
+source_file="res://Data/Object4/yellow_jewel.OZJ"
+dest_files=["res://.godot/imported/yellow_jewel.OZJ-389f900f127ee163cc0357d00bc8b56e.res"]
+
+[params]
+

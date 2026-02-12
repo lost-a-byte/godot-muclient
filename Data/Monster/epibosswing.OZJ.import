@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crp2uc3xl8wa0"
+path="res://.godot/imported/epibosswing.OZJ-c7688f984c4bb18ec001a29667af784f.res"
+
+[deps]
+
+source_file="res://Data/Monster/epibosswing.OZJ"
+dest_files=["res://.godot/imported/epibosswing.OZJ-c7688f984c4bb18ec001a29667af784f.res"]
+
+[params]
+

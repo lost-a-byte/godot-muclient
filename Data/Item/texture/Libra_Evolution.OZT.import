@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bulyemc2yqsya"
+path="res://.godot/imported/Libra_Evolution.OZT-6ad360915e0f418a803891349dd8a3a4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Libra_Evolution.OZT"
+dest_files=["res://.godot/imported/Libra_Evolution.OZT-6ad360915e0f418a803891349dd8a3a4.res"]
+
+[params]
+

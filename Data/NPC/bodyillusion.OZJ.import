@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3ctb28vgm78m"
+path="res://.godot/imported/bodyillusion.OZJ-ee5d25c054833cfe2bd1ee2cb146b152.res"
+
+[deps]
+
+source_file="res://Data/NPC/bodyillusion.OZJ"
+dest_files=["res://.godot/imported/bodyillusion.OZJ-ee5d25c054833cfe2bd1ee2cb146b152.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gbfbblmyt7bg"
+path="res://.godot/imported/nude_alchemist.OZJ-c9ab4e4e5c6c1a6134f76660524dc76d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nude_alchemist.OZJ"
+dest_files=["res://.godot/imported/nude_alchemist.OZJ-c9ab4e4e5c6c1a6134f76660524dc76d.res"]
+
+[params]
+

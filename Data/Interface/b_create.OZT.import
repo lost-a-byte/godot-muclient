@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcmm3trecn255"
+path="res://.godot/imported/b_create.OZT-20181e1142c6e8b17e3b2fc90855c2c0.res"
+
+[deps]
+
+source_file="res://Data/Interface/b_create.OZT"
+dest_files=["res://.godot/imported/b_create.OZT-20181e1142c6e8b17e3b2fc90855c2c0.res"]
+
+[params]
+

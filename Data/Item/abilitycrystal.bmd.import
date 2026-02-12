@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cgrfonbxsauik"
+path="res://.godot/imported/abilitycrystal.bmd-7935e9ffc496b16f4f812b313cdb8e47.scn"
+
+[deps]
+
+source_file="res://Data/Item/abilitycrystal.bmd"
+dest_files=["res://.godot/imported/abilitycrystal.bmd-7935e9ffc496b16f4f812b313cdb8e47.scn"]
+
+[params]
+
+modelScale=0.01

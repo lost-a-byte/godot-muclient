@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccdwmm86n38d4"
+path="res://.godot/imported/UMbeastbodyRed.OZJ-e4a17a7259ac3d5dc30f28b70b9f481a.res"
+
+[deps]
+
+source_file="res://Data/Monster/UMbeastbodyRed.OZJ"
+dest_files=["res://.godot/imported/UMbeastbodyRed.OZJ-e4a17a7259ac3d5dc30f28b70b9f481a.res"]
+
+[params]
+

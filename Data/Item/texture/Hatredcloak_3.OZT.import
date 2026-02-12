@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6slxeeb34ikg"
+path="res://.godot/imported/Hatredcloak_3.OZT-0cd4a566a9bcb5a1b1536eef0f7c079b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Hatredcloak_3.OZT"
+dest_files=["res://.godot/imported/Hatredcloak_3.OZT-0cd4a566a9bcb5a1b1536eef0f7c079b.res"]
+
+[params]
+

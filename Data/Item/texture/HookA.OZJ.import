@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bembs0eqb7b1c"
+path="res://.godot/imported/HookA.OZJ-033e468ea6ea8b1cbf8a9e1398db3b7e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HookA.OZJ"
+dest_files=["res://.godot/imported/HookA.OZJ-033e468ea6ea8b1cbf8a9e1398db3b7e.res"]
+
+[params]
+

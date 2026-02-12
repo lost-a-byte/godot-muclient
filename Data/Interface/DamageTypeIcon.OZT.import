@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqknlqgjxj1hb"
+path="res://.godot/imported/DamageTypeIcon.OZT-d336627aae63dd79ffd3b3cc26516c40.res"
+
+[deps]
+
+source_file="res://Data/Interface/DamageTypeIcon.OZT"
+dest_files=["res://.godot/imported/DamageTypeIcon.OZT-d336627aae63dd79ffd3b3cc26516c40.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c43xpmp5fkl1r"
+path="res://.godot/imported/bsummoners01.OZJ-004bab753bf8f00ff2514546851ea0e7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bsummoners01.OZJ"
+dest_files=["res://.godot/imported/bsummoners01.OZJ-004bab753bf8f00ff2514546851ea0e7.res"]
+
+[params]
+

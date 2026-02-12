@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btvg2odvdxlbd"
+path="res://.godot/imported/lightning_Shortsword_02.OZJ-b955649e549438ba7e79ae1bc56ba276.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_Shortsword_02.OZJ"
+dest_files=["res://.godot/imported/lightning_Shortsword_02.OZJ-b955649e549438ba7e79ae1bc56ba276.res"]
+
+[params]
+

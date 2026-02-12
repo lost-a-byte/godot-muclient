@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byqg8nvw0fn5k"
+path="res://.godot/imported/treemonster01_2.OZT-bb59853d8f2faeacb1ee0fc4b45cc861.res"
+
+[deps]
+
+source_file="res://Data/Monster/treemonster01_2.OZT"
+dest_files=["res://.godot/imported/treemonster01_2.OZT-bb59853d8f2faeacb1ee0fc4b45cc861.res"]
+
+[params]
+

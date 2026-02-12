@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfvm8vaqopjf"
+path="res://.godot/imported/rewardbox06.OZJ-db97fff20c34bb5d52ca41d6dd881fca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rewardbox06.OZJ"
+dest_files=["res://.godot/imported/rewardbox06.OZJ-db97fff20c34bb5d52ca41d6dd881fca.res"]
+
+[params]
+

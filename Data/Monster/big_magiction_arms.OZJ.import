@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg5bbilndrt4k"
+path="res://.godot/imported/big_magiction_arms.OZJ-bd98161b8b0a0074c49aca31182e4272.res"
+
+[deps]
+
+source_file="res://Data/Monster/big_magiction_arms.OZJ"
+dest_files=["res://.godot/imported/big_magiction_arms.OZJ-bd98161b8b0a0074c49aca31182e4272.res"]
+
+[params]
+

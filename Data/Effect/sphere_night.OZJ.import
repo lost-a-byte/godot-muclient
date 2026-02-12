@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8p403tj5f3c"
+path="res://.godot/imported/sphere_night.OZJ-ae84dd745be5a921ccdba8b97db04ab5.res"
+
+[deps]
+
+source_file="res://Data/Effect/sphere_night.OZJ"
+dest_files=["res://.godot/imported/sphere_night.OZJ-ae84dd745be5a921ccdba8b97db04ab5.res"]
+
+[params]
+

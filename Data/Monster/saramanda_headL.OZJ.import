@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doynprfbtsrhe"
+path="res://.godot/imported/saramanda_headL.OZJ-5dda91d59ccdff9547f2f40585ce78c1.res"
+
+[deps]
+
+source_file="res://Data/Monster/saramanda_headL.OZJ"
+dest_files=["res://.godot/imported/saramanda_headL.OZJ-5dda91d59ccdff9547f2f40585ce78c1.res"]
+
+[params]
+

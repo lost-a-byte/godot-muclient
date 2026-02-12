@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bd0q6l4urtdgm"
+path="res://.godot/imported/silverheartmagicbook_1.OZJ-04fdfb20d06190f49329c9886ff5ddbb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/silverheartmagicbook_1.OZJ"
+dest_files=["res://.godot/imported/silverheartmagicbook_1.OZJ-04fdfb20d06190f49329c9886ff5ddbb.res"]
+
+[params]
+

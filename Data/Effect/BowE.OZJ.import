@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://moypi7wbwq2i"
+path="res://.godot/imported/BowE.OZJ-ae61767cf2aee59f5189a78f8e10cecc.res"
+
+[deps]
+
+source_file="res://Data/Effect/BowE.OZJ"
+dest_files=["res://.godot/imported/BowE.OZJ-ae61767cf2aee59f5189a78f8e10cecc.res"]
+
+[params]
+

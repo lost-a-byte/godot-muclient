@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dmvq8w0fbo3ln"
+path="res://.godot/imported/taegeukgirlpet_evol.bmd-6fb74a0ff3c3e6daeba17e8e9ea6757a.scn"
+
+[deps]
+
+source_file="res://Data/Item/taegeukgirlpet_evol.bmd"
+dest_files=["res://.godot/imported/taegeukgirlpet_evol.bmd-6fb74a0ff3c3e6daeba17e8e9ea6757a.scn"]
+
+[params]
+
+modelScale=0.01

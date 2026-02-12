@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqq0dt33m423p"
+path="res://.godot/imported/CursorGet.ozt-ee275cfa4ddf604372a51ee0c67cdd0a.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorGet.ozt"
+dest_files=["res://.godot/imported/CursorGet.ozt-ee275cfa4ddf604372a51ee0c67cdd0a.res"]
+
+[params]
+

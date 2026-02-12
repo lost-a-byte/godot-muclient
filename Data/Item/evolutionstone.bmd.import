@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://5bv7kxcryifg"
+path="res://.godot/imported/evolutionstone.bmd-d13920fd93513fb8ea27f9855f790c8c.scn"
+
+[deps]
+
+source_file="res://Data/Item/evolutionstone.bmd"
+dest_files=["res://.godot/imported/evolutionstone.bmd-d13920fd93513fb8ea27f9855f790c8c.scn"]
+
+[params]
+
+modelScale=0.01

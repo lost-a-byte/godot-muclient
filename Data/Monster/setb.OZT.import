@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uca1wgli8xl"
+path="res://.godot/imported/setb.OZT-57cefcef2b2047125b9152776f3936f4.res"
+
+[deps]
+
+source_file="res://Data/Monster/setb.OZT"
+dest_files=["res://.godot/imported/setb.OZT-57cefcef2b2047125b9152776f3936f4.res"]
+
+[params]
+

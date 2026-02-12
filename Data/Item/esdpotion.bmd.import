@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccgwwpwro5w2a"
+path="res://.godot/imported/esdpotion.bmd-3c2a9e3445ee8a59144c961429a7e67c.scn"
+
+[deps]
+
+source_file="res://Data/Item/esdpotion.bmd"
+dest_files=["res://.godot/imported/esdpotion.bmd-3c2a9e3445ee8a59144c961429a7e67c.scn"]
+
+[params]
+
+modelScale=0.01

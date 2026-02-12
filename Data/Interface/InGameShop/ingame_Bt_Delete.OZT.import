@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgp0oyo1oqle8"
+path="res://.godot/imported/ingame_Bt_Delete.OZT-9a0168ff3af5789d7e8b1c6f0b1133af.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Bt_Delete.OZT"
+dest_files=["res://.godot/imported/ingame_Bt_Delete.OZT-9a0168ff3af5789d7e8b1c6f0b1133af.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2ra6fg1n4atr"
+path="res://.godot/imported/darkwapon_06.ozj-f2c04cd53c141ca7fcb2c6b0f4f8b115.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkwapon_06.ozj"
+dest_files=["res://.godot/imported/darkwapon_06.ozj-f2c04cd53c141ca7fcb2c6b0f4f8b115.res"]
+
+[params]
+

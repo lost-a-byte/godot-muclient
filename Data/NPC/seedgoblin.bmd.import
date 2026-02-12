@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8d6mp301eoqh"
+path="res://.godot/imported/seedgoblin.bmd-75737cb73530674c53a6b0ceb9ff24e7.scn"
+
+[deps]
+
+source_file="res://Data/NPC/seedgoblin.bmd"
+dest_files=["res://.godot/imported/seedgoblin.bmd-75737cb73530674c53a6b0ceb9ff24e7.scn"]
+
+[params]
+
+modelScale=0.01

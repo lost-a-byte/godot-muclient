@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cthxgoyylgx6u"
+path="res://.godot/imported/kato_body.OZJ-9d1ddd032f21f3bafe97be32f497d609.res"
+
+[deps]
+
+source_file="res://Data/Monster/kato_body.OZJ"
+dest_files=["res://.godot/imported/kato_body.OZJ-9d1ddd032f21f3bafe97be32f497d609.res"]
+
+[params]
+

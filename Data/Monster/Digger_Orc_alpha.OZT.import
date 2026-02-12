@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://p6a8ulvygd5t"
+path="res://.godot/imported/Digger_Orc_alpha.OZT-95784889904e7cfdab73a725013217b3.res"
+
+[deps]
+
+source_file="res://Data/Monster/Digger_Orc_alpha.OZT"
+dest_files=["res://.godot/imported/Digger_Orc_alpha.OZT-95784889904e7cfdab73a725013217b3.res"]
+
+[params]
+

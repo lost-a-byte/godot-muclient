@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cffkx1kss7r83"
+path="res://.godot/imported/alchemist_eye.OZJ-f812abddddcf50dda831cdf3723a880a.res"
+
+[deps]
+
+source_file="res://Data/Logo/alchemist_eye.OZJ"
+dest_files=["res://.godot/imported/alchemist_eye.OZJ-f812abddddcf50dda831cdf3723a880a.res"]
+
+[params]
+

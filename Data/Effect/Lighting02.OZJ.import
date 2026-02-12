@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ck6j05u1up5u5"
+path="res://.godot/imported/Lighting02.OZJ-0c4ec23edd8296f1d56855691c286228.res"
+
+[deps]
+
+source_file="res://Data/Effect/Lighting02.OZJ"
+dest_files=["res://.godot/imported/Lighting02.OZJ-0c4ec23edd8296f1d56855691c286228.res"]
+
+[params]
+

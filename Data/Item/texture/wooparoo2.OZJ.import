@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bff4dxxesefcm"
+path="res://.godot/imported/wooparoo2.OZJ-04f687296f86836d0944d3ed9e09cf66.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wooparoo2.OZJ"
+dest_files=["res://.godot/imported/wooparoo2.OZJ-04f687296f86836d0944d3ed9e09cf66.res"]
+
+[params]
+

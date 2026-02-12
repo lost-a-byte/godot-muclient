@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb8drwdjspmu3"
+path="res://.godot/imported/HolyAngelLance_A.OZJ-8062a729e6a238359ff567e4a6b333ef.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HolyAngelLance_A.OZJ"
+dest_files=["res://.godot/imported/HolyAngelLance_A.OZJ-8062a729e6a238359ff567e4a6b333ef.res"]
+
+[params]
+

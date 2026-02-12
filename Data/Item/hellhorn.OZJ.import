@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cooiuefbayqla"
+path="res://.godot/imported/hellhorn.OZJ-dfa43d11fa2be8bd7c7b9546b552e582.res"
+
+[deps]
+
+source_file="res://Data/Item/hellhorn.OZJ"
+dest_files=["res://.godot/imported/hellhorn.OZJ-dfa43d11fa2be8bd7c7b9546b552e582.res"]
+
+[params]
+

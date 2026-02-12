@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bgrmiwm4teu5s"
+path="res://.godot/imported/heartgirl.bmd-85865218b2b0b74c2c7feb88ae3222b5.scn"
+
+[deps]
+
+source_file="res://Data/Item/heartgirl.bmd"
+dest_files=["res://.godot/imported/heartgirl.bmd-85865218b2b0b74c2c7feb88ae3222b5.scn"]
+
+[params]
+
+modelScale=0.01

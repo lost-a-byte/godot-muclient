@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://tv2r5i703ef4"
+path="res://.godot/imported/necklace_growth.bmd-c964d71191c5eb79e6c8ae045bf05859.scn"
+
+[deps]
+
+source_file="res://Data/Item/necklace_growth.bmd"
+dest_files=["res://.godot/imported/necklace_growth.bmd-c964d71191c5eb79e6c8ae045bf05859.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mtpc0vb3ujx1"
+path="res://.godot/imported/icenecklace.ozj-e2dc9ae41bef61399e9c4137816be6cb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/icenecklace.ozj"
+dest_files=["res://.godot/imported/icenecklace.ozj-e2dc9ae41bef61399e9c4137816be6cb.res"]
+
+[params]
+

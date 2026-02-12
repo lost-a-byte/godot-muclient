@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bh12q8lu6kt6"
+path="res://.godot/imported/chrysanthemumUp.bmd-e743ce80886581cfbc26d1e17fce6fd7.scn"
+
+[deps]
+
+source_file="res://Data/Item/chrysanthemumUp.bmd"
+dest_files=["res://.godot/imported/chrysanthemumUp.bmd-e743ce80886581cfbc26d1e17fce6fd7.scn"]
+
+[params]
+
+modelScale=0.01

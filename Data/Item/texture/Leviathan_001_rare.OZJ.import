@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b53roqja15jkr"
+path="res://.godot/imported/Leviathan_001_rare.OZJ-4b07f26e2baf77c867ce3cbdc31012fa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Leviathan_001_rare.OZJ"
+dest_files=["res://.godot/imported/Leviathan_001_rare.OZJ-4b07f26e2baf77c867ce3cbdc31012fa.res"]
+
+[params]
+

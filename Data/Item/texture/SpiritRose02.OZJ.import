@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buho2qjntv6oq"
+path="res://.godot/imported/SpiritRose02.OZJ-3805167b4b3e2600f923498d9306847f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpiritRose02.OZJ"
+dest_files=["res://.godot/imported/SpiritRose02.OZJ-3805167b4b3e2600f923498d9306847f.res"]
+
+[params]
+

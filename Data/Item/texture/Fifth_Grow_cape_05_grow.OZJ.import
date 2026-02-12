@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://52dhiai22hbq"
+path="res://.godot/imported/Fifth_Grow_cape_05_grow.OZJ-1a90d6ec502d6582cac83f386c51c7aa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Grow_cape_05_grow.OZJ"
+dest_files=["res://.godot/imported/Fifth_Grow_cape_05_grow.OZJ-1a90d6ec502d6582cac83f386c51c7aa.res"]
+
+[params]
+

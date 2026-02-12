@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df21yf3f16yjl"
+path="res://.godot/imported/buff_skull_1.OZJ-a706d80f6b070cdf929d6ae023bf78fd.res"
+
+[deps]
+
+source_file="res://Data/Effect/buff_skull_1.OZJ"
+dest_files=["res://.godot/imported/buff_skull_1.OZJ-a706d80f6b070cdf929d6ae023bf78fd.res"]
+
+[params]
+

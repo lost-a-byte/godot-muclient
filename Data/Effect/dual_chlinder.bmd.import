@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bn3kkflmomnjp"
+path="res://.godot/imported/dual_chlinder.bmd-3cde8496daeee13fb42db59a16182b21.scn"
+
+[deps]
+
+source_file="res://Data/Effect/dual_chlinder.bmd"
+dest_files=["res://.godot/imported/dual_chlinder.bmd-3cde8496daeee13fb42db59a16182b21.scn"]
+
+[params]
+
+modelScale=0.01

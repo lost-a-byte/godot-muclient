@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkphhvuvx53uj"
+path="res://.godot/imported/DhorSS.OZJ-bcd6dde0c861298d533685b8327b1fa0.res"
+
+[deps]
+
+source_file="res://Data/Skill/DhorSS.OZJ"
+dest_files=["res://.godot/imported/DhorSS.OZJ-bcd6dde0c861298d533685b8327b1fa0.res"]
+
+[params]
+

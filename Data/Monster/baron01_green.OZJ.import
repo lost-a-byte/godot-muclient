@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsggfy2hesnc4"
+path="res://.godot/imported/baron01_green.OZJ-ee6b98217bb1c1b71c913bb1b81e80c5.res"
+
+[deps]
+
+source_file="res://Data/Monster/baron01_green.OZJ"
+dest_files=["res://.godot/imported/baron01_green.OZJ-ee6b98217bb1c1b71c913bb1b81e80c5.res"]
+
+[params]
+

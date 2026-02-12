@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bk2wavgappvws"
+path="res://.godot/imported/flt_cross_sc2.bmd-36478caf704467ba7dd3aede1c042ee8.scn"
+
+[deps]
+
+source_file="res://Data/Effect/flt_cross_sc2.bmd"
+dest_files=["res://.godot/imported/flt_cross_sc2.bmd-36478caf704467ba7dd3aede1c042ee8.scn"]
+
+[params]
+
+modelScale=0.01

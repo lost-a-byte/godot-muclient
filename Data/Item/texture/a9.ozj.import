@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cx07kkn8e67kp"
+path="res://.godot/imported/a9.ozj-561490ca2bc78b1418b0247fca1a1a64.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/a9.ozj"
+dest_files=["res://.godot/imported/a9.ozj-561490ca2bc78b1418b0247fca1a1a64.res"]
+
+[params]
+

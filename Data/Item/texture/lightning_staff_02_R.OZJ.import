@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ee5nd63lcvni"
+path="res://.godot/imported/lightning_staff_02_R.OZJ-17db7999b0b9e8b1151c3b4f032fe39c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_staff_02_R.OZJ"
+dest_files=["res://.godot/imported/lightning_staff_02_R.OZJ-17db7999b0b9e8b1151c3b4f032fe39c.res"]
+
+[params]
+

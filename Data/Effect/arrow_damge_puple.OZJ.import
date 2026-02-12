@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy0u8s7sb3c8w"
+path="res://.godot/imported/arrow_damge_puple.OZJ-201b182cae1f3f3ea2dcf2d45bcb765e.res"
+
+[deps]
+
+source_file="res://Data/Effect/arrow_damge_puple.OZJ"
+dest_files=["res://.godot/imported/arrow_damge_puple.OZJ-201b182cae1f3f3ea2dcf2d45bcb765e.res"]
+
+[params]
+

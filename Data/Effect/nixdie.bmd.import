@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://k3v8823cweu8"
+path="res://.godot/imported/nixdie.bmd-8add7f02393ecd6008dbfa85388574c6.scn"
+
+[deps]
+
+source_file="res://Data/Effect/nixdie.bmd"
+dest_files=["res://.godot/imported/nixdie.bmd-8add7f02393ecd6008dbfa85388574c6.scn"]
+
+[params]
+
+modelScale=0.01

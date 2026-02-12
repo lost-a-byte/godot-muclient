@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvplp6xvmu77i"
+path="res://.godot/imported/RuneMA00_mono.OZJ-5091b2985467ac17da208722d983eba0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RuneMA00_mono.OZJ"
+dest_files=["res://.godot/imported/RuneMA00_mono.OZJ-5091b2985467ac17da208722d983eba0.res"]
+
+[params]
+

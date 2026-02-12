@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://64nwmg0i60ad"
+path="res://.godot/imported/SFarmor.OZJ-caf2ed070a86bff0b99265aa90f3fc1a.res"
+
+[deps]
+
+source_file="res://Data/Player/SFarmor.OZJ"
+dest_files=["res://.godot/imported/SFarmor.OZJ-caf2ed070a86bff0b99265aa90f3fc1a.res"]
+
+[params]
+

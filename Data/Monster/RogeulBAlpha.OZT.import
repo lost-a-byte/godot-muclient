@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnokx38hffgek"
+path="res://.godot/imported/RogeulBAlpha.OZT-3c118fa5d70ec3460c07d61b7fabca77.res"
+
+[deps]
+
+source_file="res://Data/Monster/RogeulBAlpha.OZT"
+dest_files=["res://.godot/imported/RogeulBAlpha.OZT-3c118fa5d70ec3460c07d61b7fabca77.res"]
+
+[params]
+

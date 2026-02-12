@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://27ggyq0rxer5"
+path="res://.godot/imported/PentaLiquidBlue.OZJ-2378eb6e5d6686bfebcb8c91c0bc6b95.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaLiquidBlue.OZJ"
+dest_files=["res://.godot/imported/PentaLiquidBlue.OZJ-2378eb6e5d6686bfebcb8c91c0bc6b95.res"]
+
+[params]
+

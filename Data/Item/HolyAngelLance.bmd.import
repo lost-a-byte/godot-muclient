@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3m1fo58qoqxi"
+path="res://.godot/imported/HolyAngelLance.bmd-11b8841469b35efbae8a1b8481b7dd7e.scn"
+
+[deps]
+
+source_file="res://Data/Item/HolyAngelLance.bmd"
+dest_files=["res://.godot/imported/HolyAngelLance.bmd-11b8841469b35efbae8a1b8481b7dd7e.scn"]
+
+[params]
+
+modelScale=0.01

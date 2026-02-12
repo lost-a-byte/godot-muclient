@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxlxdmi7ljp3s"
+path="res://.godot/imported/FatalRingB.OZJ-1564c070d56a37210a677f33940606a5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FatalRingB.OZJ"
+dest_files=["res://.godot/imported/FatalRingB.OZJ-1564c070d56a37210a677f33940606a5.res"]
+
+[params]
+

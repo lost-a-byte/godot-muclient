@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://disjamhbutmsl"
+path="res://.godot/imported/panda_brown_body.OZJ-ac57adc3c255a0954a79c9306ba210a8.res"
+
+[deps]
+
+source_file="res://Data/Item/panda_brown_body.OZJ"
+dest_files=["res://.godot/imported/panda_brown_body.OZJ-ac57adc3c255a0954a79c9306ba210a8.res"]
+
+[params]
+

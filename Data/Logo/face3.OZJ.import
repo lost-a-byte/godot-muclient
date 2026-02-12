@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfbokfh8vwbbr"
+path="res://.godot/imported/face3.OZJ-c169e02d7e023182161403d44700ee41.res"
+
+[deps]
+
+source_file="res://Data/Logo/face3.OZJ"
+dest_files=["res://.godot/imported/face3.OZJ-c169e02d7e023182161403d44700ee41.res"]
+
+[params]
+

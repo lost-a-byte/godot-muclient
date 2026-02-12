@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b304dp3d7mh4r"
+path="res://.godot/imported/BTlazuritenecklace.bmd-9169f0b1e70f731924615a0e3e69ffb2.scn"
+
+[deps]
+
+source_file="res://Data/Item/BTlazuritenecklace.bmd"
+dest_files=["res://.godot/imported/BTlazuritenecklace.bmd-9169f0b1e70f731924615a0e3e69ffb2.scn"]
+
+[params]
+
+modelScale=0.01

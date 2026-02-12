@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmrcofg10xgvj"
+path="res://.godot/imported/etoill.ozj-54f59ae73348b616d909ee6f80785504.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/etoill.ozj"
+dest_files=["res://.godot/imported/etoill.ozj-54f59ae73348b616d909ee6f80785504.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsjthpwhp666y"
+path="res://.godot/imported/magi_body.OZJ-85a4e9281dcfd89eec6a048d6345420f.res"
+
+[deps]
+
+source_file="res://Data/Logo/magi_body.OZJ"
+dest_files=["res://.godot/imported/magi_body.OZJ-85a4e9281dcfd89eec6a048d6345420f.res"]
+
+[params]
+

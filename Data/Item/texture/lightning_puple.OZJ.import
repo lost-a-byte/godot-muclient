@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byebln38eqws2"
+path="res://.godot/imported/lightning_puple.OZJ-d6d0ea1ba5d66edfc1f0e84a1b36e13d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_puple.OZJ"
+dest_files=["res://.godot/imported/lightning_puple.OZJ-d6d0ea1ba5d66edfc1f0e84a1b36e13d.res"]
+
+[params]
+

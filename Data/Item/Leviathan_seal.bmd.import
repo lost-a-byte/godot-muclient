@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmdy67lyqi5j2"
+path="res://.godot/imported/Leviathan_seal.bmd-b77e672f16ed253a514bb82590c33fb6.scn"
+
+[deps]
+
+source_file="res://Data/Item/Leviathan_seal.bmd"
+dest_files=["res://.godot/imported/Leviathan_seal.bmd-b77e672f16ed253a514bb82590c33fb6.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crpofqb0rpgs3"
+path="res://.godot/imported/Item8101_Armor_effect.OZJ-aa7dd85a2c44b9c5d3e2ca0912dec12b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item8101_Armor_effect.OZJ"
+dest_files=["res://.godot/imported/Item8101_Armor_effect.OZJ-aa7dd85a2c44b9c5d3e2ca0912dec12b.res"]
+
+[params]
+

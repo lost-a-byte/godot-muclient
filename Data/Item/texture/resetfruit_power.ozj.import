@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpr2xlt4quwc6"
+path="res://.godot/imported/resetfruit_power.ozj-774aa7de54bd8ac7157f22501f4e2db5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/resetfruit_power.ozj"
+dest_files=["res://.godot/imported/resetfruit_power.ozj-774aa7de54bd8ac7157f22501f4e2db5.res"]
+
+[params]
+

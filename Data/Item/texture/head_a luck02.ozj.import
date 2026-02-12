@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgs5yykavvwtk"
+path="res://.godot/imported/head_a luck02.ozj-b9f22b9b18c7487c2c1103e10b30abd5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/head_a luck02.ozj"
+dest_files=["res://.godot/imported/head_a luck02.ozj-b9f22b9b18c7487c2c1103e10b30abd5.res"]
+
+[params]
+

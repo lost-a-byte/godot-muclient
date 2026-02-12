@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch5k0ron5imur"
+path="res://.godot/imported/elf_queenm.OZJ-b96ab33783eee1b4ff3ce5550016b3ad.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elf_queenm.OZJ"
+dest_files=["res://.godot/imported/elf_queenm.OZJ-b96ab33783eee1b4ff3ce5550016b3ad.res"]
+
+[params]
+

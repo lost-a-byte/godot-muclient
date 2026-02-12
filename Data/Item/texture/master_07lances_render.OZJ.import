@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcf8lpyiitoxh"
+path="res://.godot/imported/master_07lances_render.OZJ-49965be8447365d8eff9623cb86b9678.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/master_07lances_render.OZJ"
+dest_files=["res://.godot/imported/master_07lances_render.OZJ-49965be8447365d8eff9623cb86b9678.res"]
+
+[params]
+

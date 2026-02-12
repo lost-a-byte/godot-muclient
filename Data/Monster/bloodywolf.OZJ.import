@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kyh05m4v4v2p"
+path="res://.godot/imported/bloodywolf.OZJ-cbff7090161104dcdc17751c5e5f9d4c.res"
+
+[deps]
+
+source_file="res://Data/Monster/bloodywolf.OZJ"
+dest_files=["res://.godot/imported/bloodywolf.OZJ-cbff7090161104dcdc17751c5e5f9d4c.res"]
+
+[params]
+

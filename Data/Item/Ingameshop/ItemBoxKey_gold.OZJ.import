@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4lx8xuun6701"
+path="res://.godot/imported/ItemBoxKey_gold.OZJ-66ba07c2524dbb2364ca90a7264e4f4b.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/ItemBoxKey_gold.OZJ"
+dest_files=["res://.godot/imported/ItemBoxKey_gold.OZJ-66ba07c2524dbb2364ca90a7264e4f4b.res"]
+
+[params]
+

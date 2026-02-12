@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5o676ckaegwc"
+path="res://.godot/imported/gcweaponM6D.OZJ-78d0f70cf761d35f3f0c5a99a85b5772.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gcweaponM6D.OZJ"
+dest_files=["res://.godot/imported/gcweaponM6D.OZJ-78d0f70cf761d35f3f0c5a99a85b5772.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dbw0lovilwggi"
+path="res://.godot/imported/Magma_hook.bmd-69e3dda1ea15cfebacecf60f4e8fedf9.scn"
+
+[deps]
+
+source_file="res://Data/Monster/Magma_hook.bmd"
+dest_files=["res://.godot/imported/Magma_hook.bmd-69e3dda1ea15cfebacecf60f4e8fedf9.scn"]
+
+[params]
+
+modelScale=0.01

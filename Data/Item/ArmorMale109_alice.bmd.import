@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://blolc1usjp0gn"
+path="res://.godot/imported/ArmorMale109_alice.bmd-8264a580aa2a9c16ce10f982bf1ed582.scn"
+
+[deps]
+
+source_file="res://Data/Item/ArmorMale109_alice.bmd"
+dest_files=["res://.godot/imported/ArmorMale109_alice.bmd-8264a580aa2a9c16ce10f982bf1ed582.scn"]
+
+[params]
+
+modelScale=0.01

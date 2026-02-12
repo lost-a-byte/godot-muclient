@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdmmes2u4qo0u"
+path="res://.godot/imported/redswords_gem.OZJ-81ef671d2b51a6162a15c1d64b54ea56.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/redswords_gem.OZJ"
+dest_files=["res://.godot/imported/redswords_gem.OZJ-81ef671d2b51a6162a15c1d64b54ea56.res"]
+
+[params]
+

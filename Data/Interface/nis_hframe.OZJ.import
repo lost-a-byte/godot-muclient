@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca8ar08pcle8n"
+path="res://.godot/imported/nis_hframe.OZJ-c2deebafa12bfda59b7e49029590cae6.res"
+
+[deps]
+
+source_file="res://Data/Interface/nis_hframe.OZJ"
+dest_files=["res://.godot/imported/nis_hframe.OZJ-c2deebafa12bfda59b7e49029590cae6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3cvt15155p34"
+path="res://.godot/imported/bullet_body_render.OZJ-f28eb7c9f091950da4bff198d186680f.res"
+
+[deps]
+
+source_file="res://Data/Effect/bullet_body_render.OZJ"
+dest_files=["res://.godot/imported/bullet_body_render.OZJ-f28eb7c9f091950da4bff198d186680f.res"]
+
+[params]
+

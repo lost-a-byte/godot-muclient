@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhn5slsuycgb4"
+path="res://.godot/imported/wingA_van.OZJ-2b4668d75f79db0c8d7085a41dde1e1d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wingA_van.OZJ"
+dest_files=["res://.godot/imported/wingA_van.OZJ-2b4668d75f79db0c8d7085a41dde1e1d.res"]
+
+[params]
+

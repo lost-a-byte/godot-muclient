@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1lhb5hj6tqtd"
+path="res://.godot/imported/SoulTranslatorL4.OZJ-57f834ba0dc133f719be5bbdb02f9be0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SoulTranslatorL4.OZJ"
+dest_files=["res://.godot/imported/SoulTranslatorL4.OZJ-57f834ba0dc133f719be5bbdb02f9be0.res"]
+
+[params]
+

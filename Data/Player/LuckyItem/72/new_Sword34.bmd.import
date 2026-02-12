@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bm8nwk88isha5"
+path="res://.godot/imported/new_Sword34.bmd-c602d301e8dc4f41a050c44cd3f0219f.scn"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/72/new_Sword34.bmd"
+dest_files=["res://.godot/imported/new_Sword34.bmd-c602d301e8dc4f41a050c44cd3f0219f.scn"]
+
+[params]
+
+modelScale=0.01

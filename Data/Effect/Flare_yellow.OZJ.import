@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4kn6yawnv3yc"
+path="res://.godot/imported/Flare_yellow.OZJ-f946db9aa7b633cc011db4b6e0be505d.res"
+
+[deps]
+
+source_file="res://Data/Effect/Flare_yellow.OZJ"
+dest_files=["res://.godot/imported/Flare_yellow.OZJ-f946db9aa7b633cc011db4b6e0be505d.res"]
+
+[params]
+

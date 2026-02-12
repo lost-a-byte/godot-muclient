@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://1aj0huvcnwa1"
+path="res://.godot/imported/chaoswing_growth.bmd-1b36202f1c3fb93a1a76bb628d5612e8.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaoswing_growth.bmd"
+dest_files=["res://.godot/imported/chaoswing_growth.bmd-1b36202f1c3fb93a1a76bb628d5612e8.scn"]
+
+[params]
+
+modelScale=0.01

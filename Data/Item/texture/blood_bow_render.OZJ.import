@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfuftj57rkjuk"
+path="res://.godot/imported/blood_bow_render.OZJ-27af620fa3bf4d64aacea654ca7ef79a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blood_bow_render.OZJ"
+dest_files=["res://.godot/imported/blood_bow_render.OZJ-27af620fa3bf4d64aacea654ca7ef79a.res"]
+
+[params]
+

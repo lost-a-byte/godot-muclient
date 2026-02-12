@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bv8tiqj6sn78w"
+path="res://.godot/imported/paraka_Dark.OZJ-beff5c507daca32b649f8d5b75326d9c.res"
+
+[deps]
+
+source_file="res://Data/Monster/paraka_Dark.OZJ"
+dest_files=["res://.godot/imported/paraka_Dark.OZJ-beff5c507daca32b649f8d5b75326d9c.res"]
+
+[params]
+

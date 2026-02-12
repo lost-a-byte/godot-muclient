@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bw78bfg5gbl7a"
+path="res://.godot/imported/santa_village.bmd-b0c400ee2319a1f79463e2910a8b3ea5.scn"
+
+[deps]
+
+source_file="res://Data/Item/xmas/santa_village.bmd"
+dest_files=["res://.godot/imported/santa_village.bmd-b0c400ee2319a1f79463e2910a8b3ea5.scn"]
+
+[params]
+
+modelScale=0.01

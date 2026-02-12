@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b662kkvjxv8pl"
+path="res://.godot/imported/hs_Archimage01.OZJ-7a46b08d522b3286c50d86f8f35b13b1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_Archimage01.OZJ"
+dest_files=["res://.godot/imported/hs_Archimage01.OZJ-7a46b08d522b3286c50d86f8f35b13b1.res"]
+
+[params]
+

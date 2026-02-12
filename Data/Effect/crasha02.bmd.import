@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://buac83p2h2aoq"
+path="res://.godot/imported/crasha02.bmd-94b7618d29fa8e56a0c84a0dcacff689.scn"
+
+[deps]
+
+source_file="res://Data/Effect/crasha02.bmd"
+dest_files=["res://.godot/imported/crasha02.bmd-94b7618d29fa8e56a0c84a0dcacff689.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wt0jnf2u4gh3"
+path="res://.godot/imported/Robot_01_Brown.OZJ-a6a98cc1eaaf55abbcb816174accc711.res"
+
+[deps]
+
+source_file="res://Data/Monster/Robot_01_Brown.OZJ"
+dest_files=["res://.godot/imported/Robot_01_Brown.OZJ-a6a98cc1eaaf55abbcb816174accc711.res"]
+
+[params]
+

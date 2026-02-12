@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqa0371kkmdx"
+path="res://.godot/imported/chaosout_effect.OZJ-f3e80d983b85d8eec3a100e9b7f3b7b8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaosout_effect.OZJ"
+dest_files=["res://.godot/imported/chaosout_effect.OZJ-f3e80d983b85d8eec3a100e9b7f3b7b8.res"]
+
+[params]
+

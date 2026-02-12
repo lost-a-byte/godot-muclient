@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ihsqpk2gerqm"
+path="res://.godot/imported/Baski_Fire.OZJ-b2a74352e0d933668b9d3d4221101996.res"
+
+[deps]
+
+source_file="res://Data/Monster/Baski_Fire.OZJ"
+dest_files=["res://.godot/imported/Baski_Fire.OZJ-b2a74352e0d933668b9d3d4221101996.res"]
+
+[params]
+

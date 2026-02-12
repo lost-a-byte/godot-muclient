@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddi2k6561qmmp"
+path="res://.godot/imported/Imperial_TH_sword_04_R.OZJ-c7c79e1a226bed211d7f9d2bc5db758c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_TH_sword_04_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_TH_sword_04_R.OZJ-c7c79e1a226bed211d7f9d2bc5db758c.res"]
+
+[params]
+

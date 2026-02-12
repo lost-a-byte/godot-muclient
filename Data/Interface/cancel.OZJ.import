@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsbwftk1gv1mb"
+path="res://.godot/imported/cancel.OZJ-19eed06a81ac3c4a72449321514f3802.res"
+
+[deps]
+
+source_file="res://Data/Interface/cancel.OZJ"
+dest_files=["res://.godot/imported/cancel.OZJ-19eed06a81ac3c4a72449321514f3802.res"]
+
+[params]
+

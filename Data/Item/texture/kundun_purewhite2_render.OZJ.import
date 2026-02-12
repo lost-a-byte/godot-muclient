@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmqedivxy8i05"
+path="res://.godot/imported/kundun_purewhite2_render.OZJ-807f72f35c6b4693ad5b303987a660c1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundun_purewhite2_render.OZJ"
+dest_files=["res://.godot/imported/kundun_purewhite2_render.OZJ-807f72f35c6b4693ad5b303987a660c1.res"]
+
+[params]
+

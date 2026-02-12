@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4curj45q7mp5"
+path="res://.godot/imported/Item762_Helm_luck.OZJ-5e29bba81cc382fa20abe20bca5617a7.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/72/Item762_Helm_luck.OZJ"
+dest_files=["res://.godot/imported/Item762_Helm_luck.OZJ-5e29bba81cc382fa20abe20bca5617a7.res"]
+
+[params]
+

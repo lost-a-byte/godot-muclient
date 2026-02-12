@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpruj5fr8mjfk"
+path="res://.godot/imported/PetEgg.OZJ-7beb8c4213f7680f90b1ba85d06c95e2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PetEgg.OZJ"
+dest_files=["res://.godot/imported/PetEgg.OZJ-7beb8c4213f7680f90b1ba85d06c95e2.res"]
+
+[params]
+

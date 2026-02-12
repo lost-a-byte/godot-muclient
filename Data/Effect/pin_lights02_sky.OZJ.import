@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpg4aqxmvdpxk"
+path="res://.godot/imported/pin_lights02_sky.OZJ-5ed95c8df2ec8e7e6e37269b3445e8da.res"
+
+[deps]
+
+source_file="res://Data/Effect/pin_lights02_sky.OZJ"
+dest_files=["res://.godot/imported/pin_lights02_sky.OZJ-5ed95c8df2ec8e7e6e37269b3445e8da.res"]
+
+[params]
+

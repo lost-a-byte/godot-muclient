@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c64mksnmxfbys"
+path="res://.godot/imported/magicstore_furcloths.OZT-35c8887515962038505b3f3111597e46.res"
+
+[deps]
+
+source_file="res://Data/NPC/magicstore_furcloths.OZT"
+dest_files=["res://.godot/imported/magicstore_furcloths.OZT-35c8887515962038505b3f3111597e46.res"]
+
+[params]
+

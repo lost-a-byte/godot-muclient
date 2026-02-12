@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bd6hp24monyhg"
+path="res://.godot/imported/birdnpc.OZJ-0a22a0991cae6a1020456edd583047d0.res"
+
+[deps]
+
+source_file="res://Data/NPC/birdnpc.OZJ"
+dest_files=["res://.godot/imported/birdnpc.OZJ-0a22a0991cae6a1020456edd583047d0.res"]
+
+[params]
+

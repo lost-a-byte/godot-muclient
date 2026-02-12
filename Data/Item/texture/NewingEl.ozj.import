@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drrq088vufvdt"
+path="res://.godot/imported/NewingEl.ozj-b55f248dd7331ffa60d0ba4692254dc6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NewingEl.ozj"
+dest_files=["res://.godot/imported/NewingEl.ozj-b55f248dd7331ffa60d0ba4692254dc6.res"]
+
+[params]
+

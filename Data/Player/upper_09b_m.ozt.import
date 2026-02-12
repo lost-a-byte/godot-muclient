@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://void26nwmo71"
+path="res://.godot/imported/upper_09b_m.ozt-e0486b28b79d9b081fa14ac3d4772b77.res"
+
+[deps]
+
+source_file="res://Data/Player/upper_09b_m.ozt"
+dest_files=["res://.godot/imported/upper_09b_m.ozt-e0486b28b79d9b081fa14ac3d4772b77.res"]
+
+[params]
+

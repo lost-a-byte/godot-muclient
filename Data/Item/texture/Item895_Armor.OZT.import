@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chiebec5cmkul"
+path="res://.godot/imported/Item895_Armor.OZT-ddb0a611d9bff99246c952a0cf6feb0f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item895_Armor.OZT"
+dest_files=["res://.godot/imported/Item895_Armor.OZT-ddb0a611d9bff99246c952a0cf6feb0f.res"]
+
+[params]
+

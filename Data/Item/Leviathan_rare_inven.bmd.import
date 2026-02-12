@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cxq0r75ycsaj"
+path="res://.godot/imported/Leviathan_rare_inven.bmd-838ac0c743b1aeef120fd1bc3035f4f2.scn"
+
+[deps]
+
+source_file="res://Data/Item/Leviathan_rare_inven.bmd"
+dest_files=["res://.godot/imported/Leviathan_rare_inven.bmd-838ac0c743b1aeef120fd1bc3035f4f2.scn"]
+
+[params]
+
+modelScale=0.01

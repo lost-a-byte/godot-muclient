@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ckekcd7lgdny5"
+path="res://.godot/imported/seamanfx.bmd-abd82291c29ac16c6eb6655f2965a133.scn"
+
+[deps]
+
+source_file="res://Data/Skill/seamanfx.bmd"
+dest_files=["res://.godot/imported/seamanfx.bmd-abd82291c29ac16c6eb6655f2965a133.scn"]
+
+[params]
+
+modelScale=0.01

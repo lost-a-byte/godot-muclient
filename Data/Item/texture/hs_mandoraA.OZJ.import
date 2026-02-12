@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bidnqwfml5fxk"
+path="res://.godot/imported/hs_mandoraA.OZJ-ef02a389fa0dd95590d322c9e878169c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_mandoraA.OZJ"
+dest_files=["res://.godot/imported/hs_mandoraA.OZJ-ef02a389fa0dd95590d322c9e878169c.res"]
+
+[params]
+

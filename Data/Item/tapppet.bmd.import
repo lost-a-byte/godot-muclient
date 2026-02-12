@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cyxfec2fnxx8f"
+path="res://.godot/imported/tapppet.bmd-160f0609bfc6894d662cb6caa9e6f7b3.scn"
+
+[deps]
+
+source_file="res://Data/Item/tapppet.bmd"
+dest_files=["res://.godot/imported/tapppet.bmd-160f0609bfc6894d662cb6caa9e6f7b3.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccrsgddna4fnj"
+path="res://.godot/imported/Trans_Lilith.bmd-af4077960909e4e97fc4487a2a004e04.scn"
+
+[deps]
+
+source_file="res://Data/Item/Trans_Lilith.bmd"
+dest_files=["res://.godot/imported/Trans_Lilith.bmd-af4077960909e4e97fc4487a2a004e04.scn"]
+
+[params]
+
+modelScale=0.01

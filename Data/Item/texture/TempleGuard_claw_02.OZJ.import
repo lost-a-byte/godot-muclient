@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cak8skqrte1ra"
+path="res://.godot/imported/TempleGuard_claw_02.OZJ-52518b6842b26b5b0994d4a570d878ad.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_claw_02.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_claw_02.OZJ-52518b6842b26b5b0994d4a570d878ad.res"]
+
+[params]
+

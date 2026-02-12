@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bo3eeutcopsba"
+path="res://.godot/imported/loding_cancel_b_all.OZT-76a580dab041e7bab2e4d5f425eb8b7a.res"
+
+[deps]
+
+source_file="res://Data/Interface/loding_cancel_b_all.OZT"
+dest_files=["res://.godot/imported/loding_cancel_b_all.OZT-76a580dab041e7bab2e4d5f425eb8b7a.res"]
+
+[params]
+

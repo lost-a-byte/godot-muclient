@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dp8mq3u8clcx1"
+path="res://.godot/imported/CRIMSON LYCAN(3).wav-ca808f6dbabed796400254ee77849eca.sample"
+
+[deps]
+
+source_file="res://Data/Sound/Kethotum/CRIMSON LYCAN(3).wav"
+dest_files=["res://.godot/imported/CRIMSON LYCAN(3).wav-ca808f6dbabed796400254ee77849eca.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

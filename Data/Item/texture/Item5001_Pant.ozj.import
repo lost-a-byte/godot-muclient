@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uq5dr7ncye3t"
+path="res://.godot/imported/Item5001_Pant.ozj-7a7be5bd47cfdb494208931461d5a2b3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item5001_Pant.ozj"
+dest_files=["res://.godot/imported/Item5001_Pant.ozj-7a7be5bd47cfdb494208931461d5a2b3.res"]
+
+[params]
+

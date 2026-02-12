@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn8jip1whpwmo"
+path="res://.godot/imported/wing_feather.OZJ-ef2a2092c82afe5297f86fff455e5884.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wing_feather.OZJ"
+dest_files=["res://.godot/imported/wing_feather.OZJ-ef2a2092c82afe5297f86fff455e5884.res"]
+
+[params]
+

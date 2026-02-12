@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyjr4ifkgjjwu"
+path="res://.godot/imported/ironrider_red.OZJ-3256e8cd94291fa05d652e380df36aca.res"
+
+[deps]
+
+source_file="res://Data/Monster/ironrider_red.OZJ"
+dest_files=["res://.godot/imported/ironrider_red.OZJ-3256e8cd94291fa05d652e380df36aca.res"]
+
+[params]
+

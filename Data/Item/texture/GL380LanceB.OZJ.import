@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bekom1gyqlkci"
+path="res://.godot/imported/GL380LanceB.OZJ-f7b4993e211fcd08ca36f4b67cc67f66.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GL380LanceB.OZJ"
+dest_files=["res://.godot/imported/GL380LanceB.OZJ-f7b4993e211fcd08ca36f4b67cc67f66.res"]
+
+[params]
+

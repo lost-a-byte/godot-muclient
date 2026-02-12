@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqabc8if68eg4"
+path="res://.godot/imported/Giant_darkW_Blue.OZJ-466c01fe247e93245910dc7b3a594b46.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_darkW_Blue.OZJ"
+dest_files=["res://.godot/imported/Giant_darkW_Blue.OZJ-466c01fe247e93245910dc7b3a594b46.res"]
+
+[params]
+

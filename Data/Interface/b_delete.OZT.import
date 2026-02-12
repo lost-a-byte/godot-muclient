@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nd14ck7xd03k"
+path="res://.godot/imported/b_delete.OZT-2f728a7b27436b8fb513cce7b2fa5cef.res"
+
+[deps]
+
+source_file="res://Data/Interface/b_delete.OZT"
+dest_files=["res://.godot/imported/b_delete.OZT-2f728a7b27436b8fb513cce7b2fa5cef.res"]
+
+[params]
+

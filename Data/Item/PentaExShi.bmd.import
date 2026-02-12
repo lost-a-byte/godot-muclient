@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://1id8lqhn5n1i"
+path="res://.godot/imported/PentaExShi.bmd-6ef70f2fdf176e9a4d6c9f1df473ea5b.scn"
+
+[deps]
+
+source_file="res://Data/Item/PentaExShi.bmd"
+dest_files=["res://.godot/imported/PentaExShi.bmd-6ef70f2fdf176e9a4d6c9f1df473ea5b.scn"]
+
+[params]
+
+modelScale=0.01

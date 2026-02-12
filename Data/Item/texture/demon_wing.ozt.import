@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4by67drjup5g"
+path="res://.godot/imported/demon_wing.ozt-559189778e5f6a433ace2833c1131ea4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/demon_wing.ozt"
+dest_files=["res://.godot/imported/demon_wing.ozt-559189778e5f6a433ace2833c1131ea4.res"]
+
+[params]
+

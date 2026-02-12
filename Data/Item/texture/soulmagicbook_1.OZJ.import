@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bko3qhetncs8a"
+path="res://.godot/imported/soulmagicbook_1.OZJ-274c87b301c8b8d141d12373556eb79e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soulmagicbook_1.OZJ"
+dest_files=["res://.godot/imported/soulmagicbook_1.OZJ-274c87b301c8b8d141d12373556eb79e.res"]
+
+[params]
+

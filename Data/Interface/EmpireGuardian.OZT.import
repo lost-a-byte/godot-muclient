@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d36k5ujfls2qo"
+path="res://.godot/imported/EmpireGuardian.OZT-2f222fcdd259de2f48d084e980c4eb3e.res"
+
+[deps]
+
+source_file="res://Data/Interface/EmpireGuardian.OZT"
+dest_files=["res://.godot/imported/EmpireGuardian.OZT-2f222fcdd259de2f48d084e980c4eb3e.res"]
+
+[params]
+

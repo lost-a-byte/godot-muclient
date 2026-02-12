@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bacrr3jww6psd"
+path="res://.godot/imported/cage.OZT-844a89ddb0e02b3f2ac6e68bac78f1a7.res"
+
+[deps]
+
+source_file="res://Data/Object64/cage.OZT"
+dest_files=["res://.godot/imported/cage.OZT-844a89ddb0e02b3f2ac6e68bac78f1a7.res"]
+
+[params]
+

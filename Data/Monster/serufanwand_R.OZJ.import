@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6anoakvlfa0d"
+path="res://.godot/imported/serufanwand_R.OZJ-3e61ee4b23c8e5f7e3c6f17e2f4a301c.res"
+
+[deps]
+
+source_file="res://Data/Monster/serufanwand_R.OZJ"
+dest_files=["res://.godot/imported/serufanwand_R.OZJ-3e61ee4b23c8e5f7e3c6f17e2f4a301c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btmisk67y2xnm"
+path="res://.godot/imported/boss_invitationticket.OZJ-69c5a9e31ba7afb8d4633c5cecd6a0fa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/boss_invitationticket.OZJ"
+dest_files=["res://.godot/imported/boss_invitationticket.OZJ-69c5a9e31ba7afb8d4633c5cecd6a0fa.res"]
+
+[params]
+

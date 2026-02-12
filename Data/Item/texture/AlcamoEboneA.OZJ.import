@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhx1m2polydjp"
+path="res://.godot/imported/AlcamoEboneA.OZJ-5b82e9dea8dfa86327376b28dcb189d0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AlcamoEboneA.OZJ"
+dest_files=["res://.godot/imported/AlcamoEboneA.OZJ-5b82e9dea8dfa86327376b28dcb189d0.res"]
+
+[params]
+

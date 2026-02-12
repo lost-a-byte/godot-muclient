@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cqsy2ibjnei8t"
+path="res://.godot/imported/DefenseMedicine.bmd-b8e28394dc4d389816c2f6a31ea78dd0.scn"
+
+[deps]
+
+source_file="res://Data/Item/DefenseMedicine.bmd"
+dest_files=["res://.godot/imported/DefenseMedicine.bmd-b8e28394dc4d389816c2f6a31ea78dd0.scn"]
+
+[params]
+
+modelScale=0.01

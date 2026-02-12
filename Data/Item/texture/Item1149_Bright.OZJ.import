@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b34wrnnwkh3lv"
+path="res://.godot/imported/Item1149_Bright.OZJ-2bf2aefd57728e95ab29e73ad2f242f5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1149_Bright.OZJ"
+dest_files=["res://.godot/imported/Item1149_Bright.OZJ-2bf2aefd57728e95ab29e73ad2f242f5.res"]
+
+[params]
+

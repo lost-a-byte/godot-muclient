@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://76rlp5iuc26l"
+path="res://.godot/imported/magma_horse_01.OZJ-6626951f53bab955820eff8510f786c8.res"
+
+[deps]
+
+source_file="res://Data/Skill/magma_horse_01.OZJ"
+dest_files=["res://.godot/imported/magma_horse_01.OZJ-6626951f53bab955820eff8510f786c8.res"]
+
+[params]
+

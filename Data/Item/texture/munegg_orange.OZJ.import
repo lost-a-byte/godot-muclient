@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs7qp1bpf2d35"
+path="res://.godot/imported/munegg_orange.OZJ-69ab776e8e5d7db9c172427740c7a90a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/munegg_orange.OZJ"
+dest_files=["res://.godot/imported/munegg_orange.OZJ-69ab776e8e5d7db9c172427740c7a90a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7rvsvms4oqve"
+path="res://.godot/imported/wizard_head_02_green.OZJ-7dad7e01453f0ca8d1d34ae126772350.res"
+
+[deps]
+
+source_file="res://Data/Monster/wizard_head_02_green.OZJ"
+dest_files=["res://.godot/imported/wizard_head_02_green.OZJ-7dad7e01453f0ca8d1d34ae126772350.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7ymtm6w2vhe3"
+path="res://.godot/imported/darknight_lower.OZJ-1ff03304e9a52d53d9154c35d737e1fe.res"
+
+[deps]
+
+source_file="res://Data/Player/darknight_lower.OZJ"
+dest_files=["res://.godot/imported/darknight_lower.OZJ-1ff03304e9a52d53d9154c35d737e1fe.res"]
+
+[params]
+

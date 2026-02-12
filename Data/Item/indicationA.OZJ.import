@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dljmd4vd6dico"
+path="res://.godot/imported/indicationA.OZJ-4b5df3a65e4ac24f04f1a9354e70e43d.res"
+
+[deps]
+
+source_file="res://Data/Item/indicationA.OZJ"
+dest_files=["res://.godot/imported/indicationA.OZJ-4b5df3a65e4ac24f04f1a9354e70e43d.res"]
+
+[params]
+

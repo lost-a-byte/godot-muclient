@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhcjrd11fx6bj"
+path="res://.godot/imported/japan_umbrella01.OZJ-09c2cb70dd56a99e93693973ab4c7096.res"
+
+[deps]
+
+source_file="res://Data/Monster/japan_umbrella01.OZJ"
+dest_files=["res://.godot/imported/japan_umbrella01.OZJ-09c2cb70dd56a99e93693973ab4c7096.res"]
+
+[params]
+

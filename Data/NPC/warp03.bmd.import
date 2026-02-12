@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://l1cd83jhj7il"
+path="res://.godot/imported/warp03.bmd-580c22e91a92df0e8b56765940714aac.scn"
+
+[deps]
+
+source_file="res://Data/NPC/warp03.bmd"
+dest_files=["res://.godot/imported/warp03.bmd-580c22e91a92df0e8b56765940714aac.scn"]
+
+[params]
+
+modelScale=0.01

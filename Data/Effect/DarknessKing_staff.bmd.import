@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://rs1rmtqnaipx"
+path="res://.godot/imported/DarknessKing_staff.bmd-9da3403728da1443438534311c729be1.scn"
+
+[deps]
+
+source_file="res://Data/Effect/DarknessKing_staff.bmd"
+dest_files=["res://.godot/imported/DarknessKing_staff.bmd-9da3403728da1443438534311c729be1.scn"]
+
+[params]
+
+modelScale=0.01

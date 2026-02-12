@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccty2xc5nu5ha"
+path="res://.godot/imported/HelmMail_bloody_dragon.bmd-2d54fa8789e283776c9e75b2a053d325.scn"
+
+[deps]
+
+source_file="res://Data/Item/HelmMail_bloody_dragon.bmd"
+dest_files=["res://.godot/imported/HelmMail_bloody_dragon.bmd-2d54fa8789e283776c9e75b2a053d325.scn"]
+
+[params]
+
+modelScale=0.01

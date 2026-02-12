@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0r4ioprw0f76"
+path="res://.godot/imported/sakuras02.OZJ-0df95871f4e6667d041629a2ae8c2509.res"
+
+[deps]
+
+source_file="res://Data/Effect/sakuras02.OZJ"
+dest_files=["res://.godot/imported/sakuras02.OZJ-0df95871f4e6667d041629a2ae8c2509.res"]
+
+[params]
+

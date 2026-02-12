@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://5seu0vhh1umk"
+path="res://.godot/imported/Imperial_upgrade_stone.bmd-6b16fca69736fe20e48971a0dec2cc05.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_upgrade_stone.bmd"
+dest_files=["res://.godot/imported/Imperial_upgrade_stone.bmd-6b16fca69736fe20e48971a0dec2cc05.scn"]
+
+[params]
+
+modelScale=0.01

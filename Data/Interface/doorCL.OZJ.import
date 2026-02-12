@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://j3jkq3rbxhnk"
+path="res://.godot/imported/doorCL.OZJ-7d9b5c576dd5722260050545fc767d0e.res"
+
+[deps]
+
+source_file="res://Data/Interface/doorCL.OZJ"
+dest_files=["res://.godot/imported/doorCL.OZJ-7d9b5c576dd5722260050545fc767d0e.res"]
+
+[params]
+

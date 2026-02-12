@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvm66ht4yqeqs"
+path="res://.godot/imported/lightning_Gun_01.OZJ-4b1906aef9fad49b3bf0f1b8655acbde.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_Gun_01.OZJ"
+dest_files=["res://.godot/imported/lightning_Gun_01.OZJ-4b1906aef9fad49b3bf0f1b8655acbde.res"]
+
+[params]
+

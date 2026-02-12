@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dw0r3abkpt2of"
+path="res://.godot/imported/BattleSkill.OZT-13770610f6279a72e55c6c2bba183471.res"
+
+[deps]
+
+source_file="res://Data/Interface/BattleSkill.OZT"
+dest_files=["res://.godot/imported/BattleSkill.OZT-13770610f6279a72e55c6c2bba183471.res"]
+
+[params]
+

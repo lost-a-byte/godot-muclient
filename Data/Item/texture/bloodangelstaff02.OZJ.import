@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b37bsmy2trdve"
+path="res://.godot/imported/bloodangelstaff02.OZJ-47ee912a1e7cdd39e9fb4327d32936a3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodangelstaff02.OZJ"
+dest_files=["res://.godot/imported/bloodangelstaff02.OZJ-47ee912a1e7cdd39e9fb4327d32936a3.res"]
+
+[params]
+

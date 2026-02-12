@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://imc1pqd134jj"
+path="res://.godot/imported/wallgrass01.OZT-233959b2b14c8c5fa60c0c2073a4e97f.res"
+
+[deps]
+
+source_file="res://Data/Object32/wallgrass01.OZT"
+dest_files=["res://.godot/imported/wallgrass01.OZT-233959b2b14c8c5fa60c0c2073a4e97f.res"]
+
+[params]
+

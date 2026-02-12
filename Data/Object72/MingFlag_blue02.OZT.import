@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3c18o3nmnc45"
+path="res://.godot/imported/MingFlag_blue02.OZT-faa5ea04a3691df55c6a5443a66ddd84.res"
+
+[deps]
+
+source_file="res://Data/Object72/MingFlag_blue02.OZT"
+dest_files=["res://.godot/imported/MingFlag_blue02.OZT-faa5ea04a3691df55c6a5443a66ddd84.res"]
+
+[params]
+

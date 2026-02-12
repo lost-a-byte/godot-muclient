@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6g7p5inufovu"
+path="res://.godot/imported/pilot.bmd-d5420aa33594b2b71363585b76625884.scn"
+
+[deps]
+
+source_file="res://Data/Item/pilot.bmd"
+dest_files=["res://.godot/imported/pilot.bmd-d5420aa33594b2b71363585b76625884.scn"]
+
+[params]
+
+modelScale=0.01

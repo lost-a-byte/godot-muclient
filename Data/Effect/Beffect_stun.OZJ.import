@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clsyik351vgnx"
+path="res://.godot/imported/Beffect_stun.OZJ-9ff77b89416802eec0dec719b76bfb9f.res"
+
+[deps]
+
+source_file="res://Data/Effect/Beffect_stun.OZJ"
+dest_files=["res://.godot/imported/Beffect_stun.OZJ-9ff77b89416802eec0dec719b76bfb9f.res"]
+
+[params]
+

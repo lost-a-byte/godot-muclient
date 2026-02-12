@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://clwajfppwbhku"
+path="res://.godot/imported/Imperial_book.bmd-a1a018df60450ee61a079b26793c144c.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_book.bmd"
+dest_files=["res://.godot/imported/Imperial_book.bmd-a1a018df60450ee61a079b26793c144c.scn"]
+
+[params]
+
+modelScale=0.01

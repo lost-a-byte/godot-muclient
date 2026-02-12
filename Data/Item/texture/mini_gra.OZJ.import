@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://23urx3ux5187"
+path="res://.godot/imported/mini_gra.OZJ-5f7844d42c723b1afa0d396d047f3859.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mini_gra.OZJ"
+dest_files=["res://.godot/imported/mini_gra.OZJ-5f7844d42c723b1afa0d396d047f3859.res"]
+
+[params]
+

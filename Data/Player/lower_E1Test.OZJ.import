@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byrnu6ouorgtr"
+path="res://.godot/imported/lower_E1Test.OZJ-c66784696e65f48bec75755ba387a2d1.res"
+
+[deps]
+
+source_file="res://Data/Player/lower_E1Test.OZJ"
+dest_files=["res://.godot/imported/lower_E1Test.OZJ-c66784696e65f48bec75755ba387a2d1.res"]
+
+[params]
+

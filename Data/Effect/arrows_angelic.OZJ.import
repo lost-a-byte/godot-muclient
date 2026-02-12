@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkdnttvyc4ykh"
+path="res://.godot/imported/arrows_angelic.OZJ-00b779f16c891179887dcdcf31d60264.res"
+
+[deps]
+
+source_file="res://Data/Effect/arrows_angelic.OZJ"
+dest_files=["res://.godot/imported/arrows_angelic.OZJ-00b779f16c891179887dcdcf31d60264.res"]
+
+[params]
+

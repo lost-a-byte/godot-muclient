@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csx2u8fpfv7kt"
+path="res://.godot/imported/ReynerB.OZJ-b9a018214b7274e6ce5407ed9244d68c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ReynerB.OZJ"
+dest_files=["res://.godot/imported/ReynerB.OZJ-b9a018214b7274e6ce5407ed9244d68c.res"]
+
+[params]
+

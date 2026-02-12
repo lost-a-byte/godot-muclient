@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://v8e64p3jxsh1"
+path="res://.godot/imported/ParticleOption_12.OZJ-be36514d2e88c79121fac59cc1d5a421.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ParticleOption_12.OZJ"
+dest_files=["res://.godot/imported/ParticleOption_12.OZJ-be36514d2e88c79121fac59cc1d5a421.res"]
+
+[params]
+

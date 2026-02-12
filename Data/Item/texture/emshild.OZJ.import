@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://l5nol1ksp0d4"
+path="res://.godot/imported/emshild.OZJ-c5eba0ce134d90ad2883fa31a68f8090.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/emshild.OZJ"
+dest_files=["res://.godot/imported/emshild.OZJ-c5eba0ce134d90ad2883fa31a68f8090.res"]
+
+[params]
+

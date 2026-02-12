@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bgryntjdnd2r1"
+path="res://.godot/imported/grow_shork04_s.bmd-249c8856ad0aade248ffe797751b2e7d.scn"
+
+[deps]
+
+source_file="res://Data/Effect/grow_shork04_s.bmd"
+dest_files=["res://.godot/imported/grow_shork04_s.bmd-249c8856ad0aade248ffe797751b2e7d.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cm4gpo5s4o5bp"
+path="res://.godot/imported/hawk.OZT-d7f6f37ed7c2a8e8b39b9f0b1894fb20.res"
+
+[deps]
+
+source_file="res://Data/Object9/hawk.OZT"
+dest_files=["res://.godot/imported/hawk.OZT-d7f6f37ed7c2a8e8b39b9f0b1894fb20.res"]
+
+[params]
+

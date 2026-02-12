@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cgmo6rcolv88u"
+path="res://.godot/imported/Beer02.bmd-f79d73ec00265dc45c4fd5df9b2d96ea.scn"
+
+[deps]
+
+source_file="res://Data/Item/Beer02.bmd"
+dest_files=["res://.godot/imported/Beer02.bmd-f79d73ec00265dc45c4fd5df9b2d96ea.scn"]
+
+[params]
+
+modelScale=0.01

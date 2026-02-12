@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdliwlqqbpupn"
+path="res://.godot/imported/chaos_amulet_holyangel.OZJ-d677d36a6af507f370b7a2bb0836157e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_holyangel.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_holyangel.OZJ-d677d36a6af507f370b7a2bb0836157e.res"]
+
+[params]
+

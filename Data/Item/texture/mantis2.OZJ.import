@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0b05726ahsjp"
+path="res://.godot/imported/mantis2.OZJ-736b1415a9457b93edbd7d0dc8f6a529.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mantis2.OZJ"
+dest_files=["res://.godot/imported/mantis2.OZJ-736b1415a9457b93edbd7d0dc8f6a529.res"]
+
+[params]
+

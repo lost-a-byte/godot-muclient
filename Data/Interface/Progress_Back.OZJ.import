@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6f8gci63kqpy"
+path="res://.godot/imported/Progress_Back.OZJ-5f3d24e6bbde04dfe7d1eb3fd4fb72bd.res"
+
+[deps]
+
+source_file="res://Data/Interface/Progress_Back.OZJ"
+dest_files=["res://.godot/imported/Progress_Back.OZJ-5f3d24e6bbde04dfe7d1eb3fd4fb72bd.res"]
+
+[params]
+

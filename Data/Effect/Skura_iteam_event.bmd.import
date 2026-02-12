@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b033jg1ty5i2m"
+path="res://.godot/imported/Skura_iteam_event.bmd-c6f84900ec4a54e0becf00d5c081477d.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Skura_iteam_event.bmd"
+dest_files=["res://.godot/imported/Skura_iteam_event.bmd-c6f84900ec4a54e0becf00d5c081477d.scn"]
+
+[params]
+
+modelScale=0.01

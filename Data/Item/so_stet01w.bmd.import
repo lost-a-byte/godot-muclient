@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7n66wawos3kb"
+path="res://.godot/imported/so_stet01w.bmd-e3392c10072b878e54166ca2275af5c3.scn"
+
+[deps]
+
+source_file="res://Data/Item/so_stet01w.bmd"
+dest_files=["res://.godot/imported/so_stet01w.bmd-e3392c10072b878e54166ca2275af5c3.scn"]
+
+[params]
+
+modelScale=0.01

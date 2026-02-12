@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvv5edhc4i72y"
+path="res://.godot/imported/sf2.OZJ-5e6a9a86137ef0e1b6ead2e82e378e09.res"
+
+[deps]
+
+source_file="res://Data/Object9/sf2.OZJ"
+dest_files=["res://.godot/imported/sf2.OZJ-5e6a9a86137ef0e1b6ead2e82e378e09.res"]
+
+[params]
+

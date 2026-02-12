@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2p45l2p8dh16"
+path="res://.godot/imported/b_connect.OZT-9edbb75f739fa3cca1ee15916eb5763c.res"
+
+[deps]
+
+source_file="res://Data/Interface/b_connect.OZT"
+dest_files=["res://.godot/imported/b_connect.OZT-9edbb75f739fa3cca1ee15916eb5763c.res"]
+
+[params]
+

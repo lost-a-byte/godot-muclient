@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cu5mdhqxiv01"
+path="res://.godot/imported/hcandyred.bmd-cf26481b72951fcee3d496b9f9a78575.scn"
+
+[deps]
+
+source_file="res://Data/Skill/hcandyred.bmd"
+dest_files=["res://.godot/imported/hcandyred.bmd-cf26481b72951fcee3d496b9f9a78575.scn"]
+
+[params]
+
+modelScale=0.01

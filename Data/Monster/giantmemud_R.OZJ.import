@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cskl08x7iaw54"
+path="res://.godot/imported/giantmemud_R.OZJ-612f65c52fac7735134ed181cf8063ef.res"
+
+[deps]
+
+source_file="res://Data/Monster/giantmemud_R.OZJ"
+dest_files=["res://.godot/imported/giantmemud_R.OZJ-612f65c52fac7735134ed181cf8063ef.res"]
+
+[params]
+

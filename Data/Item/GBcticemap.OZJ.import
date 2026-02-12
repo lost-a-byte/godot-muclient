@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmcy8vor67okh"
+path="res://.godot/imported/GBcticemap.OZJ-a5f7c59a01af33d38f92104bf50905a4.res"
+
+[deps]
+
+source_file="res://Data/Item/GBcticemap.OZJ"
+dest_files=["res://.godot/imported/GBcticemap.OZJ-a5f7c59a01af33d38f92104bf50905a4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btnjpebnyjq4w"
+path="res://.godot/imported/newui_ctskillframe.OZT-7a37f8230ac6a82240db517f4afd255a.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_ctskillframe.OZT"
+dest_files=["res://.godot/imported/newui_ctskillframe.OZT-7a37f8230ac6a82240db517f4afd255a.res"]
+
+[params]
+

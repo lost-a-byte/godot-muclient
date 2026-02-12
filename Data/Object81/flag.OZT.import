@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqqcvpul1cby2"
+path="res://.godot/imported/flag.OZT-609f24b7a0491cfca76bce3d8722ce5f.res"
+
+[deps]
+
+source_file="res://Data/Object81/flag.OZT"
+dest_files=["res://.godot/imported/flag.OZT-609f24b7a0491cfca76bce3d8722ce5f.res"]
+
+[params]
+

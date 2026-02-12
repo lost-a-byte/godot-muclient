@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c27e8ts0sry5w"
+path="res://.godot/imported/rubber_tail2.OZJ-b940a9d7d917204f06a8d0e798649446.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rubber_tail2.OZJ"
+dest_files=["res://.godot/imported/rubber_tail2.OZJ-b940a9d7d917204f06a8d0e798649446.res"]
+
+[params]
+

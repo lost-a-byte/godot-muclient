@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxd3lbuvu7e8q"
+path="res://.godot/imported/groundring.OZJ-a25644107699b0b591efc5cacf90149e.res"
+
+[deps]
+
+source_file="res://Data/Item/groundring.OZJ"
+dest_files=["res://.godot/imported/groundring.OZJ-a25644107699b0b591efc5cacf90149e.res"]
+
+[params]
+

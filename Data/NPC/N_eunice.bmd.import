@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cieul24g26y61"
+path="res://.godot/imported/N_eunice.bmd-28fe40c9fec20f5aebdce7c38373d66d.scn"
+
+[deps]
+
+source_file="res://Data/NPC/N_eunice.bmd"
+dest_files=["res://.godot/imported/N_eunice.bmd-28fe40c9fec20f5aebdce7c38373d66d.scn"]
+
+[params]
+
+modelScale=0.01

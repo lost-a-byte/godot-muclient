@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmpyx0twuktid"
+path="res://.godot/imported/blackdrager_head.OZJ-80f78adf0e95cac74dbb6f84ab877958.res"
+
+[deps]
+
+source_file="res://Data/Player/blackdrager_head.OZJ"
+dest_files=["res://.godot/imported/blackdrager_head.OZJ-80f78adf0e95cac74dbb6f84ab877958.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ydmkawtslehb"
+path="res://.godot/imported/PeriodRingViolet.ozj-2ec20dcbd1d5b1cb2cbc591eb97c236b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PeriodRingViolet.ozj"
+dest_files=["res://.godot/imported/PeriodRingViolet.ozj-2ec20dcbd1d5b1cb2cbc591eb97c236b.res"]
+
+[params]
+

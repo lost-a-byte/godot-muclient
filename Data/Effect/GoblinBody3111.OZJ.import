@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sp87dcdpuo3v"
+path="res://.godot/imported/GoblinBody3111.OZJ-c730129c36d7a464e7b64b05827fbc5f.res"
+
+[deps]
+
+source_file="res://Data/Effect/GoblinBody3111.OZJ"
+dest_files=["res://.godot/imported/GoblinBody3111.OZJ-c730129c36d7a464e7b64b05827fbc5f.res"]
+
+[params]
+

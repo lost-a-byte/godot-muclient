@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cdjxpsouk8ycg"
+path="res://.godot/imported/m_Piercing.bmd-b63b05f40f00c6436ec37f0df7d165a5.scn"
+
+[deps]
+
+source_file="res://Data/Skill/m_Piercing.bmd"
+dest_files=["res://.godot/imported/m_Piercing.bmd-b63b05f40f00c6436ec37f0df7d165a5.scn"]
+
+[params]
+
+modelScale=0.01

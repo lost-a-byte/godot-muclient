@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg4f6opvqc1ik"
+path="res://.godot/imported/cooltime.OZJ-a7faba51a20ccc8136d3eff10c92d1bf.res"
+
+[deps]
+
+source_file="res://Data/Effect/cooltime.OZJ"
+dest_files=["res://.godot/imported/cooltime.OZJ-a7faba51a20ccc8136d3eff10c92d1bf.res"]
+
+[params]
+

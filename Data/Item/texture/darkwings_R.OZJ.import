@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b20jnfrgyjus3"
+path="res://.godot/imported/darkwings_R.OZJ-23094c57b7d480c2059b3f6ba1829ffc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkwings_R.OZJ"
+dest_files=["res://.godot/imported/darkwings_R.OZJ-23094c57b7d480c2059b3f6ba1829ffc.res"]
+
+[params]
+

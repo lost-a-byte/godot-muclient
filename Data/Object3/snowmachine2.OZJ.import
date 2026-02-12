@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btfaav4tb4ov1"
+path="res://.godot/imported/snowmachine2.OZJ-f09b7b09adb8265a38e9ef87bd859fbb.res"
+
+[deps]
+
+source_file="res://Data/Object3/snowmachine2.OZJ"
+dest_files=["res://.godot/imported/snowmachine2.OZJ-f09b7b09adb8265a38e9ef87bd859fbb.res"]
+
+[params]
+

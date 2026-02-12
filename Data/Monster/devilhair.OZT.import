@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crxyieq4rfxyd"
+path="res://.godot/imported/devilhair.OZT-019c53e54b02f3cc7d933c910265aea6.res"
+
+[deps]
+
+source_file="res://Data/Monster/devilhair.OZT"
+dest_files=["res://.godot/imported/devilhair.OZT-019c53e54b02f3cc7d933c910265aea6.res"]
+
+[params]
+

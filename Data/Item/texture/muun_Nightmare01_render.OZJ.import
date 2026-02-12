@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6mj6j2niuymw"
+path="res://.godot/imported/muun_Nightmare01_render.OZJ-d1db85ea2fce96a1c158ca4550a99ae7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/muun_Nightmare01_render.OZJ"
+dest_files=["res://.godot/imported/muun_Nightmare01_render.OZJ-d1db85ea2fce96a1c158ca4550a99ae7.res"]
+
+[params]
+

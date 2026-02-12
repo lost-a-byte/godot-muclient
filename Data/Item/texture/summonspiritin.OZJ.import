@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2w5l3sj0grev"
+path="res://.godot/imported/summonspiritin.OZJ-9eac9b251fd96a3d2ea846a2a89c5870.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/summonspiritin.OZJ"
+dest_files=["res://.godot/imported/summonspiritin.OZJ-9eac9b251fd96a3d2ea846a2a89c5870.res"]
+
+[params]
+

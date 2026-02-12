@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq7lmedxndpee"
+path="res://.godot/imported/condols.ozt-7d89222f86f5085c9a7963d127ee1cc6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/condols.ozt"
+dest_files=["res://.godot/imported/condols.ozt-7d89222f86f5085c9a7963d127ee1cc6.res"]
+
+[params]
+

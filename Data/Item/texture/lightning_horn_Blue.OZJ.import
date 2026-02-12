@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqyb7te0end8r"
+path="res://.godot/imported/lightning_horn_Blue.OZJ-6ad7c522a02c81515d22c4f6f908782d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_horn_Blue.OZJ"
+dest_files=["res://.godot/imported/lightning_horn_Blue.OZJ-6ad7c522a02c81515d22c4f6f908782d.res"]
+
+[params]
+

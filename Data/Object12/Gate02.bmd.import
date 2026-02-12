@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c1ternlvyef2a"
+path="res://.godot/imported/Gate02.bmd-911fc6586626e831cc79109c88b3ec56.scn"
+
+[deps]
+
+source_file="res://Data/Object12/Gate02.bmd"
+dest_files=["res://.godot/imported/Gate02.bmd-911fc6586626e831cc79109c88b3ec56.scn"]
+
+[params]
+
+modelScale=0.01

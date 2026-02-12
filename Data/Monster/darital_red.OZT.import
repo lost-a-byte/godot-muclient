@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmiroykayrmdh"
+path="res://.godot/imported/darital_red.OZT-b7a5a589fd8dcc113f35ccee388ef69a.res"
+
+[deps]
+
+source_file="res://Data/Monster/darital_red.OZT"
+dest_files=["res://.godot/imported/darital_red.OZT-b7a5a589fd8dcc113f35ccee388ef69a.res"]
+
+[params]
+

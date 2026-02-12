@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://beujno5vsfwh8"
+path="res://.godot/imported/NPC_LIVAIN.bmd-d847e270a6213868cffc03bc5af72a36.scn"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_LIVAIN.bmd"
+dest_files=["res://.godot/imported/NPC_LIVAIN.bmd-d847e270a6213868cffc03bc5af72a36.scn"]
+
+[params]
+
+modelScale=0.01

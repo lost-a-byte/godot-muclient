@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chyy0tmpaxn2x"
+path="res://.godot/imported/serufan_wing.OZT-00de296ad6629c90afd7edc52cb0a543.res"
+
+[deps]
+
+source_file="res://Data/Monster/serufan_wing.OZT"
+dest_files=["res://.godot/imported/serufan_wing.OZT-00de296ad6629c90afd7edc52cb0a543.res"]
+
+[params]
+

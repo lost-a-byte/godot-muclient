@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bpadw840gn4lv"
+path="res://.godot/imported/blade08.bmd-d4823460cd4b93a1b886c9035eb20d58.scn"
+
+[deps]
+
+source_file="res://Data/Item/blade08.bmd"
+dest_files=["res://.godot/imported/blade08.bmd-d4823460cd4b93a1b886c9035eb20d58.scn"]
+
+[params]
+
+modelScale=0.01

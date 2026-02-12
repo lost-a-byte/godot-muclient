@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjyoxf3jdjeyt"
+path="res://.godot/imported/backpanel4.ozt-7d2064b1f9a33ae348412f896c80b3eb.res"
+
+[deps]
+
+source_file="res://Data/Interface/backpanel4.ozt"
+dest_files=["res://.godot/imported/backpanel4.ozt-7d2064b1f9a33ae348412f896c80b3eb.res"]
+
+[params]
+

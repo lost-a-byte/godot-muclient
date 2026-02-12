@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cshwlkwc821o8"
+path="res://.godot/imported/ex01FMammor.OZJ-3e3819b18c9a25139262b0cd758a290d.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01FMammor.OZJ"
+dest_files=["res://.godot/imported/ex01FMammor.OZJ-3e3819b18c9a25139262b0cd758a290d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqv4d7q5b1gf4"
+path="res://.godot/imported/atlans.OZT-d112dfbee0ee52d842c5ed04771b4668.res"
+
+[deps]
+
+source_file="res://Data/Interface/atlans.OZT"
+dest_files=["res://.godot/imported/atlans.OZT-d112dfbee0ee52d842c5ed04771b4668.res"]
+
+[params]
+

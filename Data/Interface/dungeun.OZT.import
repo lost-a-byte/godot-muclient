@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://de0oe70lxy31x"
+path="res://.godot/imported/dungeun.OZT-56f52607141709b5aeaf87fbf536d896.res"
+
+[deps]
+
+source_file="res://Data/Interface/dungeun.OZT"
+dest_files=["res://.godot/imported/dungeun.OZT-56f52607141709b5aeaf87fbf536d896.res"]
+
+[params]
+

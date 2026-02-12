@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://db2051aif41op"
+path="res://.godot/imported/branchpet.bmd-973be46797a694eeba86cc65e36ce112.scn"
+
+[deps]
+
+source_file="res://Data/Item/branchpet.bmd"
+dest_files=["res://.godot/imported/branchpet.bmd-973be46797a694eeba86cc65e36ce112.scn"]
+
+[params]
+
+modelScale=0.01

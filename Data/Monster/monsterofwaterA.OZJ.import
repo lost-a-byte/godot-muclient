@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnnl5v1ocan04"
+path="res://.godot/imported/monsterofwaterA.OZJ-bc4761ae9b8c5f28765a85b7e66c6cdb.res"
+
+[deps]
+
+source_file="res://Data/Monster/monsterofwaterA.OZJ"
+dest_files=["res://.godot/imported/monsterofwaterA.OZJ-bc4761ae9b8c5f28765a85b7e66c6cdb.res"]
+
+[params]
+

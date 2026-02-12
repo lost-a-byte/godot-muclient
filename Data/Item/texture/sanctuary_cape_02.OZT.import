@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5owpx2ywmjou"
+path="res://.godot/imported/sanctuary_cape_02.OZT-f8b9f9406622bb31ac5b4a307ee26073.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sanctuary_cape_02.OZT"
+dest_files=["res://.godot/imported/sanctuary_cape_02.OZT-f8b9f9406622bb31ac5b4a307ee26073.res"]
+
+[params]
+

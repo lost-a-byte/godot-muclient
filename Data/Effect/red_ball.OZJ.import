@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3xmmu2dll1hv"
+path="res://.godot/imported/red_ball.OZJ-2b04c04f4ac876fc5b85f57331a75f59.res"
+
+[deps]
+
+source_file="res://Data/Effect/red_ball.OZJ"
+dest_files=["res://.godot/imported/red_ball.OZJ-2b04c04f4ac876fc5b85f57331a75f59.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c54n3audk01p1"
+path="res://.godot/imported/sd_STree01F.OZJ-8c61d51bed52c590da86d35e93bc718b.res"
+
+[deps]
+
+source_file="res://Data/Object123/sd_STree01F.OZJ"
+dest_files=["res://.godot/imported/sd_STree01F.OZJ-8c61d51bed52c590da86d35e93bc718b.res"]
+
+[params]
+

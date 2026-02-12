@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5gat3thy23u5"
+path="res://.godot/imported/Elf_E.OZJ-982ed96c89ccfa6074949746594d2f8d.res"
+
+[deps]
+
+source_file="res://Data/Item/Elf_E.OZJ"
+dest_files=["res://.godot/imported/Elf_E.OZJ-982ed96c89ccfa6074949746594d2f8d.res"]
+
+[params]
+

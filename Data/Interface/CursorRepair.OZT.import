@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://i0ixbdt5wvyc"
+path="res://.godot/imported/CursorRepair.OZT-74a6c2d0fa46a2bcac2d577caf57ffbd.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorRepair.OZT"
+dest_files=["res://.godot/imported/CursorRepair.OZT-74a6c2d0fa46a2bcac2d577caf57ffbd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqej2opn0pnvn"
+path="res://.godot/imported/LesnarHair.OZJ-bc0456ce74e31ea268680b29c8bf3c20.res"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/LesnarHair.OZJ"
+dest_files=["res://.godot/imported/LesnarHair.OZJ-bc0456ce74e31ea268680b29c8bf3c20.res"]
+
+[params]
+

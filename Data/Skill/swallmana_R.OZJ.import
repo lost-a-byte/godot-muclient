@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvobbbrws6vh7"
+path="res://.godot/imported/swallmana_R.OZJ-cf629b6193746bd18fe14f6b2690d743.res"
+
+[deps]
+
+source_file="res://Data/Skill/swallmana_R.OZJ"
+dest_files=["res://.godot/imported/swallmana_R.OZJ-cf629b6193746bd18fe14f6b2690d743.res"]
+
+[params]
+

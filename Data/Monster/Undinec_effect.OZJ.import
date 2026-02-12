@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dy70vcf2qswk4"
+path="res://.godot/imported/Undinec_effect.OZJ-5e6919b510a8d855b7cee33579a82cf3.res"
+
+[deps]
+
+source_file="res://Data/Monster/Undinec_effect.OZJ"
+dest_files=["res://.godot/imported/Undinec_effect.OZJ-5e6919b510a8d855b7cee33579a82cf3.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nvc877588kq1"
+path="res://.godot/imported/message_back.OZT-e266d92bb4ea57fd9577963ef30a39ce.res"
+
+[deps]
+
+source_file="res://Data/Interface/message_back.OZT"
+dest_files=["res://.godot/imported/message_back.OZT-e266d92bb4ea57fd9577963ef30a39ce.res"]
+
+[params]
+

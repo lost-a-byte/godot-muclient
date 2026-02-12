@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://barf167elicvt"
+path="res://.godot/imported/lplower.OZJ-87b5c4cd6361bef0c1f4885fd9caa263.res"
+
+[deps]
+
+source_file="res://Data/NPC/lplower.OZJ"
+dest_files=["res://.godot/imported/lplower.OZJ-87b5c4cd6361bef0c1f4885fd9caa263.res"]
+
+[params]
+

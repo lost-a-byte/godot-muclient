@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://u1e350h51iwo"
+path="res://.godot/imported/heaywood.OZJ-e9ab09e6f3cdf4ddad11c1a95ae9d23f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/heaywood.OZJ"
+dest_files=["res://.godot/imported/heaywood.OZJ-e9ab09e6f3cdf4ddad11c1a95ae9d23f.res"]
+
+[params]
+

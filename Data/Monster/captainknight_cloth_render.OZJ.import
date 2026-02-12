@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://du3gb0cbci2ut"
+path="res://.godot/imported/captainknight_cloth_render.OZJ-d54fd3fda18cc517c23663dbc68a17da.res"
+
+[deps]
+
+source_file="res://Data/Monster/captainknight_cloth_render.OZJ"
+dest_files=["res://.godot/imported/captainknight_cloth_render.OZJ-d54fd3fda18cc517c23663dbc68a17da.res"]
+
+[params]
+

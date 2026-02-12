@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgid5fgqorscl"
+path="res://.godot/imported/newui_item_necklace.OZT-17148d9c2f52452ccc0c02e5995a8bc8.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_necklace.OZT"
+dest_files=["res://.godot/imported/newui_item_necklace.OZT-17148d9c2f52452ccc0c02e5995a8bc8.res"]
+
+[params]
+

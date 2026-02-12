@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ubj3ef5grd1x"
+path="res://.godot/imported/MagicRingPendant.OZJ-5a0ad002b3be4750314fbac2d891a0a2.res"
+
+[deps]
+
+source_file="res://Data/Item/MagicRingPendant.OZJ"
+dest_files=["res://.godot/imported/MagicRingPendant.OZJ-5a0ad002b3be4750314fbac2d891a0a2.res"]
+
+[params]
+

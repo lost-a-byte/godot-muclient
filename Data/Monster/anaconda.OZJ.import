@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5khwojx4sepi"
+path="res://.godot/imported/anaconda.OZJ-a896ec973173a4b0c4a5a5eb69a63c41.res"
+
+[deps]
+
+source_file="res://Data/Monster/anaconda.OZJ"
+dest_files=["res://.godot/imported/anaconda.OZJ-a896ec973173a4b0c4a5a5eb69a63c41.res"]
+
+[params]
+

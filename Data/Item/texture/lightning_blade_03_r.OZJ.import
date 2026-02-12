@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xi5iuakofxlb"
+path="res://.godot/imported/lightning_blade_03_r.OZJ-2c76d5b3291eb4a82725abd395325145.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_blade_03_r.OZJ"
+dest_files=["res://.godot/imported/lightning_blade_03_r.OZJ-2c76d5b3291eb4a82725abd395325145.res"]
+
+[params]
+

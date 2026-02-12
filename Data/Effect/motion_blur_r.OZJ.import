@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wakqjn16hyq5"
+path="res://.godot/imported/motion_blur_r.OZJ-fa1ff27727be021f4a42ee8848e31e61.res"
+
+[deps]
+
+source_file="res://Data/Effect/motion_blur_r.OZJ"
+dest_files=["res://.godot/imported/motion_blur_r.OZJ-fa1ff27727be021f4a42ee8848e31e61.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkt2ry7ri3x2m"
+path="res://.godot/imported/big_spider.OZJ-f21f2bd3dce7f9a18379dd533578de54.res"
+
+[deps]
+
+source_file="res://Data/Monster/big_spider.OZJ"
+dest_files=["res://.godot/imported/big_spider.OZJ-f21f2bd3dce7f9a18379dd533578de54.res"]
+
+[params]
+

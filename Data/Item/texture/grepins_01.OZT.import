@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cw1lgk4npjp3"
+path="res://.godot/imported/grepins_01.OZT-4327eaadbb69c58acfc1661b7eb42395.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/grepins_01.OZT"
+dest_files=["res://.godot/imported/grepins_01.OZT-4327eaadbb69c58acfc1661b7eb42395.res"]
+
+[params]
+

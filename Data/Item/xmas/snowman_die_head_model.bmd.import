@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cebfqkfjwii3t"
+path="res://.godot/imported/snowman_die_head_model.bmd-f0dc57409dbc3074a2de9a7ff95b55ed.scn"
+
+[deps]
+
+source_file="res://Data/Item/xmas/snowman_die_head_model.bmd"
+dest_files=["res://.godot/imported/snowman_die_head_model.bmd-f0dc57409dbc3074a2de9a7ff95b55ed.scn"]
+
+[params]
+
+modelScale=0.01

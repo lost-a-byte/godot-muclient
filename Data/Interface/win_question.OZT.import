@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b282wtu48aqht"
+path="res://.godot/imported/win_question.OZT-0d7c265620bef487d849a636e1e32a18.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_question.OZT"
+dest_files=["res://.godot/imported/win_question.OZT-0d7c265620bef487d849a636e1e32a18.res"]
+
+[params]
+

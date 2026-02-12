@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbtkyv2kv6xpr"
+path="res://.godot/imported/Item1180_blue.OZJ-c8f7f8179ea0b80b77afb894f54ce380.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1180_blue.OZJ"
+dest_files=["res://.godot/imported/Item1180_blue.OZJ-c8f7f8179ea0b80b77afb894f54ce380.res"]
+
+[params]
+

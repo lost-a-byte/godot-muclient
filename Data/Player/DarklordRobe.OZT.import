@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://du8nn1y4gwhwe"
+path="res://.godot/imported/DarklordRobe.OZT-a126d475f6a3a3b514a516cf3b80ed9b.res"
+
+[deps]
+
+source_file="res://Data/Player/DarklordRobe.OZT"
+dest_files=["res://.godot/imported/DarklordRobe.OZT-a126d475f6a3a3b514a516cf3b80ed9b.res"]
+
+[params]
+

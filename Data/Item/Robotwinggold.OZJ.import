@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byqfogo7l8hjw"
+path="res://.godot/imported/Robotwinggold.OZJ-d341ea0fdcc41f5d78722e79b3bc652b.res"
+
+[deps]
+
+source_file="res://Data/Item/Robotwinggold.OZJ"
+dest_files=["res://.godot/imported/Robotwinggold.OZJ-d341ea0fdcc41f5d78722e79b3bc652b.res"]
+
+[params]
+

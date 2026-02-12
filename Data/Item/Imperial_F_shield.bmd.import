@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://eg7bs562yhg6"
+path="res://.godot/imported/Imperial_F_shield.bmd-78670984eb8c3f568640efad5c4403ca.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_F_shield.bmd"
+dest_files=["res://.godot/imported/Imperial_F_shield.bmd-78670984eb8c3f568640efad5c4403ca.scn"]
+
+[params]
+
+modelScale=0.01

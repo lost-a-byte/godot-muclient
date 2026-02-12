@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba0c2ce0a38pw"
+path="res://.godot/imported/sd_cathedralwall01D.OZJ-bf79f272c90fe03043a2ef7fd05de91c.res"
+
+[deps]
+
+source_file="res://Data/Object146/sd_cathedralwall01D.OZJ"
+dest_files=["res://.godot/imported/sd_cathedralwall01D.OZJ-bf79f272c90fe03043a2ef7fd05de91c.res"]
+
+[params]
+

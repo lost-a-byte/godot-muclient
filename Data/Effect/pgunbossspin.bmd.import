@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvvg6uknlhnfg"
+path="res://.godot/imported/pgunbossspin.bmd-e98a8b41037d29a6b9683fa04e422bd1.scn"
+
+[deps]
+
+source_file="res://Data/Effect/pgunbossspin.bmd"
+dest_files=["res://.godot/imported/pgunbossspin.bmd-e98a8b41037d29a6b9683fa04e422bd1.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xe5ljc07i6dl"
+path="res://.godot/imported/dark400_head.OZT-cd93adc9a4edc3e7de1815d2aa9f4dcb.res"
+
+[deps]
+
+source_file="res://Data/Object95/dark400_head.OZT"
+dest_files=["res://.godot/imported/dark400_head.OZT-cd93adc9a4edc3e7de1815d2aa9f4dcb.res"]
+
+[params]
+

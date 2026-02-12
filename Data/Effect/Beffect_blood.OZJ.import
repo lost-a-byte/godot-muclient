@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm6p7ceryokyu"
+path="res://.godot/imported/Beffect_blood.OZJ-0a31fa54b0680fffc7b34cc2dc585779.res"
+
+[deps]
+
+source_file="res://Data/Effect/Beffect_blood.OZJ"
+dest_files=["res://.godot/imported/Beffect_blood.OZJ-0a31fa54b0680fffc7b34cc2dc585779.res"]
+
+[params]
+

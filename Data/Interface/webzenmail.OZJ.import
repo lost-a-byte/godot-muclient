@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhfvvaijarbu7"
+path="res://.godot/imported/webzenmail.OZJ-32e6ad430ca1ba87cca0036be58baf54.res"
+
+[deps]
+
+source_file="res://Data/Interface/webzenmail.OZJ"
+dest_files=["res://.godot/imported/webzenmail.OZJ-32e6ad430ca1ba87cca0036be58baf54.res"]
+
+[params]
+

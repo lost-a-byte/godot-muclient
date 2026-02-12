@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://15knavq3sf16"
+path="res://.godot/imported/DivineHorse_soul.bmd-c72a3a05fcc8fd1878e9d0854b42072a.scn"
+
+[deps]
+
+source_file="res://Data/Item/DivineHorse_soul.bmd"
+dest_files=["res://.godot/imported/DivineHorse_soul.bmd-c72a3a05fcc8fd1878e9d0854b42072a.scn"]
+
+[params]
+
+modelScale=0.01

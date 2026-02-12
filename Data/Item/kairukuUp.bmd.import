@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://rg2f263fqx56"
+path="res://.godot/imported/kairukuUp.bmd-159e524fa2ffafe5db1cb472a5d6af44.scn"
+
+[deps]
+
+source_file="res://Data/Item/kairukuUp.bmd"
+dest_files=["res://.godot/imported/kairukuUp.bmd-159e524fa2ffafe5db1cb472a5d6af44.scn"]
+
+[params]
+
+modelScale=0.01

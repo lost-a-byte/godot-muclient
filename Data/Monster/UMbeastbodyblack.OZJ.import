@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpmasq2o8vgs8"
+path="res://.godot/imported/UMbeastbodyblack.OZJ-71b1efc0157306d38e21b147f37d5e07.res"
+
+[deps]
+
+source_file="res://Data/Monster/UMbeastbodyblack.OZJ"
+dest_files=["res://.godot/imported/UMbeastbodyblack.OZJ-71b1efc0157306d38e21b147f37d5e07.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3hgvndssthdf"
+path="res://.godot/imported/phoenix.OZJ-1eb4c17824ee925cc5dbccba5ea07ba1.res"
+
+[deps]
+
+source_file="res://Data/Skill/phoenix.OZJ"
+dest_files=["res://.godot/imported/phoenix.OZJ-1eb4c17824ee925cc5dbccba5ea07ba1.res"]
+
+[params]
+

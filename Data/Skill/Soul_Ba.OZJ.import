@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwiv55ac2fcj6"
+path="res://.godot/imported/Soul_Ba.OZJ-cc31177776a40f4583776d8d06eaa40a.res"
+
+[deps]
+
+source_file="res://Data/Skill/Soul_Ba.OZJ"
+dest_files=["res://.godot/imported/Soul_Ba.OZJ-cc31177776a40f4583776d8d06eaa40a.res"]
+
+[params]
+

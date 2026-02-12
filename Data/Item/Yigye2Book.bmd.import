@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2kv725wayrv4"
+path="res://.godot/imported/Yigye2Book.bmd-7c90514e2f8d401fd12aa7ff9f865dc8.scn"
+
+[deps]
+
+source_file="res://Data/Item/Yigye2Book.bmd"
+dest_files=["res://.godot/imported/Yigye2Book.bmd-7c90514e2f8d401fd12aa7ff9f865dc8.scn"]
+
+[params]
+
+modelScale=0.01

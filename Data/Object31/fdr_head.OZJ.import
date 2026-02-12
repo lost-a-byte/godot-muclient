@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjj8v2ncel7nj"
+path="res://.godot/imported/fdr_head.OZJ-b17bae843645c66d2f92fe09d5e83280.res"
+
+[deps]
+
+source_file="res://Data/Object31/fdr_head.OZJ"
+dest_files=["res://.godot/imported/fdr_head.OZJ-b17bae843645c66d2f92fe09d5e83280.res"]
+
+[params]
+

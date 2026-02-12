@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chi2agqukopaj"
+path="res://.godot/imported/mother_bear_evo.OZJ-dc6746cee98bb6c97f0f5acfa8859f20.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mother_bear_evo.OZJ"
+dest_files=["res://.godot/imported/mother_bear_evo.OZJ-dc6746cee98bb6c97f0f5acfa8859f20.res"]
+
+[params]
+

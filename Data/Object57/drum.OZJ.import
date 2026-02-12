@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfwyk5u5wsp31"
+path="res://.godot/imported/drum.OZJ-c184e9cd754ed2904f042d066c00ce60.res"
+
+[deps]
+
+source_file="res://Data/Object57/drum.OZJ"
+dest_files=["res://.godot/imported/drum.OZJ-c184e9cd754ed2904f042d066c00ce60.res"]
+
+[params]
+

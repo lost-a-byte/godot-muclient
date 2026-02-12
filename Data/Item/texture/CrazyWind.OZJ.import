@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blrfclgwvjeur"
+path="res://.godot/imported/CrazyWind.OZJ-09756b7baefa5cb048b159af6542053c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CrazyWind.OZJ"
+dest_files=["res://.godot/imported/CrazyWind.OZJ-09756b7baefa5cb048b159af6542053c.res"]
+
+[params]
+

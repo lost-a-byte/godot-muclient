@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jeod2g5xjwjx"
+path="res://.godot/imported/wolfhair.OZT-1ae1ab686db64966718613e0568f8d21.res"
+
+[deps]
+
+source_file="res://Data/Monster/wolfhair.OZT"
+dest_files=["res://.godot/imported/wolfhair.OZT-1ae1ab686db64966718613e0568f8d21.res"]
+
+[params]
+

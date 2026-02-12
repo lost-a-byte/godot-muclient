@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cx4fsm61tqjiv"
+path="res://.godot/imported/suhocham01.bmd-695d42351e429411c4a755137c4fe0ee.scn"
+
+[deps]
+
+source_file="res://Data/Item/suhocham01.bmd"
+dest_files=["res://.godot/imported/suhocham01.bmd-695d42351e429411c4a755137c4fe0ee.scn"]
+
+[params]
+
+modelScale=0.01

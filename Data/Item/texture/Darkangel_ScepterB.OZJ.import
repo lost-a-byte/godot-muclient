@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0lmhd50g13k0"
+path="res://.godot/imported/Darkangel_ScepterB.OZJ-4d5a2e474513ad8b3e80fe48101641d5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Darkangel_ScepterB.OZJ"
+dest_files=["res://.godot/imported/Darkangel_ScepterB.OZJ-4d5a2e474513ad8b3e80fe48101641d5.res"]
+
+[params]
+

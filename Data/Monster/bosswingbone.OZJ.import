@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bo0a64q5stmwj"
+path="res://.godot/imported/bosswingbone.OZJ-841f6af4161b039aab68b9491466bff1.res"
+
+[deps]
+
+source_file="res://Data/Monster/bosswingbone.OZJ"
+dest_files=["res://.godot/imported/bosswingbone.OZJ-841f6af4161b039aab68b9491466bff1.res"]
+
+[params]
+

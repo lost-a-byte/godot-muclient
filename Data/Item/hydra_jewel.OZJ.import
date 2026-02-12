@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bd2ikkjuqrj5w"
+path="res://.godot/imported/hydra_jewel.OZJ-1bf52d39269061c16892914fdfa51659.res"
+
+[deps]
+
+source_file="res://Data/Item/hydra_jewel.OZJ"
+dest_files=["res://.godot/imported/hydra_jewel.OZJ-1bf52d39269061c16892914fdfa51659.res"]
+
+[params]
+

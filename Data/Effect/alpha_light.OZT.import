@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn475x62tyo54"
+path="res://.godot/imported/alpha_light.OZT-e31e185540c4035ff97a0f19bd54ca68.res"
+
+[deps]
+
+source_file="res://Data/Effect/alpha_light.OZT"
+dest_files=["res://.godot/imported/alpha_light.OZT-e31e185540c4035ff97a0f19bd54ca68.res"]
+
+[params]
+

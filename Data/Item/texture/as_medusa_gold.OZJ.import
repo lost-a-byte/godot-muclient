@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bswj7vbo1x1e1"
+path="res://.godot/imported/as_medusa_gold.OZJ-70468f699c4b9ed50fd73b2b8265fa83.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/as_medusa_gold.OZJ"
+dest_files=["res://.godot/imported/as_medusa_gold.OZJ-70468f699c4b9ed50fd73b2b8265fa83.res"]
+
+[params]
+

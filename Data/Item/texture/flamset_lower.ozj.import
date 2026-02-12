@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbfpim7o8agee"
+path="res://.godot/imported/flamset_lower.ozj-2063479bf69ef0ef9a10b1eb60d5a2e3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/flamset_lower.ozj"
+dest_files=["res://.godot/imported/flamset_lower.ozj-2063479bf69ef0ef9a10b1eb60d5a2e3.res"]
+
+[params]
+

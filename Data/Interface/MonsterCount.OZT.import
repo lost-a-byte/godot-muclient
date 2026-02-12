@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqfispeaqpkxb"
+path="res://.godot/imported/MonsterCount.OZT-58dad05f7fee98341f006e8cc2966cc9.res"
+
+[deps]
+
+source_file="res://Data/Interface/MonsterCount.OZT"
+dest_files=["res://.godot/imported/MonsterCount.OZT-58dad05f7fee98341f006e8cc2966cc9.res"]
+
+[params]
+

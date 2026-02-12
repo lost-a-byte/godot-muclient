@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sqmgoqn3flsy"
+path="res://.godot/imported/blackdrager_boots.ozj-d8780b7173255a0092883c535aebc7c2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blackdrager_boots.ozj"
+dest_files=["res://.godot/imported/blackdrager_boots.ozj-d8780b7173255a0092883c535aebc7c2.res"]
+
+[params]
+

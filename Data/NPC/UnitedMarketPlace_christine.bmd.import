@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dle8qoexhg45p"
+path="res://.godot/imported/UnitedMarketPlace_christine.bmd-59cf216c6f75d862617aaa748edeb8aa.scn"
+
+[deps]
+
+source_file="res://Data/NPC/UnitedMarketPlace_christine.bmd"
+dest_files=["res://.godot/imported/UnitedMarketPlace_christine.bmd-59cf216c6f75d862617aaa748edeb8aa.scn"]
+
+[params]
+
+modelScale=0.01

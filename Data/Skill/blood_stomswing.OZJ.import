@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfy14wypbkhft"
+path="res://.godot/imported/blood_stomswing.OZJ-ef51d8dc35a19651a7ff0413a72aa25d.res"
+
+[deps]
+
+source_file="res://Data/Skill/blood_stomswing.OZJ"
+dest_files=["res://.godot/imported/blood_stomswing.OZJ-ef51d8dc35a19651a7ff0413a72aa25d.res"]
+
+[params]
+

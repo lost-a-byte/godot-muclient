@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkuex4a03mgec"
+path="res://.godot/imported/lightning_sword_Glow.OZJ-10df19a8dc875aae972cd72ed8a93b5f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_sword_Glow.OZJ"
+dest_files=["res://.godot/imported/lightning_sword_Glow.OZJ-10df19a8dc875aae972cd72ed8a93b5f.res"]
+
+[params]
+

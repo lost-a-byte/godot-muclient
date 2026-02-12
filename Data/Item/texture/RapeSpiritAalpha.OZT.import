@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx2obilywogji"
+path="res://.godot/imported/RapeSpiritAalpha.OZT-cf5240f7f3a77365cb3e674470d8cbf3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RapeSpiritAalpha.OZT"
+dest_files=["res://.godot/imported/RapeSpiritAalpha.OZT-cf5240f7f3a77365cb3e674470d8cbf3.res"]
+
+[params]
+

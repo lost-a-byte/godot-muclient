@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1glpyvfbn735"
+path="res://.godot/imported/roes_leaf.OZJ-b1ad41ae9da051fa537b3c802e3c34e5.res"
+
+[deps]
+
+source_file="res://Data/Effect/roes_leaf.OZJ"
+dest_files=["res://.godot/imported/roes_leaf.OZJ-b1ad41ae9da051fa537b3c802e3c34e5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyj733p0pg48i"
+path="res://.godot/imported/waternecklace.ozj-80cbc40e7aec2d92a437be7e3e9ded7d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/waternecklace.ozj"
+dest_files=["res://.godot/imported/waternecklace.ozj-80cbc40e7aec2d92a437be7e3e9ded7d.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bm2fq8nt6t4h0"
+path="res://.godot/imported/cyclopspet_evol.bmd-c08baf0b2692c05f560ff10dcff31897.scn"
+
+[deps]
+
+source_file="res://Data/Item/cyclopspet_evol.bmd"
+dest_files=["res://.godot/imported/cyclopspet_evol.bmd-c08baf0b2692c05f560ff10dcff31897.scn"]
+
+[params]
+
+modelScale=0.01

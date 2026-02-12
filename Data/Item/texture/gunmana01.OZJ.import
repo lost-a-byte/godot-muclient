@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blin81yy0pigb"
+path="res://.godot/imported/gunmana01.OZJ-e3afbfcab8999ba5f1ec05feb9ed7819.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gunmana01.OZJ"
+dest_files=["res://.godot/imported/gunmana01.OZJ-e3afbfcab8999ba5f1ec05feb9ed7819.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crjbba3gjc5r6"
+path="res://.godot/imported/MDfur.OZT-ba9884d60ab3ca9912324fddf34bb2d2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MDfur.OZT"
+dest_files=["res://.godot/imported/MDfur.OZT-ba9884d60ab3ca9912324fddf34bb2d2.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1bax78h6dy7u"
+path="res://.godot/imported/big_magiction_accessories.OZT-b5909953db1fd87218e8320f839feb7c.res"
+
+[deps]
+
+source_file="res://Data/Monster/big_magiction_accessories.OZT"
+dest_files=["res://.godot/imported/big_magiction_accessories.OZT-b5909953db1fd87218e8320f839feb7c.res"]
+
+[params]
+

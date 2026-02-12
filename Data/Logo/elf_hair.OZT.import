@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co41u6n63ah7t"
+path="res://.godot/imported/elf_hair.OZT-15408bb0fc2a0e02932125047b65f9e6.res"
+
+[deps]
+
+source_file="res://Data/Logo/elf_hair.OZT"
+dest_files=["res://.godot/imported/elf_hair.OZT-15408bb0fc2a0e02932125047b65f9e6.res"]
+
+[params]
+

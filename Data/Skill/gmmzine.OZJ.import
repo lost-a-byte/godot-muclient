@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmm4vf1myh8pb"
+path="res://.godot/imported/gmmzine.OZJ-07f47aecd13453e1919ab1f7ebe25a26.res"
+
+[deps]
+
+source_file="res://Data/Skill/gmmzine.OZJ"
+dest_files=["res://.godot/imported/gmmzine.OZJ-07f47aecd13453e1919ab1f7ebe25a26.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqlfrmu6ngpcx"
+path="res://.godot/imported/richhelmet.ozj-aa40d0c172c75b1be56f036fa7006853.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/richhelmet.ozj"
+dest_files=["res://.godot/imported/richhelmet.ozj-aa40d0c172c75b1be56f036fa7006853.res"]
+
+[params]
+

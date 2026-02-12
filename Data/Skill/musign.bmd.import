@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://blw2p8nlgot77"
+path="res://.godot/imported/musign.bmd-c7d95145cd247efc1ad64cb68db00310.scn"
+
+[deps]
+
+source_file="res://Data/Skill/musign.bmd"
+dest_files=["res://.godot/imported/musign.bmd-c7d95145cd247efc1ad64cb68db00310.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkmqltv0das85"
+path="res://.godot/imported/Item1167_jewel.OZJ-d704150c1a845f4fcbb6251acd3d028b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1167_jewel.OZJ"
+dest_files=["res://.godot/imported/Item1167_jewel.OZJ-d704150c1a845f4fcbb6251acd3d028b.res"]
+
+[params]
+

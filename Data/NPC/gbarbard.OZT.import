@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj62pkax042xk"
+path="res://.godot/imported/gbarbard.OZT-3edd0616b7e18a1e35ca6c030c78b8fd.res"
+
+[deps]
+
+source_file="res://Data/NPC/gbarbard.OZT"
+dest_files=["res://.godot/imported/gbarbard.OZT-3edd0616b7e18a1e35ca6c030c78b8fd.res"]
+
+[params]
+

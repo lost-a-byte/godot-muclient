@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://px7ocbgld6ct"
+path="res://.godot/imported/TempleGuard_gun_03.OZJ-a6ce3611f0b7a357867b347a9ee4f729.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_gun_03.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_gun_03.OZJ-a6ce3611f0b7a357867b347a9ee4f729.res"]
+
+[params]
+

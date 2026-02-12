@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4gsuq24p87cc"
+path="res://.godot/imported/DGicewalker_R.OZJ-18f19bee44ecbe9b1de67d95f7e081b8.res"
+
+[deps]
+
+source_file="res://Data/Monster/DGicewalker_R.OZJ"
+dest_files=["res://.godot/imported/DGicewalker_R.OZJ-18f19bee44ecbe9b1de67d95f7e081b8.res"]
+
+[params]
+

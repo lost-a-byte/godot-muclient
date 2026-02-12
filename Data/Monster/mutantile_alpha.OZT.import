@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu0bwjpol1hin"
+path="res://.godot/imported/mutantile_alpha.OZT-72d32e0f0edf79906b3290dad84dfb33.res"
+
+[deps]
+
+source_file="res://Data/Monster/mutantile_alpha.OZT"
+dest_files=["res://.godot/imported/mutantile_alpha.OZT-72d32e0f0edf79906b3290dad84dfb33.res"]
+
+[params]
+

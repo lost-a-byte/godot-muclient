@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://df5282e2dohr"
+path="res://.godot/imported/orb_matery8cha.bmd-8f010617842e81d29af4eb7f11aa07d6.scn"
+
+[deps]
+
+source_file="res://Data/Item/orb_matery8cha.bmd"
+dest_files=["res://.godot/imported/orb_matery8cha.bmd-8f010617842e81d29af4eb7f11aa07d6.scn"]
+
+[params]
+
+modelScale=0.01

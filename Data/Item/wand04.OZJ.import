@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://caier0a7uhf2k"
+path="res://.godot/imported/wand04.OZJ-0eb0fcd7a3a080a7c51c34f3d0a7914b.res"
+
+[deps]
+
+source_file="res://Data/Item/wand04.OZJ"
+dest_files=["res://.godot/imported/wand04.OZJ-0eb0fcd7a3a080a7c51c34f3d0a7914b.res"]
+
+[params]
+

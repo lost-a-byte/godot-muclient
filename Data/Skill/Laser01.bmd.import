@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b7r15tk77c7kb"
+path="res://.godot/imported/Laser01.bmd-6628b4acf135e973c9d6aa8921c1bfed.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Laser01.bmd"
+dest_files=["res://.godot/imported/Laser01.bmd-6628b4acf135e973c9d6aa8921c1bfed.scn"]
+
+[params]
+
+modelScale=0.01

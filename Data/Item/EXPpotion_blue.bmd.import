@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b6k6rt0v00p43"
+path="res://.godot/imported/EXPpotion_blue.bmd-941192ee9b8b440a129f9f1a52b1a6f9.scn"
+
+[deps]
+
+source_file="res://Data/Item/EXPpotion_blue.bmd"
+dest_files=["res://.godot/imported/EXPpotion_blue.bmd-941192ee9b8b440a129f9f1a52b1a6f9.scn"]
+
+[params]
+
+modelScale=0.01

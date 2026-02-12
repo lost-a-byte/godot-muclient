@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beo4xtrn2d3ri"
+path="res://.godot/imported/kundunUp_cape.OZJ-2d07d8f68f72e63f179486a9f732768d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundunUp_cape.OZJ"
+dest_files=["res://.godot/imported/kundunUp_cape.OZJ-2d07d8f68f72e63f179486a9f732768d.res"]
+
+[params]
+

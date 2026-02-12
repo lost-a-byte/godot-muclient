@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d307lt84haub3"
+path="res://.godot/imported/ex01coolertin_body.OZJ-b4c1317a9b1739d8c754f043bd3cfb96.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01coolertin_body.OZJ"
+dest_files=["res://.godot/imported/ex01coolertin_body.OZJ-b4c1317a9b1739d8c754f043bd3cfb96.res"]
+
+[params]
+

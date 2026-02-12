@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da1rk4cpmog0e"
+path="res://.godot/imported/npc_a_08_02_dark.OZJ-947553de0317fc9cdd83d726c4afd087.res"
+
+[deps]
+
+source_file="res://Data/Monster/npc_a_08_02_dark.OZJ"
+dest_files=["res://.godot/imported/npc_a_08_02_dark.OZJ-947553de0317fc9cdd83d726c4afd087.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djt74p1nep5i8"
+path="res://.godot/imported/ReynerBmask.OZJ-0b7f1159bd882f16ccebb9e4a1f32277.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ReynerBmask.OZJ"
+dest_files=["res://.godot/imported/ReynerBmask.OZJ-0b7f1159bd882f16ccebb9e4a1f32277.res"]
+
+[params]
+

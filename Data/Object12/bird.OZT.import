@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj0htdsuk310o"
+path="res://.godot/imported/bird.OZT-a0c911319327f8c69308addacb77fd21.res"
+
+[deps]
+
+source_file="res://Data/Object12/bird.OZT"
+dest_files=["res://.godot/imported/bird.OZT-a0c911319327f8c69308addacb77fd21.res"]
+
+[params]
+

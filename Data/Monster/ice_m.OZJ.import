@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkvsa50p252t4"
+path="res://.godot/imported/ice_m.OZJ-ab70f5fad217244b37f09e2be72a30e7.res"
+
+[deps]
+
+source_file="res://Data/Monster/ice_m.OZJ"
+dest_files=["res://.godot/imported/ice_m.OZJ-ab70f5fad217244b37f09e2be72a30e7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nakxn5semgb"
+path="res://.godot/imported/Swordeff_mono.OZJ-4ea1b7d40e0004a0084fc154da3547d5.res"
+
+[deps]
+
+source_file="res://Data/Item/Swordeff_mono.OZJ"
+dest_files=["res://.godot/imported/Swordeff_mono.OZJ-4ea1b7d40e0004a0084fc154da3547d5.res"]
+
+[params]
+

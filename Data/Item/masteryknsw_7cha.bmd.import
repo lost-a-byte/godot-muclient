@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bg26ymgikagr7"
+path="res://.godot/imported/masteryknsw_7cha.bmd-d47dac391e75b528b5b716086b04d1d1.scn"
+
+[deps]
+
+source_file="res://Data/Item/masteryknsw_7cha.bmd"
+dest_files=["res://.godot/imported/masteryknsw_7cha.bmd-d47dac391e75b528b5b716086b04d1d1.scn"]
+
+[params]
+
+modelScale=0.01

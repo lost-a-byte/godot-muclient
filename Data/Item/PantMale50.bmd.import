@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bskkpknj1js17"
+path="res://.godot/imported/PantMale50.bmd-0fe0aea8ef030b7344d56f1de2e503dc.scn"
+
+[deps]
+
+source_file="res://Data/Item/PantMale50.bmd"
+dest_files=["res://.godot/imported/PantMale50.bmd-0fe0aea8ef030b7344d56f1de2e503dc.scn"]
+
+[params]
+
+modelScale=0.01

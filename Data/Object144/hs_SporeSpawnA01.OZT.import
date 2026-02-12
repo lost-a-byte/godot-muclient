@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gi0q7v6irdm5"
+path="res://.godot/imported/hs_SporeSpawnA01.OZT-0ec33e52149f91e77b53d13ad27ae6ef.res"
+
+[deps]
+
+source_file="res://Data/Object144/hs_SporeSpawnA01.OZT"
+dest_files=["res://.godot/imported/hs_SporeSpawnA01.OZT-0ec33e52149f91e77b53d13ad27ae6ef.res"]
+
+[params]
+

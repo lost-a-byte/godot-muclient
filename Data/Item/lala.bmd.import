@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7tx4h8oj6ttd"
+path="res://.godot/imported/lala.bmd-792de2cb6641ab9f546e4131b79c99c3.scn"
+
+[deps]
+
+source_file="res://Data/Item/lala.bmd"
+dest_files=["res://.godot/imported/lala.bmd-792de2cb6641ab9f546e4131b79c99c3.scn"]
+
+[params]
+
+modelScale=0.01

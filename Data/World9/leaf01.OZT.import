@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ciwihynliahgv"
+path="res://.godot/imported/leaf01.OZT-7eff7162449f68bbd9c4956ffd7d01f6.res"
+
+[deps]
+
+source_file="res://Data/World9/leaf01.OZT"
+dest_files=["res://.godot/imported/leaf01.OZT-7eff7162449f68bbd9c4956ffd7d01f6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ciafsoasb55r8"
+path="res://.godot/imported/cherrywing_R.OZJ-fde55c3fd154aabc80b8f064a8780a46.res"
+
+[deps]
+
+source_file="res://Data/NPC/cherryblossom/cherrywing_R.OZJ"
+dest_files=["res://.godot/imported/cherrywing_R.OZJ-fde55c3fd154aabc80b8f064a8780a46.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvg02soqrnt2"
+path="res://.godot/imported/UbaidDevilFairy_green.OZJ-03adf105468b59f69af6294418793df6.res"
+
+[deps]
+
+source_file="res://Data/Monster/UbaidDevilFairy_green.OZJ"
+dest_files=["res://.godot/imported/UbaidDevilFairy_green.OZJ-03adf105468b59f69af6294418793df6.res"]
+
+[params]
+

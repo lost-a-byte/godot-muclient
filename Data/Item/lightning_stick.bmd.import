@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhqhajecfwixh"
+path="res://.godot/imported/lightning_stick.bmd-e588f8790783b96d63fb15257cc1dd5e.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_stick.bmd"
+dest_files=["res://.godot/imported/lightning_stick.bmd-e588f8790783b96d63fb15257cc1dd5e.scn"]
+
+[params]
+
+modelScale=0.01

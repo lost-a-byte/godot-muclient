@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d1mqrp80g8yb3"
+path="res://.godot/imported/surfinggirlUp.bmd-7a7e2d12e140193e44fd83adfedd2889.scn"
+
+[deps]
+
+source_file="res://Data/Item/surfinggirlUp.bmd"
+dest_files=["res://.godot/imported/surfinggirlUp.bmd-7a7e2d12e140193e44fd83adfedd2889.scn"]
+
+[params]
+
+modelScale=0.01

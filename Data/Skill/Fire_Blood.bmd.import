@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ci2nmy42l4juw"
+path="res://.godot/imported/Fire_Blood.bmd-f06288c97f503a1a220d5bda61101d24.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Fire_Blood.bmd"
+dest_files=["res://.godot/imported/Fire_Blood.bmd-f06288c97f503a1a220d5bda61101d24.scn"]
+
+[params]
+
+modelScale=0.01

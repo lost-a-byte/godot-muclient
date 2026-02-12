@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://05rjl60pk5yu"
+path="res://.godot/imported/RockingHorseBox.OZJ-7d101bfb038debd25bd24249ecbe2151.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RockingHorseBox.OZJ"
+dest_files=["res://.godot/imported/RockingHorseBox.OZJ-7d101bfb038debd25bd24249ecbe2151.res"]
+
+[params]
+

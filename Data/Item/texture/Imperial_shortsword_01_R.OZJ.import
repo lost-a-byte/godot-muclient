@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0k38m4fyj2em"
+path="res://.godot/imported/Imperial_shortsword_01_R.OZJ-ffad6299375c16aece563c45149c65cb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_shortsword_01_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_shortsword_01_R.OZJ-ffad6299375c16aece563c45149c65cb.res"]
+
+[params]
+

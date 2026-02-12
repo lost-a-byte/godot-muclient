@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b7nbyvovnmiro"
+path="res://.godot/imported/knightzombie.bmd-cc4fc0ef3db22bd40ab54d473ab8533c.scn"
+
+[deps]
+
+source_file="res://Data/Item/knightzombie.bmd"
+dest_files=["res://.godot/imported/knightzombie.bmd-cc4fc0ef3db22bd40ab54d473ab8533c.scn"]
+
+[params]
+
+modelScale=0.01

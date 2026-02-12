@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://do4k1ur7o7hxg"
+path="res://.godot/imported/blessedabsolute_lance.bmd-ff84a8213195fd92c3be7f655713d795.scn"
+
+[deps]
+
+source_file="res://Data/Item/blessedabsolute_lance.bmd"
+dest_files=["res://.godot/imported/blessedabsolute_lance.bmd-ff84a8213195fd92c3be7f655713d795.scn"]
+
+[params]
+
+modelScale=0.01

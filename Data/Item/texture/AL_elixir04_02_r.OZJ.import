@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctgrwanne1ar0"
+path="res://.godot/imported/AL_elixir04_02_r.OZJ-0eeab7cc88462109b5e9a1ba80d77b69.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AL_elixir04_02_r.OZJ"
+dest_files=["res://.godot/imported/AL_elixir04_02_r.OZJ-0eeab7cc88462109b5e9a1ba80d77b69.res"]
+
+[params]
+

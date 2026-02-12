@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b74ee1lg1220i"
+path="res://.godot/imported/newui_ctskillup.OZJ-282169ba87330de8b96479656daa1c50.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_ctskillup.OZJ"
+dest_files=["res://.godot/imported/newui_ctskillup.OZJ-282169ba87330de8b96479656daa1c50.res"]
+
+[params]
+

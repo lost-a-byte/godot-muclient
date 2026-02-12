@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ckpqru8ynemth"
+path="res://.godot/imported/htrackt2.bmd-2794ea2637a3127a841da55cb488ec0f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/htrackt2.bmd"
+dest_files=["res://.godot/imported/htrackt2.bmd-2794ea2637a3127a841da55cb488ec0f.scn"]
+
+[params]
+
+modelScale=0.01

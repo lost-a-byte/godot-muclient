@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfje6u58hm4ey"
+path="res://.godot/imported/GlacusBAlpha.OZT-0f32aa3bcbea7ef581d431fb1ea4db5a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GlacusBAlpha.OZT"
+dest_files=["res://.godot/imported/GlacusBAlpha.OZT-0f32aa3bcbea7ef581d431fb1ea4db5a.res"]
+
+[params]
+

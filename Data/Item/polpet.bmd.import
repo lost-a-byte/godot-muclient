@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://husfm42i40p6"
+path="res://.godot/imported/polpet.bmd-8b899d9a274a651f01d61118e2644699.scn"
+
+[deps]
+
+source_file="res://Data/Item/polpet.bmd"
+dest_files=["res://.godot/imported/polpet.bmd-8b899d9a274a651f01d61118e2644699.scn"]
+
+[params]
+
+modelScale=0.01

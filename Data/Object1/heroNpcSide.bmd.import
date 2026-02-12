@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cigt1fpx6k4eh"
+path="res://.godot/imported/heroNpcSide.bmd-0ae7e0e788a88c9685408cd250b16e7a.scn"
+
+[deps]
+
+source_file="res://Data/Object1/heroNpcSide.bmd"
+dest_files=["res://.godot/imported/heroNpcSide.bmd-0ae7e0e788a88c9685408cd250b16e7a.scn"]
+
+[params]
+
+modelScale=0.01

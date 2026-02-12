@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brropkkwt25re"
+path="res://.godot/imported/roboxgreen.ozj-cf95fc866472afeab77f59131953af45.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/roboxgreen.ozj"
+dest_files=["res://.godot/imported/roboxgreen.ozj-cf95fc866472afeab77f59131953af45.res"]
+
+[params]
+

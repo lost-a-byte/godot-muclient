@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cboy84rt8w62v"
+path="res://.godot/imported/tubegirl.bmd-d72eaec6e1b62a94b738e7789a510cae.scn"
+
+[deps]
+
+source_file="res://Data/Item/tubegirl.bmd"
+dest_files=["res://.godot/imported/tubegirl.bmd-d72eaec6e1b62a94b738e7789a510cae.scn"]
+
+[params]
+
+modelScale=0.01

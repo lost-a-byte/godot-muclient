@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dkmj06s0nv8rd"
+path="res://.godot/imported/DarkGiantAx.bmd-816ebcbff896c9c8a467fd858520f6cb.scn"
+
+[deps]
+
+source_file="res://Data/Item/DarkGiantAx.bmd"
+dest_files=["res://.godot/imported/DarkGiantAx.bmd-816ebcbff896c9c8a467fd858520f6cb.scn"]
+
+[params]
+
+modelScale=0.01

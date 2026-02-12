@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.enc-terrain-obj"
+type="ObjectMap"
+uid="uid://dh5qnrmldgodg"
+path="res://.godot/imported/EncTerrain10.obj-6c867fc036fc85ff98008e9d61661297.tres"
+
+[deps]
+
+source_file="res://Data/World10/EncTerrain10.obj"
+dest_files=["res://.godot/imported/EncTerrain10.obj-6c867fc036fc85ff98008e9d61661297.tres"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwniqh45xqglc"
+path="res://.godot/imported/deathsang.OZJ-bf03289db7b1d7e407e4a9366f3d730e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/deathsang.OZJ"
+dest_files=["res://.godot/imported/deathsang.OZJ-bf03289db7b1d7e407e4a9366f3d730e.res"]
+
+[params]
+

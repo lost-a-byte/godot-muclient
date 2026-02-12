@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dg172k8kt025i"
+path="res://.godot/imported/blueeyemagicsword03.OZJ-4ca770f733affedd478783560394b89b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blueeyemagicsword03.OZJ"
+dest_files=["res://.godot/imported/blueeyemagicsword03.OZJ-4ca770f733affedd478783560394b89b.res"]
+
+[params]
+

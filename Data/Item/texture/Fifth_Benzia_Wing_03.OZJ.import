@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cda7t078s8nym"
+path="res://.godot/imported/Fifth_Benzia_Wing_03.OZJ-b028340f14cb75a6e1b3d0b34508b556.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Benzia_Wing_03.OZJ"
+dest_files=["res://.godot/imported/Fifth_Benzia_Wing_03.OZJ-b028340f14cb75a6e1b3d0b34508b556.res"]
+
+[params]
+

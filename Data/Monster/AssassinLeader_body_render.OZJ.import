@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2d7h727o2mf8"
+path="res://.godot/imported/AssassinLeader_body_render.OZJ-4633c5a2db686f443418bb6b4a57698c.res"
+
+[deps]
+
+source_file="res://Data/Monster/AssassinLeader_body_render.OZJ"
+dest_files=["res://.godot/imported/AssassinLeader_body_render.OZJ-4633c5a2db686f443418bb6b4a57698c.res"]
+
+[params]
+

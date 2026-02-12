@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o5btcrnxr2mm"
+path="res://.godot/imported/magicianwing4da_render.OZJ-453694f89f0ec798681031c7e6c70f23.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magicianwing4da_render.OZJ"
+dest_files=["res://.godot/imported/magicianwing4da_render.OZJ-453694f89f0ec798681031c7e6c70f23.res"]
+
+[params]
+

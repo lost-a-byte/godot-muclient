@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjfwr7u6m8luk"
+path="res://.godot/imported/jenpc.OZJ-7acb808930ac8321a065c646e28fe27f.res"
+
+[deps]
+
+source_file="res://Data/NPC/jenpc.OZJ"
+dest_files=["res://.godot/imported/jenpc.OZJ-7acb808930ac8321a065c646e28fe27f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjdtj46iyq11v"
+path="res://.godot/imported/lalablue.OZJ-2968fcd23ad67fb79edd1f3be0fccb62.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lalablue.OZJ"
+dest_files=["res://.godot/imported/lalablue.OZJ-2968fcd23ad67fb79edd1f3be0fccb62.res"]
+
+[params]
+

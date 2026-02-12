@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://m1br2a0npibe"
+path="res://.godot/imported/elec_light.OZJ-8fa65fe0b8e00fa14042af6a0208a989.res"
+
+[deps]
+
+source_file="res://Data/Skill/elec_light.OZJ"
+dest_files=["res://.godot/imported/elec_light.OZJ-8fa65fe0b8e00fa14042af6a0208a989.res"]
+
+[params]
+

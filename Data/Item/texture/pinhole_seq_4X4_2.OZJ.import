@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnr3ybbjeltef"
+path="res://.godot/imported/pinhole_seq_4X4_2.OZJ-a2391158b12bc1bc16c0579269a61635.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pinhole_seq_4X4_2.OZJ"
+dest_files=["res://.godot/imported/pinhole_seq_4X4_2.OZJ-a2391158b12bc1bc16c0579269a61635.res"]
+
+[params]
+

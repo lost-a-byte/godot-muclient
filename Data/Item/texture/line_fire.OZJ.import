@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xcdpd68ayw3"
+path="res://.godot/imported/line_fire.OZJ-96fe63bcd3b400cb5d3013b34f2ed385.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/line_fire.OZJ"
+dest_files=["res://.godot/imported/line_fire.OZJ-96fe63bcd3b400cb5d3013b34f2ed385.res"]
+
+[params]
+

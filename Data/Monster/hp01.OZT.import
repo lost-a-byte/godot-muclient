@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbq8b0rpo0jhu"
+path="res://.godot/imported/hp01.OZT-ca495c395f44631940de2e94b8a4455e.res"
+
+[deps]
+
+source_file="res://Data/Monster/hp01.OZT"
+dest_files=["res://.godot/imported/hp01.OZT-ca495c395f44631940de2e94b8a4455e.res"]
+
+[params]
+

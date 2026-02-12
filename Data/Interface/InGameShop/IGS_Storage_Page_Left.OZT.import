@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djkfpywew3mw8"
+path="res://.godot/imported/IGS_Storage_Page_Left.OZT-933424e086650b5dd0a73a81f2af029e.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/IGS_Storage_Page_Left.OZT"
+dest_files=["res://.godot/imported/IGS_Storage_Page_Left.OZT-933424e086650b5dd0a73a81f2af029e.res"]
+
+[params]
+

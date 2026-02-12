@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dcvjclmjvkeyo"
+path="res://.godot/imported/artifact_inven2.bmd-d31b034b438b66d4f0abf4df60999012.scn"
+
+[deps]
+
+source_file="res://Data/Item/artifact_inven2.bmd"
+dest_files=["res://.godot/imported/artifact_inven2.bmd-d31b034b438b66d4f0abf4df60999012.scn"]
+
+[params]
+
+modelScale=0.01

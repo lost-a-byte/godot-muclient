@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqc8qcqcynrek"
+path="res://.godot/imported/gloryearringL.OZJ-f27481f9a74128cd5f7232a2c0ce6d06.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gloryearringL.OZJ"
+dest_files=["res://.godot/imported/gloryearringL.OZJ-f27481f9a74128cd5f7232a2c0ce6d06.res"]
+
+[params]
+

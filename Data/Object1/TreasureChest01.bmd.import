@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://y11lq200w48a"
+path="res://.godot/imported/TreasureChest01.bmd-0b81b92eb543527c8402d56623b9722f.scn"
+
+[deps]
+
+source_file="res://Data/Object1/TreasureChest01.bmd"
+dest_files=["res://.godot/imported/TreasureChest01.bmd-0b81b92eb543527c8402d56623b9722f.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://djkp160kx0ke8"
+path="res://.godot/imported/SwordSwingEffL.bmd-42114dc877d9b909277ed582c806f211.scn"
+
+[deps]
+
+source_file="res://Data/Effect/SwordSwingEffL.bmd"
+dest_files=["res://.godot/imported/SwordSwingEffL.bmd-42114dc877d9b909277ed582c806f211.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu7x3d3cig4h8"
+path="res://.godot/imported/subcommander_ercane_wing.OZJ-887d2f814efbd1cc46861a8481b7d641.res"
+
+[deps]
+
+source_file="res://Data/Monster/subcommander_ercane_wing.OZJ"
+dest_files=["res://.godot/imported/subcommander_ercane_wing.OZJ-887d2f814efbd1cc46861a8481b7d641.res"]
+
+[params]
+

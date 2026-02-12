@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0agg5ceci0di"
+path="res://.godot/imported/newui_Bt_closeshop.OZT-17f377ed77890f1108fa6558f789bab2.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Bt_closeshop.OZT"
+dest_files=["res://.godot/imported/newui_Bt_closeshop.OZT-17f377ed77890f1108fa6558f789bab2.res"]
+
+[params]
+

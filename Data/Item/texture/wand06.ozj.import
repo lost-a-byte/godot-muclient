@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0y34mjvqkqmp"
+path="res://.godot/imported/wand06.ozj-38395222309aa812f98fdd184ea40237.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wand06.ozj"
+dest_files=["res://.godot/imported/wand06.ozj-38395222309aa812f98fdd184ea40237.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn3sbw514tldv"
+path="res://.godot/imported/windstorm_mono.OZJ-9cdb6c6408b39d777f1467a5b4be71fa.res"
+
+[deps]
+
+source_file="res://Data/Effect/windstorm_mono.OZJ"
+dest_files=["res://.godot/imported/windstorm_mono.OZJ-9cdb6c6408b39d777f1467a5b4be71fa.res"]
+
+[params]
+

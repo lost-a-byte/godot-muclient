@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bktj5li1vw30p"
+path="res://.godot/imported/Magma_Gladiator_01_1.OZJ-7beb4f641be6791c9ead7731f3d36a0f.res"
+
+[deps]
+
+source_file="res://Data/Monster/Magma_Gladiator_01_1.OZJ"
+dest_files=["res://.godot/imported/Magma_Gladiator_01_1.OZJ-7beb4f641be6791c9ead7731f3d36a0f.res"]
+
+[params]
+

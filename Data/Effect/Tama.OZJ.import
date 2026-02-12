@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4bp8e4dcrpca"
+path="res://.godot/imported/Tama.OZJ-a7c3ff217f33ce182c010f473a85bc5e.res"
+
+[deps]
+
+source_file="res://Data/Effect/Tama.OZJ"
+dest_files=["res://.godot/imported/Tama.OZJ-a7c3ff217f33ce182c010f473a85bc5e.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://db6jjidix1tit"
+path="res://.godot/imported/ManyFlag.bmd-b686bea0e2ee941c55c28ba8f30c642e.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ManyFlag.bmd"
+dest_files=["res://.godot/imported/ManyFlag.bmd-b686bea0e2ee941c55c28ba8f30c642e.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://gjhjmoqm7hgj"
+path="res://.godot/imported/hstar.bmd-1de0a169ef85ea959b61eb4ba0408f97.scn"
+
+[deps]
+
+source_file="res://Data/Skill/hstar.bmd"
+dest_files=["res://.godot/imported/hstar.bmd-1de0a169ef85ea959b61eb4ba0408f97.scn"]
+
+[params]
+
+modelScale=0.01

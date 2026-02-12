@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqjj2f6bya12n"
+path="res://.godot/imported/firering.bmd-e7d68c5d59b7df686318a6bbf2b081f8.scn"
+
+[deps]
+
+source_file="res://Data/Item/firering.bmd"
+dest_files=["res://.godot/imported/firering.bmd-e7d68c5d59b7df686318a6bbf2b081f8.scn"]
+
+[params]
+
+modelScale=0.01

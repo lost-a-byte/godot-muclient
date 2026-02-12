@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cc5s1iv3dkqs5"
+path="res://.godot/imported/magicmono_R.OZJ-bfd6b29b0654d17865158b248ad6196d.res"
+
+[deps]
+
+source_file="res://Data/Effect/magicmono_R.OZJ"
+dest_files=["res://.godot/imported/magicmono_R.OZJ-bfd6b29b0654d17865158b248ad6196d.res"]
+
+[params]
+

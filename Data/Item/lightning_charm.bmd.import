@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://tt5laxhxhqry"
+path="res://.godot/imported/lightning_charm.bmd-d837c05524e4f611051551a2cf723f8c.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_charm.bmd"
+dest_files=["res://.godot/imported/lightning_charm.bmd-d837c05524e4f611051551a2cf723f8c.scn"]
+
+[params]
+
+modelScale=0.01

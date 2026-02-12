@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b01hvvgby3ahv"
+path="res://.godot/imported/blue_shadowschma.OZT-fdc496e317e7f9fd2d038004f264a7d3.res"
+
+[deps]
+
+source_file="res://Data/Monster/blue_shadowschma.OZT"
+dest_files=["res://.godot/imported/blue_shadowschma.OZT-fdc496e317e7f9fd2d038004f264a7d3.res"]
+
+[params]
+

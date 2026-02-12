@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bkvvfr54w62y5"
+path="res://.godot/imported/chickUp.bmd-3ef78a51640661154e847862726aa0a9.scn"
+
+[deps]
+
+source_file="res://Data/Item/chickUp.bmd"
+dest_files=["res://.godot/imported/chickUp.bmd-3ef78a51640661154e847862726aa0a9.scn"]
+
+[params]
+
+modelScale=0.01

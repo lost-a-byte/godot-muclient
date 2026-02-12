@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://43jc74esnj47"
+path="res://.godot/imported/NarsBeast_black.OZJ-81cafd11e1a44ee2735060b2cd42075e.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsBeast_black.OZJ"
+dest_files=["res://.godot/imported/NarsBeast_black.OZJ-81cafd11e1a44ee2735060b2cd42075e.res"]
+
+[params]
+

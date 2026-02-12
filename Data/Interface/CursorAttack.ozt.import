@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj50l3klniw27"
+path="res://.godot/imported/CursorAttack.ozt-5d971a761e409e8f560bbcdfa00a99dd.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorAttack.ozt"
+dest_files=["res://.godot/imported/CursorAttack.ozt-5d971a761e409e8f560bbcdfa00a99dd.res"]
+
+[params]
+

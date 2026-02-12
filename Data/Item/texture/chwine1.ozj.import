@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c60viyd0a6crm"
+path="res://.godot/imported/chwine1.ozj-eda1750d0d913710f3d2a3b48daa65ee.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chwine1.ozj"
+dest_files=["res://.godot/imported/chwine1.ozj-eda1750d0d913710f3d2a3b48daa65ee.res"]
+
+[params]
+

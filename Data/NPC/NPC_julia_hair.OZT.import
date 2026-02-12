@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ct5najkwcg3ao"
+path="res://.godot/imported/NPC_julia_hair.OZT-e16a7243668f8fc7ba058f7d923391d3.res"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_julia_hair.OZT"
+dest_files=["res://.godot/imported/NPC_julia_hair.OZT-e16a7243668f8fc7ba058f7d923391d3.res"]
+
+[params]
+

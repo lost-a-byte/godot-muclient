@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vppnbotsldm0"
+path="res://.godot/imported/TileWater01.OZJ-550436d45b58415a47d713ecfb0962aa.res"
+
+[deps]
+
+source_file="res://Data/World47/TileWater01.OZJ"
+dest_files=["res://.godot/imported/TileWater01.OZJ-550436d45b58415a47d713ecfb0962aa.res"]
+
+[params]
+

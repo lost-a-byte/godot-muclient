@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.enc-terrain-map"
+type="ArrayMesh"
+uid="uid://csghrxr5gcwbm"
+path="res://.godot/imported/EncTerrain5.map-c2edbc2a31c4cdffa3e305e43c1c41de.res"
+
+[deps]
+
+source_file="res://Data/World5/EncTerrain5.map"
+dest_files=["res://.godot/imported/EncTerrain5.map-c2edbc2a31c4cdffa3e305e43c1c41de.res"]
+
+[params]
+
+heightScale=0.015686275

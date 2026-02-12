@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3alh54yfry33"
+path="res://.godot/imported/cobraset_wand_s.ozj-1dbd454fe3a980a43bc46f1fdc91e38a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cobraset_wand_s.ozj"
+dest_files=["res://.godot/imported/cobraset_wand_s.ozj-1dbd454fe3a980a43bc46f1fdc91e38a.res"]
+
+[params]
+

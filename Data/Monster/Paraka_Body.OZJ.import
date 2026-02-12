@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5gbuki7lbwx8"
+path="res://.godot/imported/Paraka_Body.OZJ-0a3e425db551a4c7882e96b8b50b7061.res"
+
+[deps]
+
+source_file="res://Data/Monster/Paraka_Body.OZJ"
+dest_files=["res://.godot/imported/Paraka_Body.OZJ-0a3e425db551a4c7882e96b8b50b7061.res"]
+
+[params]
+

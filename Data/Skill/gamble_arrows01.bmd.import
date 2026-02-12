@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://f480f5lgmwsb"
+path="res://.godot/imported/gamble_arrows01.bmd-e1c997015b27cf2af9abe51cc8f4d47e.scn"
+
+[deps]
+
+source_file="res://Data/Skill/gamble_arrows01.bmd"
+dest_files=["res://.godot/imported/gamble_arrows01.bmd-e1c997015b27cf2af9abe51cc8f4d47e.scn"]
+
+[params]
+
+modelScale=0.01

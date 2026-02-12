@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brmnqm2g0dv24"
+path="res://.godot/imported/RedDragon_N.OZJ-67bc7b68be9ef1643a7e6ad1eb63183d.res"
+
+[deps]
+
+source_file="res://Data/Skill/RedDragon_N.OZJ"
+dest_files=["res://.godot/imported/RedDragon_N.OZJ-67bc7b68be9ef1643a7e6ad1eb63183d.res"]
+
+[params]
+

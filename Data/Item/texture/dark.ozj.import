@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cu0x6bsjn5bq0"
+path="res://.godot/imported/dark.ozj-b60996821a6cbf03d47d75c51aafb9d3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark.ozj"
+dest_files=["res://.godot/imported/dark.ozj-b60996821a6cbf03d47d75c51aafb9d3.res"]
+
+[params]
+

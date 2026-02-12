@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkjt711nxko3a"
+path="res://.godot/imported/TileGround03.OZJ-739dde273f825a55c7e979094796ebcf.res"
+
+[deps]
+
+source_file="res://Data/World139/TileGround03.OZJ"
+dest_files=["res://.godot/imported/TileGround03.OZJ-739dde273f825a55c7e979094796ebcf.res"]
+
+[params]
+

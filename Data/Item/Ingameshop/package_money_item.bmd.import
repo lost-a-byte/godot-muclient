@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c56tcg07f37g2"
+path="res://.godot/imported/package_money_item.bmd-b76d45eab13ef56742f2eff824ce92b1.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/package_money_item.bmd"
+dest_files=["res://.godot/imported/package_money_item.bmd-b76d45eab13ef56742f2eff824ce92b1.scn"]
+
+[params]
+
+modelScale=0.01

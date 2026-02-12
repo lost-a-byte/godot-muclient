@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2gsks7khun3x"
+path="res://.godot/imported/ScolTail.OZJ-8ab2d9359add93c55d1d87b56911a6a5.res"
+
+[deps]
+
+source_file="res://Data/Effect/ScolTail.OZJ"
+dest_files=["res://.godot/imported/ScolTail.OZJ-8ab2d9359add93c55d1d87b56911a6a5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://njnestyi620j"
+path="res://.godot/imported/Item3128_Pant_B.OZJ-d87c2c449d499edf98cc6d7e11200c0a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3128_Pant_B.OZJ"
+dest_files=["res://.godot/imported/Item3128_Pant_B.OZJ-d87c2c449d499edf98cc6d7e11200c0a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkn3n5l4wpw6p"
+path="res://.godot/imported/darknight_head.ozj-eca07a248bd66375f5817431f25de0f4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darknight_head.ozj"
+dest_files=["res://.godot/imported/darknight_head.ozj-eca07a248bd66375f5817431f25de0f4.res"]
+
+[params]
+

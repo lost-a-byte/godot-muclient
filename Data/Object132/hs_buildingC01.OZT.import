@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj5jhgx8c8dg0"
+path="res://.godot/imported/hs_buildingC01.OZT-85fe40e403b6d2674ae2ec0d91f97f8d.res"
+
+[deps]
+
+source_file="res://Data/Object132/hs_buildingC01.OZT"
+dest_files=["res://.godot/imported/hs_buildingC01.OZT-85fe40e403b6d2674ae2ec0d91f97f8d.res"]
+
+[params]
+

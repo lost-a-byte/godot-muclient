@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4ngxxijsy125"
+path="res://.godot/imported/GiantIceB.OZJ-1879d361d3c8537830c50e4eaf5f9f44.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GiantIceB.OZJ"
+dest_files=["res://.godot/imported/GiantIceB.OZJ-1879d361d3c8537830c50e4eaf5f9f44.res"]
+
+[params]
+

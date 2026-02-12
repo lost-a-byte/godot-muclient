@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2kaw37hl3ifs"
+path="res://.godot/imported/shock_wave_plan.bmd-e3bd430ee2a1a61d8a2ee8af4fe8cfc6.scn"
+
+[deps]
+
+source_file="res://Data/Skill/shock_wave_plan.bmd"
+dest_files=["res://.godot/imported/shock_wave_plan.bmd-e3bd430ee2a1a61d8a2ee8af4fe8cfc6.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coe2koekqckt3"
+path="res://.godot/imported/head helmet Luck 40.OZJ-54c525ee0369f4e522ab06e15a1993c5.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/65/head helmet Luck 40.OZJ"
+dest_files=["res://.godot/imported/head helmet Luck 40.OZJ-54c525ee0369f4e522ab06e15a1993c5.res"]
+
+[params]
+

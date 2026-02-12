@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdw6xc1r0gmu5"
+path="res://.godot/imported/bloodangelmagicbook_2.OZJ-9603d0db6a6a2991ae535d0924fbdff6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodangelmagicbook_2.OZJ"
+dest_files=["res://.godot/imported/bloodangelmagicbook_2.OZJ-9603d0db6a6a2991ae535d0924fbdff6.res"]
+
+[params]
+

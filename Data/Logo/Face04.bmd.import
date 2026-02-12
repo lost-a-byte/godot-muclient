@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dgxnpayvivocd"
+path="res://.godot/imported/Face04.bmd-bb2b66843d87f5441f70941a1aa278ab.scn"
+
+[deps]
+
+source_file="res://Data/Logo/Face04.bmd"
+dest_files=["res://.godot/imported/Face04.bmd-bb2b66843d87f5441f70941a1aa278ab.scn"]
+
+[params]
+
+modelScale=0.01

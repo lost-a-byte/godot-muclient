@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wu37dbd2av6l"
+path="res://.godot/imported/noria.OZT-246bddf76236f4e338e4b6c50dd77ce0.res"
+
+[deps]
+
+source_file="res://Data/Interface/noria.OZT"
+dest_files=["res://.godot/imported/noria.OZT-246bddf76236f4e338e4b6c50dd77ce0.res"]
+
+[params]
+

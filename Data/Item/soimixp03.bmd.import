@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3yv7b55duhkr"
+path="res://.godot/imported/soimixp03.bmd-dbd26bd6b7bce3fa75e34fdf60d637b6.scn"
+
+[deps]
+
+source_file="res://Data/Item/soimixp03.bmd"
+dest_files=["res://.godot/imported/soimixp03.bmd-dbd26bd6b7bce3fa75e34fdf60d637b6.scn"]
+
+[params]
+
+modelScale=0.01

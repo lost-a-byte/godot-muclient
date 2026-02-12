@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6f76a161mai4"
+path="res://.godot/imported/FereaFighter_black.OZJ-ea37373c08525974d8cbc86500edfd51.res"
+
+[deps]
+
+source_file="res://Data/Monster/FereaFighter_black.OZJ"
+dest_files=["res://.godot/imported/FereaFighter_black.OZJ-ea37373c08525974d8cbc86500edfd51.res"]
+
+[params]
+

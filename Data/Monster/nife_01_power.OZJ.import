@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr20gshg1brqe"
+path="res://.godot/imported/nife_01_power.OZJ-04531fe56a02bba50d355b0433696cd4.res"
+
+[deps]
+
+source_file="res://Data/Monster/nife_01_power.OZJ"
+dest_files=["res://.godot/imported/nife_01_power.OZJ-04531fe56a02bba50d355b0433696cd4.res"]
+
+[params]
+

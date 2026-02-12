@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d31l0ysm6vqmg"
+path="res://.godot/imported/merbody2_effect.OZJ-7721236006df328b9df43de83af4f3a6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/merbody2_effect.OZJ"
+dest_files=["res://.godot/imported/merbody2_effect.OZJ-7721236006df328b9df43de83af4f3a6.res"]
+
+[params]
+

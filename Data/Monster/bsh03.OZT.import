@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3g2harv4mt0s"
+path="res://.godot/imported/bsh03.OZT-6bf43551bf5f7a45dee978a6c7a38050.res"
+
+[deps]
+
+source_file="res://Data/Monster/bsh03.OZT"
+dest_files=["res://.godot/imported/bsh03.OZT-6bf43551bf5f7a45dee978a6c7a38050.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b830blubulh3l"
+path="res://.godot/imported/rapa.bmd-7f8276cca75c93ee99b0a778221b0243.scn"
+
+[deps]
+
+source_file="res://Data/Item/rapa.bmd"
+dest_files=["res://.godot/imported/rapa.bmd-7f8276cca75c93ee99b0a778221b0243.scn"]
+
+[params]
+
+modelScale=0.01

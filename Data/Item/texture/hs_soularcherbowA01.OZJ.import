@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcrjmg05vwneo"
+path="res://.godot/imported/hs_soularcherbowA01.OZJ-f5a9bc96417588cd0b8e4f3c908fe15e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_soularcherbowA01.OZJ"
+dest_files=["res://.godot/imported/hs_soularcherbowA01.OZJ-f5a9bc96417588cd0b8e4f3c908fe15e.res"]
+
+[params]
+

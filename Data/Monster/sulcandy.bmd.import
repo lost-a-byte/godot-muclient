@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cwbeuld0ngksj"
+path="res://.godot/imported/sulcandy.bmd-4ddd71b3db1ff4fa3d9db3214ca79a02.scn"
+
+[deps]
+
+source_file="res://Data/Monster/sulcandy.bmd"
+dest_files=["res://.godot/imported/sulcandy.bmd-4ddd71b3db1ff4fa3d9db3214ca79a02.scn"]
+
+[params]
+
+modelScale=0.01

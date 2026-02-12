@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://deopiqeotq6no"
+path="res://.godot/imported/assassin_dier.bmd-f29faa32d2f987886d396bf59fe1bd14.scn"
+
+[deps]
+
+source_file="res://Data/Monster/assassin_dier.bmd"
+dest_files=["res://.godot/imported/assassin_dier.bmd-f29faa32d2f987886d396bf59fe1bd14.scn"]
+
+[params]
+
+modelScale=0.01

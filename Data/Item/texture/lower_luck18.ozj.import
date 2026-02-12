@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csnv34m311ro1"
+path="res://.godot/imported/lower_luck18.ozj-b06f3303a3466be9a864cbe624e8cdd9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lower_luck18.ozj"
+dest_files=["res://.godot/imported/lower_luck18.ozj-b06f3303a3466be9a864cbe624e8cdd9.res"]
+
+[params]
+

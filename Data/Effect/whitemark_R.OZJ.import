@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0c4vdirryon3"
+path="res://.godot/imported/whitemark_R.OZJ-2b71dd7b7df8889a86481af37cb80f3d.res"
+
+[deps]
+
+source_file="res://Data/Effect/whitemark_R.OZJ"
+dest_files=["res://.godot/imported/whitemark_R.OZJ-2b71dd7b7df8889a86481af37cb80f3d.res"]
+
+[params]
+

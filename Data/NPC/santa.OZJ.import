@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6xtdr4d4h7gt"
+path="res://.godot/imported/santa.OZJ-8bd1fc6372f254983ee247400861ed23.res"
+
+[deps]
+
+source_file="res://Data/NPC/santa.OZJ"
+dest_files=["res://.godot/imported/santa.OZJ-8bd1fc6372f254983ee247400861ed23.res"]
+
+[params]
+

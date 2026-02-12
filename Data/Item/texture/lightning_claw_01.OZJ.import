@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csy0il6uck8q1"
+path="res://.godot/imported/lightning_claw_01.OZJ-b838b6eafe61fb3e032f3a48b16ee39f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_claw_01.OZJ"
+dest_files=["res://.godot/imported/lightning_claw_01.OZJ-b838b6eafe61fb3e032f3a48b16ee39f.res"]
+
+[params]
+

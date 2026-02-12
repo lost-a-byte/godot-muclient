@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c638khd1d6sbe"
+path="res://.godot/imported/Giant_darkW_Neon.OZJ-3c396cc3071baf0d9f0632aea9d810f1.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_darkW_Neon.OZJ"
+dest_files=["res://.godot/imported/Giant_darkW_Neon.OZJ-3c396cc3071baf0d9f0632aea9d810f1.res"]
+
+[params]
+

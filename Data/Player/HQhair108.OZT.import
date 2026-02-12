@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df3pyyflh18jq"
+path="res://.godot/imported/HQhair108.OZT-0cc1efc5ac21035861e1b46aec570265.res"
+
+[deps]
+
+source_file="res://Data/Player/HQhair108.OZT"
+dest_files=["res://.godot/imported/HQhair108.OZT-0cc1efc5ac21035861e1b46aec570265.res"]
+
+[params]
+

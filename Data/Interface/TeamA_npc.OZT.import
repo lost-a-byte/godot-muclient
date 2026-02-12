@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://r4wd7fwekff3"
+path="res://.godot/imported/TeamA_npc.OZT-9ea3774e786eeaf8580590ef3873f2d7.res"
+
+[deps]
+
+source_file="res://Data/Interface/TeamA_npc.OZT"
+dest_files=["res://.godot/imported/TeamA_npc.OZT-9ea3774e786eeaf8580590ef3873f2d7.res"]
+
+[params]
+

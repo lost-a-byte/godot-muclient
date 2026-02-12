@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://43eii6hngl67"
+path="res://.godot/imported/so_land01.OZT-caafff56d92774b01a872fcf3afcc37a.res"
+
+[deps]
+
+source_file="res://Data/Object95/so_land01.OZT"
+dest_files=["res://.godot/imported/so_land01.OZT-caafff56d92774b01a872fcf3afcc37a.res"]
+
+[params]
+

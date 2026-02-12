@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dle7gtml1yv2g"
+path="res://.godot/imported/kundunUp.OZJ-b05df595d07e9829f41e793c28b673d7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundunUp.OZJ"
+dest_files=["res://.godot/imported/kundunUp.OZJ-b05df595d07e9829f41e793c28b673d7.res"]
+
+[params]
+

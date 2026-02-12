@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dpif0fkvnsqv0"
+path="res://.godot/imported/goblinmaster.bmd-9ca143cc5b703e5f9ccdc82fe3c709e0.scn"
+
+[deps]
+
+source_file="res://Data/NPC/goblinmaster.bmd"
+dest_files=["res://.godot/imported/goblinmaster.bmd-9ca143cc5b703e5f9ccdc82fe3c709e0.scn"]
+
+[params]
+
+modelScale=0.01

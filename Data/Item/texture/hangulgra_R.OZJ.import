@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf0e7tcweth52"
+path="res://.godot/imported/hangulgra_R.OZJ-3d767ddcaff98b13a271957a37cbeb02.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hangulgra_R.OZJ"
+dest_files=["res://.godot/imported/hangulgra_R.OZJ-3d767ddcaff98b13a271957a37cbeb02.res"]
+
+[params]
+

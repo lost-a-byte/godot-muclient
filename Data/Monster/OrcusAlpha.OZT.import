@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://t2li7nvjpqc2"
+path="res://.godot/imported/OrcusAlpha.OZT-082c797cfe792bf95e40edf529fb5b42.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrcusAlpha.OZT"
+dest_files=["res://.godot/imported/OrcusAlpha.OZT-082c797cfe792bf95e40edf529fb5b42.res"]
+
+[params]
+

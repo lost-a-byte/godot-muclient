@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cc0hncnlpg5pe"
+path="res://.godot/imported/chaos_amulet_bloodangel.OZJ-5d98d0a1075e316b93a9b55014d23e5b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_bloodangel.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_bloodangel.OZJ-5d98d0a1075e316b93a9b55014d23e5b.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://3qm4ju88gxa5"
+path="res://.godot/imported/ArmorMale17.bmd-53a0fc0a8206d7d5acdc2cb7ab8d039f.scn"
+
+[deps]
+
+source_file="res://Data/Item/ArmorMale17.bmd"
+dest_files=["res://.godot/imported/ArmorMale17.bmd-53a0fc0a8206d7d5acdc2cb7ab8d039f.scn"]
+
+[params]
+
+modelScale=0.01

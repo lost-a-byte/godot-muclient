@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gx4d5wgguafi"
+path="res://.godot/imported/wood03.OZJ-4b7b654f17c0b52d760f6a172a49a189.res"
+
+[deps]
+
+source_file="res://Data/Object4/wood03.OZJ"
+dest_files=["res://.godot/imported/wood03.OZJ-4b7b654f17c0b52d760f6a172a49a189.res"]
+
+[params]
+

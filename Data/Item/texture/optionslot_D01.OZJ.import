@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://duk446dal18iu"
+path="res://.godot/imported/optionslot_D01.OZJ-8a99748651d22c01e8f00441bddc2fa8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/optionslot_D01.OZJ"
+dest_files=["res://.godot/imported/optionslot_D01.OZJ-8a99748651d22c01e8f00441bddc2fa8.res"]
+
+[params]
+

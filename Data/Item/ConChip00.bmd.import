@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bfw6mkctu8ifs"
+path="res://.godot/imported/ConChip00.bmd-7be4a07ce46acc2c7c80494ca6c821a7.scn"
+
+[deps]
+
+source_file="res://Data/Item/ConChip00.bmd"
+dest_files=["res://.godot/imported/ConChip00.bmd-7be4a07ce46acc2c7c80494ca6c821a7.scn"]
+
+[params]
+
+modelScale=0.01

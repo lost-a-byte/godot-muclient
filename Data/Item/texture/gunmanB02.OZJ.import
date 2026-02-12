@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5o0jxmvvwljq"
+path="res://.godot/imported/gunmanB02.OZJ-6046b8942cd964dbc4523ae03d59e347.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gunmanB02.OZJ"
+dest_files=["res://.godot/imported/gunmanB02.OZJ-6046b8942cd964dbc4523ae03d59e347.res"]
+
+[params]
+

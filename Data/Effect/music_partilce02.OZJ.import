@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dd12bnv4de3uk"
+path="res://.godot/imported/music_partilce02.OZJ-21dadb8270c367f0c0780f844ada561c.res"
+
+[deps]
+
+source_file="res://Data/Effect/music_partilce02.OZJ"
+dest_files=["res://.godot/imported/music_partilce02.OZJ-21dadb8270c367f0c0780f844ada561c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwmenp700fl6w"
+path="res://.godot/imported/ingame_pack_back03a.OZT-e1a9646e26d68f9c3424fb8c64c13aac.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_pack_back03a.OZT"
+dest_files=["res://.godot/imported/ingame_pack_back03a.OZT-e1a9646e26d68f9c3424fb8c64c13aac.res"]
+
+[params]
+

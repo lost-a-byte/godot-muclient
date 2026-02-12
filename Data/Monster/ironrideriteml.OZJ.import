@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca6e3lekuo2n2"
+path="res://.godot/imported/ironrideriteml.OZJ-d651c215f8a05cac85c1790f28f1bdd3.res"
+
+[deps]
+
+source_file="res://Data/Monster/ironrideriteml.OZJ"
+dest_files=["res://.godot/imported/ironrideriteml.OZJ-d651c215f8a05cac85c1790f28f1bdd3.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nfqmypvh2xyf"
+path="res://.godot/imported/sky.OZJ-858efdae25a1b882ae3d571dd6553cda.res"
+
+[deps]
+
+source_file="res://Data/Object63/sky.OZJ"
+dest_files=["res://.godot/imported/sky.OZJ-858efdae25a1b882ae3d571dd6553cda.res"]
+
+[params]
+

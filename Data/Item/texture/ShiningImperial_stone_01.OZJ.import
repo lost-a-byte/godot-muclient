@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dinj06cv4x4x0"
+path="res://.godot/imported/ShiningImperial_stone_01.OZJ-635c718b0f38beade794c3b1d103e3ab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ShiningImperial_stone_01.OZJ"
+dest_files=["res://.godot/imported/ShiningImperial_stone_01.OZJ-635c718b0f38beade794c3b1d103e3ab.res"]
+
+[params]
+

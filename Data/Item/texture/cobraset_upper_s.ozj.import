@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs1810i4llvps"
+path="res://.godot/imported/cobraset_upper_s.ozj-9a8777859cbd6138320c310f7ea2f276.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cobraset_upper_s.ozj"
+dest_files=["res://.godot/imported/cobraset_upper_s.ozj-9a8777859cbd6138320c310f7ea2f276.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://65okaq5rg1cc"
+path="res://.godot/imported/sealbijou.OZJ-b9eecf17269ca4b7bed3c8b527e1c17a.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/sealbijou.OZJ"
+dest_files=["res://.godot/imported/sealbijou.OZJ-b9eecf17269ca4b7bed3c8b527e1c17a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6d2luieex4ph"
+path="res://.godot/imported/upper_E1Test.ozj-45de2b504e0035970458e77f9f7fcb72.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/upper_E1Test.ozj"
+dest_files=["res://.godot/imported/upper_E1Test.ozj-45de2b504e0035970458e77f9f7fcb72.res"]
+
+[params]
+

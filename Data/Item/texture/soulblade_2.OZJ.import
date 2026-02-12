@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o5w108ayrp4e"
+path="res://.godot/imported/soulblade_2.OZJ-4d05a18fe4c6fc633e367889613369aa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soulblade_2.OZJ"
+dest_files=["res://.godot/imported/soulblade_2.OZJ-4d05a18fe4c6fc633e367889613369aa.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cfs74apnbinp8"
+path="res://.godot/imported/saint.bmd-da7859b443e399b089485e4ecb4284fd.scn"
+
+[deps]
+
+source_file="res://Data/Item/saint.bmd"
+dest_files=["res://.godot/imported/saint.bmd-da7859b443e399b089485e4ecb4284fd.scn"]
+
+[params]
+
+modelScale=0.01

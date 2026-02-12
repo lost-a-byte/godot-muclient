@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://co2dlgepqrm2t"
+path="res://.godot/imported/AbsoluteWand.bmd-4e045ae9b66b95b547d43e7ab1396e67.scn"
+
+[deps]
+
+source_file="res://Data/Item/AbsoluteWand.bmd"
+dest_files=["res://.godot/imported/AbsoluteWand.bmd-4e045ae9b66b95b547d43e7ab1396e67.scn"]
+
+[params]
+
+modelScale=0.01

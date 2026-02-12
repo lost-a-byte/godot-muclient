@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvfxdu0lvrd2s"
+path="res://.godot/imported/bons_b2.OZT-93e324e24f5ea4f078552702f383cc8c.res"
+
+[deps]
+
+source_file="res://Data/Monster/bons_b2.OZT"
+dest_files=["res://.godot/imported/bons_b2.OZT-93e324e24f5ea4f078552702f383cc8c.res"]
+
+[params]
+

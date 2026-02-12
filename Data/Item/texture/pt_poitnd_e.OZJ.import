@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df5b3hvs807tc"
+path="res://.godot/imported/pt_poitnd_e.OZJ-1eb6d0b06c6fe495c0f218bcc329155c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pt_poitnd_e.OZJ"
+dest_files=["res://.godot/imported/pt_poitnd_e.OZJ-1eb6d0b06c6fe495c0f218bcc329155c.res"]
+
+[params]
+

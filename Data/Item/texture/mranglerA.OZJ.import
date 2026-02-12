@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0d0gx8vhh5iu"
+path="res://.godot/imported/mranglerA.OZJ-ba871312fb3168f16390b341374bf8df.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mranglerA.OZJ"
+dest_files=["res://.godot/imported/mranglerA.OZJ-ba871312fb3168f16390b341374bf8df.res"]
+
+[params]
+

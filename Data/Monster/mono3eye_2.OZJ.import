@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://110t1c01fvxn"
+path="res://.godot/imported/mono3eye_2.OZJ-a98707342ecdd7f3be50ea5b35517baf.res"
+
+[deps]
+
+source_file="res://Data/Monster/mono3eye_2.OZJ"
+dest_files=["res://.godot/imported/mono3eye_2.OZJ-a98707342ecdd7f3be50ea5b35517baf.res"]
+
+[params]
+

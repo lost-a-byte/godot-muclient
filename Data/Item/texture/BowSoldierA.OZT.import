@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqehqr4d6lbg"
+path="res://.godot/imported/BowSoldierA.OZT-355e30aa1137ef4494ed425de3babecf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BowSoldierA.OZT"
+dest_files=["res://.godot/imported/BowSoldierA.OZT-355e30aa1137ef4494ed425de3babecf.res"]
+
+[params]
+

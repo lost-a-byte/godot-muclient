@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boue7ixd1fdy3"
+path="res://.godot/imported/chip.ozj-5d80c09ed7dc7bfd1642060fc2c0a216.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chip.ozj"
+dest_files=["res://.godot/imported/chip.ozj-5d80c09ed7dc7bfd1642060fc2c0a216.res"]
+
+[params]
+

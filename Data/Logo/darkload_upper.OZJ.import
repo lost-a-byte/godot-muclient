@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceeiq13fve67j"
+path="res://.godot/imported/darkload_upper.OZJ-01b941da5b72cc02cd9744804583c873.res"
+
+[deps]
+
+source_file="res://Data/Logo/darkload_upper.OZJ"
+dest_files=["res://.godot/imported/darkload_upper.OZJ-01b941da5b72cc02cd9744804583c873.res"]
+
+[params]
+

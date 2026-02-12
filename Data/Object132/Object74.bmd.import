@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2kajactcam2w"
+path="res://.godot/imported/Object74.bmd-cb76afe35e43331f6453575b5fdfbac9.scn"
+
+[deps]
+
+source_file="res://Data/Object132/Object74.bmd"
+dest_files=["res://.godot/imported/Object74.bmd-cb76afe35e43331f6453575b5fdfbac9.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4nbyf3f0npf5"
+path="res://.godot/imported/NarsWing_black.OZJ-35cac67e64f32ab05c916a5c072fc5f6.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsWing_black.OZJ"
+dest_files=["res://.godot/imported/NarsWing_black.OZJ-35cac67e64f32ab05c916a5c072fc5f6.res"]
+
+[params]
+

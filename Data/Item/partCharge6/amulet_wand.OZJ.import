@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxr0q7s4swt6b"
+path="res://.godot/imported/amulet_wand.OZJ-e334e2fece263ab1e795679a9620f9e1.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amulet_wand.OZJ"
+dest_files=["res://.godot/imported/amulet_wand.OZJ-e334e2fece263ab1e795679a9620f9e1.res"]
+
+[params]
+

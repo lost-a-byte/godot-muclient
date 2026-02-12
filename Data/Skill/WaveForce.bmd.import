@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1ehdmch0ym8r"
+path="res://.godot/imported/WaveForce.bmd-9e15634a45c1def4e1c8539899f62ba2.scn"
+
+[deps]
+
+source_file="res://Data/Skill/WaveForce.bmd"
+dest_files=["res://.godot/imported/WaveForce.bmd-9e15634a45c1def4e1c8539899f62ba2.scn"]
+
+[params]
+
+modelScale=0.01

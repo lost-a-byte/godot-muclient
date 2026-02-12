@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb0tt7xvue2vl"
+path="res://.godot/imported/gloryring.OZJ-f801474bfe530a79934bbfd227325726.res"
+
+[deps]
+
+source_file="res://Data/Item/gloryring.OZJ"
+dest_files=["res://.godot/imported/gloryring.OZJ-f801474bfe530a79934bbfd227325726.res"]
+
+[params]
+

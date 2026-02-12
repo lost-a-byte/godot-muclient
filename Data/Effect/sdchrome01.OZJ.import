@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb0y0ye6easfi"
+path="res://.godot/imported/sdchrome01.OZJ-8c5a8db11743e6c7bb4525cdf37f80ee.res"
+
+[deps]
+
+source_file="res://Data/Effect/sdchrome01.OZJ"
+dest_files=["res://.godot/imported/sdchrome01.OZJ-8c5a8db11743e6c7bb4525cdf37f80ee.res"]
+
+[params]
+

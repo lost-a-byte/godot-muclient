@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cwpq4f83vap67"
+path="res://.godot/imported/whirlwind_2_blue.bmd-ebf47f4322a8775b6ff7e947964b2027.scn"
+
+[deps]
+
+source_file="res://Data/Effect/whirlwind_2_blue.bmd"
+dest_files=["res://.godot/imported/whirlwind_2_blue.bmd-ebf47f4322a8775b6ff7e947964b2027.scn"]
+
+[params]
+
+modelScale=0.01

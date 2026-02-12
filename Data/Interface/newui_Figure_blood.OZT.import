@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ds13kr5grreoo"
+path="res://.godot/imported/newui_Figure_blood.OZT-4b41abc26a46101e2ed8580c2809de6e.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Figure_blood.OZT"
+dest_files=["res://.godot/imported/newui_Figure_blood.OZT-4b41abc26a46101e2ed8580c2809de6e.res"]
+
+[params]
+

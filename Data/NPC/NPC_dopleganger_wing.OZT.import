@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5oiduo41h1px"
+path="res://.godot/imported/NPC_dopleganger_wing.OZT-6c5f60dd0ea73ca6f52d7dd62b7f945c.res"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_dopleganger_wing.OZT"
+dest_files=["res://.godot/imported/NPC_dopleganger_wing.OZT-6c5f60dd0ea73ca6f52d7dd62b7f945c.res"]
+
+[params]
+

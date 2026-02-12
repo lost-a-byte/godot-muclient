@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdm5odd7y00o4"
+path="res://.godot/imported/LightBeam00_mono.OZJ-a472da0ac0e39e0b005509f1ea7d2cf1.res"
+
+[deps]
+
+source_file="res://Data/Effect/LightBeam00_mono.OZJ"
+dest_files=["res://.godot/imported/LightBeam00_mono.OZJ-a472da0ac0e39e0b005509f1ea7d2cf1.res"]
+
+[params]
+

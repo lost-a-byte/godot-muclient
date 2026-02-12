@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bkjghyfh2u6ex"
+path="res://.godot/imported/blue_eye_ws.bmd-512c67962a88f349e6f7086dc144cb00.scn"
+
+[deps]
+
+source_file="res://Data/Item/blue_eye_ws.bmd"
+dest_files=["res://.godot/imported/blue_eye_ws.bmd-512c67962a88f349e6f7086dc144cb00.scn"]
+
+[params]
+
+modelScale=0.01

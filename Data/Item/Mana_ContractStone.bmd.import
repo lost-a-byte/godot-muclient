@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cocifmdw631t7"
+path="res://.godot/imported/Mana_ContractStone.bmd-613a92bbd514c9193e60443408810947.scn"
+
+[deps]
+
+source_file="res://Data/Item/Mana_ContractStone.bmd"
+dest_files=["res://.godot/imported/Mana_ContractStone.bmd-613a92bbd514c9193e60443408810947.scn"]
+
+[params]
+
+modelScale=0.01

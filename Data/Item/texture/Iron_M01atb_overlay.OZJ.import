@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0lwr1srpfykv"
+path="res://.godot/imported/Iron_M01atb_overlay.OZJ-9db311078a76d19df7c31ca15acc4c14.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Iron_M01atb_overlay.OZJ"
+dest_files=["res://.godot/imported/Iron_M01atb_overlay.OZJ-9db311078a76d19df7c31ca15acc4c14.res"]
+
+[params]
+

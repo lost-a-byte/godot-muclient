@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cl3yxuhaond17"
+path="res://.godot/imported/ksing02.ozj-5bbd6b0166086cc6bf6c91c680211df7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ksing02.ozj"
+dest_files=["res://.godot/imported/ksing02.ozj-5bbd6b0166086cc6bf6c91c680211df7.res"]
+
+[params]
+

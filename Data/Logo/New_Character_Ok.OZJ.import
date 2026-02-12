@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dan6rgwxrqgci"
+path="res://.godot/imported/New_Character_Ok.OZJ-b0eff4cef4fc2be95da1ecce39524bc0.res"
+
+[deps]
+
+source_file="res://Data/Logo/New_Character_Ok.OZJ"
+dest_files=["res://.godot/imported/New_Character_Ok.OZJ-b0eff4cef4fc2be95da1ecce39524bc0.res"]
+
+[params]
+

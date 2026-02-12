@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwaminlblhwy8"
+path="res://.godot/imported/Item897_Armor_mono.OZT-6c09091f883c929df7ed7678995a3cd3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item897_Armor_mono.OZT"
+dest_files=["res://.godot/imported/Item897_Armor_mono.OZT-6c09091f883c929df7ed7678995a3cd3.res"]
+
+[params]
+

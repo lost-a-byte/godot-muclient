@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddcgswrvbk1yr"
+path="res://.godot/imported/wire_netting01.OZJ-f7846feff80b64ef057910e37247fb6a.res"
+
+[deps]
+
+source_file="res://Data/Object121/wire_netting01.OZJ"
+dest_files=["res://.godot/imported/wire_netting01.OZJ-f7846feff80b64ef057910e37247fb6a.res"]
+
+[params]
+

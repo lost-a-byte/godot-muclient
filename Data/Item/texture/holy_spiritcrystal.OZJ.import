@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0y7lst0myfen"
+path="res://.godot/imported/holy_spiritcrystal.OZJ-b232bb42c1b3a66f8fcc493c019f8035.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holy_spiritcrystal.OZJ"
+dest_files=["res://.godot/imported/holy_spiritcrystal.OZJ-b232bb42c1b3a66f8fcc493c019f8035.res"]
+
+[params]
+

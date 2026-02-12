@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsuvbqhl1dlun"
+path="res://.godot/imported/PrickleLance.OZJ-3d5a67508f6cd5fe0b6b3ea4e6fdb3fc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PrickleLance.OZJ"
+dest_files=["res://.godot/imported/PrickleLance.OZJ-3d5a67508f6cd5fe0b6b3ea4e6fdb3fc.res"]
+
+[params]
+

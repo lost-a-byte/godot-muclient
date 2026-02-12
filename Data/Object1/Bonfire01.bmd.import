@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://l374pfvya0tj"
+path="res://.godot/imported/Bonfire01.bmd-bd99f6ce54715aaeee0b35b5ff7030ef.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Bonfire01.bmd"
+dest_files=["res://.godot/imported/Bonfire01.bmd-bd99f6ce54715aaeee0b35b5ff7030ef.scn"]
+
+[params]
+
+modelScale=0.01

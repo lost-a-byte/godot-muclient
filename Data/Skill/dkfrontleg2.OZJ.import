@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0apdaydjlaow"
+path="res://.godot/imported/dkfrontleg2.OZJ-0d03cf340de68f5f803867f370314b85.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkfrontleg2.OZJ"
+dest_files=["res://.godot/imported/dkfrontleg2.OZJ-0d03cf340de68f5f803867f370314b85.res"]
+
+[params]
+

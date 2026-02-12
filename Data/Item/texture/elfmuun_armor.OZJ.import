@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dflpht3j15d3x"
+path="res://.godot/imported/elfmuun_armor.OZJ-24fc4192b989f5ae777f251f68c069b6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elfmuun_armor.OZJ"
+dest_files=["res://.godot/imported/elfmuun_armor.OZJ-24fc4192b989f5ae777f251f68c069b6.res"]
+
+[params]
+

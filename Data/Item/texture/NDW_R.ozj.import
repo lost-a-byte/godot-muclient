@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmvthcpgcqbp0"
+path="res://.godot/imported/NDW_R.ozj-a615e72a93c3a0177c301f820b78779c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NDW_R.ozj"
+dest_files=["res://.godot/imported/NDW_R.ozj-a615e72a93c3a0177c301f820b78779c.res"]
+
+[params]
+

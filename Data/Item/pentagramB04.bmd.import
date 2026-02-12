@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://hlb0rmbaoljk"
+path="res://.godot/imported/pentagramB04.bmd-90791a0def1014a7de4286dd96e37ccb.scn"
+
+[deps]
+
+source_file="res://Data/Item/pentagramB04.bmd"
+dest_files=["res://.godot/imported/pentagramB04.bmd-90791a0def1014a7de4286dd96e37ccb.scn"]
+
+[params]
+
+modelScale=0.01

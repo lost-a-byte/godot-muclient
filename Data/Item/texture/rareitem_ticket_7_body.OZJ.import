@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2274ppfksord"
+path="res://.godot/imported/rareitem_ticket_7_body.OZJ-6ec3b016674625aebd147aac423ab70d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rareitem_ticket_7_body.OZJ"
+dest_files=["res://.godot/imported/rareitem_ticket_7_body.OZJ-6ec3b016674625aebd147aac423ab70d.res"]
+
+[params]
+

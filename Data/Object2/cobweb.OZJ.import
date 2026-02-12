@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1c56qook1v1t"
+path="res://.godot/imported/cobweb.OZJ-19cde10ae35d791f72f849d11d7b3315.res"
+
+[deps]
+
+source_file="res://Data/Object2/cobweb.OZJ"
+dest_files=["res://.godot/imported/cobweb.OZJ-19cde10ae35d791f72f849d11d7b3315.res"]
+
+[params]
+

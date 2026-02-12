@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1wpyisu41a4i"
+path="res://.godot/imported/gamble_wand.OZJ-8724e0d9cc5322a9c557c40d5782dcd3.res"
+
+[deps]
+
+source_file="res://Data/Item/gamble_wand.OZJ"
+dest_files=["res://.godot/imported/gamble_wand.OZJ-8724e0d9cc5322a9c557c40d5782dcd3.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5a646xlrlbaw"
+path="res://.godot/imported/amulet_cloak.OZT-882152630bcd6eee3411344a17f832eb.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amulet_cloak.OZT"
+dest_files=["res://.godot/imported/amulet_cloak.OZT-882152630bcd6eee3411344a17f832eb.res"]
+
+[params]
+

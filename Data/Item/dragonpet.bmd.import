@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ceq42grmhok6h"
+path="res://.godot/imported/dragonpet.bmd-3f80ab92f230fc091b05c413ccff342e.scn"
+
+[deps]
+
+source_file="res://Data/Item/dragonpet.bmd"
+dest_files=["res://.godot/imported/dragonpet.bmd-3f80ab92f230fc091b05c413ccff342e.scn"]
+
+[params]
+
+modelScale=0.01

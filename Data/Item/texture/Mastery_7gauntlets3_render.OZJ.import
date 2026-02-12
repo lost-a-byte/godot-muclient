@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ce6brxilg06e6"
+path="res://.godot/imported/Mastery_7gauntlets3_render.OZJ-8320c1f9f7e6a67689adc3fde7cad261.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Mastery_7gauntlets3_render.OZJ"
+dest_files=["res://.godot/imported/Mastery_7gauntlets3_render.OZJ-8320c1f9f7e6a67689adc3fde7cad261.res"]
+
+[params]
+

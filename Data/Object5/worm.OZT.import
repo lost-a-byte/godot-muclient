@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcolvlrs5irtl"
+path="res://.godot/imported/worm.OZT-aee78ccfb5969a3bb86f9b009f374f6a.res"
+
+[deps]
+
+source_file="res://Data/Object5/worm.OZT"
+dest_files=["res://.godot/imported/worm.OZT-aee78ccfb5969a3bb86f9b009f374f6a.res"]
+
+[params]
+

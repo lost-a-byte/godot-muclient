@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rxlwptnwdeth"
+path="res://.godot/imported/eyeglas_R.OZJ-899240b331dc23c0f0f9b175a22200a7.res"
+
+[deps]
+
+source_file="res://Data/NPC/eyeglas_R.OZJ"
+dest_files=["res://.godot/imported/eyeglas_R.OZJ-899240b331dc23c0f0f9b175a22200a7.res"]
+
+[params]
+

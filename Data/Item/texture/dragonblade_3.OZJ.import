@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3xrr6eoujpgg"
+path="res://.godot/imported/dragonblade_3.OZJ-98f1e276bd8f8f62878a36ed438642c6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dragonblade_3.OZJ"
+dest_files=["res://.godot/imported/dragonblade_3.OZJ-98f1e276bd8f8f62878a36ed438642c6.res"]
+
+[params]
+

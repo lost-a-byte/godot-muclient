@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cunodkap2q733"
+path="res://.godot/imported/Gs_effect01.bmd-338a494bed4b70b55dedd82fd8ba631b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Gs_effect01.bmd"
+dest_files=["res://.godot/imported/Gs_effect01.bmd-338a494bed4b70b55dedd82fd8ba631b.scn"]
+
+[params]
+
+modelScale=0.01

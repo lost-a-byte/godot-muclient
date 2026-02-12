@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ydsce3p1m4lm"
+path="res://.godot/imported/MapName_Akeron.OZT-9a832098d4a017dac02216e97407439e.res"
+
+[deps]
+
+source_file="res://Data/Interface/MapName_Akeron.OZT"
+dest_files=["res://.godot/imported/MapName_Akeron.OZT-9a832098d4a017dac02216e97407439e.res"]
+
+[params]
+

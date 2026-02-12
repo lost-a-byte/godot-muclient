@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cinuk02wracpy"
+path="res://.godot/imported/CursorLeanAgainst.ozt-094daa5f31a4e5144bc591fc20649d94.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorLeanAgainst.ozt"
+dest_files=["res://.godot/imported/CursorLeanAgainst.ozt-094daa5f31a4e5144bc591fc20649d94.res"]
+
+[params]
+

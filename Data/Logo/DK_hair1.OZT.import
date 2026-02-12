@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0634e86mrmn7"
+path="res://.godot/imported/DK_hair1.OZT-f6738e7b5690dc5af78cd056666861d3.res"
+
+[deps]
+
+source_file="res://Data/Logo/DK_hair1.OZT"
+dest_files=["res://.godot/imported/DK_hair1.OZT-f6738e7b5690dc5af78cd056666861d3.res"]
+
+[params]
+

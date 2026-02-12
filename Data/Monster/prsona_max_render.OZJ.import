@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bx2mfp13symth"
+path="res://.godot/imported/prsona_max_render.OZJ-2bffb3cefd495353be61588d145db1d6.res"
+
+[deps]
+
+source_file="res://Data/Monster/prsona_max_render.OZJ"
+dest_files=["res://.godot/imported/prsona_max_render.OZJ-2bffb3cefd495353be61588d145db1d6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://be66q6m4asmf7"
+path="res://.godot/imported/jujug_R.OZJ-ab9f5afc6114c3bf3883c3f6a6bc4885.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge3/jujug_R.OZJ"
+dest_files=["res://.godot/imported/jujug_R.OZJ-ab9f5afc6114c3bf3883c3f6a6bc4885.res"]
+
+[params]
+

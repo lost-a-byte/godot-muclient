@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvgrbxlk85rvo"
+path="res://.godot/imported/mommothpet.bmd-02d19d1728e34afe37f5c82598da63c7.scn"
+
+[deps]
+
+source_file="res://Data/Item/mommothpet.bmd"
+dest_files=["res://.godot/imported/mommothpet.bmd-02d19d1728e34afe37f5c82598da63c7.scn"]
+
+[params]
+
+modelScale=0.01

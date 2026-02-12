@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://pba7a8styyrr"
+path="res://.godot/imported/MagicRing00.bmd-088e5f4f493e04cceaacb1737f3bb318.scn"
+
+[deps]
+
+source_file="res://Data/Item/MagicRing00.bmd"
+dest_files=["res://.godot/imported/MagicRing00.bmd-088e5f4f493e04cceaacb1737f3bb318.scn"]
+
+[params]
+
+modelScale=0.01

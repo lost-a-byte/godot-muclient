@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mrh3fpg6ekl3"
+path="res://.godot/imported/mu_rgb_lights.ozj-416226e0ae0d6947b3acdae10e011485.res"
+
+[deps]
+
+source_file="res://Data/Item/mu_rgb_lights.ozj"
+dest_files=["res://.godot/imported/mu_rgb_lights.ozj-416226e0ae0d6947b3acdae10e011485.res"]
+
+[params]
+

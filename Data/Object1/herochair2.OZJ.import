@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn2xyydi3iukf"
+path="res://.godot/imported/herochair2.OZJ-b9dadf05a2f507aaa7c095a41b81618f.res"
+
+[deps]
+
+source_file="res://Data/Object1/herochair2.OZJ"
+dest_files=["res://.godot/imported/herochair2.OZJ-b9dadf05a2f507aaa7c095a41b81618f.res"]
+
+[params]
+

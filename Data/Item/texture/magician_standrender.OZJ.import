@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chfschcknbj6r"
+path="res://.godot/imported/magician_standrender.OZJ-bd963d282b7421bc870f4aaefe6bdee1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magician_standrender.OZJ"
+dest_files=["res://.godot/imported/magician_standrender.OZJ-bd963d282b7421bc870f4aaefe6bdee1.res"]
+
+[params]
+

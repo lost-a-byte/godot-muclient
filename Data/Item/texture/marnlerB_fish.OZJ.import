@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dywqe57hvopmn"
+path="res://.godot/imported/marnlerB_fish.OZJ-b96f9d9bdb156c89e597f75449751803.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/marnlerB_fish.OZJ"
+dest_files=["res://.godot/imported/marnlerB_fish.OZJ-b96f9d9bdb156c89e597f75449751803.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ble06d3yov77h"
+path="res://.godot/imported/lightmarks1.OZJ-6436a5813ba17f5846ea9a73206ff523.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightmarks1.OZJ"
+dest_files=["res://.godot/imported/lightmarks1.OZJ-6436a5813ba17f5846ea9a73206ff523.res"]
+
+[params]
+

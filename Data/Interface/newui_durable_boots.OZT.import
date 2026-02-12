@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cljrdbtbotifn"
+path="res://.godot/imported/newui_durable_boots.OZT-c1c41f17300be5a574db0f714d2d90c1.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_boots.OZT"
+dest_files=["res://.godot/imported/newui_durable_boots.OZT-c1c41f17300be5a574db0f714d2d90c1.res"]
+
+[params]
+

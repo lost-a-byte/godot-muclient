@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.terrain-height"
+type="HeightMapShape3D"
+uid="uid://c41w2rn5figx3"
+path="res://.godot/imported/TerrainHeight.OZB-959063daa6431a3b4e3e74898c64b66a.tres"
+
+[deps]
+
+source_file="res://Data/World3/TerrainHeight.OZB"
+dest_files=["res://.godot/imported/TerrainHeight.OZB-959063daa6431a3b4e3e74898c64b66a.tres"]
+
+[params]
+
+heightScale=0.015686275

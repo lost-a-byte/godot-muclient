@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bknvo1sktvxdy"
+path="res://.godot/imported/gradationback.OZJ-0e932ed8a006a8fd050480099b778783.res"
+
+[deps]
+
+source_file="res://Data/Effect/gradationback.OZJ"
+dest_files=["res://.godot/imported/gradationback.OZJ-0e932ed8a006a8fd050480099b778783.res"]
+
+[params]
+

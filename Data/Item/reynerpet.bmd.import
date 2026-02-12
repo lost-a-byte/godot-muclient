@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dsyy3owd10kb1"
+path="res://.godot/imported/reynerpet.bmd-fac70dd39020091ecbd5e6409f6256ab.scn"
+
+[deps]
+
+source_file="res://Data/Item/reynerpet.bmd"
+dest_files=["res://.godot/imported/reynerpet.bmd-fac70dd39020091ecbd5e6409f6256ab.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfkk4i1t7e2uj"
+path="res://.godot/imported/hsbnightlight_R.OZJ-f2fd1748f2f5bbbab3117d3ecdc22467.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hsbnightlight_R.OZJ"
+dest_files=["res://.godot/imported/hsbnightlight_R.OZJ-f2fd1748f2f5bbbab3117d3ecdc22467.res"]
+
+[params]
+

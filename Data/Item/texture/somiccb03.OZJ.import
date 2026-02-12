@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1nupllq4ewqk"
+path="res://.godot/imported/somiccb03.OZJ-9dd8fae3a93dbd78ea14f5ef691e4c9a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/somiccb03.OZJ"
+dest_files=["res://.godot/imported/somiccb03.OZJ-9dd8fae3a93dbd78ea14f5ef691e4c9a.res"]
+
+[params]
+

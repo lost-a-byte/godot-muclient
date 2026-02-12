@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwxuj2ymfwofg"
+path="res://.godot/imported/lightning_stone.OZJ-d09adc1bac6fd6777c619f23819986e7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_stone.OZJ"
+dest_files=["res://.godot/imported/lightning_stone.OZJ-d09adc1bac6fd6777c619f23819986e7.res"]
+
+[params]
+

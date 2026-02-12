@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ds703ir6n5euv"
+path="res://.godot/imported/scorpioUp.bmd-613ab5389e62bf1051e239372e0324b5.scn"
+
+[deps]
+
+source_file="res://Data/Item/scorpioUp.bmd"
+dest_files=["res://.godot/imported/scorpioUp.bmd-613ab5389e62bf1051e239372e0324b5.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dohl1fmqf4s2p"
+path="res://.godot/imported/cra_03.OZJ-bd0e4091fd3fa8283720a5651d232675.res"
+
+[deps]
+
+source_file="res://Data/Effect/cra_03.OZJ"
+dest_files=["res://.godot/imported/cra_03.OZJ-bd0e4091fd3fa8283720a5651d232675.res"]
+
+[params]
+

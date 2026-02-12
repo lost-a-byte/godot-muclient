@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jnsfd885bn0w"
+path="res://.godot/imported/ExtTile02.OZJ-6d980e5c2ee81619bfee2ac59ca4575e.res"
+
+[deps]
+
+source_file="res://Data/World134/ExtTile02.OZJ"
+dest_files=["res://.godot/imported/ExtTile02.OZJ-6d980e5c2ee81619bfee2ac59ca4575e.res"]
+
+[params]
+

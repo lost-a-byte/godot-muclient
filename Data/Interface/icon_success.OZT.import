@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bipby7vblk335"
+path="res://.godot/imported/icon_success.OZT-21512fe91bfc230d948ca95c5ac9b15a.res"
+
+[deps]
+
+source_file="res://Data/Interface/icon_success.OZT"
+dest_files=["res://.godot/imported/icon_success.OZT-21512fe91bfc230d948ca95c5ac9b15a.res"]
+
+[params]
+

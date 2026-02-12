@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c64i0ecl6cbhf"
+path="res://.godot/imported/magi_hair.OZT-a3aad9bd66ac0464f3c7bfe588f647d1.res"
+
+[deps]
+
+source_file="res://Data/Logo/magi_hair.OZT"
+dest_files=["res://.godot/imported/magi_hair.OZT-a3aad9bd66ac0464f3c7bfe588f647d1.res"]
+
+[params]
+

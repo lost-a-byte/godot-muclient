@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dnp0j3ion4wd"
+path="res://.godot/imported/wing_exticket.bmd-ee1c82268b2f8547c6aae5a8f5366c73.scn"
+
+[deps]
+
+source_file="res://Data/Item/wing_exticket.bmd"
+dest_files=["res://.godot/imported/wing_exticket.bmd-ee1c82268b2f8547c6aae5a8f5366c73.scn"]
+
+[params]
+
+modelScale=0.01

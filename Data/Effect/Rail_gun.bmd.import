@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dtvp7ynsaeskt"
+path="res://.godot/imported/Rail_gun.bmd-69bd8b904d4efd004d83d7b448df3920.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Rail_gun.bmd"
+dest_files=["res://.godot/imported/Rail_gun.bmd-69bd8b904d4efd004d83d7b448df3920.scn"]
+
+[params]
+
+modelScale=0.01

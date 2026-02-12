@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjkxcotriiq3l"
+path="res://.godot/imported/elder.OZJ-163aa77e3d0733906a498042d216a431.res"
+
+[deps]
+
+source_file="res://Data/NPC/elder.OZJ"
+dest_files=["res://.godot/imported/elder.OZJ-163aa77e3d0733906a498042d216a431.res"]
+
+[params]
+

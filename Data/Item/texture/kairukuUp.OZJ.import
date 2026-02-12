@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ps8vgga6igga"
+path="res://.godot/imported/kairukuUp.OZJ-c53c63865d8594389507827230280e81.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kairukuUp.OZJ"
+dest_files=["res://.godot/imported/kairukuUp.OZJ-c53c63865d8594389507827230280e81.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5upbxjx52hpe"
+path="res://.godot/imported/sd_AwakeningSoul01.OZJ-4c3591a009ee93ff5aebca70fedfe8b5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_AwakeningSoul01.OZJ"
+dest_files=["res://.godot/imported/sd_AwakeningSoul01.OZJ-4c3591a009ee93ff5aebca70fedfe8b5.res"]
+
+[params]
+

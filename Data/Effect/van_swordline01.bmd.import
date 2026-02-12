@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://crm34ybwk8nug"
+path="res://.godot/imported/van_swordline01.bmd-72bc3b91bf25d3b7bc30ee0875973329.scn"
+
+[deps]
+
+source_file="res://Data/Effect/van_swordline01.bmd"
+dest_files=["res://.godot/imported/van_swordline01.bmd-72bc3b91bf25d3b7bc30ee0875973329.scn"]
+
+[params]
+
+modelScale=0.01

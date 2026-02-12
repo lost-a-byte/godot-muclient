@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b51ka6ctsmypm"
+path="res://.godot/imported/PlumaShield.OZJ-d14f9ce28c10a8161f002e8fad7484ed.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PlumaShield.OZJ"
+dest_files=["res://.godot/imported/PlumaShield.OZJ-d14f9ce28c10a8161f002e8fad7484ed.res"]
+
+[params]
+

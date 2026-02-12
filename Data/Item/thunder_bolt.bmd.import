@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cbx2de4fv5xe4"
+path="res://.godot/imported/thunder_bolt.bmd-1bc1712688af934637ca40f8e35d7e04.scn"
+
+[deps]
+
+source_file="res://Data/Item/thunder_bolt.bmd"
+dest_files=["res://.godot/imported/thunder_bolt.bmd-1bc1712688af934637ca40f8e35d7e04.scn"]
+
+[params]
+
+modelScale=0.01

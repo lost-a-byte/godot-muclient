@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvalohg2itk7t"
+path="res://.godot/imported/EagleStatue_01.OZJ-7ef795822431f536ff99722a83c5185c.res"
+
+[deps]
+
+source_file="res://Data/Object146/EagleStatue_01.OZJ"
+dest_files=["res://.godot/imported/EagleStatue_01.OZJ-7ef795822431f536ff99722a83c5185c.res"]
+
+[params]
+

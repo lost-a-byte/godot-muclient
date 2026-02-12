@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dks5xq3pwclmr"
+path="res://.godot/imported/Item2104_Bodyskin.OZJ-529c77b736cc539cc106503d65f35573.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item2104_Bodyskin.OZJ"
+dest_files=["res://.godot/imported/Item2104_Bodyskin.OZJ-529c77b736cc539cc106503d65f35573.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://t4fh1vct1egu"
+path="res://.godot/imported/chaoscastle.OZT-c12de36eb6bf9a139f188552097efe7e.res"
+
+[deps]
+
+source_file="res://Data/Interface/chaoscastle.OZT"
+dest_files=["res://.godot/imported/chaoscastle.OZT-c12de36eb6bf9a139f188552097efe7e.res"]
+
+[params]
+

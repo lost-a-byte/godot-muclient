@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhkbu853hdg10"
+path="res://.godot/imported/ricks.OZJ-1ee0ce1c6cf69aba56aaef8e9662e5da.res"
+
+[deps]
+
+source_file="res://Data/NPC/ricks.OZJ"
+dest_files=["res://.godot/imported/ricks.OZJ-1ee0ce1c6cf69aba56aaef8e9662e5da.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3uvbya0v6jlr"
+path="res://.godot/imported/Logo04.bmd-97b5d19362e7186a6ba454251dd1ba6a.scn"
+
+[deps]
+
+source_file="res://Data/Logo/Logo04.bmd"
+dest_files=["res://.godot/imported/Logo04.bmd-97b5d19362e7186a6ba454251dd1ba6a.scn"]
+
+[params]
+
+modelScale=0.01

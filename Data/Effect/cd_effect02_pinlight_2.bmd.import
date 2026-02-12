@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://df8d8o300f2dm"
+path="res://.godot/imported/cd_effect02_pinlight_2.bmd-390f3ddfdc26affedc7d35526449c8ac.scn"
+
+[deps]
+
+source_file="res://Data/Effect/cd_effect02_pinlight_2.bmd"
+dest_files=["res://.godot/imported/cd_effect02_pinlight_2.bmd-390f3ddfdc26affedc7d35526449c8ac.scn"]
+
+[params]
+
+modelScale=0.01

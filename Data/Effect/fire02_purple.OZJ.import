@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cge83e1d114ae"
+path="res://.godot/imported/fire02_purple.OZJ-109bf1a194ae61bc6cd6d8363782dd9d.res"
+
+[deps]
+
+source_file="res://Data/Effect/fire02_purple.OZJ"
+dest_files=["res://.godot/imported/fire02_purple.OZJ-109bf1a194ae61bc6cd6d8363782dd9d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3s0h210y67bg"
+path="res://.godot/imported/sd_Elpis01B.OZJ-28a1b7f280fa99d32e3e803b8335df20.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_Elpis01B.OZJ"
+dest_files=["res://.godot/imported/sd_Elpis01B.OZJ-28a1b7f280fa99d32e3e803b8335df20.res"]
+
+[params]
+

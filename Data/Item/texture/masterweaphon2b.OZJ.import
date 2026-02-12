@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wqoikvh3e0jf"
+path="res://.godot/imported/masterweaphon2b.OZJ-63b9a46adfe9ffcc01e5bc2868d650b8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/masterweaphon2b.OZJ"
+dest_files=["res://.godot/imported/masterweaphon2b.OZJ-63b9a46adfe9ffcc01e5bc2868d650b8.res"]
+
+[params]
+

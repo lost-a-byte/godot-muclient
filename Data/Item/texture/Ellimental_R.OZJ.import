@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b43gexplviyyq"
+path="res://.godot/imported/Ellimental_R.OZJ-066ab4c2edc1719799b65faa3fdd401a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ellimental_R.OZJ"
+dest_files=["res://.godot/imported/Ellimental_R.OZJ-066ab4c2edc1719799b65faa3fdd401a.res"]
+
+[params]
+

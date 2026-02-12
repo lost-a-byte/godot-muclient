@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhyrw143twarr"
+path="res://.godot/imported/vermont_body.OZJ-d7c6660187a7911a494a82dc44715b45.res"
+
+[deps]
+
+source_file="res://Data/Monster/vermont_body.OZJ"
+dest_files=["res://.godot/imported/vermont_body.OZJ-d7c6660187a7911a494a82dc44715b45.res"]
+
+[params]
+

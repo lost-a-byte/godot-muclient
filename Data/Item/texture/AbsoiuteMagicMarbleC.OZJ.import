@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vcs8p6mm466i"
+path="res://.godot/imported/AbsoiuteMagicMarbleC.OZJ-e08f0260188e3fcc798e50d77f538413.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AbsoiuteMagicMarbleC.OZJ"
+dest_files=["res://.godot/imported/AbsoiuteMagicMarbleC.OZJ-e08f0260188e3fcc798e50d77f538413.res"]
+
+[params]
+

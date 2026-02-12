@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkavwhx80qvey"
+path="res://.godot/imported/scolpi_001.OZJ-a951ea434ad81713d6b0b003251fa73e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/scolpi_001.OZJ"
+dest_files=["res://.godot/imported/scolpi_001.OZJ-a951ea434ad81713d6b0b003251fa73e.res"]
+
+[params]
+

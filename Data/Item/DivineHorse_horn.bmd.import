@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dewvug0br1csh"
+path="res://.godot/imported/DivineHorse_horn.bmd-91ff24864d71dcfd3915ad7a0cee2452.scn"
+
+[deps]
+
+source_file="res://Data/Item/DivineHorse_horn.bmd"
+dest_files=["res://.godot/imported/DivineHorse_horn.bmd-91ff24864d71dcfd3915ad7a0cee2452.scn"]
+
+[params]
+
+modelScale=0.01

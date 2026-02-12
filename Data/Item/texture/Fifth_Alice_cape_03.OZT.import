@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy8tc7ksusfar"
+path="res://.godot/imported/Fifth_Alice_cape_03.OZT-5e3c1132e9acadcf7261c41f5de88b21.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Alice_cape_03.OZT"
+dest_files=["res://.godot/imported/Fifth_Alice_cape_03.OZT-5e3c1132e9acadcf7261c41f5de88b21.res"]
+
+[params]
+

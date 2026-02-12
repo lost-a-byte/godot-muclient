@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs56eyu16awfj"
+path="res://.godot/imported/brillianthornB.OZJ-3b85847e4f2bbec49e0d6c5cd1d09356.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/brillianthornB.OZJ"
+dest_files=["res://.godot/imported/brillianthornB.OZJ-3b85847e4f2bbec49e0d6c5cd1d09356.res"]
+
+[params]
+

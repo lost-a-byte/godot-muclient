@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c20ntuavd7c21"
+path="res://.godot/imported/new_Pant11.bmd-02cc451a6ee7c1cafa8017ae5d535f55.scn"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/72/new_Pant11.bmd"
+dest_files=["res://.godot/imported/new_Pant11.bmd-02cc451a6ee7c1cafa8017ae5d535f55.scn"]
+
+[params]
+
+modelScale=0.01

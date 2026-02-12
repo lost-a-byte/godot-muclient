@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://p5nxlw4nha61"
+path="res://.godot/imported/Furniture01.bmd-9ae3daa116e1655b01f499e1bfcb3a48.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Furniture01.bmd"
+dest_files=["res://.godot/imported/Furniture01.bmd-9ae3daa116e1655b01f499e1bfcb3a48.scn"]
+
+[params]
+
+modelScale=0.01

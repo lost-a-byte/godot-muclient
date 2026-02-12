@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch6juj3vlptl5"
+path="res://.godot/imported/scroolc.ozj-69da156d3ab7d080e98a4d5aa77278f0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/scroolc.ozj"
+dest_files=["res://.godot/imported/scroolc.ozj-69da156d3ab7d080e98a4d5aa77278f0.res"]
+
+[params]
+

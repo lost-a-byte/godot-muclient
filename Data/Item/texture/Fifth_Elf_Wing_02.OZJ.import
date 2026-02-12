@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vb2mqwf0kags"
+path="res://.godot/imported/Fifth_Elf_Wing_02.OZJ-dceee7becdb2530bfa839ae6434b6799.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Elf_Wing_02.OZJ"
+dest_files=["res://.godot/imported/Fifth_Elf_Wing_02.OZJ-dceee7becdb2530bfa839ae6434b6799.res"]
+
+[params]
+

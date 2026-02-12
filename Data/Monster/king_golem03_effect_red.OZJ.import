@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rvarsxjrycag"
+path="res://.godot/imported/king_golem03_effect_red.OZJ-85d30f1a9fab5e0be559ddd37d5183f2.res"
+
+[deps]
+
+source_file="res://Data/Monster/king_golem03_effect_red.OZJ"
+dest_files=["res://.godot/imported/king_golem03_effect_red.OZJ-85d30f1a9fab5e0be559ddd37d5183f2.res"]
+
+[params]
+

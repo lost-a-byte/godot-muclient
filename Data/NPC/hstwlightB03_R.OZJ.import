@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kif7uo3hg4m3"
+path="res://.godot/imported/hstwlightB03_R.OZJ-14efe8b58a7aa6fc60c7ab9b61bc207e.res"
+
+[deps]
+
+source_file="res://Data/NPC/hstwlightB03_R.OZJ"
+dest_files=["res://.godot/imported/hstwlightB03_R.OZJ-14efe8b58a7aa6fc60c7ab9b61bc207e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da4h0b2n3upia"
+path="res://.godot/imported/alpha_motion.OZT-763e05394b55d3884debbcc41f991de4.res"
+
+[deps]
+
+source_file="res://Data/Effect/alpha_motion.OZT"
+dest_files=["res://.godot/imported/alpha_motion.OZT-763e05394b55d3884debbcc41f991de4.res"]
+
+[params]
+

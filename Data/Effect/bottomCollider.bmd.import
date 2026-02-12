@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cdqdlsbm1v28u"
+path="res://.godot/imported/bottomCollider.bmd-81313d0ddf3d311ad59b5906e042df55.scn"
+
+[deps]
+
+source_file="res://Data/Effect/bottomCollider.bmd"
+dest_files=["res://.godot/imported/bottomCollider.bmd-81313d0ddf3d311ad59b5906e042df55.scn"]
+
+[params]
+
+modelScale=0.01

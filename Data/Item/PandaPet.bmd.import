@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvvxkrhj8fny8"
+path="res://.godot/imported/PandaPet.bmd-7fdbca768b16578fbe0b3ec0a2ee7168.scn"
+
+[deps]
+
+source_file="res://Data/Item/PandaPet.bmd"
+dest_files=["res://.godot/imported/PandaPet.bmd-7fdbca768b16578fbe0b3ec0a2ee7168.scn"]
+
+[params]
+
+modelScale=0.01

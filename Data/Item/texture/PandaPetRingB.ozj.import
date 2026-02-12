@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqjvmpk54rmco"
+path="res://.godot/imported/PandaPetRingB.ozj-4ebcab2ae6bbcb0bdb7d43a2749e6f1e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PandaPetRingB.ozj"
+dest_files=["res://.godot/imported/PandaPetRingB.ozj-4ebcab2ae6bbcb0bdb7d43a2749e6f1e.res"]
+
+[params]
+

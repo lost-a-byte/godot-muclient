@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nbqeq43bk2gl"
+path="res://.godot/imported/abilitycrystal02.OZJ-02c2db86470f4a9f59fd769ecdebae54.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/abilitycrystal02.OZJ"
+dest_files=["res://.godot/imported/abilitycrystal02.OZJ-02c2db86470f4a9f59fd769ecdebae54.res"]
+
+[params]
+

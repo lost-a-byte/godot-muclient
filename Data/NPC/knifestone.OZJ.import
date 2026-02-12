@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3fbok2pt4186"
+path="res://.godot/imported/knifestone.OZJ-e27fa58d12f91d2b01e165f7954602d7.res"
+
+[deps]
+
+source_file="res://Data/NPC/knifestone.OZJ"
+dest_files=["res://.godot/imported/knifestone.OZJ-e27fa58d12f91d2b01e165f7954602d7.res"]
+
+[params]
+

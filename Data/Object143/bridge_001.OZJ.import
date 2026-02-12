@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b51c78gq6a8b2"
+path="res://.godot/imported/bridge_001.OZJ-6a7fcf259e9cd04a4d50b60c50ab1e14.res"
+
+[deps]
+
+source_file="res://Data/Object143/bridge_001.OZJ"
+dest_files=["res://.godot/imported/bridge_001.OZJ-6a7fcf259e9cd04a4d50b60c50ab1e14.res"]
+
+[params]
+

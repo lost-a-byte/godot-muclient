@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cqkn6rsvrrfpu"
+path="res://.godot/imported/ItemBoxKey_gold.bmd-d7dd44053f3d1045873dafc9412cdce5.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/ItemBoxKey_gold.bmd"
+dest_files=["res://.godot/imported/ItemBoxKey_gold.bmd-d7dd44053f3d1045873dafc9412cdce5.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dy47ff76ccola"
+path="res://.godot/imported/PrickleGlove.bmd-e6c2ccd4adc4a5e51c572425300345a8.scn"
+
+[deps]
+
+source_file="res://Data/Item/PrickleGlove.bmd"
+dest_files=["res://.godot/imported/PrickleGlove.bmd-e6c2ccd4adc4a5e51c572425300345a8.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d02oshq2ojwcx"
+path="res://.godot/imported/remui380_render.OZJ-ae4d283e4253a1e87914b66d260ae9e2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/remui380_render.OZJ"
+dest_files=["res://.godot/imported/remui380_render.OZJ-ae4d283e4253a1e87914b66d260ae9e2.res"]
+
+[params]
+

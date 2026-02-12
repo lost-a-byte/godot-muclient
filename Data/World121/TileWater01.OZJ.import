@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1iy4lgj3a5r"
+path="res://.godot/imported/TileWater01.OZJ-18311d1d940499b9245a50dcd9c6fe30.res"
+
+[deps]
+
+source_file="res://Data/World121/TileWater01.OZJ"
+dest_files=["res://.godot/imported/TileWater01.OZJ-18311d1d940499b9245a50dcd9c6fe30.res"]
+
+[params]
+

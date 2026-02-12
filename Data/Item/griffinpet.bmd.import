@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dwncxotjag5m3"
+path="res://.godot/imported/griffinpet.bmd-6844e8e509d07fb4a6db472240241382.scn"
+
+[deps]
+
+source_file="res://Data/Item/griffinpet.bmd"
+dest_files=["res://.godot/imported/griffinpet.bmd-6844e8e509d07fb4a6db472240241382.scn"]
+
+[params]
+
+modelScale=0.01

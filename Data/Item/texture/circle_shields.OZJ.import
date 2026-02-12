@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgyepp8ceiuq4"
+path="res://.godot/imported/circle_shields.OZJ-27e02dd0b6d6df9c3c96dce5a82d2f61.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/circle_shields.OZJ"
+dest_files=["res://.godot/imported/circle_shields.OZJ-27e02dd0b6d6df9c3c96dce5a82d2f61.res"]
+
+[params]
+

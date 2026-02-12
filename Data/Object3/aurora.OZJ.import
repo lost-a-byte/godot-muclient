@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgsafe8v5sij2"
+path="res://.godot/imported/aurora.OZJ-b0e6f8decaff39702c226c0c0753ec9e.res"
+
+[deps]
+
+source_file="res://Data/Object3/aurora.OZJ"
+dest_files=["res://.godot/imported/aurora.OZJ-b0e6f8decaff39702c226c0c0753ec9e.res"]
+
+[params]
+

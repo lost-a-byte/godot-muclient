@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ecgg0fytceav"
+path="res://.godot/imported/HolyAngelMagicSword_R.OZJ-6c97c1d70a4a1d86d8ca364ef9b1b671.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HolyAngelMagicSword_R.OZJ"
+dest_files=["res://.godot/imported/HolyAngelMagicSword_R.OZJ-6c97c1d70a4a1d86d8ca364ef9b1b671.res"]
+
+[params]
+

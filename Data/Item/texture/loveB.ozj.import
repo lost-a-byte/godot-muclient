@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0al4litm67sg"
+path="res://.godot/imported/loveB.ozj-39787d84d3fbd453453e4a3e6c3c9445.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/loveB.ozj"
+dest_files=["res://.godot/imported/loveB.ozj-39787d84d3fbd453453e4a3e6c3c9445.res"]
+
+[params]
+

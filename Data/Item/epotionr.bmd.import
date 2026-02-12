@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ex05gk67ujto"
+path="res://.godot/imported/epotionr.bmd-85d5380d0efe8d1dd6cd3a614bb79470.scn"
+
+[deps]
+
+source_file="res://Data/Item/epotionr.bmd"
+dest_files=["res://.godot/imported/epotionr.bmd-85d5380d0efe8d1dd6cd3a614bb79470.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bib458h0e7v7f"
+path="res://.godot/imported/santa_baggage.OZJ-839327858ef5be1047f05d1dc76949a8.res"
+
+[deps]
+
+source_file="res://Data/NPC/santa_baggage.OZJ"
+dest_files=["res://.godot/imported/santa_baggage.OZJ-839327858ef5be1047f05d1dc76949a8.res"]
+
+[params]
+

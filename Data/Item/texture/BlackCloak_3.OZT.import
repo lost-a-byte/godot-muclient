@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://67e6b8agxeim"
+path="res://.godot/imported/BlackCloak_3.OZT-0d5db26d3095818d657acef8687cbc44.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlackCloak_3.OZT"
+dest_files=["res://.godot/imported/BlackCloak_3.OZT-0d5db26d3095818d657acef8687cbc44.res"]
+
+[params]
+

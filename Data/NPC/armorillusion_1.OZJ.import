@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0ub16quwq76w"
+path="res://.godot/imported/armorillusion_1.OZJ-eb2803b7fd64051fe0dd25fd6fb1dcb1.res"
+
+[deps]
+
+source_file="res://Data/NPC/armorillusion_1.OZJ"
+dest_files=["res://.godot/imported/armorillusion_1.OZJ-eb2803b7fd64051fe0dd25fd6fb1dcb1.res"]
+
+[params]
+

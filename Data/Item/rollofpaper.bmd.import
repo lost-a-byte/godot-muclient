@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://tldn4omthfu1"
+path="res://.godot/imported/rollofpaper.bmd-ed801ed73a71a7d27e2fe3d8f7a55b62.scn"
+
+[deps]
+
+source_file="res://Data/Item/rollofpaper.bmd"
+dest_files=["res://.godot/imported/rollofpaper.bmd-ed801ed73a71a7d27e2fe3d8f7a55b62.scn"]
+
+[params]
+
+modelScale=0.01

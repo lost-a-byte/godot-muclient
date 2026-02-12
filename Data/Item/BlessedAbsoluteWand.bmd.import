@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2iba5xavre83"
+path="res://.godot/imported/BlessedAbsoluteWand.bmd-db125e4e450e8e95e53193544d331300.scn"
+
+[deps]
+
+source_file="res://Data/Item/BlessedAbsoluteWand.bmd"
+dest_files=["res://.godot/imported/BlessedAbsoluteWand.bmd-db125e4e450e8e95e53193544d331300.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuwwyrf5xfqqk"
+path="res://.godot/imported/flamset_glove.ozj-9795168ce3263f7f28ba6ad87bc40a91.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/flamset_glove.ozj"
+dest_files=["res://.godot/imported/flamset_glove.ozj-9795168ce3263f7f28ba6ad87bc40a91.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmooplrsesbah"
+path="res://.godot/imported/fight_hair_diffuse.OZJ-e615aa993f6839d5dfd3cd9dc3540347.res"
+
+[deps]
+
+source_file="res://Data/Logo/fight_hair_diffuse.OZJ"
+dest_files=["res://.godot/imported/fight_hair_diffuse.OZJ-e615aa993f6839d5dfd3cd9dc3540347.res"]
+
+[params]
+

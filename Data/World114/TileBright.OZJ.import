@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dryckwiikloin"
+path="res://.godot/imported/TileBright.OZJ-250b89991f8efd03750556ee3c0b99a3.res"
+
+[deps]
+
+source_file="res://Data/World114/TileBright.OZJ"
+dest_files=["res://.godot/imported/TileBright.OZJ-250b89991f8efd03750556ee3c0b99a3.res"]
+
+[params]
+

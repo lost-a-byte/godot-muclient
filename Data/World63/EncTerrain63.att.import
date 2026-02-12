@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.enc-terrain-att"
+type="TileAttribute"
+uid="uid://cyxrpqkis3fb8"
+path="res://.godot/imported/EncTerrain63.att-5c159944176cc30c5dee3c06c92b0340.tres"
+
+[deps]
+
+source_file="res://Data/World63/EncTerrain63.att"
+dest_files=["res://.godot/imported/EncTerrain63.att-5c159944176cc30c5dee3c06c92b0340.tres"]
+
+[params]
+

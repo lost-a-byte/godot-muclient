@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8dbt1ex0tdwk"
+path="res://.godot/imported/line_left_redorange.OZJ-b4cf25ca13715f8da5b9d964e25a102a.res"
+
+[deps]
+
+source_file="res://Data/Effect/line_left_redorange.OZJ"
+dest_files=["res://.godot/imported/line_left_redorange.OZJ-b4cf25ca13715f8da5b9d964e25a102a.res"]
+
+[params]
+

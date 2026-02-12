@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3x63y81j7l8a"
+path="res://.godot/imported/volcano_stone_dark.OZJ-2e248cff2b012fdf46f9b77501782a7b.res"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_stone_dark.OZJ"
+dest_files=["res://.godot/imported/volcano_stone_dark.OZJ-2e248cff2b012fdf46f9b77501782a7b.res"]
+
+[params]
+

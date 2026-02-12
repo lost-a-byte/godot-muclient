@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brs6v6etq4hmu"
+path="res://.godot/imported/sander2_1.OZJ-7f3fc7e04f270bf9dd0e7c57f9d46024.res"
+
+[deps]
+
+source_file="res://Data/Monster/sander2_1.OZJ"
+dest_files=["res://.godot/imported/sander2_1.OZJ-7f3fc7e04f270bf9dd0e7c57f9d46024.res"]
+
+[params]
+

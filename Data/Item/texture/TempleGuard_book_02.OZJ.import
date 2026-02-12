@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nseupfjdw5ha"
+path="res://.godot/imported/TempleGuard_book_02.OZJ-f0c3e69dc090e302d3256fa411c04d12.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_book_02.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_book_02.OZJ-f0c3e69dc090e302d3256fa411c04d12.res"]
+
+[params]
+

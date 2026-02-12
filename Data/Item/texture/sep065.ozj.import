@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxf8ukdbpmglk"
+path="res://.godot/imported/sep065.ozj-2c18fdb7f83a7126f7ae1c4abc1545c4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sep065.ozj"
+dest_files=["res://.godot/imported/sep065.ozj-2c18fdb7f83a7126f7ae1c4abc1545c4.res"]
+
+[params]
+

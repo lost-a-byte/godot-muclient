@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b42qf4gjf6vvk"
+path="res://.godot/imported/indulgence.bmd-cfa6545bffaeb8587ce0c6cd80d6ca4f.scn"
+
+[deps]
+
+source_file="res://Data/Item/indulgence.bmd"
+dest_files=["res://.godot/imported/indulgence.bmd-cfa6545bffaeb8587ce0c6cd80d6ca4f.scn"]
+
+[params]
+
+modelScale=0.01

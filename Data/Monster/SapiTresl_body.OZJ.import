@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chobi67gjknon"
+path="res://.godot/imported/SapiTresl_body.OZJ-84fe788cd15b179c848d8826ecc2cf59.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiTresl_body.OZJ"
+dest_files=["res://.godot/imported/SapiTresl_body.OZJ-84fe788cd15b179c848d8826ecc2cf59.res"]
+
+[params]
+

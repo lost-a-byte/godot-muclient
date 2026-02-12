@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bi2jnrr2xebmu"
+path="res://.godot/imported/hole.OZJ-6a1ad3ce67bff93f290030a279b042ab.res"
+
+[deps]
+
+source_file="res://Data/Skill/hole.OZJ"
+dest_files=["res://.godot/imported/hole.OZJ-6a1ad3ce67bff93f290030a279b042ab.res"]
+
+[params]
+

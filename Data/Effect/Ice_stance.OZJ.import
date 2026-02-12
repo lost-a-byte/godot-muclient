@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doqhc8dsjb8uu"
+path="res://.godot/imported/Ice_stance.OZJ-0f4687248be8f30637f6bdc3be99d05c.res"
+
+[deps]
+
+source_file="res://Data/Effect/Ice_stance.OZJ"
+dest_files=["res://.godot/imported/Ice_stance.OZJ-0f4687248be8f30637f6bdc3be99d05c.res"]
+
+[params]
+

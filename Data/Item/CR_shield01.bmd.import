@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bix60n23kn83g"
+path="res://.godot/imported/CR_shield01.bmd-a6d968205bbfbb9a03f68a7039c9f5ef.scn"
+
+[deps]
+
+source_file="res://Data/Item/CR_shield01.bmd"
+dest_files=["res://.godot/imported/CR_shield01.bmd-a6d968205bbfbb9a03f68a7039c9f5ef.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d4bvrnuo7igbr"
+path="res://.godot/imported/MixMaterial.bmd-36d4c6cbbc68f87536fecfccbadef7d2.scn"
+
+[deps]
+
+source_file="res://Data/Item/MixMaterial.bmd"
+dest_files=["res://.godot/imported/MixMaterial.bmd-36d4c6cbbc68f87536fecfccbadef7d2.scn"]
+
+[params]
+
+modelScale=0.01

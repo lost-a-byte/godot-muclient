@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3yrvspaeuh5p"
+path="res://.godot/imported/kingofhangeulB.OZJ-af7368b02360e95a13a8e1a75319eac1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kingofhangeulB.OZJ"
+dest_files=["res://.godot/imported/kingofhangeulB.OZJ-af7368b02360e95a13a8e1a75319eac1.res"]
+
+[params]
+

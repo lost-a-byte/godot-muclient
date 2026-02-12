@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bontcgaltbxvg"
+path="res://.godot/imported/cobraset_glove_s.ozj-a7b9c3a94cb9a88fcc7b80d61589a416.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cobraset_glove_s.ozj"
+dest_files=["res://.godot/imported/cobraset_glove_s.ozj-a7b9c3a94cb9a88fcc7b80d61589a416.res"]
+
+[params]
+

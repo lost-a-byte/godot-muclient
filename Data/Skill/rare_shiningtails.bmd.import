@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://chv7wnydrm5yo"
+path="res://.godot/imported/rare_shiningtails.bmd-c8a82b19e6b03944d51b5a17090ad977.scn"
+
+[deps]
+
+source_file="res://Data/Skill/rare_shiningtails.bmd"
+dest_files=["res://.godot/imported/rare_shiningtails.bmd-c8a82b19e6b03944d51b5a17090ad977.scn"]
+
+[params]
+
+modelScale=0.01

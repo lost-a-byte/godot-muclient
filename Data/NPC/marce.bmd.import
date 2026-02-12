@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dykx80sfpv88j"
+path="res://.godot/imported/marce.bmd-5162ebd31564a8206eaf99881f05bf86.scn"
+
+[deps]
+
+source_file="res://Data/NPC/marce.bmd"
+dest_files=["res://.godot/imported/marce.bmd-5162ebd31564a8206eaf99881f05bf86.scn"]
+
+[params]
+
+modelScale=0.01

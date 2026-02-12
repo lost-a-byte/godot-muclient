@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0lh6wi46fupd"
+path="res://.godot/imported/sd_ring.OZJ-5cae99c571bf8936cf5c9b590422e32a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_ring.OZJ"
+dest_files=["res://.godot/imported/sd_ring.OZJ-5cae99c571bf8936cf5c9b590422e32a.res"]
+
+[params]
+

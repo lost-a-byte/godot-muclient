@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0ueqlc0pd8j8"
+path="res://.godot/imported/EbeastGreen.OZJ-af26d77472aab6f1f135a47eff75ce29.res"
+
+[deps]
+
+source_file="res://Data/Monster/EbeastGreen.OZJ"
+dest_files=["res://.godot/imported/EbeastGreen.OZJ-af26d77472aab6f1f135a47eff75ce29.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://6r8faviy2m3h"
+path="res://.godot/imported/SoulShortSword.bmd-0d6c407639a1eb879821818ae18e56e5.scn"
+
+[deps]
+
+source_file="res://Data/Item/SoulShortSword.bmd"
+dest_files=["res://.godot/imported/SoulShortSword.bmd-0d6c407639a1eb879821818ae18e56e5.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dslxj0ikrwdgi"
+path="res://.godot/imported/elf_superball.OZJ-f3684b4f82e1f16d0649ae414da0929c.res"
+
+[deps]
+
+source_file="res://Data/Effect/elf_superball.OZJ"
+dest_files=["res://.godot/imported/elf_superball.OZJ-f3684b4f82e1f16d0649ae414da0929c.res"]
+
+[params]
+

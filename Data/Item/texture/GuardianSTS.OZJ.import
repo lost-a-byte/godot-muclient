@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccjead20exmn8"
+path="res://.godot/imported/GuardianSTS.OZJ-0ddde077371748c2e2b613299aa1d0da.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GuardianSTS.OZJ"
+dest_files=["res://.godot/imported/GuardianSTS.OZJ-0ddde077371748c2e2b613299aa1d0da.res"]
+
+[params]
+

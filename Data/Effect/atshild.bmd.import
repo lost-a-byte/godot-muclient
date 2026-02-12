@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bu27nsph7wdq8"
+path="res://.godot/imported/atshild.bmd-e34f74e7a9ef65c1b5766dff55e71b4f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/atshild.bmd"
+dest_files=["res://.godot/imported/atshild.bmd-e34f74e7a9ef65c1b5766dff55e71b4f.scn"]
+
+[params]
+
+modelScale=0.01

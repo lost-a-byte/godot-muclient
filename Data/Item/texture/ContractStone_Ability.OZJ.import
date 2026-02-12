@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://41hu27sm5n3x"
+path="res://.godot/imported/ContractStone_Ability.OZJ-713e10e04814d1a5924affdd101cac84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ContractStone_Ability.OZJ"
+dest_files=["res://.godot/imported/ContractStone_Ability.OZJ-713e10e04814d1a5924affdd101cac84.res"]
+
+[params]
+

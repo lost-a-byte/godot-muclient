@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvxsmjlbhvg3a"
+path="res://.godot/imported/blessingEE.OZJ-1b507fde9dfd8d15e339f025657f2982.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blessingEE.OZJ"
+dest_files=["res://.godot/imported/blessingEE.OZJ-1b507fde9dfd8d15e339f025657f2982.res"]
+
+[params]
+

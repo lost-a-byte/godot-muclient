@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b62l8p2tab5ga"
+path="res://.godot/imported/ignis_tower_A_01.OZJ-330c1d4e7dd235a0802caff09f4d21bd.res"
+
+[deps]
+
+source_file="res://Data/Object139/ignis_tower_A_01.OZJ"
+dest_files=["res://.godot/imported/ignis_tower_A_01.OZJ-330c1d4e7dd235a0802caff09f4d21bd.res"]
+
+[params]
+

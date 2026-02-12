@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://db5uwwirgdusi"
+path="res://.godot/imported/manaring.OZJ-14b6bcf8e1e01f7c4a1891d6abec8cfb.res"
+
+[deps]
+
+source_file="res://Data/Item/manaring.OZJ"
+dest_files=["res://.godot/imported/manaring.OZJ-14b6bcf8e1e01f7c4a1891d6abec8cfb.res"]
+
+[params]
+

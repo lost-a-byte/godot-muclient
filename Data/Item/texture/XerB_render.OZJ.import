@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj4giww53gj6d"
+path="res://.godot/imported/XerB_render.OZJ-b9ea9e3de7a9eb485a126fa1bf7043d6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/XerB_render.OZJ"
+dest_files=["res://.godot/imported/XerB_render.OZJ-b9ea9e3de7a9eb485a126fa1bf7043d6.res"]
+
+[params]
+

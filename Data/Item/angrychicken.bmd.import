@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://beyqsux4t2cho"
+path="res://.godot/imported/angrychicken.bmd-0499282ad80951a0f9e4cb8324e4e7ce.scn"
+
+[deps]
+
+source_file="res://Data/Item/angrychicken.bmd"
+dest_files=["res://.godot/imported/angrychicken.bmd-0499282ad80951a0f9e4cb8324e4e7ce.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b22dbrm4u8poa"
+path="res://.godot/imported/rewardbox02.bmd-dadd6c43ef5014414a500b5419644dc8.scn"
+
+[deps]
+
+source_file="res://Data/Item/rewardbox02.bmd"
+dest_files=["res://.godot/imported/rewardbox02.bmd-dadd6c43ef5014414a500b5419644dc8.scn"]
+
+[params]
+
+modelScale=0.01

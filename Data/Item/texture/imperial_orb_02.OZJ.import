@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ci6fmfcxo2p6t"
+path="res://.godot/imported/imperial_orb_02.OZJ-6272398ceb7aca38b55ca1ede2f8a5bb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/imperial_orb_02.OZJ"
+dest_files=["res://.godot/imported/imperial_orb_02.OZJ-6272398ceb7aca38b55ca1ede2f8a5bb.res"]
+
+[params]
+

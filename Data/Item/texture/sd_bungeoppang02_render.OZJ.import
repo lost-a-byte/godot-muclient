@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbdmis1qtlxkf"
+path="res://.godot/imported/sd_bungeoppang02_render.OZJ-566cf56746674425deeb3acc6e16bda5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_bungeoppang02_render.OZJ"
+dest_files=["res://.godot/imported/sd_bungeoppang02_render.OZJ-566cf56746674425deeb3acc6e16bda5.res"]
+
+[params]
+

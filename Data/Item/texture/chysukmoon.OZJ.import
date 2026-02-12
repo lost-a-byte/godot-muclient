@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sppvrm33rvav"
+path="res://.godot/imported/chysukmoon.OZJ-39adcbedfb3d7bb95d2ed6565d931db5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chysukmoon.OZJ"
+dest_files=["res://.godot/imported/chysukmoon.OZJ-39adcbedfb3d7bb95d2ed6565d931db5.res"]
+
+[params]
+

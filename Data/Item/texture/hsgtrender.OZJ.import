@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b83bw15rygqss"
+path="res://.godot/imported/hsgtrender.OZJ-bd656564dbef13b3fd0b244528f9f51f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hsgtrender.OZJ"
+dest_files=["res://.godot/imported/hsgtrender.OZJ-bd656564dbef13b3fd0b244528f9f51f.res"]
+
+[params]
+

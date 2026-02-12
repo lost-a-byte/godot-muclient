@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx0ty2d02oir1"
+path="res://.godot/imported/Absoluteclaw_render.OZJ-1a0b37957c3fb5053f85a171977595f5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Absoluteclaw_render.OZJ"
+dest_files=["res://.godot/imported/Absoluteclaw_render.OZJ-1a0b37957c3fb5053f85a171977595f5.res"]
+
+[params]
+

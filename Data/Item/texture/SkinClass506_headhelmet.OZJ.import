@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buoyl7dkl1384"
+path="res://.godot/imported/SkinClass506_headhelmet.OZJ-de79d69303638e1cf687e61083b87ba5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SkinClass506_headhelmet.OZJ"
+dest_files=["res://.godot/imported/SkinClass506_headhelmet.OZJ-de79d69303638e1cf687e61083b87ba5.res"]
+
+[params]
+

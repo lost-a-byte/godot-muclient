@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://capw8cook2o2y"
+path="res://.godot/imported/flower4.OZJ-b928be80bea795dedf1d34fb3fcf1b62.res"
+
+[deps]
+
+source_file="res://Data/Object4/flower4.OZJ"
+dest_files=["res://.godot/imported/flower4.OZJ-b928be80bea795dedf1d34fb3fcf1b62.res"]
+
+[params]
+

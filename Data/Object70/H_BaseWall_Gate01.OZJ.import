@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bng1kgh7i4rpe"
+path="res://.godot/imported/H_BaseWall_Gate01.OZJ-a6ec2de51a70e4df5e88375eeb68ccce.res"
+
+[deps]
+
+source_file="res://Data/Object70/H_BaseWall_Gate01.OZJ"
+dest_files=["res://.godot/imported/H_BaseWall_Gate01.OZJ-a6ec2de51a70e4df5e88375eeb68ccce.res"]
+
+[params]
+

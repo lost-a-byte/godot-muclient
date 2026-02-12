@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ehmrxf3e3bgg"
+path="res://.godot/imported/wing_exticket_alp.OZJ-aa9ddf675d4d58522f8ea64cfabe4efd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wing_exticket_alp.OZJ"
+dest_files=["res://.godot/imported/wing_exticket_alp.OZJ-aa9ddf675d4d58522f8ea64cfabe4efd.res"]
+
+[params]
+

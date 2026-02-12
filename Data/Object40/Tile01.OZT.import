@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://be2tawlh8th0j"
+path="res://.godot/imported/Tile01.OZT-d7690d0d6ff798380471483a4a8de32e.res"
+
+[deps]
+
+source_file="res://Data/Object40/Tile01.OZT"
+dest_files=["res://.godot/imported/Tile01.OZT-d7690d0d6ff798380471483a4a8de32e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1op405kd8jlr"
+path="res://.godot/imported/medusa01_wand.OZJ-7a2999fea51c4b6408be67c8250bb289.res"
+
+[deps]
+
+source_file="res://Data/Monster/medusa01_wand.OZJ"
+dest_files=["res://.godot/imported/medusa01_wand.OZJ-7a2999fea51c4b6408be67c8250bb289.res"]
+
+[params]
+

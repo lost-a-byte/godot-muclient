@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp0mxxkx875bp"
+path="res://.godot/imported/MacroUI_Gauge_Bar_(B).OZJ-c2981c1a6a87d48bfc157ea5f17953a0.res"
+
+[deps]
+
+source_file="res://Data/Interface/MacroUI/MacroUI_Gauge_Bar_(B).OZJ"
+dest_files=["res://.godot/imported/MacroUI_Gauge_Bar_(B).OZJ-c2981c1a6a87d48bfc157ea5f17953a0.res"]
+
+[params]
+

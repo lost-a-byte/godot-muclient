@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvkqohqu2qgo8"
+path="res://.godot/imported/hs_fiercelion01B_render.OZJ-30c82e880fb95fd951b5bbc731a7ac8d.res"
+
+[deps]
+
+source_file="res://Data/Skill/hs_fiercelion01B_render.OZJ"
+dest_files=["res://.godot/imported/hs_fiercelion01B_render.OZJ-30c82e880fb95fd951b5bbc731a7ac8d.res"]
+
+[params]
+

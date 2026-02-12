@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://pv5nxgflcxov"
+path="res://.godot/imported/godesteel.bmd-848fd43776d8a26c7aa278d13b775a09.scn"
+
+[deps]
+
+source_file="res://Data/Item/godesteel.bmd"
+dest_files=["res://.godot/imported/godesteel.bmd-848fd43776d8a26c7aa278d13b775a09.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjsn4uo8x3etw"
+path="res://.godot/imported/Mermaid_Red.OZJ-5527fab8576fa5f14dffaee6a0411a9e.res"
+
+[deps]
+
+source_file="res://Data/Monster/Mermaid_Red.OZJ"
+dest_files=["res://.godot/imported/Mermaid_Red.OZJ-5527fab8576fa5f14dffaee6a0411a9e.res"]
+
+[params]
+

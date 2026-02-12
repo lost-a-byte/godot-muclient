@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6y74mcrjib04"
+path="res://.godot/imported/FereaKingWeapon.OZJ-1308a307b7340691c8c317dd1e02aded.res"
+
+[deps]
+
+source_file="res://Data/Monster/FereaKingWeapon.OZJ"
+dest_files=["res://.godot/imported/FereaKingWeapon.OZJ-1308a307b7340691c8c317dd1e02aded.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c035uqo6ysfr5"
+path="res://.godot/imported/losttower.OZT-5bc4980cd9ddc6de19faa6f5d03bc121.res"
+
+[deps]
+
+source_file="res://Data/Interface/losttower.OZT"
+dest_files=["res://.godot/imported/losttower.OZT-5bc4980cd9ddc6de19faa6f5d03bc121.res"]
+
+[params]
+

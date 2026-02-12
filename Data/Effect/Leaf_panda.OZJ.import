@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qo6twj4sf2vw"
+path="res://.godot/imported/Leaf_panda.OZJ-dd3e2aa7ab4924a21a83c085737e47d1.res"
+
+[deps]
+
+source_file="res://Data/Effect/Leaf_panda.OZJ"
+dest_files=["res://.godot/imported/Leaf_panda.OZJ-dd3e2aa7ab4924a21a83c085737e47d1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjh2c45kcn8om"
+path="res://.godot/imported/absolute_staff.OZJ-415e44fd9a499ff0a4ffe8f7d3b97d99.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/absolute_staff.OZJ"
+dest_files=["res://.godot/imported/absolute_staff.OZJ-415e44fd9a499ff0a4ffe8f7d3b97d99.res"]
+
+[params]
+

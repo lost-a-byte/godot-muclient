@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd20pbik82xmw"
+path="res://.godot/imported/cd_effect04_a.OZJ-fe37878e50119e6989fe8e842ba09700.res"
+
+[deps]
+
+source_file="res://Data/Effect/cd_effect04_a.OZJ"
+dest_files=["res://.godot/imported/cd_effect04_a.OZJ-fe37878e50119e6989fe8e842ba09700.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmk0kdut6rr23"
+path="res://.godot/imported/newui_durable_shield.OZT-05a9e5558984ca31f12b6d61728664b1.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_shield.OZT"
+dest_files=["res://.godot/imported/newui_durable_shield.OZT-05a9e5558984ca31f12b6d61728664b1.res"]
+
+[params]
+

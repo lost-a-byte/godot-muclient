@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://44y063srxx00"
+path="res://.godot/imported/nelleff_nife03.bmd-26ac3efbc3e57419554dec64854b68e5.scn"
+
+[deps]
+
+source_file="res://Data/Skill/nelleff_nife03.bmd"
+dest_files=["res://.godot/imported/nelleff_nife03.bmd-26ac3efbc3e57419554dec64854b68e5.scn"]
+
+[params]
+
+modelScale=0.01

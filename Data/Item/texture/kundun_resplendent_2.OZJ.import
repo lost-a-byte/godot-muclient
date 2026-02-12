@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgld3n5sssfv6"
+path="res://.godot/imported/kundun_resplendent_2.OZJ-12dd2c505fca3b38554607412b429dab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kundun_resplendent_2.OZJ"
+dest_files=["res://.godot/imported/kundun_resplendent_2.OZJ-12dd2c505fca3b38554607412b429dab.res"]
+
+[params]
+

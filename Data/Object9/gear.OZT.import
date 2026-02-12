@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxgt5yervjejs"
+path="res://.godot/imported/gear.OZT-83a39d73b8793464dd913576b274e483.res"
+
+[deps]
+
+source_file="res://Data/Object9/gear.OZT"
+dest_files=["res://.godot/imported/gear.OZT-83a39d73b8793464dd913576b274e483.res"]
+
+[params]
+

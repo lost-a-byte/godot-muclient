@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://54c4n6nxh6nr"
+path="res://.godot/imported/hs_poodleB_render.OZJ-1507a29a7bb281f21df786577e1fa0aa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_poodleB_render.OZJ"
+dest_files=["res://.godot/imported/hs_poodleB_render.OZJ-1507a29a7bb281f21df786577e1fa0aa.res"]
+
+[params]
+

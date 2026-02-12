@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dki1bhh3r80e7"
+path="res://.godot/imported/pizza.OZJ-ca7d0a28c09b385317dc0fa072cc6d5d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pizza.OZJ"
+dest_files=["res://.godot/imported/pizza.OZJ-ca7d0a28c09b385317dc0fa072cc6d5d.res"]
+
+[params]
+

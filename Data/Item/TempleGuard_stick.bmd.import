@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://str6mhrtxqfj"
+path="res://.godot/imported/TempleGuard_stick.bmd-b979d0d9b9de4ca5e39065d19460a647.scn"
+
+[deps]
+
+source_file="res://Data/Item/TempleGuard_stick.bmd"
+dest_files=["res://.godot/imported/TempleGuard_stick.bmd-b979d0d9b9de4ca5e39065d19460a647.scn"]
+
+[params]
+
+modelScale=0.01

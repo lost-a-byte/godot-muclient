@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bw3hv1vmmbi7d"
+path="res://.godot/imported/ArmorMale128_benzia.bmd-a62206deba9fc837bed89a50660d8135.scn"
+
+[deps]
+
+source_file="res://Data/Item/ArmorMale128_benzia.bmd"
+dest_files=["res://.godot/imported/ArmorMale128_benzia.bmd-a62206deba9fc837bed89a50660d8135.scn"]
+
+[params]
+
+modelScale=0.01

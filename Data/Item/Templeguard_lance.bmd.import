@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c8uaska6jucos"
+path="res://.godot/imported/Templeguard_lance.bmd-f5518cb93a6fa2e57e0c3ba5afd5d9e3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Templeguard_lance.bmd"
+dest_files=["res://.godot/imported/Templeguard_lance.bmd-f5518cb93a6fa2e57e0c3ba5afd5d9e3.scn"]
+
+[params]
+
+modelScale=0.01

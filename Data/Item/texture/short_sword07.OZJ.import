@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwnm8cqrdb2o3"
+path="res://.godot/imported/short_sword07.OZJ-abe538ab9e880206a55d662a42bb7282.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/short_sword07.OZJ"
+dest_files=["res://.godot/imported/short_sword07.OZJ-abe538ab9e880206a55d662a42bb7282.res"]
+
+[params]
+

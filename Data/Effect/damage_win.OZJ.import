@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://deu1yo3760tvu"
+path="res://.godot/imported/damage_win.OZJ-7d7ee71a7064e0e74cca9383da95aa74.res"
+
+[deps]
+
+source_file="res://Data/Effect/damage_win.OZJ"
+dest_files=["res://.godot/imported/damage_win.OZJ-7d7ee71a7064e0e74cca9383da95aa74.res"]
+
+[params]
+

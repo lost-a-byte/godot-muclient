@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkmj3j2tiaose"
+path="res://.godot/imported/demon_body.OZJ-5a220f018f21b2348710a2ba78e61a0c.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge4/demon_body.OZJ"
+dest_files=["res://.godot/imported/demon_body.OZJ-5a220f018f21b2348710a2ba78e61a0c.res"]
+
+[params]
+

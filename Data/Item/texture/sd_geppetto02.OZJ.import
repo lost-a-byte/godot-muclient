@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ycvou2mle2ax"
+path="res://.godot/imported/sd_geppetto02.OZJ-8ab471470079d0515e9c0bd193dac25f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_geppetto02.OZJ"
+dest_files=["res://.godot/imported/sd_geppetto02.OZJ-8ab471470079d0515e9c0bd193dac25f.res"]
+
+[params]
+

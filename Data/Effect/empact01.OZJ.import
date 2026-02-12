@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfbcdxsul4b4l"
+path="res://.godot/imported/empact01.OZJ-52bd3c7e6793e9fbaa156bd5d0fffdc1.res"
+
+[deps]
+
+source_file="res://Data/Effect/empact01.OZJ"
+dest_files=["res://.godot/imported/empact01.OZJ-52bd3c7e6793e9fbaa156bd5d0fffdc1.res"]
+
+[params]
+

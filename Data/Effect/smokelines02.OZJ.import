@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doe7a108kprcl"
+path="res://.godot/imported/smokelines02.OZJ-719fa24a2d33ce24660f31fda1cbd02e.res"
+
+[deps]
+
+source_file="res://Data/Effect/smokelines02.OZJ"
+dest_files=["res://.godot/imported/smokelines02.OZJ-719fa24a2d33ce24660f31fda1cbd02e.res"]
+
+[params]
+

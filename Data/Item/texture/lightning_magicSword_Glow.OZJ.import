@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://map2k6nkogel"
+path="res://.godot/imported/lightning_magicSword_Glow.OZJ-c9af7f9d5d3c4f42c44769aeb4daf8d8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_magicSword_Glow.OZJ"
+dest_files=["res://.godot/imported/lightning_magicSword_Glow.OZJ-c9af7f9d5d3c4f42c44769aeb4daf8d8.res"]
+
+[params]
+

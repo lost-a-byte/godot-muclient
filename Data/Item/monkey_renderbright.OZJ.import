@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf11ngwlfd6mv"
+path="res://.godot/imported/monkey_renderbright.OZJ-55933bc070e62e80a97cb99c5b1d87d3.res"
+
+[deps]
+
+source_file="res://Data/Item/monkey_renderbright.OZJ"
+dest_files=["res://.godot/imported/monkey_renderbright.OZJ-55933bc070e62e80a97cb99c5b1d87d3.res"]
+
+[params]
+

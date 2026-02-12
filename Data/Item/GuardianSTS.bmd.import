@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://q4ycdpfmgiib"
+path="res://.godot/imported/GuardianSTS.bmd-d39304fbfb061c1e0df0dabea7e9e046.scn"
+
+[deps]
+
+source_file="res://Data/Item/GuardianSTS.bmd"
+dest_files=["res://.godot/imported/GuardianSTS.bmd-d39304fbfb061c1e0df0dabea7e9e046.scn"]
+
+[params]
+
+modelScale=0.01

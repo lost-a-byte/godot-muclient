@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cermrbvnabnj4"
+path="res://.godot/imported/EnightBlack.OZJ-1873313dd3bbbb69c6c7ed4bc28c447c.res"
+
+[deps]
+
+source_file="res://Data/Monster/EnightBlack.OZJ"
+dest_files=["res://.godot/imported/EnightBlack.OZJ-1873313dd3bbbb69c6c7ed4bc28c447c.res"]
+
+[params]
+

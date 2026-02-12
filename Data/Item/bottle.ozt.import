@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crqjlbb05neho"
+path="res://.godot/imported/bottle.ozt-11eba180ac7c00cb4af107ee6f33fc33.res"
+
+[deps]
+
+source_file="res://Data/Item/bottle.ozt"
+dest_files=["res://.godot/imported/bottle.ozt-11eba180ac7c00cb4af107ee6f33fc33.res"]
+
+[params]
+

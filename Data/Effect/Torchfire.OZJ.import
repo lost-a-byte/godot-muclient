@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjy4aen0raoql"
+path="res://.godot/imported/Torchfire.OZJ-2c37ad2e50af463d418eda465949691e.res"
+
+[deps]
+
+source_file="res://Data/Effect/Torchfire.OZJ"
+dest_files=["res://.godot/imported/Torchfire.OZJ-2c37ad2e50af463d418eda465949691e.res"]
+
+[params]
+

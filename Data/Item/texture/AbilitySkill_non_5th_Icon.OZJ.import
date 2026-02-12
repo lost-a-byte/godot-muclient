@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7qmp8ahjt7wn"
+path="res://.godot/imported/AbilitySkill_non_5th_Icon.OZJ-551e0e93e2265a80e8378260a96e7ead.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AbilitySkill_non_5th_Icon.OZJ"
+dest_files=["res://.godot/imported/AbilitySkill_non_5th_Icon.OZJ-551e0e93e2265a80e8378260a96e7ead.res"]
+
+[params]
+

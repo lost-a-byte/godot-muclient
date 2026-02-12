@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c1stcbejwbr3q"
+path="res://.godot/imported/MagicMarble11.bmd-02f8f6d20e25850602472f70b831f389.scn"
+
+[deps]
+
+source_file="res://Data/Item/MagicMarble11.bmd"
+dest_files=["res://.godot/imported/MagicMarble11.bmd-02f8f6d20e25850602472f70b831f389.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7bchjvm8unll"
+path="res://.godot/imported/gatewall02.OZJ-ff5b1fe6b1f3315db43691216dfc9e1d.res"
+
+[deps]
+
+source_file="res://Data/Object72/gatewall02.OZJ"
+dest_files=["res://.godot/imported/gatewall02.OZJ-ff5b1fe6b1f3315db43691216dfc9e1d.res"]
+
+[params]
+

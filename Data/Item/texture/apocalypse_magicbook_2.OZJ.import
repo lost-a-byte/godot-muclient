@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://eux8ak3oc4bm"
+path="res://.godot/imported/apocalypse_magicbook_2.OZJ-3ae5326b23edb242dc078d227570bdf4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_magicbook_2.OZJ"
+dest_files=["res://.godot/imported/apocalypse_magicbook_2.OZJ-3ae5326b23edb242dc078d227570bdf4.res"]
+
+[params]
+

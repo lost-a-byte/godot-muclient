@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://fposfjb3ueai"
+path="res://.godot/imported/tobypet.bmd-109469451155a0e65794303ff41944a4.scn"
+
+[deps]
+
+source_file="res://Data/Item/tobypet.bmd"
+dest_files=["res://.godot/imported/tobypet.bmd-109469451155a0e65794303ff41944a4.scn"]
+
+[params]
+
+modelScale=0.01

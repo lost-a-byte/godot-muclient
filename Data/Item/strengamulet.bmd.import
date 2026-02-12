@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://eahy5e4gudig"
+path="res://.godot/imported/strengamulet.bmd-d3bba1b51596be6ccac01d5a3db71115.scn"
+
+[deps]
+
+source_file="res://Data/Item/strengamulet.bmd"
+dest_files=["res://.godot/imported/strengamulet.bmd-d3bba1b51596be6ccac01d5a3db71115.scn"]
+
+[params]
+
+modelScale=0.01

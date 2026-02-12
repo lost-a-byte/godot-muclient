@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://beo6cvetd6cgd"
+path="res://.godot/imported/tsingtao.bmd-922fbd97848ea080da4ccfab134930d0.scn"
+
+[deps]
+
+source_file="res://Data/Item/tsingtao.bmd"
+dest_files=["res://.godot/imported/tsingtao.bmd-922fbd97848ea080da4ccfab134930d0.scn"]
+
+[params]
+
+modelScale=0.01

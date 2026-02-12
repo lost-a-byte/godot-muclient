@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bf6fdcbx0f2q"
+path="res://.godot/imported/toyrobotUp.bmd-c693b14d8f8500675be338fb74c77729.scn"
+
+[deps]
+
+source_file="res://Data/Item/toyrobotUp.bmd"
+dest_files=["res://.godot/imported/toyrobotUp.bmd-c693b14d8f8500675be338fb74c77729.scn"]
+
+[params]
+
+modelScale=0.01

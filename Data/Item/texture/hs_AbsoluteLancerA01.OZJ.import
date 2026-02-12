@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg0cjpcx348st"
+path="res://.godot/imported/hs_AbsoluteLancerA01.OZJ-7d6682e45186f6116cf1bd3d7eb5e0a0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_AbsoluteLancerA01.OZJ"
+dest_files=["res://.godot/imported/hs_AbsoluteLancerA01.OZJ-7d6682e45186f6116cf1bd3d7eb5e0a0.res"]
+
+[params]
+

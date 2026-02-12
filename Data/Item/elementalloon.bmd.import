@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cgpa7kww16qmk"
+path="res://.godot/imported/elementalloon.bmd-88774294b17ae83a1c61941dbe08152e.scn"
+
+[deps]
+
+source_file="res://Data/Item/elementalloon.bmd"
+dest_files=["res://.godot/imported/elementalloon.bmd-88774294b17ae83a1c61941dbe08152e.scn"]
+
+[params]
+
+modelScale=0.01

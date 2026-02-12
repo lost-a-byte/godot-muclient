@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df4xu0os2svvf"
+path="res://.godot/imported/Boss_Karane_r.OZJ-63e4190fcbcd395979b8eda9d10f09ad.res"
+
+[deps]
+
+source_file="res://Data/Object74/Boss_Karane_r.OZJ"
+dest_files=["res://.godot/imported/Boss_Karane_r.OZJ-63e4190fcbcd395979b8eda9d10f09ad.res"]
+
+[params]
+

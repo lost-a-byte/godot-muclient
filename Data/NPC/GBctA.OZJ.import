@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dumy2y015iog6"
+path="res://.godot/imported/GBctA.OZJ-9cd4a49f2f4cd1226306270d9c017398.res"
+
+[deps]
+
+source_file="res://Data/NPC/GBctA.OZJ"
+dest_files=["res://.godot/imported/GBctA.OZJ-9cd4a49f2f4cd1226306270d9c017398.res"]
+
+[params]
+

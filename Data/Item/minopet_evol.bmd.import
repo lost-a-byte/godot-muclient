@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://utfepviqd5i2"
+path="res://.godot/imported/minopet_evol.bmd-90b1e2c02f18f8793f71c2e3947e1a89.scn"
+
+[deps]
+
+source_file="res://Data/Item/minopet_evol.bmd"
+dest_files=["res://.godot/imported/minopet_evol.bmd-90b1e2c02f18f8793f71c2e3947e1a89.scn"]
+
+[params]
+
+modelScale=0.01

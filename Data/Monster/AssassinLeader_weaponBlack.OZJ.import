@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg2cpnibtbvnv"
+path="res://.godot/imported/AssassinLeader_weaponBlack.OZJ-fefd5b358ba6e17a22a5561c840bddd5.res"
+
+[deps]
+
+source_file="res://Data/Monster/AssassinLeader_weaponBlack.OZJ"
+dest_files=["res://.godot/imported/AssassinLeader_weaponBlack.OZJ-fefd5b358ba6e17a22a5561c840bddd5.res"]
+
+[params]
+

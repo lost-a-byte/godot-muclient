@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://k6kwb6sdhgyo"
+path="res://.godot/imported/boss_wing_render_red.OZJ-15532c015997a8d5551398f990c0844e.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_wing_render_red.OZJ"
+dest_files=["res://.godot/imported/boss_wing_render_red.OZJ-15532c015997a8d5551398f990c0844e.res"]
+
+[params]
+

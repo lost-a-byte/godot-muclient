@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctxju276rieo0"
+path="res://.godot/imported/hoblinset_lower.OZJ-12c0cfa744316e573a5604a135585d3c.res"
+
+[deps]
+
+source_file="res://Data/Player/hoblinset_lower.OZJ"
+dest_files=["res://.godot/imported/hoblinset_lower.OZJ-12c0cfa744316e573a5604a135585d3c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcw317ybi5nma"
+path="res://.godot/imported/devilcarmor.OZJ-b44b9e0cf7ef615e34ab8cda71987432.res"
+
+[deps]
+
+source_file="res://Data/Item/devilcarmor.OZJ"
+dest_files=["res://.godot/imported/devilcarmor.OZJ-b44b9e0cf7ef615e34ab8cda71987432.res"]
+
+[params]
+

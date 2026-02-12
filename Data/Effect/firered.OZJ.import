@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d056uiq8rjehj"
+path="res://.godot/imported/firered.OZJ-81d90a04b1f62c3bce4dd5e86f1683b4.res"
+
+[deps]
+
+source_file="res://Data/Effect/firered.OZJ"
+dest_files=["res://.godot/imported/firered.OZJ-81d90a04b1f62c3bce4dd5e86f1683b4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfgbtr2cj2x5t"
+path="res://.godot/imported/Ice_gruond.OZJ-71e2b3c3f9ca492424e057fa1fc6773b.res"
+
+[deps]
+
+source_file="res://Data/Effect/Ice_gruond.OZJ"
+dest_files=["res://.godot/imported/Ice_gruond.OZJ-71e2b3c3f9ca492424e057fa1fc6773b.res"]
+
+[params]
+

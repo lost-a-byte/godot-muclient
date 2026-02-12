@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyuoerl60nb4b"
+path="res://.godot/imported/hs_WizardA02.OZJ-901c66dab7d32b4cbb2201fc23d8007d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_WizardA02.OZJ"
+dest_files=["res://.godot/imported/hs_WizardA02.OZJ-901c66dab7d32b4cbb2201fc23d8007d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7pbv77q3gdl8"
+path="res://.godot/imported/ArmorStand_01.OZJ-5097171d353fd6891a6d678f495ec5b0.res"
+
+[deps]
+
+source_file="res://Data/Object146/ArmorStand_01.OZJ"
+dest_files=["res://.godot/imported/ArmorStand_01.OZJ-5097171d353fd6891a6d678f495ec5b0.res"]
+
+[params]
+

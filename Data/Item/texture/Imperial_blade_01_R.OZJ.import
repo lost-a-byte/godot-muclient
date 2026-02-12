@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crvrpey575wjm"
+path="res://.godot/imported/Imperial_blade_01_R.OZJ-1832228929109088dd1112409ee91805.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_blade_01_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_blade_01_R.OZJ-1832228929109088dd1112409ee91805.res"]
+
+[params]
+

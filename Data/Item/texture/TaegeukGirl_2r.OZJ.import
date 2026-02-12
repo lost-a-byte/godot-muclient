@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cl7bdcrd3gx3v"
+path="res://.godot/imported/TaegeukGirl_2r.OZJ-1a7f2fbc4ee20b97187a32f63fe4c7da.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TaegeukGirl_2r.OZJ"
+dest_files=["res://.godot/imported/TaegeukGirl_2r.OZJ-1a7f2fbc4ee20b97187a32f63fe4c7da.res"]
+
+[params]
+

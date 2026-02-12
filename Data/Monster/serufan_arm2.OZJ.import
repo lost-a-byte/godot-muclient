@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kko6kgdwioo5"
+path="res://.godot/imported/serufan_arm2.OZJ-83f3829d4fa89741dbf6fef17be33758.res"
+
+[deps]
+
+source_file="res://Data/Monster/serufan_arm2.OZJ"
+dest_files=["res://.godot/imported/serufan_arm2.OZJ-83f3829d4fa89741dbf6fef17be33758.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cl8rejeb4ryn5"
+path="res://.godot/imported/alpha_line03.OZT-f8b676d970cd171e5452139e1b12ed24.res"
+
+[deps]
+
+source_file="res://Data/Effect/alpha_line03.OZT"
+dest_files=["res://.godot/imported/alpha_line03.OZT-f8b676d970cd171e5452139e1b12ed24.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddufvrjpir3k3"
+path="res://.godot/imported/knightunion_cloth.OZT-7ebeceaaa9b19a9b41fbb7b664607ad5.res"
+
+[deps]
+
+source_file="res://Data/Monster/knightunion_cloth.OZT"
+dest_files=["res://.godot/imported/knightunion_cloth.OZT-7ebeceaaa9b19a9b41fbb7b664607ad5.res"]
+
+[params]
+

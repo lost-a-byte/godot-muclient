@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdujmxhm1jul8"
+path="res://.godot/imported/ground.OZJ-03ba7bac1459c3077e8a717e6d740bda.res"
+
+[deps]
+
+source_file="res://Data/Skill/ground.OZJ"
+dest_files=["res://.godot/imported/ground.OZJ-03ba7bac1459c3077e8a717e6d740bda.res"]
+
+[params]
+

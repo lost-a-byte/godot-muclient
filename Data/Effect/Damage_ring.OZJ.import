@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dushepj8dfy6c"
+path="res://.godot/imported/Damage_ring.OZJ-4b3d2a94855cb2a35562384aa767d856.res"
+
+[deps]
+
+source_file="res://Data/Effect/Damage_ring.OZJ"
+dest_files=["res://.godot/imported/Damage_ring.OZJ-4b3d2a94855cb2a35562384aa767d856.res"]
+
+[params]
+

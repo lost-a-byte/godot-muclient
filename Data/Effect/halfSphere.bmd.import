@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7u05x5umqhv"
+path="res://.godot/imported/halfSphere.bmd-666bd6af45cfc14309e1c190628b0339.scn"
+
+[deps]
+
+source_file="res://Data/Effect/halfSphere.bmd"
+dest_files=["res://.godot/imported/halfSphere.bmd-666bd6af45cfc14309e1c190628b0339.scn"]
+
+[params]
+
+modelScale=0.01

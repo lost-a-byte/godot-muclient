@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7tl7fcfmw8c3"
+path="res://.godot/imported/M8staffA_overlay.OZJ-e153112a516e706bb9325eb9283a52af.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/M8staffA_overlay.OZJ"
+dest_files=["res://.godot/imported/M8staffA_overlay.OZJ-e153112a516e706bb9325eb9283a52af.res"]
+
+[params]
+

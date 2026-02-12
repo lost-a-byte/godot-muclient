@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5en4igiv155"
+path="res://.godot/imported/ingame_Bt100.OZT-77a090be477c35ee1f54e8a10fb2b390.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Bt100.OZT"
+dest_files=["res://.godot/imported/ingame_Bt100.OZT-77a090be477c35ee1f54e8a10fb2b390.res"]
+
+[params]
+

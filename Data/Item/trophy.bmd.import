@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dy2uxi41u58q1"
+path="res://.godot/imported/trophy.bmd-762b6513de602e5d4efce75d82efe9cc.scn"
+
+[deps]
+
+source_file="res://Data/Item/trophy.bmd"
+dest_files=["res://.godot/imported/trophy.bmd-762b6513de602e5d4efce75d82efe9cc.scn"]
+
+[params]
+
+modelScale=0.01

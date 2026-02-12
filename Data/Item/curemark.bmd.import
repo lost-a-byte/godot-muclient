@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dpgglctg8emck"
+path="res://.godot/imported/curemark.bmd-bd28a2dfe54f292d33d2cd24c4d10482.scn"
+
+[deps]
+
+source_file="res://Data/Item/curemark.bmd"
+dest_files=["res://.godot/imported/curemark.bmd-bd28a2dfe54f292d33d2cd24c4d10482.scn"]
+
+[params]
+
+modelScale=0.01

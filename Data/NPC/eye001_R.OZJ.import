@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3y35mirenenk"
+path="res://.godot/imported/eye001_R.OZJ-3f8fe01fc3a09ea0474167230a7107a7.res"
+
+[deps]
+
+source_file="res://Data/NPC/eye001_R.OZJ"
+dest_files=["res://.godot/imported/eye001_R.OZJ-3f8fe01fc3a09ea0474167230a7107a7.res"]
+
+[params]
+

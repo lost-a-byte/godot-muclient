@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnglkfqjn7h81"
+path="res://.godot/imported/Chrome02.OZT-3bf7773d57ad9b8f7853bba9b43eab67.res"
+
+[deps]
+
+source_file="res://Data/Effect/Chrome02.OZT"
+dest_files=["res://.godot/imported/Chrome02.OZT-3bf7773d57ad9b8f7853bba9b43eab67.res"]
+
+[params]
+

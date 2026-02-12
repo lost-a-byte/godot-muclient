@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5mb2hltonwb3"
+path="res://.godot/imported/eunice_cape_R.OZT-472402040e7c251ae6e1a52e0393207e.res"
+
+[deps]
+
+source_file="res://Data/Monster/eunice_cape_R.OZT"
+dest_files=["res://.godot/imported/eunice_cape_R.OZT-472402040e7c251ae6e1a52e0393207e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7a88y34ooyvn"
+path="res://.godot/imported/boss_body_yellow.OZJ-ef19dc8ae0df2855d7be734e916a738b.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_body_yellow.OZJ"
+dest_files=["res://.godot/imported/boss_body_yellow.OZJ-ef19dc8ae0df2855d7be734e916a738b.res"]
+
+[params]
+

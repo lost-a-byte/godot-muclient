@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvx6cbr4sk5p4"
+path="res://.godot/imported/FontInput.OZT-8a44d39de95905101a38b58587908f47.res"
+
+[deps]
+
+source_file="res://Data/Interface/FontInput.OZT"
+dest_files=["res://.godot/imported/FontInput.OZT-8a44d39de95905101a38b58587908f47.res"]
+
+[params]
+

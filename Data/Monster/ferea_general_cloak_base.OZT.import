@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gqsbdhvje0se"
+path="res://.godot/imported/ferea_general_cloak_base.OZT-cf4e2d080bccfb9f316456968667f337.res"
+
+[deps]
+
+source_file="res://Data/Monster/ferea_general_cloak_base.OZT"
+dest_files=["res://.godot/imported/ferea_general_cloak_base.OZT-cf4e2d080bccfb9f316456968667f337.res"]
+
+[params]
+

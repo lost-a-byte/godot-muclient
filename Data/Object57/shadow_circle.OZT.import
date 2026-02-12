@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doavoiodbywap"
+path="res://.godot/imported/shadow_circle.OZT-f5ab5491014dcea926bf6e41425aa03f.res"
+
+[deps]
+
+source_file="res://Data/Object57/shadow_circle.OZT"
+dest_files=["res://.godot/imported/shadow_circle.OZT-f5ab5491014dcea926bf6e41425aa03f.res"]
+
+[params]
+

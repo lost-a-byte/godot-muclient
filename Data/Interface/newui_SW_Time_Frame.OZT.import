@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bv004kcf2f4k7"
+path="res://.godot/imported/newui_SW_Time_Frame.OZT-9929315a89ddd7069778a2c529f6a5b4.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_SW_Time_Frame.OZT"
+dest_files=["res://.godot/imported/newui_SW_Time_Frame.OZT-9929315a89ddd7069778a2c529f6a5b4.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xysi2osqsgaq"
+path="res://.godot/imported/DevilNpc01.bmd-0da586524eb15a5be187bc0f8889cf60.scn"
+
+[deps]
+
+source_file="res://Data/NPC/DevilNpc01.bmd"
+dest_files=["res://.godot/imported/DevilNpc01.bmd-0da586524eb15a5be187bc0f8889cf60.scn"]
+
+[params]
+
+modelScale=0.01

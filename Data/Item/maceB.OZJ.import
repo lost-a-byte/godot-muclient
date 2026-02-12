@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjonqinocwwff"
+path="res://.godot/imported/maceB.OZJ-c852afdb60043338ec32d66d781252cd.res"
+
+[deps]
+
+source_file="res://Data/Item/maceB.OZJ"
+dest_files=["res://.godot/imported/maceB.OZJ-c852afdb60043338ec32d66d781252cd.res"]
+
+[params]
+

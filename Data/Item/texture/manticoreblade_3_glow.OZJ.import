@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq5846oswyerm"
+path="res://.godot/imported/manticoreblade_3_glow.OZJ-09a1ccbc01819cba8545323082e883ad.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/manticoreblade_3_glow.OZJ"
+dest_files=["res://.godot/imported/manticoreblade_3_glow.OZJ-09a1ccbc01819cba8545323082e883ad.res"]
+
+[params]
+

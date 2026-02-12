@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://degmrtwerwnxh"
+path="res://.godot/imported/NarsFairyAlpha_yellow.OZT-7c9c3bac987376d00fd49c1ae31ce356.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsFairyAlpha_yellow.OZT"
+dest_files=["res://.godot/imported/NarsFairyAlpha_yellow.OZT-7c9c3bac987376d00fd49c1ae31ce356.res"]
+
+[params]
+

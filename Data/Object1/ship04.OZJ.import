@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6jk56laawtto"
+path="res://.godot/imported/ship04.OZJ-4767205bf1c6a6403bd4e6f047e1f783.res"
+
+[deps]
+
+source_file="res://Data/Object1/ship04.OZJ"
+dest_files=["res://.godot/imported/ship04.OZJ-4767205bf1c6a6403bd4e6f047e1f783.res"]
+
+[params]
+

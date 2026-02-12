@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdxg5x5idvyqh"
+path="res://.godot/imported/steel_01.OZT-d9b84f01d87c4d1099c5d35ff81cdaa5.res"
+
+[deps]
+
+source_file="res://Data/Object121/steel_01.OZT"
+dest_files=["res://.godot/imported/steel_01.OZT-d9b84f01d87c4d1099c5d35ff81cdaa5.res"]
+
+[params]
+

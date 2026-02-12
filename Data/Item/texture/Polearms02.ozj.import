@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyr60t2ulexuf"
+path="res://.godot/imported/Polearms02.ozj-9a16cb1617931244c7a8c6d377efd25d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Polearms02.ozj"
+dest_files=["res://.godot/imported/Polearms02.ozj-9a16cb1617931244c7a8c6d377efd25d.res"]
+
+[params]
+

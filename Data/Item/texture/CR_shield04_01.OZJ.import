@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://w5w3htkx53gj"
+path="res://.godot/imported/CR_shield04_01.OZJ-815874108440c3d070d268d34d86eeab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CR_shield04_01.OZJ"
+dest_files=["res://.godot/imported/CR_shield04_01.OZJ-815874108440c3d070d268d34d86eeab.res"]
+
+[params]
+

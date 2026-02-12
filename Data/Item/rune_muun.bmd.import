@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0yord63nsne2"
+path="res://.godot/imported/rune_muun.bmd-a7c5e2c1f1e223b145ae95e947b6645e.scn"
+
+[deps]
+
+source_file="res://Data/Item/rune_muun.bmd"
+dest_files=["res://.godot/imported/rune_muun.bmd-a7c5e2c1f1e223b145ae95e947b6645e.scn"]
+
+[params]
+
+modelScale=0.01

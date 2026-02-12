@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cbkkjnxichmbk"
+path="res://.godot/imported/HelmMale177_crusader.bmd-1d8091295868cb6ecc9f454fb9551a3e.scn"
+
+[deps]
+
+source_file="res://Data/Item/HelmMale177_crusader.bmd"
+dest_files=["res://.godot/imported/HelmMale177_crusader.bmd-1d8091295868cb6ecc9f454fb9551a3e.scn"]
+
+[params]
+
+modelScale=0.01

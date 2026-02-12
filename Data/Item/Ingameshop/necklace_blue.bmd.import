@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dq2575di3f1qi"
+path="res://.godot/imported/necklace_blue.bmd-08b046f2d1fc93be9537c13e90d921c3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/necklace_blue.bmd"
+dest_files=["res://.godot/imported/necklace_blue.bmd-08b046f2d1fc93be9537c13e90d921c3.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3c26djm4hw7m"
+path="res://.godot/imported/polarispet_evol.bmd-1d311aad4d7eaf7c52505ee01beec2ad.scn"
+
+[deps]
+
+source_file="res://Data/Item/polarispet_evol.bmd"
+dest_files=["res://.godot/imported/polarispet_evol.bmd-1d311aad4d7eaf7c52505ee01beec2ad.scn"]
+
+[params]
+
+modelScale=0.01

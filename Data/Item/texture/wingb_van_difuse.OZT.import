@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4dyuogky678h"
+path="res://.godot/imported/wingb_van_difuse.OZT-85237066c83f4190e62998b413953f08.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wingb_van_difuse.OZT"
+dest_files=["res://.godot/imported/wingb_van_difuse.OZT-85237066c83f4190e62998b413953f08.res"]
+
+[params]
+

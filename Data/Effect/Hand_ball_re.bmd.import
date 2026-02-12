@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1duwcqm3egpl"
+path="res://.godot/imported/Hand_ball_re.bmd-bfdb1cbaf454098cd7c943ccc5f2e71b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Hand_ball_re.bmd"
+dest_files=["res://.godot/imported/Hand_ball_re.bmd-bfdb1cbaf454098cd7c943ccc5f2e71b.scn"]
+
+[params]
+
+modelScale=0.01

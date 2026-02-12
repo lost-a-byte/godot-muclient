@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj35jelx6xcyt"
+path="res://.godot/imported/amuletelfwing_R.OZJ-9c998d9b0c70f86b1419d3458155b223.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amuletelfwing_R.OZJ"
+dest_files=["res://.godot/imported/amuletelfwing_R.OZJ-9c998d9b0c70f86b1419d3458155b223.res"]
+
+[params]
+

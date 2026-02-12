@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbg1yrgy4qi8t"
+path="res://.godot/imported/alpha01.OZT-4cf749735eee2cc14e864bdd3e4f96bb.res"
+
+[deps]
+
+source_file="res://Data/Effect/alpha01.OZT"
+dest_files=["res://.godot/imported/alpha01.OZT-4cf749735eee2cc14e864bdd3e4f96bb.res"]
+
+[params]
+

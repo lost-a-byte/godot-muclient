@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtmhti1k8y0et"
+path="res://.godot/imported/hs_pandaB.OZJ-9d48fd305ab9ee1a1909375b3194e846.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_pandaB.OZJ"
+dest_files=["res://.godot/imported/hs_pandaB.OZJ-9d48fd305ab9ee1a1909375b3194e846.res"]
+
+[params]
+

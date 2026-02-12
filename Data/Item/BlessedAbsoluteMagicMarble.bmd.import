@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjpeyphww8rr8"
+path="res://.godot/imported/BlessedAbsoluteMagicMarble.bmd-dda9a8171955741525df6e0882545220.scn"
+
+[deps]
+
+source_file="res://Data/Item/BlessedAbsoluteMagicMarble.bmd"
+dest_files=["res://.godot/imported/BlessedAbsoluteMagicMarble.bmd-dda9a8171955741525df6e0882545220.scn"]
+
+[params]
+
+modelScale=0.01

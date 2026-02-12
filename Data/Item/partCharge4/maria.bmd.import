@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bspn6nmr3c0md"
+path="res://.godot/imported/maria.bmd-9aad10b4052520915ea4154c3fae7398.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge4/maria.bmd"
+dest_files=["res://.godot/imported/maria.bmd-9aad10b4052520915ea4154c3fae7398.scn"]
+
+[params]
+
+modelScale=0.01

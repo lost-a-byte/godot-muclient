@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxtl8ep1j5a7x"
+path="res://.godot/imported/chaosin.OZT-9af4fc6d7a39ca4af68079945fc00645.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaosin.OZT"
+dest_files=["res://.godot/imported/chaosin.OZT-9af4fc6d7a39ca4af68079945fc00645.res"]
+
+[params]
+

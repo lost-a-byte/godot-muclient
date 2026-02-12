@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://y50va82p8lji"
+path="res://.godot/imported/IllusionBead_violet.OZJ-9ac3c65f8da21c1fa68aa88b6596f8c1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/IllusionBead_violet.OZJ"
+dest_files=["res://.godot/imported/IllusionBead_violet.OZJ-9ac3c65f8da21c1fa68aa88b6596f8c1.res"]
+
+[params]
+

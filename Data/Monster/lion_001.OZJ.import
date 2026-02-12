@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4u8u4dj3bk64"
+path="res://.godot/imported/lion_001.OZJ-dcaccc30e69a42076edfcfdb3c3ab2bd.res"
+
+[deps]
+
+source_file="res://Data/Monster/lion_001.OZJ"
+dest_files=["res://.godot/imported/lion_001.OZJ-dcaccc30e69a42076edfcfdb3c3ab2bd.res"]
+
+[params]
+

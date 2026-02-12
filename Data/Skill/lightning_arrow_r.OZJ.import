@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw073v8wm0vrk"
+path="res://.godot/imported/lightning_arrow_r.OZJ-16a3f687a43221de5d921ed25419335a.res"
+
+[deps]
+
+source_file="res://Data/Skill/lightning_arrow_r.OZJ"
+dest_files=["res://.godot/imported/lightning_arrow_r.OZJ-16a3f687a43221de5d921ed25419335a.res"]
+
+[params]
+

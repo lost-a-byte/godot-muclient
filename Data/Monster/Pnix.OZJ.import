@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbj7suhxekacd"
+path="res://.godot/imported/Pnix.OZJ-6db210a5b390374abe050530a2a523ce.res"
+
+[deps]
+
+source_file="res://Data/Monster/Pnix.OZJ"
+dest_files=["res://.godot/imported/Pnix.OZJ-6db210a5b390374abe050530a2a523ce.res"]
+
+[params]
+

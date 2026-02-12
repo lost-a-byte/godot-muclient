@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mgbddy4vusdx"
+path="res://.godot/imported/NDEE.ozt-9be33cbcedc70afdf430983f2c04394a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NDEE.ozt"
+dest_files=["res://.godot/imported/NDEE.ozt-9be33cbcedc70afdf430983f2c04394a.res"]
+
+[params]
+

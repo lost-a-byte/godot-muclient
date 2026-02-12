@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c15j0k20r7vjr"
+path="res://.godot/imported/HS_Sailboat03t.OZT-5ebd7a52f74887b4b9e8d4bcab6cd40b.res"
+
+[deps]
+
+source_file="res://Data/Object95/HS_Sailboat03t.OZT"
+dest_files=["res://.godot/imported/HS_Sailboat03t.OZT-5ebd7a52f74887b4b9e8d4bcab6cd40b.res"]
+
+[params]
+

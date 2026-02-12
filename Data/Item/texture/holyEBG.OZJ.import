@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmxfgu4lt22hx"
+path="res://.godot/imported/holyEBG.OZJ-5889e4c07f7a64f8aab30b8233923d68.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holyEBG.OZJ"
+dest_files=["res://.godot/imported/holyEBG.OZJ-5889e4c07f7a64f8aab30b8233923d68.res"]
+
+[params]
+

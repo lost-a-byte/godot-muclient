@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1rkw5qc8mx2"
+path="res://.godot/imported/amulet_despair_wand.ozj-02ae1dfe1cd7f734696b2cd9c1d3d654.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amulet_despair_wand.ozj"
+dest_files=["res://.godot/imported/amulet_despair_wand.ozj-02ae1dfe1cd7f734696b2cd9c1d3d654.res"]
+
+[params]
+

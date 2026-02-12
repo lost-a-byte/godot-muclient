@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbq2yrhpkq4oj"
+path="res://.godot/imported/cr_balgass.OZT-fe309362e81ccde6f792263f6fd7f2c4.res"
+
+[deps]
+
+source_file="res://Data/Monster/cr_balgass.OZT"
+dest_files=["res://.godot/imported/cr_balgass.OZT-fe309362e81ccde6f792263f6fd7f2c4.res"]
+
+[params]
+

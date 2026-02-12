@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs8a2l5g6ibot"
+path="res://.godot/imported/angelicbow_eff.OZJ-a8e28aed6cb992b76eacdb7708d4dddc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/angelicbow_eff.OZJ"
+dest_files=["res://.godot/imported/angelicbow_eff.OZJ-a8e28aed6cb992b76eacdb7708d4dddc.res"]
+
+[params]
+

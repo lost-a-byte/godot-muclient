@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfu5ty7tlo8km"
+path="res://.godot/imported/FereaKnight_red.OZJ-cd10e20ee1ae058cac079780f8d6b832.res"
+
+[deps]
+
+source_file="res://Data/Monster/FereaKnight_red.OZJ"
+dest_files=["res://.godot/imported/FereaKnight_red.OZJ-cd10e20ee1ae058cac079780f8d6b832.res"]
+
+[params]
+

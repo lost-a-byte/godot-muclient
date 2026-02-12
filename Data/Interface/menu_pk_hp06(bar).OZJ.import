@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtswtagqscmgq"
+path="res://.godot/imported/menu_pk_hp06(bar).OZJ-3ce14e5d2a5acda92d942f51acc76cda.res"
+
+[deps]
+
+source_file="res://Data/Interface/menu_pk_hp06(bar).OZJ"
+dest_files=["res://.godot/imported/menu_pk_hp06(bar).OZJ-3ce14e5d2a5acda92d942f51acc76cda.res"]
+
+[params]
+

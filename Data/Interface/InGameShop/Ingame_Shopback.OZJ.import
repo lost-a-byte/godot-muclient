@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7aub1ab6b8he"
+path="res://.godot/imported/Ingame_Shopback.OZJ-08c7c8ef396f8f82aab19a3e4147141f.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/Ingame_Shopback.OZJ"
+dest_files=["res://.godot/imported/Ingame_Shopback.OZJ-08c7c8ef396f8f82aab19a3e4147141f.res"]
+
+[params]
+

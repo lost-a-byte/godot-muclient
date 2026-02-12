@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dyvm52ruhm0mk"
+path="res://.godot/imported/Ghosthorse_item_shield.bmd-44a3fd073ba090ddc448fc4afdfa4008.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ghosthorse_item_shield.bmd"
+dest_files=["res://.godot/imported/Ghosthorse_item_shield.bmd-44a3fd073ba090ddc448fc4afdfa4008.scn"]
+
+[params]
+
+modelScale=0.01

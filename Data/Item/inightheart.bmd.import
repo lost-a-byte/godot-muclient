@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dtrf0hxxddyam"
+path="res://.godot/imported/inightheart.bmd-d6344f65e49c21b36de0df9ca60e3437.scn"
+
+[deps]
+
+source_file="res://Data/Item/inightheart.bmd"
+dest_files=["res://.godot/imported/inightheart.bmd-d6344f65e49c21b36de0df9ca60e3437.scn"]
+
+[params]
+
+modelScale=0.01

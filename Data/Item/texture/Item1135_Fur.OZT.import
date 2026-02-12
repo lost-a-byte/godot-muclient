@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://svlp3p3v5jh4"
+path="res://.godot/imported/Item1135_Fur.OZT-b83c6cb64b9cd39372e7e63a6564ede0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1135_Fur.OZT"
+dest_files=["res://.godot/imported/Item1135_Fur.OZT-b83c6cb64b9cd39372e7e63a6564ede0.res"]
+
+[params]
+

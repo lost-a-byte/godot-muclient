@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfchhqoa8xl2a"
+path="res://.godot/imported/TempleGuard_lance_02.OZJ-537106cfa2215e071d3a3169498ccd98.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_lance_02.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_lance_02.OZJ-537106cfa2215e071d3a3169498ccd98.res"]
+
+[params]
+

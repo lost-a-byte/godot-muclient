@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://13xulfhwxnar"
+path="res://.godot/imported/FRpotionD.bmd-a2087ad6b1fea15eee5a5994e04c4fd2.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/FRpotionD.bmd"
+dest_files=["res://.godot/imported/FRpotionD.bmd-a2087ad6b1fea15eee5a5994e04c4fd2.scn"]
+
+[params]
+
+modelScale=0.01

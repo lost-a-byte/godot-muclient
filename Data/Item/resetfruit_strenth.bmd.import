@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://crgb45ukdsu4d"
+path="res://.godot/imported/resetfruit_strenth.bmd-230087d7a5a28a1078b1261b8a1944de.scn"
+
+[deps]
+
+source_file="res://Data/Item/resetfruit_strenth.bmd"
+dest_files=["res://.godot/imported/resetfruit_strenth.bmd-230087d7a5a28a1078b1261b8a1944de.scn"]
+
+[params]
+
+modelScale=0.01

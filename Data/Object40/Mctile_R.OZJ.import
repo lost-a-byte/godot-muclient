@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0746sdj2mwjp"
+path="res://.godot/imported/Mctile_R.OZJ-96b81fc86101041564f2f006dbfe6a4e.res"
+
+[deps]
+
+source_file="res://Data/Object40/Mctile_R.OZJ"
+dest_files=["res://.godot/imported/Mctile_R.OZJ-96b81fc86101041564f2f006dbfe6a4e.res"]
+
+[params]
+

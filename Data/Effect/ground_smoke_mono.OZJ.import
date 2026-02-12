@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brtmfko8ddv2b"
+path="res://.godot/imported/ground_smoke_mono.OZJ-e41224d0df52f7eedafeca953b544e80.res"
+
+[deps]
+
+source_file="res://Data/Effect/ground_smoke_mono.OZJ"
+dest_files=["res://.godot/imported/ground_smoke_mono.OZJ-e41224d0df52f7eedafeca953b544e80.res"]
+
+[params]
+

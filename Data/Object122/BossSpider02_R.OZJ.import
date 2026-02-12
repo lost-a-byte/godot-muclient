@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1py1eixx4knt"
+path="res://.godot/imported/BossSpider02_R.OZJ-c01b72fc8fd795fef3ab1403504aa82e.res"
+
+[deps]
+
+source_file="res://Data/Object122/BossSpider02_R.OZJ"
+dest_files=["res://.godot/imported/BossSpider02_R.OZJ-c01b72fc8fd795fef3ab1403504aa82e.res"]
+
+[params]
+

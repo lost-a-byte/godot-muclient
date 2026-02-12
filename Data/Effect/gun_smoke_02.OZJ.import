@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ktd31rc0tbxg"
+path="res://.godot/imported/gun_smoke_02.OZJ-55ba18e8fd2ae207b918fbb6b91daf03.res"
+
+[deps]
+
+source_file="res://Data/Effect/gun_smoke_02.OZJ"
+dest_files=["res://.godot/imported/gun_smoke_02.OZJ-55ba18e8fd2ae207b918fbb6b91daf03.res"]
+
+[params]
+

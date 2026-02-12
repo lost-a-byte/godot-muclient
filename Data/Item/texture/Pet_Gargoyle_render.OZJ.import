@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f53ftnqmlmcf"
+path="res://.godot/imported/Pet_Gargoyle_render.OZJ-95e012cb71ca5c96611f0d24c65307d5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Pet_Gargoyle_render.OZJ"
+dest_files=["res://.godot/imported/Pet_Gargoyle_render.OZJ-95e012cb71ca5c96611f0d24c65307d5.res"]
+
+[params]
+

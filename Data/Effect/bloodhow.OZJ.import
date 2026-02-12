@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dk100ae4t1ghg"
+path="res://.godot/imported/bloodhow.OZJ-fffe3e1ca7d9bc16f17a8597d4c71f6c.res"
+
+[deps]
+
+source_file="res://Data/Effect/bloodhow.OZJ"
+dest_files=["res://.godot/imported/bloodhow.OZJ-fffe3e1ca7d9bc16f17a8597d4c71f6c.res"]
+
+[params]
+

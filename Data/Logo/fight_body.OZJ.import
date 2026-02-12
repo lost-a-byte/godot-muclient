@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tqi6twyaxgaq"
+path="res://.godot/imported/fight_body.OZJ-867f663498d9e35926ecf5636c06a5aa.res"
+
+[deps]
+
+source_file="res://Data/Logo/fight_body.OZJ"
+dest_files=["res://.godot/imported/fight_body.OZJ-867f663498d9e35926ecf5636c06a5aa.res"]
+
+[params]
+

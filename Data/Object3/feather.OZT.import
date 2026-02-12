@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://by5h1hucwcxig"
+path="res://.godot/imported/feather.OZT-aeede2a4e384b0bdfdc3cb7e17c3490e.res"
+
+[deps]
+
+source_file="res://Data/Object3/feather.OZT"
+dest_files=["res://.godot/imported/feather.OZT-aeede2a4e384b0bdfdc3cb7e17c3490e.res"]
+
+[params]
+

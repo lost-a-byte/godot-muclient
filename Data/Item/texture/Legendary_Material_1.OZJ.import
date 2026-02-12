@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5cbu3p3d3iu2"
+path="res://.godot/imported/Legendary_Material_1.OZJ-ba20560f8ab78749abb1130e824119ba.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Legendary_Material_1.OZJ"
+dest_files=["res://.godot/imported/Legendary_Material_1.OZJ-ba20560f8ab78749abb1130e824119ba.res"]
+
+[params]
+

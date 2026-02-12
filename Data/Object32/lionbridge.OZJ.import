@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpceltfy3wtjf"
+path="res://.godot/imported/lionbridge.OZJ-06eaee53da60c4d275dc5a671db6b6ea.res"
+
+[deps]
+
+source_file="res://Data/Object32/lionbridge.OZJ"
+dest_files=["res://.godot/imported/lionbridge.OZJ-06eaee53da60c4d275dc5a671db6b6ea.res"]
+
+[params]
+

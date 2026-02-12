@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhsgj1g3cbs7u"
+path="res://.godot/imported/knightSt_blue.OZJ-11352525adda352af77e45be2564a9a5.res"
+
+[deps]
+
+source_file="res://Data/Effect/knightSt_blue.OZJ"
+dest_files=["res://.godot/imported/knightSt_blue.OZJ-11352525adda352af77e45be2564a9a5.res"]
+
+[params]
+

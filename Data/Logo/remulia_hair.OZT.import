@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bl0qwhedihasy"
+path="res://.godot/imported/remulia_hair.OZT-eaea45fde28bdee14f92300d614504ae.res"
+
+[deps]
+
+source_file="res://Data/Logo/remulia_hair.OZT"
+dest_files=["res://.godot/imported/remulia_hair.OZT-eaea45fde28bdee14f92300d614504ae.res"]
+
+[params]
+

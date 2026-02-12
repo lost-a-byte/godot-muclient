@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbmngkotd0fy3"
+path="res://.godot/imported/sd_sheepB.OZJ-53f3bbe57f02896a65202ca649063b09.res"
+
+[deps]
+
+source_file="res://Data/Monster/sd_sheepB.OZJ"
+dest_files=["res://.godot/imported/sd_sheepB.OZJ-53f3bbe57f02896a65202ca649063b09.res"]
+
+[params]
+

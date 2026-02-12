@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cky0ywrw11f7u"
+path="res://.godot/imported/ex01coolertinleg_R.OZJ-e187ee6381d3abaca979549bd05c16a7.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01coolertinleg_R.OZJ"
+dest_files=["res://.godot/imported/ex01coolertinleg_R.OZJ-e187ee6381d3abaca979549bd05c16a7.res"]
+
+[params]
+

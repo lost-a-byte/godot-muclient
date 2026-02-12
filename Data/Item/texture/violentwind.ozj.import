@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://do3hrlnih5ym4"
+path="res://.godot/imported/violentwind.ozj-600d657d0e210f4bfb8b929c7022f060.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/violentwind.ozj"
+dest_files=["res://.godot/imported/violentwind.ozj-600d657d0e210f4bfb8b929c7022f060.res"]
+
+[params]
+

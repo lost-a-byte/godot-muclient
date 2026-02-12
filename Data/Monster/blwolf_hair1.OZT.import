@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4iytm2xf5e73"
+path="res://.godot/imported/blwolf_hair1.OZT-3f33c595fc26e60953587a93671f6886.res"
+
+[deps]
+
+source_file="res://Data/Monster/blwolf_hair1.OZT"
+dest_files=["res://.godot/imported/blwolf_hair1.OZT-3f33c595fc26e60953587a93671f6886.res"]
+
+[params]
+

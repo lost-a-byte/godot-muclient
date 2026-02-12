@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bd85arn2sr3xx"
+path="res://.godot/imported/combo.bmd-eebb928a6fcbf089647285a3b0fedd47.scn"
+
+[deps]
+
+source_file="res://Data/Skill/combo.bmd"
+dest_files=["res://.godot/imported/combo.bmd-eebb928a6fcbf089647285a3b0fedd47.scn"]
+
+[params]
+
+modelScale=0.01

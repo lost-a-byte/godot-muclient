@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brb71facdffyl"
+path="res://.godot/imported/hs_7MasteryStick02_render.OZJ-4f30664820f1cbb73f37b9ff6c8a1ace.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_7MasteryStick02_render.OZJ"
+dest_files=["res://.godot/imported/hs_7MasteryStick02_render.OZJ-4f30664820f1cbb73f37b9ff6c8a1ace.res"]
+
+[params]
+

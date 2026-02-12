@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbxq6npgw2nfq"
+path="res://.godot/imported/MixMaterialB.OZJ-effc29f25c466640d9325637a84e5d4c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MixMaterialB.OZJ"
+dest_files=["res://.godot/imported/MixMaterialB.OZJ-effc29f25c466640d9325637a84e5d4c.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://s3ydu0bs1pmb"
+path="res://.godot/imported/LuckyCardred.bmd-cfc9eae563d8d9b32fb59465b4ffeafe.scn"
+
+[deps]
+
+source_file="res://Data/Item/LuckyCardred.bmd"
+dest_files=["res://.godot/imported/LuckyCardred.bmd-cfc9eae563d8d9b32fb59465b4ffeafe.scn"]
+
+[params]
+
+modelScale=0.01

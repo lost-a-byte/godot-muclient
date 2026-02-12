@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jkyqefn337se"
+path="res://.godot/imported/grow_muun_01.OZJ-25da4097e2a118fe517e5d7c75a4711d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/grow_muun_01.OZJ"
+dest_files=["res://.godot/imported/grow_muun_01.OZJ-25da4097e2a118fe517e5d7c75a4711d.res"]
+
+[params]
+

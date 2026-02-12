@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b14h344hhdf4r"
+path="res://.godot/imported/GloveClass307.bmd-00066406492eda7a4f3ed4a3a91cbedc.scn"
+
+[deps]
+
+source_file="res://Data/Player/GloveClass307.bmd"
+dest_files=["res://.godot/imported/GloveClass307.bmd-00066406492eda7a4f3ed4a3a91cbedc.scn"]
+
+[params]
+
+modelScale=0.01

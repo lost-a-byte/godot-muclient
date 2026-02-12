@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdxi6ll5ysjho"
+path="res://.godot/imported/magic_piece.OZJ-8960ab49ee1b81b789511e91eb7a5fd9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magic_piece.OZJ"
+dest_files=["res://.godot/imported/magic_piece.OZJ-8960ab49ee1b81b789511e91eb7a5fd9.res"]
+
+[params]
+

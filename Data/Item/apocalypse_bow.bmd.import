@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://m3u05hx62fqq"
+path="res://.godot/imported/apocalypse_bow.bmd-d1b8611a3eed27e1cd40e0b0ce1c33d8.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse_bow.bmd"
+dest_files=["res://.godot/imported/apocalypse_bow.bmd-d1b8611a3eed27e1cd40e0b0ce1c33d8.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dafvp4ty0inp3"
+path="res://.godot/imported/Lure.OZJ-8fe255d004fce98c707b143d97d0786d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Lure.OZJ"
+dest_files=["res://.godot/imported/Lure.OZJ-8fe255d004fce98c707b143d97d0786d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d028lmjglhqjt"
+path="res://.godot/imported/dn3_darksw.ozj-83dfed9ba2f19ab7deb95c217a280b28.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dn3_darksw.ozj"
+dest_files=["res://.godot/imported/dn3_darksw.ozj-83dfed9ba2f19ab7deb95c217a280b28.res"]
+
+[params]
+

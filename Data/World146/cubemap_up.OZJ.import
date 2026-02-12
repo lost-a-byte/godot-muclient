@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://difcpyiytnjyg"
+path="res://.godot/imported/cubemap_up.OZJ-a42467567fc62674df6c5f3b9867dfff.res"
+
+[deps]
+
+source_file="res://Data/World146/cubemap_up.OZJ"
+dest_files=["res://.godot/imported/cubemap_up.OZJ-a42467567fc62674df6c5f3b9867dfff.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7150qkvbi5xv"
+path="res://.godot/imported/pin_lights02.OZJ-f4cc9c5322f57c1539a7f16177845651.res"
+
+[deps]
+
+source_file="res://Data/Skill/pin_lights02.OZJ"
+dest_files=["res://.godot/imported/pin_lights02.OZJ-f4cc9c5322f57c1539a7f16177845651.res"]
+
+[params]
+

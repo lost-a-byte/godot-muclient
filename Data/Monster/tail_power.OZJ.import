@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bje56fa61ixr0"
+path="res://.godot/imported/tail_power.OZJ-069305aa3072429d21132f7f4f3bc6ce.res"
+
+[deps]
+
+source_file="res://Data/Monster/tail_power.OZJ"
+dest_files=["res://.godot/imported/tail_power.OZJ-069305aa3072429d21132f7f4f3bc6ce.res"]
+
+[params]
+

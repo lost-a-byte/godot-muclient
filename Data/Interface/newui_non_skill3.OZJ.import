@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2a1koyt3adjg"
+path="res://.godot/imported/newui_non_skill3.OZJ-32d6ed44a6b0678000b2585814aa493e.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_non_skill3.OZJ"
+dest_files=["res://.godot/imported/newui_non_skill3.OZJ-32d6ed44a6b0678000b2585814aa493e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csgtpwioup3rs"
+path="res://.godot/imported/Imperial_F_shield_01.OZJ-1a4f63a8ca6bcdee072e06a8b87e7548.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_F_shield_01.OZJ"
+dest_files=["res://.godot/imported/Imperial_F_shield_01.OZJ-1a4f63a8ca6bcdee072e06a8b87e7548.res"]
+
+[params]
+

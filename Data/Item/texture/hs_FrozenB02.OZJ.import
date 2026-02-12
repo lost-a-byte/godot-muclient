@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bio1vaae2dt72"
+path="res://.godot/imported/hs_FrozenB02.OZJ-236b960b37579171c91e2c914140dcfe.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_FrozenB02.OZJ"
+dest_files=["res://.godot/imported/hs_FrozenB02.OZJ-236b960b37579171c91e2c914140dcfe.res"]
+
+[params]
+

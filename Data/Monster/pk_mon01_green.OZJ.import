@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btlionhj0au0g"
+path="res://.godot/imported/pk_mon01_green.OZJ-7319c9a1c10d9020428ea3e4ad81d0cf.res"
+
+[deps]
+
+source_file="res://Data/Monster/pk_mon01_green.OZJ"
+dest_files=["res://.godot/imported/pk_mon01_green.OZJ-7319c9a1c10d9020428ea3e4ad81d0cf.res"]
+
+[params]
+

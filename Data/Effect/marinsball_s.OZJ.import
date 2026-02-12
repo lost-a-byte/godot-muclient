@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8os0a6t8bppf"
+path="res://.godot/imported/marinsball_s.OZJ-702bf9193af7a4309b38896c917d05a1.res"
+
+[deps]
+
+source_file="res://Data/Effect/marinsball_s.OZJ"
+dest_files=["res://.godot/imported/marinsball_s.OZJ-702bf9193af7a4309b38896c917d05a1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuxkhlg7rgx7m"
+path="res://.godot/imported/floorlight2_R.OZJ-bd67e5ec400620ed6751847e0de18634.res"
+
+[deps]
+
+source_file="res://Data/Monster/floorlight2_R.OZJ"
+dest_files=["res://.godot/imported/floorlight2_R.OZJ-bd67e5ec400620ed6751847e0de18634.res"]
+
+[params]
+

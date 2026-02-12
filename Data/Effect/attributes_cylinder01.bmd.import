@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://8m3k24lnwpf0"
+path="res://.godot/imported/attributes_cylinder01.bmd-02fd5480fd6bc434699b3d7cffe393c3.scn"
+
+[deps]
+
+source_file="res://Data/Effect/attributes_cylinder01.bmd"
+dest_files=["res://.godot/imported/attributes_cylinder01.bmd-02fd5480fd6bc434699b3d7cffe393c3.scn"]
+
+[params]
+
+modelScale=0.01

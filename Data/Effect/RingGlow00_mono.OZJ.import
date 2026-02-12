@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bng21eiqf5p2e"
+path="res://.godot/imported/RingGlow00_mono.OZJ-9d004623f0f7082fc65334e28b3de89e.res"
+
+[deps]
+
+source_file="res://Data/Effect/RingGlow00_mono.OZJ"
+dest_files=["res://.godot/imported/RingGlow00_mono.OZJ-9d004623f0f7082fc65334e28b3de89e.res"]
+
+[params]
+

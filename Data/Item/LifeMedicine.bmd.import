@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b435x6dy08ocy"
+path="res://.godot/imported/LifeMedicine.bmd-1607665d3eabd5403b245bc6108f1b67.scn"
+
+[deps]
+
+source_file="res://Data/Item/LifeMedicine.bmd"
+dest_files=["res://.godot/imported/LifeMedicine.bmd-1607665d3eabd5403b245bc6108f1b67.scn"]
+
+[params]
+
+modelScale=0.01

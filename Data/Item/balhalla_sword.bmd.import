@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dehee7and8vo8"
+path="res://.godot/imported/balhalla_sword.bmd-2df09289aa7b38bf60961784b518bdef.scn"
+
+[deps]
+
+source_file="res://Data/Item/balhalla_sword.bmd"
+dest_files=["res://.godot/imported/balhalla_sword.bmd-2df09289aa7b38bf60961784b518bdef.scn"]
+
+[params]
+
+modelScale=0.01

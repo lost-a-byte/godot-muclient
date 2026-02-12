@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdslk5pqr0per"
+path="res://.godot/imported/GlacusAlpha.OZJ-12aa10d2f8a54e0b7f06c4a7b6a41f10.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GlacusAlpha.OZJ"
+dest_files=["res://.godot/imported/GlacusAlpha.OZJ-12aa10d2f8a54e0b7f06c4a7b6a41f10.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c27t0exbjs54f"
+path="res://.godot/imported/chogate02.OZT-16cf2c29a34cd409591c50970ec9e658.res"
+
+[deps]
+
+source_file="res://Data/Monster/chogate02.OZT"
+dest_files=["res://.godot/imported/chogate02.OZT-16cf2c29a34cd409591c50970ec9e658.res"]
+
+[params]
+

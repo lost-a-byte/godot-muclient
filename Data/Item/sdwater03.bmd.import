@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3gtxiwyhb3v8"
+path="res://.godot/imported/sdwater03.bmd-4f044daedb485412e8510c6954dfa7c0.scn"
+
+[deps]
+
+source_file="res://Data/Item/sdwater03.bmd"
+dest_files=["res://.godot/imported/sdwater03.bmd-4f044daedb485412e8510c6954dfa7c0.scn"]
+
+[params]
+
+modelScale=0.01

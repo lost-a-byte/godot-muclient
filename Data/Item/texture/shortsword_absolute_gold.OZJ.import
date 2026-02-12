@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c00pn2kwsnl6o"
+path="res://.godot/imported/shortsword_absolute_gold.OZJ-780d5ba90798b57953292fa23fd31f87.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/shortsword_absolute_gold.OZJ"
+dest_files=["res://.godot/imported/shortsword_absolute_gold.OZJ-780d5ba90798b57953292fa23fd31f87.res"]
+
+[params]
+

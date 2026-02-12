@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bgrrvd5fwvi5b"
+path="res://.godot/imported/wallstone1.bmd-da7c892aa6b4d3c9148206cb24456f38.scn"
+
+[deps]
+
+source_file="res://Data/Skill/wallstone1.bmd"
+dest_files=["res://.godot/imported/wallstone1.bmd-da7c892aa6b4d3c9148206cb24456f38.scn"]
+
+[params]
+
+modelScale=0.01

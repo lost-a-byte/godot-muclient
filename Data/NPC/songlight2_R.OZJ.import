@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fpjvedhddkmb"
+path="res://.godot/imported/songlight2_R.OZJ-45196a94e855bbf04fcfd9fb2bfb43f0.res"
+
+[deps]
+
+source_file="res://Data/NPC/songlight2_R.OZJ"
+dest_files=["res://.godot/imported/songlight2_R.OZJ-45196a94e855bbf04fcfd9fb2bfb43f0.res"]
+
+[params]
+

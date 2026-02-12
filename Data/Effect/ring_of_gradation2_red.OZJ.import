@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bixcmu6gmp2p5"
+path="res://.godot/imported/ring_of_gradation2_red.OZJ-509d18432676d052795cced11fbde9fe.res"
+
+[deps]
+
+source_file="res://Data/Effect/ring_of_gradation2_red.OZJ"
+dest_files=["res://.godot/imported/ring_of_gradation2_red.OZJ-509d18432676d052795cced11fbde9fe.res"]
+
+[params]
+

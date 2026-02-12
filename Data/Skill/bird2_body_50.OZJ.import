@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhwwxm7v3cvsd"
+path="res://.godot/imported/bird2_body_50.OZJ-20ffbcd3b1558af75d512954bdadb0b8.res"
+
+[deps]
+
+source_file="res://Data/Skill/bird2_body_50.OZJ"
+dest_files=["res://.godot/imported/bird2_body_50.OZJ-20ffbcd3b1558af75d512954bdadb0b8.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ct16u5p0ksyd6"
+path="res://.godot/imported/medusa01_wing_1.OZT-042bfc9f61dc1bb2e5fedea93bb644b4.res"
+
+[deps]
+
+source_file="res://Data/Monster/medusa01_wing_1.OZT"
+dest_files=["res://.godot/imported/medusa01_wing_1.OZT-042bfc9f61dc1bb2e5fedea93bb644b4.res"]
+
+[params]
+

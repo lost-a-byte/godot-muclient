@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvt8dsp457m7l"
+path="res://.godot/imported/mushroom.OZJ-e79b5f30b8e3d005a933f2bfaecff25b.res"
+
+[deps]
+
+source_file="res://Data/Object1/mushroom.OZJ"
+dest_files=["res://.godot/imported/mushroom.OZJ-e79b5f30b8e3d005a933f2bfaecff25b.res"]
+
+[params]
+

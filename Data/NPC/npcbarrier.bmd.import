@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dcksc0sef8ohf"
+path="res://.godot/imported/npcbarrier.bmd-4d26e776224eafa448e4dd3ab465ed72.scn"
+
+[deps]
+
+source_file="res://Data/NPC/npcbarrier.bmd"
+dest_files=["res://.godot/imported/npcbarrier.bmd-4d26e776224eafa448e4dd3ab465ed72.scn"]
+
+[params]
+
+modelScale=0.01

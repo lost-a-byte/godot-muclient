@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dv5ltntr8hm65"
+path="res://.godot/imported/apocalypse_marble_2.OZJ-f39f39dd22a551429a379383a2226869.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_marble_2.OZJ"
+dest_files=["res://.godot/imported/apocalypse_marble_2.OZJ-f39f39dd22a551429a379383a2226869.res"]
+
+[params]
+

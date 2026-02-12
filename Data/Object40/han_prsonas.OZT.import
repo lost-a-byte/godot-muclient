@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ihog5v6vnndc"
+path="res://.godot/imported/han_prsonas.OZT-9b9dd56eb3685dbedaedb6b1deeb5c68.res"
+
+[deps]
+
+source_file="res://Data/Object40/han_prsonas.OZT"
+dest_files=["res://.godot/imported/han_prsonas.OZT-9b9dd56eb3685dbedaedb6b1deeb5c68.res"]
+
+[params]
+

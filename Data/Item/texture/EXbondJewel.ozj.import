@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr4776a62p4uj"
+path="res://.godot/imported/EXbondJewel.ozj-cc72b851103a2746ef8c2b5ad213a86b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/EXbondJewel.ozj"
+dest_files=["res://.godot/imported/EXbondJewel.ozj-cc72b851103a2746ef8c2b5ad213a86b.res"]
+
+[params]
+

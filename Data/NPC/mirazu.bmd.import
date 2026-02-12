@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ckd0y4me0rd77"
+path="res://.godot/imported/mirazu.bmd-1f995e069c383e69c2a3b22cd577e6fe.scn"
+
+[deps]
+
+source_file="res://Data/NPC/mirazu.bmd"
+dest_files=["res://.godot/imported/mirazu.bmd-1f995e069c383e69c2a3b22cd577e6fe.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccjugmd3eycru"
+path="res://.godot/imported/goldboit.OZJ-cbdb78b34d81d3e2d7fa1b1d454cb65a.res"
+
+[deps]
+
+source_file="res://Data/NPC/goldboit.OZJ"
+dest_files=["res://.godot/imported/goldboit.OZJ-cbdb78b34d81d3e2d7fa1b1d454cb65a.res"]
+
+[params]
+

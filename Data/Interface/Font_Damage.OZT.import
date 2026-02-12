@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cx38n4i76wks"
+path="res://.godot/imported/Font_Damage.OZT-10ed423ab36c1cdaf26db6b7aa0b5caf.res"
+
+[deps]
+
+source_file="res://Data/Interface/Font_Damage.OZT"
+dest_files=["res://.godot/imported/Font_Damage.OZT-10ed423ab36c1cdaf26db6b7aa0b5caf.res"]
+
+[params]
+

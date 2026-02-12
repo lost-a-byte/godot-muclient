@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://m83s4fa7ko65"
+path="res://.godot/imported/sakuras01.OZJ-5635301b98d317bf3af3edc7d11dcce4.res"
+
+[deps]
+
+source_file="res://Data/Effect/cherryblossom/sakuras01.OZJ"
+dest_files=["res://.godot/imported/sakuras01.OZJ-5635301b98d317bf3af3edc7d11dcce4.res"]
+
+[params]
+

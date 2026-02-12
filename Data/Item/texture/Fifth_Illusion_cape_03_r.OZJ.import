@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0q1y4htj17jo"
+path="res://.godot/imported/Fifth_Illusion_cape_03_r.OZJ-c5823bd76db6d3a562df8c9eab498484.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Illusion_cape_03_r.OZJ"
+dest_files=["res://.godot/imported/Fifth_Illusion_cape_03_r.OZJ-c5823bd76db6d3a562df8c9eab498484.res"]
+
+[params]
+

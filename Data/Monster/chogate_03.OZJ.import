@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dblybalp3hls1"
+path="res://.godot/imported/chogate_03.OZJ-cf25f9d93139b2c9a9e396253614a0a7.res"
+
+[deps]
+
+source_file="res://Data/Monster/chogate_03.OZJ"
+dest_files=["res://.godot/imported/chogate_03.OZJ-cf25f9d93139b2c9a9e396253614a0a7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c26pgvgh1y4lc"
+path="res://.godot/imported/hellmine.OZJ-44e854e108601f2eb516a62d8dab98ed.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hellmine.OZJ"
+dest_files=["res://.godot/imported/hellmine.OZJ-44e854e108601f2eb516a62d8dab98ed.res"]
+
+[params]
+

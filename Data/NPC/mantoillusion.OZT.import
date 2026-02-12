@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6d4spw1eagsc"
+path="res://.godot/imported/mantoillusion.OZT-8b13f0ecb49318c3e6b90c971cfc9217.res"
+
+[deps]
+
+source_file="res://Data/NPC/mantoillusion.OZT"
+dest_files=["res://.godot/imported/mantoillusion.OZT-8b13f0ecb49318c3e6b90c971cfc9217.res"]
+
+[params]
+

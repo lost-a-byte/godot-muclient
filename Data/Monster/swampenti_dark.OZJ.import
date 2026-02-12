@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cao0h20vrnnr3"
+path="res://.godot/imported/swampenti_dark.OZJ-8d135e5e2c464c6935cfb6a19c4faa70.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampenti_dark.OZJ"
+dest_files=["res://.godot/imported/swampenti_dark.OZJ-8d135e5e2c464c6935cfb6a19c4faa70.res"]
+
+[params]
+

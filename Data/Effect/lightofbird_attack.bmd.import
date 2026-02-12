@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://m8dcr617clbf"
+path="res://.godot/imported/lightofbird_attack.bmd-b3bd50ffcf1948bf5bde6e4ca210513b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/lightofbird_attack.bmd"
+dest_files=["res://.godot/imported/lightofbird_attack.bmd-b3bd50ffcf1948bf5bde6e4ca210513b.scn"]
+
+[params]
+
+modelScale=0.01

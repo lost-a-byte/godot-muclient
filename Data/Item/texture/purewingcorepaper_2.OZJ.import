@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6dm5mduom54x"
+path="res://.godot/imported/purewingcorepaper_2.OZJ-86e63af4d53c4aa8bc8c1ff6b10f294d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/purewingcorepaper_2.OZJ"
+dest_files=["res://.godot/imported/purewingcorepaper_2.OZJ-86e63af4d53c4aa8bc8c1ff6b10f294d.res"]
+
+[params]
+

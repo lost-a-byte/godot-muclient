@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8eksyxot1xj3"
+path="res://.godot/imported/SportyGirl.OZJ-081439a485ab4b05010bd878e84b9397.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SportyGirl.OZJ"
+dest_files=["res://.godot/imported/SportyGirl.OZJ-081439a485ab4b05010bd878e84b9397.res"]
+
+[params]
+

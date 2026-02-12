@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cqyb51dtvhbxy"
+path="res://.godot/imported/dark_gruond_grow.bmd-0706947756736cd87dd6bfd94213bc36.scn"
+
+[deps]
+
+source_file="res://Data/Effect/dark_gruond_grow.bmd"
+dest_files=["res://.godot/imported/dark_gruond_grow.bmd-0706947756736cd87dd6bfd94213bc36.scn"]
+
+[params]
+
+modelScale=0.01

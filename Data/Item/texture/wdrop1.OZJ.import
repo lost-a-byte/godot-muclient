@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dduqpmlfxy1i1"
+path="res://.godot/imported/wdrop1.OZJ-733688acd9a9f23f4a46c45a5dbfa869.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wdrop1.OZJ"
+dest_files=["res://.godot/imported/wdrop1.OZJ-733688acd9a9f23f4a46c45a5dbfa869.res"]
+
+[params]
+

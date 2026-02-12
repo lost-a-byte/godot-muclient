@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6kbyg6e4emta"
+path="res://.godot/imported/AQ_gunner_jewel.OZJ-ea14e3eebbf76bddaac0bdd9e79a990f.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_gunner_jewel.OZJ"
+dest_files=["res://.godot/imported/AQ_gunner_jewel.OZJ-ea14e3eebbf76bddaac0bdd9e79a990f.res"]
+
+[params]
+

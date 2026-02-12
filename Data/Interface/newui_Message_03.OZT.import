@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bttg5sajc73io"
+path="res://.godot/imported/newui_Message_03.OZT-28078d4db605c3bbe4015c4a502773fe.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Message_03.OZT"
+dest_files=["res://.godot/imported/newui_Message_03.OZT-28078d4db605c3bbe4015c4a502773fe.res"]
+
+[params]
+

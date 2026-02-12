@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpn0srvsskc5g"
+path="res://.godot/imported/TempleGuard_bow_02.OZJ-b2b426756361a410cbd36367bfadf151.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_bow_02.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_bow_02.OZJ-b2b426756361a410cbd36367bfadf151.res"]
+
+[params]
+

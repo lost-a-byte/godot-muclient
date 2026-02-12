@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqddvr21j3su"
+path="res://.godot/imported/win_titlebar.OZJ-839825d9d365362d9de7ac288eac6f15.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_titlebar.OZJ"
+dest_files=["res://.godot/imported/win_titlebar.OZJ-839825d9d365362d9de7ac288eac6f15.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8s55g20o6fdk"
+path="res://.godot/imported/hound_sword1.OZJ-90d8830ee1c314620b1876e35a6901fb.res"
+
+[deps]
+
+source_file="res://Data/NPC/hound_sword1.OZJ"
+dest_files=["res://.godot/imported/hound_sword1.OZJ-90d8830ee1c314620b1876e35a6901fb.res"]
+
+[params]
+

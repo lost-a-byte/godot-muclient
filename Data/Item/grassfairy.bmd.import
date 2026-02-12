@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhhu78h6oiwgc"
+path="res://.godot/imported/grassfairy.bmd-f3acea2d997a64281c44d45ae9ed87bb.scn"
+
+[deps]
+
+source_file="res://Data/Item/grassfairy.bmd"
+dest_files=["res://.godot/imported/grassfairy.bmd-f3acea2d997a64281c44d45ae9ed87bb.scn"]
+
+[params]
+
+modelScale=0.01

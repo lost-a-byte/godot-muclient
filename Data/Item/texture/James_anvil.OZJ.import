@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt3uj2wqlcmks"
+path="res://.godot/imported/James_anvil.OZJ-abf63e88604bae4494d086fe661facfd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/James_anvil.OZJ"
+dest_files=["res://.godot/imported/James_anvil.OZJ-abf63e88604bae4494d086fe661facfd.res"]
+
+[params]
+

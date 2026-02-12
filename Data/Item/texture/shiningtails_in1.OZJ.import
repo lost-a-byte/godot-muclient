@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bomqlssgj1xhx"
+path="res://.godot/imported/shiningtails_in1.OZJ-9d33af865da733f86ede0a08e1b512f6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/shiningtails_in1.OZJ"
+dest_files=["res://.godot/imported/shiningtails_in1.OZJ-9d33af865da733f86ede0a08e1b512f6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drhd6tuvy3asp"
+path="res://.godot/imported/runemuun_cape.OZT-2f1b11b635d8653ff9943555b1f06007.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runemuun_cape.OZT"
+dest_files=["res://.godot/imported/runemuun_cape.OZT-2f1b11b635d8653ff9943555b1f06007.res"]
+
+[params]
+

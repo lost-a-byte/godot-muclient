@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://0o2en7c308el"
+path="res://.godot/imported/judgement_spear_a02.bmd-d1cd872e279bf1a80fc2c776c0cda1e6.scn"
+
+[deps]
+
+source_file="res://Data/Effect/judgement_spear_a02.bmd"
+dest_files=["res://.godot/imported/judgement_spear_a02.bmd-d1cd872e279bf1a80fc2c776c0cda1e6.scn"]
+
+[params]
+
+modelScale=0.01

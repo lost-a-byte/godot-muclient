@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnnfsmbsvmp2i"
+path="res://.godot/imported/brilliantbow_1.OZJ-767b27558a491bf1f2d9c38e2d5ace48.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/brilliantbow_1.OZJ"
+dest_files=["res://.godot/imported/brilliantbow_1.OZJ-767b27558a491bf1f2d9c38e2d5ace48.res"]
+
+[params]
+

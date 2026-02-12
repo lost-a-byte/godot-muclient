@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtb8wrgy2bl0d"
+path="res://.godot/imported/newui_Pet_HpBar.OZJ-9a033776fcb140becaba406508fd8705.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Pet_HpBar.OZJ"
+dest_files=["res://.godot/imported/newui_Pet_HpBar.OZJ-9a033776fcb140becaba406508fd8705.res"]
+
+[params]
+

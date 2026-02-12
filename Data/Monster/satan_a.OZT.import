@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpmnvua8gfhon"
+path="res://.godot/imported/satan_a.OZT-f9738dd57fc36da2326a72cc0f5fd332.res"
+
+[deps]
+
+source_file="res://Data/Monster/satan_a.OZT"
+dest_files=["res://.godot/imported/satan_a.OZT-f9738dd57fc36da2326a72cc0f5fd332.res"]
+
+[params]
+

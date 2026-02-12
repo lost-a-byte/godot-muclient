@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cm0yw7k0ilgey"
+path="res://.godot/imported/Corncoat_Goblin_Crystal.OZJ-99808d75b99b42c48550f47b98684d08.res"
+
+[deps]
+
+source_file="res://Data/Monster/Corncoat_Goblin_Crystal.OZJ"
+dest_files=["res://.godot/imported/Corncoat_Goblin_Crystal.OZJ-99808d75b99b42c48550f47b98684d08.res"]
+
+[params]
+

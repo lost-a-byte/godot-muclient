@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co8dlhuf5d44r"
+path="res://.godot/imported/lpo01.OZT-6d840075125e77cf7fb2b45783a353c0.res"
+
+[deps]
+
+source_file="res://Data/Monster/lpo01.OZT"
+dest_files=["res://.godot/imported/lpo01.OZT-6d840075125e77cf7fb2b45783a353c0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn5381bxmjpfh"
+path="res://.godot/imported/ursh_gold_overlay.OZJ-ce2e5ae70d6b3f2beeab3b4f1d40e2e5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ursh_gold_overlay.OZJ"
+dest_files=["res://.godot/imported/ursh_gold_overlay.OZJ-ce2e5ae70d6b3f2beeab3b4f1d40e2e5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhluem3ifbmtw"
+path="res://.godot/imported/exit_01.OZJ-376cbcd92c3ee2d46aadd8f91d459bab.res"
+
+[deps]
+
+source_file="res://Data/Interface/exit_01.OZJ"
+dest_files=["res://.godot/imported/exit_01.OZJ-376cbcd92c3ee2d46aadd8f91d459bab.res"]
+
+[params]
+

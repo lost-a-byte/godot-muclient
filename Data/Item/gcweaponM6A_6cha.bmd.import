@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3hs0buq54eep"
+path="res://.godot/imported/gcweaponM6A_6cha.bmd-33f66d90dee087bcbabafe8c0bc299ba.scn"
+
+[deps]
+
+source_file="res://Data/Item/gcweaponM6A_6cha.bmd"
+dest_files=["res://.godot/imported/gcweaponM6A_6cha.bmd-33f66d90dee087bcbabafe8c0bc299ba.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs5wh5mric2yg"
+path="res://.godot/imported/shindorubi.OZJ-d149a162ef6f0415e509949504748c6a.res"
+
+[deps]
+
+source_file="res://Data/Monster/shindorubi.OZJ"
+dest_files=["res://.godot/imported/shindorubi.OZJ-d149a162ef6f0415e509949504748c6a.res"]
+
+[params]
+

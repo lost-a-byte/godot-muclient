@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://t774ys2ttgn5"
+path="res://.godot/imported/imperial_magicbook_04.OZJ-6cd95248fa0b91bf8310b9b6151fd7e8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/imperial_magicbook_04.OZJ"
+dest_files=["res://.godot/imported/imperial_magicbook_04.OZJ-6cd95248fa0b91bf8310b9b6151fd7e8.res"]
+
+[params]
+

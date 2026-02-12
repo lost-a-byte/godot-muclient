@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0vypsaw1ip26"
+path="res://.godot/imported/OrepotOrc_Weapon.OZJ-04cb7af0972cb2791ce3974ccf7e7d52.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrepotOrc_Weapon.OZJ"
+dest_files=["res://.godot/imported/OrepotOrc_Weapon.OZJ-04cb7af0972cb2791ce3974ccf7e7d52.res"]
+
+[params]
+

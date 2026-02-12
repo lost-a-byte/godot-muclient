@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2gj0q7nrht1f"
+path="res://.godot/imported/mace_master02A.OZJ-09cb2e3fe84a9b05f9cf816040c680fa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mace_master02A.OZJ"
+dest_files=["res://.godot/imported/mace_master02A.OZJ-09cb2e3fe84a9b05f9cf816040c680fa.res"]
+
+[params]
+

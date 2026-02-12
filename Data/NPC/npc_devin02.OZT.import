@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cje6trmc82lkp"
+path="res://.godot/imported/npc_devin02.OZT-79ee6f3aad219381fcfeaaf50f459e1d.res"
+
+[deps]
+
+source_file="res://Data/NPC/npc_devin02.OZT"
+dest_files=["res://.godot/imported/npc_devin02.OZT-79ee6f3aad219381fcfeaaf50f459e1d.res"]
+
+[params]
+

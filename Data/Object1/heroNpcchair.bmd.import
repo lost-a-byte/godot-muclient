@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c60y4vopeq4ml"
+path="res://.godot/imported/heroNpcchair.bmd-9169b85c4e49e5d90ac718a4a0487bd3.scn"
+
+[deps]
+
+source_file="res://Data/Object1/heroNpcchair.bmd"
+dest_files=["res://.godot/imported/heroNpcchair.bmd-9169b85c4e49e5d90ac718a4a0487bd3.scn"]
+
+[params]
+
+modelScale=0.01

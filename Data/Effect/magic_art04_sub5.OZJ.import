@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbm4idtclynau"
+path="res://.godot/imported/magic_art04_sub5.OZJ-2cec9c74b4274f4c03ceaa29ad484e88.res"
+
+[deps]
+
+source_file="res://Data/Effect/magic_art04_sub5.OZJ"
+dest_files=["res://.godot/imported/magic_art04_sub5.OZJ-2cec9c74b4274f4c03ceaa29ad484e88.res"]
+
+[params]
+

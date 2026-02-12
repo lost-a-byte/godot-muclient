@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkbv6xjho6oya"
+path="res://.godot/imported/ra3wingC_renders.OZJ-71ebab4fa9e21b589580ca0eebb6d86d.res"
+
+[deps]
+
+source_file="res://Data/Effect/ra3wingC_renders.OZJ"
+dest_files=["res://.godot/imported/ra3wingC_renders.OZJ-71ebab4fa9e21b589580ca0eebb6d86d.res"]
+
+[params]
+

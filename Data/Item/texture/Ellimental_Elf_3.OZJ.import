@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bda64marr6lqv"
+path="res://.godot/imported/Ellimental_Elf_3.OZJ-ab885496f58d2391ab3a0f3701a3a590.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ellimental_Elf_3.OZJ"
+dest_files=["res://.godot/imported/Ellimental_Elf_3.OZJ-ab885496f58d2391ab3a0f3701a3a590.res"]
+
+[params]
+

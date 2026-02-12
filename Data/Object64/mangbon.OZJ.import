@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://colbi8pj6dxb"
+path="res://.godot/imported/mangbon.OZJ-092af98e0106b07fe4c1a0c05c1a3d6d.res"
+
+[deps]
+
+source_file="res://Data/Object64/mangbon.OZJ"
+dest_files=["res://.godot/imported/mangbon.OZJ-092af98e0106b07fe4c1a0c05c1a3d6d.res"]
+
+[params]
+

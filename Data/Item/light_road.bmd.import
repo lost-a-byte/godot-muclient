@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d06t325tjgjpf"
+path="res://.godot/imported/light_road.bmd-9d94bfbe697f7330171d282d5f3bcb1b.scn"
+
+[deps]
+
+source_file="res://Data/Item/light_road.bmd"
+dest_files=["res://.godot/imported/light_road.bmd-9d94bfbe697f7330171d282d5f3bcb1b.scn"]
+
+[params]
+
+modelScale=0.01

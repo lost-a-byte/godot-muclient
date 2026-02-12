@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c41jvtphf4aaj"
+path="res://.godot/imported/secromicon_piece.OZJ-6118ccb05f355a265ade116acef30cd1.res"
+
+[deps]
+
+source_file="res://Data/Item/secromicon_piece.OZJ"
+dest_files=["res://.godot/imported/secromicon_piece.OZJ-6118ccb05f355a265ade116acef30cd1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0jgegre6o05k"
+path="res://.godot/imported/Swordeff_Blue.OZJ-af30ffba40d46a0dc17f02a884e46ecb.res"
+
+[deps]
+
+source_file="res://Data/Effect/Swordeff_Blue.OZJ"
+dest_files=["res://.godot/imported/Swordeff_Blue.OZJ-af30ffba40d46a0dc17f02a884e46ecb.res"]
+
+[params]
+

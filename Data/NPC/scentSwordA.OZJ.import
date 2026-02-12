@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nue4uwfo11s4"
+path="res://.godot/imported/scentSwordA.OZJ-b8ed811fbd8b8b20a2be80d3ae041134.res"
+
+[deps]
+
+source_file="res://Data/NPC/scentSwordA.OZJ"
+dest_files=["res://.godot/imported/scentSwordA.OZJ-b8ed811fbd8b8b20a2be80d3ae041134.res"]
+
+[params]
+

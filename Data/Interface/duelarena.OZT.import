@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs761dlvayng1"
+path="res://.godot/imported/duelarena.OZT-d48877e24ca9e51ba7a2cd66ea19edf7.res"
+
+[deps]
+
+source_file="res://Data/Interface/duelarena.OZT"
+dest_files=["res://.godot/imported/duelarena.OZT-d48877e24ca9e51ba7a2cd66ea19edf7.res"]
+
+[params]
+

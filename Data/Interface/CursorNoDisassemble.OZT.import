@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jgr7qh4eapdc"
+path="res://.godot/imported/CursorNoDisassemble.OZT-57e0fae0899fb20a551b0ce6859db4ba.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorNoDisassemble.OZT"
+dest_files=["res://.godot/imported/CursorNoDisassemble.OZT-57e0fae0899fb20a551b0ce6859db4ba.res"]
+
+[params]
+

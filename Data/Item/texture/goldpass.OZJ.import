@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxc20yuyqblsh"
+path="res://.godot/imported/goldpass.OZJ-609dbd22bc1120de56d24cf3f04f51b2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/goldpass.OZJ"
+dest_files=["res://.godot/imported/goldpass.OZJ-609dbd22bc1120de56d24cf3f04f51b2.res"]
+
+[params]
+

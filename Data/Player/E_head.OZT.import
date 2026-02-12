@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtug6lbyjxaxs"
+path="res://.godot/imported/E_head.OZT-b445f6e7620a275939ce918e3ca6ebbe.res"
+
+[deps]
+
+source_file="res://Data/Player/E_head.OZT"
+dest_files=["res://.godot/imported/E_head.OZT-b445f6e7620a275939ce918e3ca6ebbe.res"]
+
+[params]
+

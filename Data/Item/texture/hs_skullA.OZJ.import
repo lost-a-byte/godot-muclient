@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uqr3yfe88c1x"
+path="res://.godot/imported/hs_skullA.OZJ-e7f9228818f27c8b39f9b3962f64025c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_skullA.OZJ"
+dest_files=["res://.godot/imported/hs_skullA.OZJ-e7f9228818f27c8b39f9b3962f64025c.res"]
+
+[params]
+

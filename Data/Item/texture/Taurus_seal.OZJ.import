@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lpg4bs535tlx"
+path="res://.godot/imported/Taurus_seal.OZJ-98d0e5112cc1343718ea9665ac82818c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Taurus_seal.OZJ"
+dest_files=["res://.godot/imported/Taurus_seal.OZJ-98d0e5112cc1343718ea9665ac82818c.res"]
+
+[params]
+

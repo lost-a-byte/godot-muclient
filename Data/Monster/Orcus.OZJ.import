@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpm66pph4s4dc"
+path="res://.godot/imported/Orcus.OZJ-073f6fcfdfc05ca8b6ed11bd1d080db6.res"
+
+[deps]
+
+source_file="res://Data/Monster/Orcus.OZJ"
+dest_files=["res://.godot/imported/Orcus.OZJ-073f6fcfdfc05ca8b6ed11bd1d080db6.res"]
+
+[params]
+

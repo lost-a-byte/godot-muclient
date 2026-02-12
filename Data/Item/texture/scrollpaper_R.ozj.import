@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bamn8v3wbn7p2"
+path="res://.godot/imported/scrollpaper_R.ozj-ca579ce0285c8d423f57c847cff93eca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/scrollpaper_R.ozj"
+dest_files=["res://.godot/imported/scrollpaper_R.ozj-ca579ce0285c8d423f57c847cff93eca.res"]
+
+[params]
+

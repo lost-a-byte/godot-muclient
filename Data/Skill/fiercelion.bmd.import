@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://561n8ufkuh2q"
+path="res://.godot/imported/fiercelion.bmd-76474b3ef7252c791ad3355e36671ad0.scn"
+
+[deps]
+
+source_file="res://Data/Skill/fiercelion.bmd"
+dest_files=["res://.godot/imported/fiercelion.bmd-76474b3ef7252c791ad3355e36671ad0.scn"]
+
+[params]
+
+modelScale=0.01

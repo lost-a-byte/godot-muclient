@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://q3jexeorbamn"
+path="res://.godot/imported/GloveMale130.bmd-98418b3d86f94746c41860137de8b3d8.scn"
+
+[deps]
+
+source_file="res://Data/Item/GloveMale130.bmd"
+dest_files=["res://.godot/imported/GloveMale130.bmd-98418b3d86f94746c41860137de8b3d8.scn"]
+
+[params]
+
+modelScale=0.01

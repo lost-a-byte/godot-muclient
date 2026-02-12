@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw4nwviju3urf"
+path="res://.godot/imported/New_black_knife_effects.OZJ-73fe8211dce509add127c993d97fda9b.res"
+
+[deps]
+
+source_file="res://Data/Effect/New_black_knife_effects.OZJ"
+dest_files=["res://.godot/imported/New_black_knife_effects.OZJ-73fe8211dce509add127c993d97fda9b.res"]
+
+[params]
+

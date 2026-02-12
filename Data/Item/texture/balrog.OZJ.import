@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dqh70744dr1ky"
+path="res://.godot/imported/balrog.OZJ-9b01544f2c44508d7ab8258dc9ade891.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/balrog.OZJ"
+dest_files=["res://.godot/imported/balrog.OZJ-9b01544f2c44508d7ab8258dc9ade891.res"]
+
+[params]
+

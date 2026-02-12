@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b01ju132ru63i"
+path="res://.godot/imported/splinterwolfef_R.OZJ-17847b98c0eea43cbb2cb495e8a5fca0.res"
+
+[deps]
+
+source_file="res://Data/Monster/splinterwolfef_R.OZJ"
+dest_files=["res://.godot/imported/splinterwolfef_R.OZJ-17847b98c0eea43cbb2cb495e8a5fca0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dntov0xi4w46j"
+path="res://.godot/imported/Deye.ozj-9f0ea4a02a8cecee3c48b671b83387f1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Deye.ozj"
+dest_files=["res://.godot/imported/Deye.ozj-9f0ea4a02a8cecee3c48b671b83387f1.res"]
+
+[params]
+

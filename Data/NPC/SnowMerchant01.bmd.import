@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0w8ninbxnh4w"
+path="res://.godot/imported/SnowMerchant01.bmd-051aac353a8e7dde114fcb25cce83764.scn"
+
+[deps]
+
+source_file="res://Data/NPC/SnowMerchant01.bmd"
+dest_files=["res://.godot/imported/SnowMerchant01.bmd-051aac353a8e7dde114fcb25cce83764.scn"]
+
+[params]
+
+modelScale=0.01

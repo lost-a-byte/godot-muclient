@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt4npmekm1pg"
+path="res://.godot/imported/bowmastery07_render.OZJ-9cae8090e791c61ad681c4de01257f0d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bowmastery07_render.OZJ"
+dest_files=["res://.godot/imported/bowmastery07_render.OZJ-9cae8090e791c61ad681c4de01257f0d.res"]
+
+[params]
+

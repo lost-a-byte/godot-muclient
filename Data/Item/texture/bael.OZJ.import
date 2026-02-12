@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddrbuadelxc8b"
+path="res://.godot/imported/bael.OZJ-4020cc6ef1dedb592c45b0ab4dd8900e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bael.OZJ"
+dest_files=["res://.godot/imported/bael.OZJ-4020cc6ef1dedb592c45b0ab4dd8900e.res"]
+
+[params]
+

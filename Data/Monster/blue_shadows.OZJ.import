@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccfgk6bu65pm6"
+path="res://.godot/imported/blue_shadows.OZJ-942fb0390e0f167469832ab9a85228b0.res"
+
+[deps]
+
+source_file="res://Data/Monster/blue_shadows.OZJ"
+dest_files=["res://.godot/imported/blue_shadows.OZJ-942fb0390e0f167469832ab9a85228b0.res"]
+
+[params]
+

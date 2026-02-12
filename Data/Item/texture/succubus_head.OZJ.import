@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhtw04i2351ou"
+path="res://.godot/imported/succubus_head.OZJ-945ea830414e7f84bf99520ee3627ce4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_head.OZJ"
+dest_files=["res://.godot/imported/succubus_head.OZJ-945ea830414e7f84bf99520ee3627ce4.res"]
+
+[params]
+

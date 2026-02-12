@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://u7v6peaaf8oo"
+path="res://.godot/imported/hs_FieldLighting01.OZJ-f99abbd6b38170325b19c0aa0d7b11f8.res"
+
+[deps]
+
+source_file="res://Data/Object144/hs_FieldLighting01.OZJ"
+dest_files=["res://.godot/imported/hs_FieldLighting01.OZJ-f99abbd6b38170325b19c0aa0d7b11f8.res"]
+
+[params]
+

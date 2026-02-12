@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://5v0qdgh2wde7"
+path="res://.godot/imported/DoppelCard.bmd-9aea12d155f65c6a7907679edca969af.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge8/DoppelCard.bmd"
+dest_files=["res://.godot/imported/DoppelCard.bmd-9aea12d155f65c6a7907679edca969af.scn"]
+
+[params]
+
+modelScale=0.01

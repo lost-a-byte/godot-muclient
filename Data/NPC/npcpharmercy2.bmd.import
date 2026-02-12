@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bqr8pt2b7gak"
+path="res://.godot/imported/npcpharmercy2.bmd-dcbcdc8506310b9aa1b9cc0c71bc5fe6.scn"
+
+[deps]
+
+source_file="res://Data/NPC/npcpharmercy2.bmd"
+dest_files=["res://.godot/imported/npcpharmercy2.bmd-dcbcdc8506310b9aa1b9cc0c71bc5fe6.scn"]
+
+[params]
+
+modelScale=0.01

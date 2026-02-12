@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhsripfk2we46"
+path="res://.godot/imported/SCOLPIO_Normal.OZJ-bf612446a19338366007d42b6b5279d8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SCOLPIO_Normal.OZJ"
+dest_files=["res://.godot/imported/SCOLPIO_Normal.OZJ-bf612446a19338366007d42b6b5279d8.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://di7y0ibtenhxc"
+path="res://.godot/imported/big_magiction_body.OZT-de55661bc5d9849e4967501f9b50ce86.res"
+
+[deps]
+
+source_file="res://Data/Monster/big_magiction_body.OZT"
+dest_files=["res://.godot/imported/big_magiction_body.OZT-de55661bc5d9849e4967501f9b50ce86.res"]
+
+[params]
+

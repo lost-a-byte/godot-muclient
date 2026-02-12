@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4ywpweftunww"
+path="res://.godot/imported/ground_wind2.OZJ-1717373c2e13c0a93e7655b453c40ced.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ground_wind2.OZJ"
+dest_files=["res://.godot/imported/ground_wind2.OZJ-1717373c2e13c0a93e7655b453c40ced.res"]
+
+[params]
+

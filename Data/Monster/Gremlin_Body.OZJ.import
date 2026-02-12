@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4dmci7bvuqr5"
+path="res://.godot/imported/Gremlin_Body.OZJ-cb91dc9ce20aea5d9491ed94a087ce69.res"
+
+[deps]
+
+source_file="res://Data/Monster/Gremlin_Body.OZJ"
+dest_files=["res://.godot/imported/Gremlin_Body.OZJ-cb91dc9ce20aea5d9491ed94a087ce69.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crex1b7rtebah"
+path="res://.godot/imported/blue_eye_b.OZJ-2bdf85f7e9c5d04b42519968bb16af90.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blue_eye_b.OZJ"
+dest_files=["res://.godot/imported/blue_eye_b.OZJ-2bdf85f7e9c5d04b42519968bb16af90.res"]
+
+[params]
+

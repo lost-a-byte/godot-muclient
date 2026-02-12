@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxxgc3shscn1r"
+path="res://.godot/imported/smoke01.OZJ-03969759493d204e7d2752e932f1c216.res"
+
+[deps]
+
+source_file="res://Data/Effect/smoke01.OZJ"
+dest_files=["res://.godot/imported/smoke01.OZJ-03969759493d204e7d2752e932f1c216.res"]
+
+[params]
+

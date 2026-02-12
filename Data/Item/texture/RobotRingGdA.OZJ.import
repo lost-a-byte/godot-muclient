@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cci5t3it345n2"
+path="res://.godot/imported/RobotRingGdA.OZJ-fbf390fd62fd94d10a45ebd0cc67a988.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RobotRingGdA.OZJ"
+dest_files=["res://.godot/imported/RobotRingGdA.OZJ-fbf390fd62fd94d10a45ebd0cc67a988.res"]
+
+[params]
+

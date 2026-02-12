@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://baik823uammd6"
+path="res://.godot/imported/Third_Alchemist_wing_03.OZJ-803b9e5eebfb6e393957fa0535a98b5d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Third_Alchemist_wing_03.OZJ"
+dest_files=["res://.godot/imported/Third_Alchemist_wing_03.OZJ-803b9e5eebfb6e393957fa0535a98b5d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f8yq24vhedrb"
+path="res://.godot/imported/hs_littlecupidA01.OZJ-fec609b64f0efbc9d3fcf2517547bc88.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_littlecupidA01.OZJ"
+dest_files=["res://.godot/imported/hs_littlecupidA01.OZJ-fec609b64f0efbc9d3fcf2517547bc88.res"]
+
+[params]
+

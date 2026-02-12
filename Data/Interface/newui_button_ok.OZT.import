@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dn2y5dt0p5td"
+path="res://.godot/imported/newui_button_ok.OZT-5a33a6336ab6102f2de38792646ba980.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_button_ok.OZT"
+dest_files=["res://.godot/imported/newui_button_ok.OZT-5a33a6336ab6102f2de38792646ba980.res"]
+
+[params]
+

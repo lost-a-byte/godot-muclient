@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpdt4wnj7wdnc"
+path="res://.godot/imported/BDrillmaster_weapon_blackrender.OZJ-e575392a830003e0b215bc9e92694e32.res"
+
+[deps]
+
+source_file="res://Data/Monster/BDrillmaster_weapon_blackrender.OZJ"
+dest_files=["res://.godot/imported/BDrillmaster_weapon_blackrender.OZJ-e575392a830003e0b215bc9e92694e32.res"]
+
+[params]
+

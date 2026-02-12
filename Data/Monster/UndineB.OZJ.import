@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvlscwxvshuas"
+path="res://.godot/imported/UndineB.OZJ-760ecac47bd438cd6a3ae3b7911b4b93.res"
+
+[deps]
+
+source_file="res://Data/Monster/UndineB.OZJ"
+dest_files=["res://.godot/imported/UndineB.OZJ-760ecac47bd438cd6a3ae3b7911b4b93.res"]
+
+[params]
+

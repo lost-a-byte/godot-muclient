@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwcf8qqmla7a6"
+path="res://.godot/imported/HS_ObeliskC02B.OZJ-99799c6b51fc1dbc9ba9d89c7306794f.res"
+
+[deps]
+
+source_file="res://Data/Monster/HS_ObeliskC02B.OZJ"
+dest_files=["res://.godot/imported/HS_ObeliskC02B.OZJ-99799c6b51fc1dbc9ba9d89c7306794f.res"]
+
+[params]
+

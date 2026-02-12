@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpwiarwc63q8u"
+path="res://.godot/imported/MDHsword1a.OZJ-7c26632e67c21459a422ee22af87bc23.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MDHsword1a.OZJ"
+dest_files=["res://.godot/imported/MDHsword1a.OZJ-7c26632e67c21459a422ee22af87bc23.res"]
+
+[params]
+

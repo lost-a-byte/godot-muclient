@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5veghn1x01ss"
+path="res://.godot/imported/win_resize.OZT-38c789aa948025517a848a9e4c3c7336.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_resize.OZT"
+dest_files=["res://.godot/imported/win_resize.OZT-38c789aa948025517a848a9e4c3c7336.res"]
+
+[params]
+

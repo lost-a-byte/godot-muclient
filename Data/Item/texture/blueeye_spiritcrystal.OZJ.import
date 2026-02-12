@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4vifbexvf5yb"
+path="res://.godot/imported/blueeye_spiritcrystal.OZJ-57fb40a57e42d3499d77cd294a62d436.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blueeye_spiritcrystal.OZJ"
+dest_files=["res://.godot/imported/blueeye_spiritcrystal.OZJ-57fb40a57e42d3499d77cd294a62d436.res"]
+
+[params]
+

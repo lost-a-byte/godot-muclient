@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfopi3y6woval"
+path="res://.godot/imported/Imperial_lance.bmd-2ccc3c1ecbf5c8628c1c296643cbcb84.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_lance.bmd"
+dest_files=["res://.godot/imported/Imperial_lance.bmd-2ccc3c1ecbf5c8628c1c296643cbcb84.scn"]
+
+[params]
+
+modelScale=0.01

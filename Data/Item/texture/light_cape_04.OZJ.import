@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bya27uoju062n"
+path="res://.godot/imported/light_cape_04.OZJ-b803667b580537ee8a23d56b6dbb0795.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/light_cape_04.OZJ"
+dest_files=["res://.godot/imported/light_cape_04.OZJ-b803667b580537ee8a23d56b6dbb0795.res"]
+
+[params]
+

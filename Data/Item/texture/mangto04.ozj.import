@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqqg6chlbuoho"
+path="res://.godot/imported/mangto04.ozj-a180278b8685262c4de56f1ac6e226d4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mangto04.ozj"
+dest_files=["res://.godot/imported/mangto04.ozj-a180278b8685262c4de56f1ac6e226d4.res"]
+
+[params]
+

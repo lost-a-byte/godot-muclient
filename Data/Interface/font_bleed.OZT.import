@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctp7hlahb0q12"
+path="res://.godot/imported/font_bleed.OZT-2af25ea034e99a1ef82c6ba5216336b9.res"
+
+[deps]
+
+source_file="res://Data/Interface/font_bleed.OZT"
+dest_files=["res://.godot/imported/font_bleed.OZT-2af25ea034e99a1ef82c6ba5216336b9.res"]
+
+[params]
+

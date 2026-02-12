@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8vyb31lckec3"
+path="res://.godot/imported/mommybearUp.bmd-2585f6a9db6295dc1eb02c8c593dc446.scn"
+
+[deps]
+
+source_file="res://Data/Item/mommybearUp.bmd"
+dest_files=["res://.godot/imported/mommybearUp.bmd-2585f6a9db6295dc1eb02c8c593dc446.scn"]
+
+[params]
+
+modelScale=0.01

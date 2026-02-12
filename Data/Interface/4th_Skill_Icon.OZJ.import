@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://78cf8mrr1f8o"
+path="res://.godot/imported/4th_Skill_Icon.OZJ-28f66cc04f5daa81378c9898d2b70b93.res"
+
+[deps]
+
+source_file="res://Data/Interface/4th_Skill_Icon.OZJ"
+dest_files=["res://.godot/imported/4th_Skill_Icon.OZJ-28f66cc04f5daa81378c9898d2b70b93.res"]
+
+[params]
+

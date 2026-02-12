@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mgiysol6b5vd"
+path="res://.godot/imported/swallrune.OZJ-cd2855399b1ac9f4532e6baf6c12809a.res"
+
+[deps]
+
+source_file="res://Data/Skill/swallrune.OZJ"
+dest_files=["res://.godot/imported/swallrune.OZJ-cd2855399b1ac9f4532e6baf6c12809a.res"]
+
+[params]
+

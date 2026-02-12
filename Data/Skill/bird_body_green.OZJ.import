@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ofltitnbsgps"
+path="res://.godot/imported/bird_body_green.OZJ-6fdf0535071724b717f20b3bb7d83288.res"
+
+[deps]
+
+source_file="res://Data/Skill/bird_body_green.OZJ"
+dest_files=["res://.godot/imported/bird_body_green.OZJ-6fdf0535071724b717f20b3bb7d83288.res"]
+
+[params]
+

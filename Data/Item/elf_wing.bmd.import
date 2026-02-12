@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0u5yx4tpe06c"
+path="res://.godot/imported/elf_wing.bmd-f53b0cd832a5b92073dffd069043c32b.scn"
+
+[deps]
+
+source_file="res://Data/Item/elf_wing.bmd"
+dest_files=["res://.godot/imported/elf_wing.bmd-f53b0cd832a5b92073dffd069043c32b.scn"]
+
+[params]
+
+modelScale=0.01

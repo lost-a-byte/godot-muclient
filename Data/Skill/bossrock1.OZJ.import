@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2l3lyljx0yj4"
+path="res://.godot/imported/bossrock1.OZJ-0d59d103c928e424dc7bcbf7167a0be2.res"
+
+[deps]
+
+source_file="res://Data/Skill/bossrock1.OZJ"
+dest_files=["res://.godot/imported/bossrock1.OZJ-0d59d103c928e424dc7bcbf7167a0be2.res"]
+
+[params]
+

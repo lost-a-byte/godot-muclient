@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj8nms7gpxpc7"
+path="res://.godot/imported/desk_big.OZJ-367916c375df3397840a21a63cccef19.res"
+
+[deps]
+
+source_file="res://Data/NPC/desk_big.OZJ"
+dest_files=["res://.godot/imported/desk_big.OZJ-367916c375df3397840a21a63cccef19.res"]
+
+[params]
+

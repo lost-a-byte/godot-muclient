@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0kxq37lwbe3x"
+path="res://.godot/imported/mutantile_fire.OZJ-01a9dea9b33e0a791f5612086b48eff2.res"
+
+[deps]
+
+source_file="res://Data/Monster/mutantile_fire.OZJ"
+dest_files=["res://.godot/imported/mutantile_fire.OZJ-01a9dea9b33e0a791f5612086b48eff2.res"]
+
+[params]
+

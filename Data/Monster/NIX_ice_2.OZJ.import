@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://it1sct7j17j4"
+path="res://.godot/imported/NIX_ice_2.OZJ-16ae3b27ec16a0e0de16538fe090e163.res"
+
+[deps]
+
+source_file="res://Data/Monster/NIX_ice_2.OZJ"
+dest_files=["res://.godot/imported/NIX_ice_2.OZJ-16ae3b27ec16a0e0de16538fe090e163.res"]
+
+[params]
+

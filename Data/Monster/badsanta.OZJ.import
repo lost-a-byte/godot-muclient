@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nd5difvoymax"
+path="res://.godot/imported/badsanta.OZJ-4d9c8c24b3212c12c1ec69e9b40a29fd.res"
+
+[deps]
+
+source_file="res://Data/Monster/badsanta.OZJ"
+dest_files=["res://.godot/imported/badsanta.OZJ-4d9c8c24b3212c12c1ec69e9b40a29fd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6olqd7fqxsrb"
+path="res://.godot/imported/forest_legs.ozj-8afa2edc1fa46d2586631b6ec5ef68fd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/forest_legs.ozj"
+dest_files=["res://.godot/imported/forest_legs.ozj-8afa2edc1fa46d2586631b6ec5ef68fd.res"]
+
+[params]
+

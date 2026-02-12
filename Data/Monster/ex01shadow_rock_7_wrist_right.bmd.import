@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://2ntv2ihps6dt"
+path="res://.godot/imported/ex01shadow_rock_7_wrist_right.bmd-4679b3dc0341d6d4a34f5ae9b14e9ff5.scn"
+
+[deps]
+
+source_file="res://Data/Monster/ex01shadow_rock_7_wrist_right.bmd"
+dest_files=["res://.godot/imported/ex01shadow_rock_7_wrist_right.bmd-4679b3dc0341d6d4a34f5ae9b14e9ff5.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byuqeiili6o0d"
+path="res://.godot/imported/reagon_waterspout.OZJ-ac29c0f638e6440dad3f13d8eefc9ac1.res"
+
+[deps]
+
+source_file="res://Data/Object1/reagon_waterspout.OZJ"
+dest_files=["res://.godot/imported/reagon_waterspout.OZJ-ac29c0f638e6440dad3f13d8eefc9ac1.res"]
+
+[params]
+

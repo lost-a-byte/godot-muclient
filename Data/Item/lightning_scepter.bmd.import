@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3svud0auk66"
+path="res://.godot/imported/lightning_scepter.bmd-8eda60ad0ea1bc40802e05c2ce82a661.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_scepter.bmd"
+dest_files=["res://.godot/imported/lightning_scepter.bmd-8eda60ad0ea1bc40802e05c2ce82a661.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bgsjygopuvguq"
+path="res://.godot/imported/spin_cross.bmd-55340a2f29545be459f4a9c9a487d77c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/spin_cross.bmd"
+dest_files=["res://.godot/imported/spin_cross.bmd-55340a2f29545be459f4a9c9a487d77c.scn"]
+
+[params]
+
+modelScale=0.01

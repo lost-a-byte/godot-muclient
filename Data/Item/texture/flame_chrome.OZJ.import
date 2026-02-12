@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dy55eqi7jwxkf"
+path="res://.godot/imported/flame_chrome.OZJ-7ed7f869810fe6a5547a90a5ed420381.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/flame_chrome.OZJ"
+dest_files=["res://.godot/imported/flame_chrome.OZJ-7ed7f869810fe6a5547a90a5ed420381.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://br34fkv6opocn"
+path="res://.godot/imported/Ring02.bmd-4acec28a74a58b81cf7806e67ecd8421.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ring02.bmd"
+dest_files=["res://.godot/imported/Ring02.bmd-4acec28a74a58b81cf7806e67ecd8421.scn"]
+
+[params]
+
+modelScale=0.01

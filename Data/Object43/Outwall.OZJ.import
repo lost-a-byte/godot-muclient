@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3at2i7ws1m4"
+path="res://.godot/imported/Outwall.OZJ-95c1ddc9c88656c441636a51f3aa138f.res"
+
+[deps]
+
+source_file="res://Data/Object43/Outwall.OZJ"
+dest_files=["res://.godot/imported/Outwall.OZJ-95c1ddc9c88656c441636a51f3aa138f.res"]
+
+[params]
+

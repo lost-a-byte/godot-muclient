@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://caem6k02a2y6y"
+path="res://.godot/imported/icewall01.OZJ-1b21f79c890c07b7015c98fa8153e6f1.res"
+
+[deps]
+
+source_file="res://Data/Object58/icewall01.OZJ"
+dest_files=["res://.godot/imported/icewall01.OZJ-1b21f79c890c07b7015c98fa8153e6f1.res"]
+
+[params]
+

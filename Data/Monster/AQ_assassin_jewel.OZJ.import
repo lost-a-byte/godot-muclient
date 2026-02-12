@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co5tvil7m2ua1"
+path="res://.godot/imported/AQ_assassin_jewel.OZJ-72852ce4b64d794d24bcb94898f00d6e.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_assassin_jewel.OZJ"
+dest_files=["res://.godot/imported/AQ_assassin_jewel.OZJ-72852ce4b64d794d24bcb94898f00d6e.res"]
+
+[params]
+

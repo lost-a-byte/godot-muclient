@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djx27agn3nhh"
+path="res://.godot/imported/ingame_Bt01.OZT-6e5661cd52a472f7b94215bb71aa6656.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Bt01.OZT"
+dest_files=["res://.godot/imported/ingame_Bt01.OZT-6e5661cd52a472f7b94215bb71aa6656.res"]
+
+[params]
+

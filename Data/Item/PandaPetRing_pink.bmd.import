@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cao2qgjg44wio"
+path="res://.godot/imported/PandaPetRing_pink.bmd-76fd1088b8525971a0e002a73f8de496.scn"
+
+[deps]
+
+source_file="res://Data/Item/PandaPetRing_pink.bmd"
+dest_files=["res://.godot/imported/PandaPetRing_pink.bmd-76fd1088b8525971a0e002a73f8de496.scn"]
+
+[params]
+
+modelScale=0.01

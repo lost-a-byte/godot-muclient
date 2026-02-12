@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4k275callbsw"
+path="res://.godot/imported/eunice_skin.OZJ-300f314fb5e97593ac1275727164d418.res"
+
+[deps]
+
+source_file="res://Data/NPC/eunice_skin.OZJ"
+dest_files=["res://.godot/imported/eunice_skin.OZJ-300f314fb5e97593ac1275727164d418.res"]
+
+[params]
+

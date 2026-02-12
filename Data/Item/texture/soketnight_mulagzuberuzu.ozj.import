@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2mr7gc20gnpi"
+path="res://.godot/imported/soketnight_mulagzuberuzu.ozj-d902e2d5b447737de611b529d812598e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soketnight_mulagzuberuzu.ozj"
+dest_files=["res://.godot/imported/soketnight_mulagzuberuzu.ozj-d902e2d5b447737de611b529d812598e.res"]
+
+[params]
+

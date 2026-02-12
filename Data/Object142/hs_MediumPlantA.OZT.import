@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1b0f12fumi85"
+path="res://.godot/imported/hs_MediumPlantA.OZT-f3ac596dd5f4b9c51bb99dcccd68c215.res"
+
+[deps]
+
+source_file="res://Data/Object142/hs_MediumPlantA.OZT"
+dest_files=["res://.godot/imported/hs_MediumPlantA.OZT-f3ac596dd5f4b9c51bb99dcccd68c215.res"]
+
+[params]
+

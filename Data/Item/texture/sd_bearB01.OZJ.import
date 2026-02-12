@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clfkreuf8ymjy"
+path="res://.godot/imported/sd_bearB01.OZJ-e3bd0efa4a364262b4559c5ae36c6c74.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_bearB01.OZJ"
+dest_files=["res://.godot/imported/sd_bearB01.OZJ-e3bd0efa4a364262b4559c5ae36c6c74.res"]
+
+[params]
+

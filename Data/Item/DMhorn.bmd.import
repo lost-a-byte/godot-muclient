@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccdu4djr18rlx"
+path="res://.godot/imported/DMhorn.bmd-33e2134734cac609ddc76a1dc0dcdc1a.scn"
+
+[deps]
+
+source_file="res://Data/Item/DMhorn.bmd"
+dest_files=["res://.godot/imported/DMhorn.bmd-33e2134734cac609ddc76a1dc0dcdc1a.scn"]
+
+[params]
+
+modelScale=0.01

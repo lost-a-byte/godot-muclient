@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7cwlx15xwwoc"
+path="res://.godot/imported/DoungeonGate01.bmd-cd3cda2bc805250220634953e7012e7b.scn"
+
+[deps]
+
+source_file="res://Data/Object1/DoungeonGate01.bmd"
+dest_files=["res://.godot/imported/DoungeonGate01.bmd-cd3cda2bc805250220634953e7012e7b.scn"]
+
+[params]
+
+modelScale=0.01

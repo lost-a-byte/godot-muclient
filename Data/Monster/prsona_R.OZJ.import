@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bi154wnuap6xv"
+path="res://.godot/imported/prsona_R.OZJ-514e70345bc23a8d9563944c743ecc67.res"
+
+[deps]
+
+source_file="res://Data/Monster/prsona_R.OZJ"
+dest_files=["res://.godot/imported/prsona_R.OZJ-514e70345bc23a8d9563944c743ecc67.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cemhu6mof7h8n"
+path="res://.godot/imported/monmarkora.OZT-ef478f964d8c96bf363e6d1a2a50b5cc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/monmarkora.OZT"
+dest_files=["res://.godot/imported/monmarkora.OZT-ef478f964d8c96bf363e6d1a2a50b5cc.res"]
+
+[params]
+

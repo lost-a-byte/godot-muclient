@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://duwublicphgo3"
+path="res://.godot/imported/CGshield_a.ozj-b89cbe70d78cba52d5c226ed21128af0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CGshield_a.ozj"
+dest_files=["res://.godot/imported/CGshield_a.ozj-b89cbe70d78cba52d5c226ed21128af0.res"]
+
+[params]
+

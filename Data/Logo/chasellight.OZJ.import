@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dspt76xlihaid"
+path="res://.godot/imported/chasellight.OZJ-037f836f0d17fe9d60e6e7e2bae902c7.res"
+
+[deps]
+
+source_file="res://Data/Logo/chasellight.OZJ"
+dest_files=["res://.godot/imported/chasellight.OZJ-037f836f0d17fe9d60e6e7e2bae902c7.res"]
+
+[params]
+

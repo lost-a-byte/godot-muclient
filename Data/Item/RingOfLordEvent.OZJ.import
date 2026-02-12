@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddvkr8qenco4u"
+path="res://.godot/imported/RingOfLordEvent.OZJ-b2f4c4f7f079034f4f8eebf3c57c82ae.res"
+
+[deps]
+
+source_file="res://Data/Item/RingOfLordEvent.OZJ"
+dest_files=["res://.godot/imported/RingOfLordEvent.OZJ-b2f4c4f7f079034f4f8eebf3c57c82ae.res"]
+
+[params]
+

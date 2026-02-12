@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8mbktlqc47at"
+path="res://.godot/imported/grandmark.OZJ-9d32bc083139272a77373b65d4d2ae3d.res"
+
+[deps]
+
+source_file="res://Data/Effect/grandmark.OZJ"
+dest_files=["res://.godot/imported/grandmark.OZJ-9d32bc083139272a77373b65d4d2ae3d.res"]
+
+[params]
+

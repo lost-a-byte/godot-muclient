@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bimkh6eedgpud"
+path="res://.godot/imported/BigStone02.bmd-d3ad86da4c5a685debe771717009faa0.scn"
+
+[deps]
+
+source_file="res://Data/Skill/BigStone02.bmd"
+dest_files=["res://.godot/imported/BigStone02.bmd-d3ad86da4c5a685debe771717009faa0.scn"]
+
+[params]
+
+modelScale=0.01

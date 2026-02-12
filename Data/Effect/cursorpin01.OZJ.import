@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drx3n6if0ntq0"
+path="res://.godot/imported/cursorpin01.OZJ-1c38f44d111d9f40ec576ff3192d912e.res"
+
+[deps]
+
+source_file="res://Data/Effect/cursorpin01.OZJ"
+dest_files=["res://.godot/imported/cursorpin01.OZJ-1c38f44d111d9f40ec576ff3192d912e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsy7vpcdhxwuo"
+path="res://.godot/imported/pumpkincup_r.OZJ-fc42fd7b76e2c7323fdd36d416f1369f.res"
+
+[deps]
+
+source_file="res://Data/Item/pumpkincup_r.OZJ"
+dest_files=["res://.godot/imported/pumpkincup_r.OZJ-fc42fd7b76e2c7323fdd36d416f1369f.res"]
+
+[params]
+

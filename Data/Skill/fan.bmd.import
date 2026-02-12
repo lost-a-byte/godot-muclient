@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c8y8tffxw8cc6"
+path="res://.godot/imported/fan.bmd-daea5f3ae424460ccbb0ed770d74bd80.scn"
+
+[deps]
+
+source_file="res://Data/Skill/fan.bmd"
+dest_files=["res://.godot/imported/fan.bmd-daea5f3ae424460ccbb0ed770d74bd80.scn"]
+
+[params]
+
+modelScale=0.01

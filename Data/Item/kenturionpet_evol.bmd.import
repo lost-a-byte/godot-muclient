@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://8ngokro0gl1p"
+path="res://.godot/imported/kenturionpet_evol.bmd-ee9eb54b23f1214d9122cd318b948a8d.scn"
+
+[deps]
+
+source_file="res://Data/Item/kenturionpet_evol.bmd"
+dest_files=["res://.godot/imported/kenturionpet_evol.bmd-ee9eb54b23f1214d9122cd318b948a8d.scn"]
+
+[params]
+
+modelScale=0.01

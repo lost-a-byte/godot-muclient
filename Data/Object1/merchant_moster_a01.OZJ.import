@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brqvltt4dfov"
+path="res://.godot/imported/merchant_moster_a01.OZJ-8467c27bb14ca709f7bb4d6c50bc9968.res"
+
+[deps]
+
+source_file="res://Data/Object1/merchant_moster_a01.OZJ"
+dest_files=["res://.godot/imported/merchant_moster_a01.OZJ-8467c27bb14ca709f7bb4d6c50bc9968.res"]
+
+[params]
+

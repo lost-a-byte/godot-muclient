@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnxikb6efl76"
+path="res://.godot/imported/cratered_render.OZJ-58a82ae88ba26da69054e2e2130e9f15.res"
+
+[deps]
+
+source_file="res://Data/Skill/cratered_render.OZJ"
+dest_files=["res://.godot/imported/cratered_render.OZJ-58a82ae88ba26da69054e2e2130e9f15.res"]
+
+[params]
+

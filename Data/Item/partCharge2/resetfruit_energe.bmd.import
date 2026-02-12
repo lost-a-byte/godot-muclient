@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1d3yp865815g"
+path="res://.godot/imported/resetfruit_energe.bmd-ad6844f9ae2bfa4cebe453f51eb98e70.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/resetfruit_energe.bmd"
+dest_files=["res://.godot/imported/resetfruit_energe.bmd-ad6844f9ae2bfa4cebe453f51eb98e70.scn"]
+
+[params]
+
+modelScale=0.01

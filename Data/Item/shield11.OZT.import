@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcm42htyro4u0"
+path="res://.godot/imported/shield11.OZT-34a27abcaceae044c775ec784a1772ca.res"
+
+[deps]
+
+source_file="res://Data/Item/shield11.OZT"
+dest_files=["res://.godot/imported/shield11.OZT-34a27abcaceae044c775ec784a1772ca.res"]
+
+[params]
+

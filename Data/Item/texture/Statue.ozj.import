@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxpa8c1qowm6p"
+path="res://.godot/imported/Statue.ozj-2c8df970dafa18968e0e68951f00a3f3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Statue.ozj"
+dest_files=["res://.godot/imported/Statue.ozj-2c8df970dafa18968e0e68951f00a3f3.res"]
+
+[params]
+

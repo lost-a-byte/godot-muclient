@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buj84ra8ufyy"
+path="res://.godot/imported/hs_arris04_render.OZJ-6bacf2dc3f1504069c8ed7ff983dfcdf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_arris04_render.OZJ"
+dest_files=["res://.godot/imported/hs_arris04_render.OZJ-6bacf2dc3f1504069c8ed7ff983dfcdf.res"]
+
+[params]
+

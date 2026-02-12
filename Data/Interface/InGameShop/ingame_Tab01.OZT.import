@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://db7at8i43gbgr"
+path="res://.godot/imported/ingame_Tab01.OZT-655644e5e7237a9420f09e79915cd457.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Tab01.OZT"
+dest_files=["res://.godot/imported/ingame_Tab01.OZT-655644e5e7237a9420f09e79915cd457.res"]
+
+[params]
+

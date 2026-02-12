@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpsr1i1ykdtf"
+path="res://.godot/imported/snow_p.OZJ-810b8bd218d4215c301ac37f6c523633.res"
+
+[deps]
+
+source_file="res://Data/Skill/snow_p.OZJ"
+dest_files=["res://.godot/imported/snow_p.OZJ-810b8bd218d4215c301ac37f6c523633.res"]
+
+[params]
+

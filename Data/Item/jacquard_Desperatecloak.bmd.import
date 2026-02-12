@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8djb6kh2yv7i"
+path="res://.godot/imported/jacquard_Desperatecloak.bmd-86d6fa0b1b09feedd38a0d04feb41612.scn"
+
+[deps]
+
+source_file="res://Data/Item/jacquard_Desperatecloak.bmd"
+dest_files=["res://.godot/imported/jacquard_Desperatecloak.bmd-86d6fa0b1b09feedd38a0d04feb41612.scn"]
+
+[params]
+
+modelScale=0.01

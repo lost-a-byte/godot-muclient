@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qi4u54lsd4jw"
+path="res://.godot/imported/TheOneStickBlue.OZJ-ae1beea5fea24fba6ea4b4f2b6d17aad.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TheOneStickBlue.OZJ"
+dest_files=["res://.godot/imported/TheOneStickBlue.OZJ-ae1beea5fea24fba6ea4b4f2b6d17aad.res"]
+
+[params]
+

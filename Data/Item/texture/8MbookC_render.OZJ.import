@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt7g5to3w0d8a"
+path="res://.godot/imported/8MbookC_render.OZJ-cee1a608b85f8fa93aaed35701bc85bd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/8MbookC_render.OZJ"
+dest_files=["res://.godot/imported/8MbookC_render.OZJ-cee1a608b85f8fa93aaed35701bc85bd.res"]
+
+[params]
+

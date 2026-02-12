@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c68dti7p72lvu"
+path="res://.godot/imported/squid01.OZJ-5f599f7366062b8ecf6d0c76704cd11c.res"
+
+[deps]
+
+source_file="res://Data/Object120/squid01.OZJ"
+dest_files=["res://.godot/imported/squid01.OZJ-5f599f7366062b8ecf6d0c76704cd11c.res"]
+
+[params]
+

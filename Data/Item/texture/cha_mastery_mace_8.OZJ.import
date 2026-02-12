@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfygodniqcbge"
+path="res://.godot/imported/cha_mastery_mace_8.OZJ-9ce7e9e05efdfb65a714810bc98822ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cha_mastery_mace_8.OZJ"
+dest_files=["res://.godot/imported/cha_mastery_mace_8.OZJ-9ce7e9e05efdfb65a714810bc98822ea.res"]
+
+[params]
+

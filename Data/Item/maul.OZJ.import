@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://88302gji5hg2"
+path="res://.godot/imported/maul.OZJ-5f7ce7cabb47ee57517bc80e59d8e2f3.res"
+
+[deps]
+
+source_file="res://Data/Item/maul.OZJ"
+dest_files=["res://.godot/imported/maul.OZJ-5f7ce7cabb47ee57517bc80e59d8e2f3.res"]
+
+[params]
+

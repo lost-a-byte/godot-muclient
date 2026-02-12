@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgxa4wewpgfam"
+path="res://.godot/imported/chaos_amulet_blueeye.OZJ-14aba5f04498174659f6d66912926480.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_blueeye.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_blueeye.OZJ-14aba5f04498174659f6d66912926480.res"]
+
+[params]
+

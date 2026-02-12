@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pi2mltcgayw3"
+path="res://.godot/imported/blessedabsoluteclaw_render.OZJ-f05fb1804849571816f04cd22eb0cf41.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blessedabsoluteclaw_render.OZJ"
+dest_files=["res://.godot/imported/blessedabsoluteclaw_render.OZJ-f05fb1804849571816f04cd22eb0cf41.res"]
+
+[params]
+

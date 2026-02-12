@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://8jrbuwvcl8h0"
+path="res://.godot/imported/bell_armortest.bmd-1f8ef6effd65e3c9bc7b3bc005cc4889.scn"
+
+[deps]
+
+source_file="res://Data/Item/bell_armortest.bmd"
+dest_files=["res://.godot/imported/bell_armortest.bmd-1f8ef6effd65e3c9bc7b3bc005cc4889.scn"]
+
+[params]
+
+modelScale=0.01

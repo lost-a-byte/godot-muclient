@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://i1vc32i7jy5s"
+path="res://.godot/imported/blastbreaknal.OZJ-c8d493f4339b897eb8875be770ba4cfb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blastbreaknal.OZJ"
+dest_files=["res://.godot/imported/blastbreaknal.OZJ-c8d493f4339b897eb8875be770ba4cfb.res"]
+
+[params]
+

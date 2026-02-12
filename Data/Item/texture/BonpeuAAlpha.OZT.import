@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6ij0tgbja855"
+path="res://.godot/imported/BonpeuAAlpha.OZT-f0cd0fa8ba603a142a7954d3ebfb751a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BonpeuAAlpha.OZT"
+dest_files=["res://.godot/imported/BonpeuAAlpha.OZT-f0cd0fa8ba603a142a7954d3ebfb751a.res"]
+
+[params]
+

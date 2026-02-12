@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dw24g35fibbhf"
+path="res://.godot/imported/bloodblade_2.OZJ-14abd6b776d681e65ebd340230546747.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodblade_2.OZJ"
+dest_files=["res://.godot/imported/bloodblade_2.OZJ-14abd6b776d681e65ebd340230546747.res"]
+
+[params]
+

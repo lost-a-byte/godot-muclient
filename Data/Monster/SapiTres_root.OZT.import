@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hflb5h265dou"
+path="res://.godot/imported/SapiTres_root.OZT-905fbcef93db93e0d25d444e49623b7c.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiTres_root.OZT"
+dest_files=["res://.godot/imported/SapiTres_root.OZT-905fbcef93db93e0d25d444e49623b7c.res"]
+
+[params]
+

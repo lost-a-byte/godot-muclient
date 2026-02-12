@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmk8i26dg4m7l"
+path="res://.godot/imported/saramanda_wingsD.OZT-04ecb513f4b30c63159fc12ec721a298.res"
+
+[deps]
+
+source_file="res://Data/Monster/saramanda_wingsD.OZT"
+dest_files=["res://.godot/imported/saramanda_wingsD.OZT-04ecb513f4b30c63159fc12ec721a298.res"]
+
+[params]
+

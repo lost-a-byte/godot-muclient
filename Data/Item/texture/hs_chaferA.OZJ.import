@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cx4u3ww3mtfo"
+path="res://.godot/imported/hs_chaferA.OZJ-489cdd64190f3460708934bfad572dd4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_chaferA.OZJ"
+dest_files=["res://.godot/imported/hs_chaferA.OZJ-489cdd64190f3460708934bfad572dd4.res"]
+
+[params]
+

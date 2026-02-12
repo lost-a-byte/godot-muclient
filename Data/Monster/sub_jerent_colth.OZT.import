@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drc8m64t02kij"
+path="res://.godot/imported/sub_jerent_colth.OZT-dc2b60a281b6dc5325a391f965957bb1.res"
+
+[deps]
+
+source_file="res://Data/Monster/sub_jerent_colth.OZT"
+dest_files=["res://.godot/imported/sub_jerent_colth.OZT-dc2b60a281b6dc5325a391f965957bb1.res"]
+
+[params]
+

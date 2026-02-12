@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c18y87u2jfc8c"
+path="res://.godot/imported/newui_Bt_skill_scroll_up.OZJ-a4f830b63556cb346266b7aab4513f66.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Bt_skill_scroll_up.OZJ"
+dest_files=["res://.godot/imported/newui_Bt_skill_scroll_up.OZJ-a4f830b63556cb346266b7aab4513f66.res"]
+
+[params]
+

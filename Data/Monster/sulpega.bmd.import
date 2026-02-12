@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2bxtniwqttpt"
+path="res://.godot/imported/sulpega.bmd-a2847218fc490c992c490054a1de79eb.scn"
+
+[deps]
+
+source_file="res://Data/Monster/sulpega.bmd"
+dest_files=["res://.godot/imported/sulpega.bmd-a2847218fc490c992c490054a1de79eb.scn"]
+
+[params]
+
+modelScale=0.01

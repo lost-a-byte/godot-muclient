@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b68pt7padbmd4"
+path="res://.godot/imported/cotton_flaremono.OZJ-e870b0f1b6adc05a57ecbadf3f64964c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cotton_flaremono.OZJ"
+dest_files=["res://.godot/imported/cotton_flaremono.OZJ-e870b0f1b6adc05a57ecbadf3f64964c.res"]
+
+[params]
+

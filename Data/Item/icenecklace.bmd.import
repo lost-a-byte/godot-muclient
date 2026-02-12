@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://br4qm4m7qy54x"
+path="res://.godot/imported/icenecklace.bmd-8ebe412164ab6d238e8efe93b09cabb3.scn"
+
+[deps]
+
+source_file="res://Data/Item/icenecklace.bmd"
+dest_files=["res://.godot/imported/icenecklace.bmd-8ebe412164ab6d238e8efe93b09cabb3.scn"]
+
+[params]
+
+modelScale=0.01

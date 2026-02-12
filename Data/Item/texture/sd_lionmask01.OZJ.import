@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1i42wqg7erjj"
+path="res://.godot/imported/sd_lionmask01.OZJ-992f8a79f5bfa93cd3a679464ac7a6e4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_lionmask01.OZJ"
+dest_files=["res://.godot/imported/sd_lionmask01.OZJ-992f8a79f5bfa93cd3a679464ac7a6e4.res"]
+
+[params]
+

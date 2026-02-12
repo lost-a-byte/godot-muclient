@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wfdeg57pvn57"
+path="res://.godot/imported/absoute_arrows.OZJ-86d4a61a40ec37c7ef82db8c6f6c9c22.res"
+
+[deps]
+
+source_file="res://Data/Skill/absoute_arrows.OZJ"
+dest_files=["res://.godot/imported/absoute_arrows.OZJ-86d4a61a40ec37c7ef82db8c6f6c9c22.res"]
+
+[params]
+

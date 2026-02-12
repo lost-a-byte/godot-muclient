@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7dxheju5s26b"
+path="res://.godot/imported/New_Character001.OZJ-be75e79b26921b2ef8afd080db667f3d.res"
+
+[deps]
+
+source_file="res://Data/Logo/New_Character001.OZJ"
+dest_files=["res://.godot/imported/New_Character001.OZJ-be75e79b26921b2ef8afd080db667f3d.res"]
+
+[params]
+

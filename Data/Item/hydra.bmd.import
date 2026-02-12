@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c1bjhacaijd2m"
+path="res://.godot/imported/hydra.bmd-aa726154a37cae880beabd41ee828fa0.scn"
+
+[deps]
+
+source_file="res://Data/Item/hydra.bmd"
+dest_files=["res://.godot/imported/hydra.bmd-aa726154a37cae880beabd41ee828fa0.scn"]
+
+[params]
+
+modelScale=0.01

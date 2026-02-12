@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhk7ihbokmewl"
+path="res://.godot/imported/NpcGagoil_Crack02.bmd-527ec921c068a7e5b8b485772bccb1df.scn"
+
+[deps]
+
+source_file="res://Data/Effect/NpcGagoil_Crack02.bmd"
+dest_files=["res://.godot/imported/NpcGagoil_Crack02.bmd-527ec921c068a7e5b8b485772bccb1df.scn"]
+
+[params]
+
+modelScale=0.01

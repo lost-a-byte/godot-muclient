@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7hly130i21my"
+path="res://.godot/imported/maginc_text_mono.OZJ-e4c8fdddb039e7c5d2559ac38794e427.res"
+
+[deps]
+
+source_file="res://Data/Effect/maginc_text_mono.OZJ"
+dest_files=["res://.godot/imported/maginc_text_mono.OZJ-e4c8fdddb039e7c5d2559ac38794e427.res"]
+
+[params]
+

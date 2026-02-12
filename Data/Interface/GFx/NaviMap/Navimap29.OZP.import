@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceia2l10gbyp0"
+path="res://.godot/imported/Navimap29.OZP-fcf04e0d747b8c92b8a570fdebf4b75f.res"
+
+[deps]
+
+source_file="res://Data/Interface/GFx/NaviMap/Navimap29.OZP"
+dest_files=["res://.godot/imported/Navimap29.OZP-fcf04e0d747b8c92b8a570fdebf4b75f.res"]
+
+[params]
+

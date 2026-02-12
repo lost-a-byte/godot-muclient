@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://n4b7phw84kak"
+path="res://.godot/imported/mg_jacket.OZT-9418a99bdd67f27d9a88c111decf4c63.res"
+
+[deps]
+
+source_file="res://Data/Player/mg_jacket.OZT"
+dest_files=["res://.godot/imported/mg_jacket.OZT-9418a99bdd67f27d9a88c111decf4c63.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3rwqoda4rdh3"
+path="res://.godot/imported/hound_head02.OZJ-31bc3ec3a19d591f5b9506c13bff18c2.res"
+
+[deps]
+
+source_file="res://Data/Monster/hound_head02.OZJ"
+dest_files=["res://.godot/imported/hound_head02.OZJ-31bc3ec3a19d591f5b9506c13bff18c2.res"]
+
+[params]
+

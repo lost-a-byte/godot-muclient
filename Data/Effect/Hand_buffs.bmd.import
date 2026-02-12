@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cte5a36t2ogds"
+path="res://.godot/imported/Hand_buffs.bmd-02011ea598410dfd351c2ce77007a0ce.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Hand_buffs.bmd"
+dest_files=["res://.godot/imported/Hand_buffs.bmd-02011ea598410dfd351c2ce77007a0ce.scn"]
+
+[params]
+
+modelScale=0.01

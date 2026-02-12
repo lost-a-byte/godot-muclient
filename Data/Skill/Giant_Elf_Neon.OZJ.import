@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cq31cojlruk5k"
+path="res://.godot/imported/Giant_Elf_Neon.OZJ-9d89a251e22702d520d8e3b6906adf36.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_Elf_Neon.OZJ"
+dest_files=["res://.godot/imported/Giant_Elf_Neon.OZJ-9d89a251e22702d520d8e3b6906adf36.res"]
+
+[params]
+

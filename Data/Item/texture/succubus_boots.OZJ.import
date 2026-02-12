@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mpshnteanctk"
+path="res://.godot/imported/succubus_boots.OZJ-b94a4f426a186574b0031fd7066a4464.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_boots.OZJ"
+dest_files=["res://.godot/imported/succubus_boots.OZJ-b94a4f426a186574b0031fd7066a4464.res"]
+
+[params]
+

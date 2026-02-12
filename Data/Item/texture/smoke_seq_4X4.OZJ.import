@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1h8r0s6qcr2r"
+path="res://.godot/imported/smoke_seq_4X4.OZJ-c31ca0dd9e6b8b83a68882ef5a223b0d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/smoke_seq_4X4.OZJ"
+dest_files=["res://.godot/imported/smoke_seq_4X4.OZJ-c31ca0dd9e6b8b83a68882ef5a223b0d.res"]
+
+[params]
+

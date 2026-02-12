@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7vl4psffxcg4"
+path="res://.godot/imported/Ice_Boss_Bmap01.OZJ-b9f00e13f24d9d477e27c51563997b29.res"
+
+[deps]
+
+source_file="res://Data/Object59/Ice_Boss_Bmap01.OZJ"
+dest_files=["res://.godot/imported/Ice_Boss_Bmap01.OZJ-b9f00e13f24d9d477e27c51563997b29.res"]
+
+[params]
+

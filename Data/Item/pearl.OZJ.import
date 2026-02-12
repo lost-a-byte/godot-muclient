@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7y7ed4ap4qor"
+path="res://.godot/imported/pearl.OZJ-c78ddeef8094da60a12b065ec59b4009.res"
+
+[deps]
+
+source_file="res://Data/Item/pearl.OZJ"
+dest_files=["res://.godot/imported/pearl.OZJ-c78ddeef8094da60a12b065ec59b4009.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vwmi0brj1210"
+path="res://.godot/imported/newui_Btn_round.OZT-ca851d437c50b0727e4e4f73ae895a47.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Btn_round.OZT"
+dest_files=["res://.godot/imported/newui_Btn_round.OZT-ca851d437c50b0727e4e4f73ae895a47.res"]
+
+[params]
+

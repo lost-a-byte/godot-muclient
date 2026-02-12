@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ojhqyks35x06"
+path="res://.godot/imported/Well03.bmd-568a7815ed7392627bc2ef8f65d0956e.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Well03.bmd"
+dest_files=["res://.godot/imported/Well03.bmd-568a7815ed7392627bc2ef8f65d0956e.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b18r0qhr5bt0f"
+path="res://.godot/imported/skeleton_003.OZJ-06fef724c4bde5c3d419887c6de6f035.res"
+
+[deps]
+
+source_file="res://Data/Object82/skeleton_003.OZJ"
+dest_files=["res://.godot/imported/skeleton_003.OZJ-06fef724c4bde5c3d419887c6de6f035.res"]
+
+[params]
+

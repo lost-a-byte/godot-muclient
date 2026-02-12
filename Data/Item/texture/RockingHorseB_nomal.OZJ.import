@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://do8fdquihjq5v"
+path="res://.godot/imported/RockingHorseB_nomal.OZJ-7d8fa9ba42c71a1b20900d3aa4712177.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RockingHorseB_nomal.OZJ"
+dest_files=["res://.godot/imported/RockingHorseB_nomal.OZJ-7d8fa9ba42c71a1b20900d3aa4712177.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxou51q3mt7gc"
+path="res://.godot/imported/newui_black_letter_box.OZJ-5b3ba2ac4feaee2df3bdbb3850774085.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_black_letter_box.OZJ"
+dest_files=["res://.godot/imported/newui_black_letter_box.OZJ-5b3ba2ac4feaee2df3bdbb3850774085.res"]
+
+[params]
+

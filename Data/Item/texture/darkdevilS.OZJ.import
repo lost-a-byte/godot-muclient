@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wp5t2xhxjdnb"
+path="res://.godot/imported/darkdevilS.OZJ-782bd77adee8c94342b687c3967ec48e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkdevilS.OZJ"
+dest_files=["res://.godot/imported/darkdevilS.OZJ-782bd77adee8c94342b687c3967ec48e.res"]
+
+[params]
+

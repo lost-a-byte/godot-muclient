@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpacco3d54kiv"
+path="res://.godot/imported/8Mquiverc_render.OZJ-b49c18f9be874b3f5de117336f0fa016.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/8Mquiverc_render.OZJ"
+dest_files=["res://.godot/imported/8Mquiverc_render.OZJ-b49c18f9be874b3f5de117336f0fa016.res"]
+
+[params]
+

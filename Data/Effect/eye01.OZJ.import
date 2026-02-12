@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5pusl1betkqc"
+path="res://.godot/imported/eye01.OZJ-6d82e8aedd309d9d8c9f28717948edaf.res"
+
+[deps]
+
+source_file="res://Data/Effect/eye01.OZJ"
+dest_files=["res://.godot/imported/eye01.OZJ-6d82e8aedd309d9d8c9f28717948edaf.res"]
+
+[params]
+

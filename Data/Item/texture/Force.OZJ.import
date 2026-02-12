@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8nhg1etli7w5"
+path="res://.godot/imported/Force.OZJ-6c980882ca8347b14c92b392f02c356f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Force.OZJ"
+dest_files=["res://.godot/imported/Force.OZJ-6c980882ca8347b14c92b392f02c356f.res"]
+
+[params]
+

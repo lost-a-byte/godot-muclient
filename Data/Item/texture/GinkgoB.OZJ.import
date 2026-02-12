@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddxrqffe5h5db"
+path="res://.godot/imported/GinkgoB.OZJ-62856717a34a292fcdbbb871c0371c37.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GinkgoB.OZJ"
+dest_files=["res://.godot/imported/GinkgoB.OZJ-62856717a34a292fcdbbb871c0371c37.res"]
+
+[params]
+

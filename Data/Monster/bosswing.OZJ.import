@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hclkhu2ajp8d"
+path="res://.godot/imported/bosswing.OZJ-86a2893c18eb7e90038084ded736f409.res"
+
+[deps]
+
+source_file="res://Data/Monster/bosswing.OZJ"
+dest_files=["res://.godot/imported/bosswing.OZJ-86a2893c18eb7e90038084ded736f409.res"]
+
+[params]
+

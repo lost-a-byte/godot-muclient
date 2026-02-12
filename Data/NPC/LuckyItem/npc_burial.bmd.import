@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dj25ibrxrp2qr"
+path="res://.godot/imported/npc_burial.bmd-4677f883676152d430e2a3456bb657bd.scn"
+
+[deps]
+
+source_file="res://Data/NPC/LuckyItem/npc_burial.bmd"
+dest_files=["res://.godot/imported/npc_burial.bmd-4677f883676152d430e2a3456bb657bd.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6x6qy8q54lr3"
+path="res://.godot/imported/monmark03.OZJ-3182bc97d6bed4f1369d08dfde5f2ff8.res"
+
+[deps]
+
+source_file="res://Data/Item/monmark03.OZJ"
+dest_files=["res://.godot/imported/monmark03.OZJ-3182bc97d6bed4f1369d08dfde5f2ff8.res"]
+
+[params]
+

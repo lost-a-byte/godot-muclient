@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb5pgambvnicc"
+path="res://.godot/imported/gold_song.OZJ-c725210b797f8d01262ae18e35f8501c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gold_song.OZJ"
+dest_files=["res://.godot/imported/gold_song.OZJ-c725210b797f8d01262ae18e35f8501c.res"]
+
+[params]
+

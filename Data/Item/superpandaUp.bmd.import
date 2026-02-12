@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmbx4vpsbr4rn"
+path="res://.godot/imported/superpandaUp.bmd-6ee065f05c2348c63e7e6bc8937e02c4.scn"
+
+[deps]
+
+source_file="res://Data/Item/superpandaUp.bmd"
+dest_files=["res://.godot/imported/superpandaUp.bmd-6ee065f05c2348c63e7e6bc8937e02c4.scn"]
+
+[params]
+
+modelScale=0.01

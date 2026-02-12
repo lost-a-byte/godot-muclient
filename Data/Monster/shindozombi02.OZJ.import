@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q7swrcwrfk35"
+path="res://.godot/imported/shindozombi02.OZJ-306666a9f89f26dd3d6320697bfd1a00.res"
+
+[deps]
+
+source_file="res://Data/Monster/shindozombi02.OZJ"
+dest_files=["res://.godot/imported/shindozombi02.OZJ-306666a9f89f26dd3d6320697bfd1a00.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca8jit5vpedv8"
+path="res://.godot/imported/motion_mono.OZJ-24dc30a524614981fdddf6725a0b8ea1.res"
+
+[deps]
+
+source_file="res://Data/Monster/motion_mono.OZJ"
+dest_files=["res://.godot/imported/motion_mono.OZJ-24dc30a524614981fdddf6725a0b8ea1.res"]
+
+[params]
+

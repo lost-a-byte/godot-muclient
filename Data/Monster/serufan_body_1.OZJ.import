@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3rd27i4r0ewc"
+path="res://.godot/imported/serufan_body_1.OZJ-e4d166cf5732102fcdc9309cddd6985f.res"
+
+[deps]
+
+source_file="res://Data/Monster/serufan_body_1.OZJ"
+dest_files=["res://.godot/imported/serufan_body_1.OZJ-e4d166cf5732102fcdc9309cddd6985f.res"]
+
+[params]
+

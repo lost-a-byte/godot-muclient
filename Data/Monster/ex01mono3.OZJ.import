@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rf2022huklo2"
+path="res://.godot/imported/ex01mono3.OZJ-47f3046c1557bfe47d409018a4dd2c40.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01mono3.OZJ"
+dest_files=["res://.godot/imported/ex01mono3.OZJ-47f3046c1557bfe47d409018a4dd2c40.res"]
+
+[params]
+

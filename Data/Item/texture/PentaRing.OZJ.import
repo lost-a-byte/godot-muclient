@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df042iy0opcxp"
+path="res://.godot/imported/PentaRing.OZJ-6923d2f2b028e4573aeffdf71c140724.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaRing.OZJ"
+dest_files=["res://.godot/imported/PentaRing.OZJ-6923d2f2b028e4573aeffdf71c140724.res"]
+
+[params]
+

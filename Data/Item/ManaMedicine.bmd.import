@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://36ifykoyjtgt"
+path="res://.godot/imported/ManaMedicine.bmd-6f05d68f8c355d5a75eeae0ab2efe238.scn"
+
+[deps]
+
+source_file="res://Data/Item/ManaMedicine.bmd"
+dest_files=["res://.godot/imported/ManaMedicine.bmd-6f05d68f8c355d5a75eeae0ab2efe238.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8eyxhtf7wxh5"
+path="res://.godot/imported/Item1136_Body.OZJ-f5a8973be78be538940b3a27e19093d6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1136_Body.OZJ"
+dest_files=["res://.godot/imported/Item1136_Body.OZJ-f5a8973be78be538940b3a27e19093d6.res"]
+
+[params]
+

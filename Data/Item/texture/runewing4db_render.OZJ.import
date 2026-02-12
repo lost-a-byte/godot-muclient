@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq1qm0t3sjkgj"
+path="res://.godot/imported/runewing4db_render.OZJ-2129e512304945e907a9750914aabeff.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runewing4db_render.OZJ"
+dest_files=["res://.godot/imported/runewing4db_render.OZJ-2129e512304945e907a9750914aabeff.res"]
+
+[params]
+

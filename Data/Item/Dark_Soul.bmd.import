@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bhg14jnj7w65i"
+path="res://.godot/imported/Dark_Soul.bmd-885c79e4bd5dad1db7b148a8217cec1e.scn"
+
+[deps]
+
+source_file="res://Data/Item/Dark_Soul.bmd"
+dest_files=["res://.godot/imported/Dark_Soul.bmd-885c79e4bd5dad1db7b148a8217cec1e.scn"]
+
+[params]
+
+modelScale=0.01

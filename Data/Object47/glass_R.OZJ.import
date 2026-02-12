@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dblqfb6xfhqsr"
+path="res://.godot/imported/glass_R.OZJ-9b4497f2cf5aea58af3c4933f38083fc.res"
+
+[deps]
+
+source_file="res://Data/Object47/glass_R.OZJ"
+dest_files=["res://.godot/imported/glass_R.OZJ-9b4497f2cf5aea58af3c4933f38083fc.res"]
+
+[params]
+

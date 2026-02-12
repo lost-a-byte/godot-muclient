@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btq36redkl3h"
+path="res://.godot/imported/swampenti_fire.OZJ-a65c1f1b0d2dec0b3ccab9d4852108e0.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampenti_fire.OZJ"
+dest_files=["res://.godot/imported/swampenti_fire.OZJ-a65c1f1b0d2dec0b3ccab9d4852108e0.res"]
+
+[params]
+

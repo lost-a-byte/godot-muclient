@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0kqj54nqrdhy"
+path="res://.godot/imported/Hatredcloak_glow01.OZJ-d2d5fa9ccec62b35101483b8f59bf781.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Hatredcloak_glow01.OZJ"
+dest_files=["res://.godot/imported/Hatredcloak_glow01.OZJ-d2d5fa9ccec62b35101483b8f59bf781.res"]
+
+[params]
+

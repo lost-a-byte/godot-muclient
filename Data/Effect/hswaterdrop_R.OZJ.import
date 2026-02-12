@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3vcbeir4nuw"
+path="res://.godot/imported/hswaterdrop_R.OZJ-1a02d74876108425dfbb84083d917779.res"
+
+[deps]
+
+source_file="res://Data/Effect/hswaterdrop_R.OZJ"
+dest_files=["res://.godot/imported/hswaterdrop_R.OZJ-1a02d74876108425dfbb84083d917779.res"]
+
+[params]
+

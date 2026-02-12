@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cf6rvov1bm80b"
+path="res://.godot/imported/fenrir_gold.bmd-db7290e6080ae725e4beb3ea14f0f713.scn"
+
+[deps]
+
+source_file="res://Data/Skill/fenrir_gold.bmd"
+dest_files=["res://.godot/imported/fenrir_gold.bmd-db7290e6080ae725e4beb3ea14f0f713.scn"]
+
+[params]
+
+modelScale=0.01

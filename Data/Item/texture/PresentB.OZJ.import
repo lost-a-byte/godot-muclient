@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4106rebth4rd"
+path="res://.godot/imported/PresentB.OZJ-0f091f116574ab32a509b7a84da383f3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PresentB.OZJ"
+dest_files=["res://.godot/imported/PresentB.OZJ-0f091f116574ab32a509b7a84da383f3.res"]
+
+[params]
+

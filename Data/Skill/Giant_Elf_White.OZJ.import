@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgus61guyoq15"
+path="res://.godot/imported/Giant_Elf_White.OZJ-09d2bca6c267436646ae1e8ace327dd0.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_Elf_White.OZJ"
+dest_files=["res://.godot/imported/Giant_Elf_White.OZJ-09d2bca6c267436646ae1e8ace327dd0.res"]
+
+[params]
+

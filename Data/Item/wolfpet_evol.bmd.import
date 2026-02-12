@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://culu7l5e4jpbj"
+path="res://.godot/imported/wolfpet_evol.bmd-741dca058d3f9a4799aa539d80559e20.scn"
+
+[deps]
+
+source_file="res://Data/Item/wolfpet_evol.bmd"
+dest_files=["res://.godot/imported/wolfpet_evol.bmd-741dca058d3f9a4799aa539d80559e20.scn"]
+
+[params]
+
+modelScale=0.01

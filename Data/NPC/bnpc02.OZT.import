@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://co1mxus7gi2iw"
+path="res://.godot/imported/bnpc02.OZT-0cab4c5583c15f4a1c1a367a3ebcbf30.res"
+
+[deps]
+
+source_file="res://Data/NPC/bnpc02.OZT"
+dest_files=["res://.godot/imported/bnpc02.OZT-0cab4c5583c15f4a1c1a367a3ebcbf30.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csgamqtdx065q"
+path="res://.godot/imported/woddenbeast_green.OZJ-e9dec9089aec4aad331eeaa7f3c40044.res"
+
+[deps]
+
+source_file="res://Data/Monster/woddenbeast_green.OZJ"
+dest_files=["res://.godot/imported/woddenbeast_green.OZJ-e9dec9089aec4aad331eeaa7f3c40044.res"]
+
+[params]
+

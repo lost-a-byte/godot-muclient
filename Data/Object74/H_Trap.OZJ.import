@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbymdao2d1e06"
+path="res://.godot/imported/H_Trap.OZJ-4c265f8fa24ded2019a1127df5b89813.res"
+
+[deps]
+
+source_file="res://Data/Object74/H_Trap.OZJ"
+dest_files=["res://.godot/imported/H_Trap.OZJ-4c265f8fa24ded2019a1127df5b89813.res"]
+
+[params]
+

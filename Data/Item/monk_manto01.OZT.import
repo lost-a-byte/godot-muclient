@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvpyaxvbacakx"
+path="res://.godot/imported/monk_manto01.OZT-753737b0cc3829de8de73484b5531fcd.res"
+
+[deps]
+
+source_file="res://Data/Item/monk_manto01.OZT"
+dest_files=["res://.godot/imported/monk_manto01.OZT-753737b0cc3829de8de73484b5531fcd.res"]
+
+[params]
+

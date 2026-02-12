@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://omhs41yk3m0j"
+path="res://.godot/imported/persil2.OZJ-917db25a4178029a85d8ce96451b5fb9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/persil2.OZJ"
+dest_files=["res://.godot/imported/persil2.OZJ-917db25a4178029a85d8ce96451b5fb9.res"]
+
+[params]
+

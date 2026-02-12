@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3xufy1cwbvaq"
+path="res://.godot/imported/MagmaSpearB.OZJ-ebafc3d0513d7b4caeb8650acd5141e1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MagmaSpearB.OZJ"
+dest_files=["res://.godot/imported/MagmaSpearB.OZJ-ebafc3d0513d7b4caeb8650acd5141e1.res"]
+
+[params]
+

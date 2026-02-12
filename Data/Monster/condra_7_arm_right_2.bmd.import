@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://15id6q2p13ar"
+path="res://.godot/imported/condra_7_arm_right_2.bmd-65bdce821c0ddc2b58484404179308dc.scn"
+
+[deps]
+
+source_file="res://Data/Monster/condra_7_arm_right_2.bmd"
+dest_files=["res://.godot/imported/condra_7_arm_right_2.bmd-65bdce821c0ddc2b58484404179308dc.scn"]
+
+[params]
+
+modelScale=0.01

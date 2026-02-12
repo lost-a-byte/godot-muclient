@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cka5h5qkkdnmy"
+path="res://.godot/imported/gamble_scyder01.bmd-ca714a679102845c1f9462cca6d96d32.scn"
+
+[deps]
+
+source_file="res://Data/Item/gamble_scyder01.bmd"
+dest_files=["res://.godot/imported/gamble_scyder01.bmd-ca714a679102845c1f9462cca6d96d32.scn"]
+
+[params]
+
+modelScale=0.01

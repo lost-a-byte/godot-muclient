@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nqyw4bpplnel"
+path="res://.godot/imported/Newui_Pet_Lifebar01.OZJ-d27887bd3b687adaa18ebd93cfd1ca4a.res"
+
+[deps]
+
+source_file="res://Data/Interface/Newui_Pet_Lifebar01.OZJ"
+dest_files=["res://.godot/imported/Newui_Pet_Lifebar01.OZJ-d27887bd3b687adaa18ebd93cfd1ca4a.res"]
+
+[params]
+

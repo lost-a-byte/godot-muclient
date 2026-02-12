@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceornygceamam"
+path="res://.godot/imported/sword01.OZJ-4d266d2975b56e5d8abb64aa2c5a5ac0.res"
+
+[deps]
+
+source_file="res://Data/NPC/sword01.OZJ"
+dest_files=["res://.godot/imported/sword01.OZJ-4d266d2975b56e5d8abb64aa2c5a5ac0.res"]
+
+[params]
+

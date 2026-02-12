@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjlg0tdk75f0n"
+path="res://.godot/imported/entrancebleu.ozj-07b9435b611664e403032df6e9433e11.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/entrancebleu.ozj"
+dest_files=["res://.godot/imported/entrancebleu.ozj-07b9435b611664e403032df6e9433e11.res"]
+
+[params]
+

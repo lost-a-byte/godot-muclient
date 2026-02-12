@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c00nmbgvfcfn7"
+path="res://.godot/imported/hs_icestatuesA05.OZT-414d5313f4cc0d4b745ef63d68b673bb.res"
+
+[deps]
+
+source_file="res://Data/NPC/hs_icestatuesA05.OZT"
+dest_files=["res://.godot/imported/hs_icestatuesA05.OZT-414d5313f4cc0d4b745ef63d68b673bb.res"]
+
+[params]
+

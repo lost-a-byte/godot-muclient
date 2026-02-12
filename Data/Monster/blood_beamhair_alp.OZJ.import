@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ip7nee3qfpxg"
+path="res://.godot/imported/blood_beamhair_alp.OZJ-371edbd8a0949a05c0fb7349b70b2efb.res"
+
+[deps]
+
+source_file="res://Data/Monster/blood_beamhair_alp.OZJ"
+dest_files=["res://.godot/imported/blood_beamhair_alp.OZJ-371edbd8a0949a05c0fb7349b70b2efb.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqhi4l2msvmk5"
+path="res://.godot/imported/seoulRoad_septer.bmd-0bbc22db13b08eaae5dc1646bb3d35ef.scn"
+
+[deps]
+
+source_file="res://Data/Item/seoulRoad_septer.bmd"
+dest_files=["res://.godot/imported/seoulRoad_septer.bmd-0bbc22db13b08eaae5dc1646bb3d35ef.scn"]
+
+[params]
+
+modelScale=0.01

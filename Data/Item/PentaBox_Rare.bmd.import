@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://v0gesg6olwwl"
+path="res://.godot/imported/PentaBox_Rare.bmd-ba4ab98d42f203b28310a9c64cbd520b.scn"
+
+[deps]
+
+source_file="res://Data/Item/PentaBox_Rare.bmd"
+dest_files=["res://.godot/imported/PentaBox_Rare.bmd-ba4ab98d42f203b28310a9c64cbd520b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqpgnc6y0hd71"
+path="res://.godot/imported/font_stun.OZT-015c56a8574c362d17911057bf0ff66a.res"
+
+[deps]
+
+source_file="res://Data/Interface/font_stun.OZT"
+dest_files=["res://.godot/imported/font_stun.OZT-015c56a8574c362d17911057bf0ff66a.res"]
+
+[params]
+

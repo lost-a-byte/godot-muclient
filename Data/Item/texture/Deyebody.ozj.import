@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjrnhrfivm3qa"
+path="res://.godot/imported/Deyebody.ozj-410adb6162695c14195095d0f951b694.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Deyebody.ozj"
+dest_files=["res://.godot/imported/Deyebody.ozj-410adb6162695c14195095d0f951b694.res"]
+
+[params]
+

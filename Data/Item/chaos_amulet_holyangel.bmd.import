@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b24lhs8ot1be1"
+path="res://.godot/imported/chaos_amulet_holyangel.bmd-c9419662dd96c2e348b146c09a3062bc.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_amulet_holyangel.bmd"
+dest_files=["res://.godot/imported/chaos_amulet_holyangel.bmd-c9419662dd96c2e348b146c09a3062bc.scn"]
+
+[params]
+
+modelScale=0.01

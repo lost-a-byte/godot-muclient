@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beyi62xp781fm"
+path="res://.godot/imported/lansel_face.OZJ-58ec26e796ae3216ced136d70c4608aa.res"
+
+[deps]
+
+source_file="res://Data/Logo/lansel_face.OZJ"
+dest_files=["res://.godot/imported/lansel_face.OZJ-58ec26e796ae3216ced136d70c4608aa.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dslqxnlbaebc2"
+path="res://.godot/imported/DimensionCloth.OZJ-4d16563caea2877958143390d8466b00.res"
+
+[deps]
+
+source_file="res://Data/Item/DimensionCloth.OZJ"
+dest_files=["res://.godot/imported/DimensionCloth.OZJ-4d16563caea2877958143390d8466b00.res"]
+
+[params]
+

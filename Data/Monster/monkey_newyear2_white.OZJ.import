@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy33ruvtikhqt"
+path="res://.godot/imported/monkey_newyear2_white.OZJ-29e7b2d6e583f01d3be5d112264c6101.res"
+
+[deps]
+
+source_file="res://Data/Monster/monkey_newyear2_white.OZJ"
+dest_files=["res://.godot/imported/monkey_newyear2_white.OZJ-29e7b2d6e583f01d3be5d112264c6101.res"]
+
+[params]
+

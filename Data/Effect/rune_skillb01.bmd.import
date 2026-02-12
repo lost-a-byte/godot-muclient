@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dkj4yvdoqdygh"
+path="res://.godot/imported/rune_skillb01.bmd-fee13185e3fca84ffbf401f77b3a4784.scn"
+
+[deps]
+
+source_file="res://Data/Effect/rune_skillb01.bmd"
+dest_files=["res://.godot/imported/rune_skillb01.bmd-fee13185e3fca84ffbf401f77b3a4784.scn"]
+
+[params]
+
+modelScale=0.01

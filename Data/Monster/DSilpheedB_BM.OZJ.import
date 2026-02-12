@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5t3scyajnpac"
+path="res://.godot/imported/DSilpheedB_BM.OZJ-ef7928267a3da4e12bcc86cbb864e0f5.res"
+
+[deps]
+
+source_file="res://Data/Monster/DSilpheedB_BM.OZJ"
+dest_files=["res://.godot/imported/DSilpheedB_BM.OZJ-ef7928267a3da4e12bcc86cbb864e0f5.res"]
+
+[params]
+

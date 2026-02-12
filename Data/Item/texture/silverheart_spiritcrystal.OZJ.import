@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvwgdb4grswrm"
+path="res://.godot/imported/silverheart_spiritcrystal.OZJ-985c210f33b8a39947e181605b6b9ee1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/silverheart_spiritcrystal.OZJ"
+dest_files=["res://.godot/imported/silverheart_spiritcrystal.OZJ-985c210f33b8a39947e181605b6b9ee1.res"]
+
+[params]
+

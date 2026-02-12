@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbslwqtjggbyu"
+path="res://.godot/imported/hs_pulley.OZJ-c1b193ffa5941b17786e317226196e2f.res"
+
+[deps]
+
+source_file="res://Data/Object124/hs_pulley.OZJ"
+dest_files=["res://.godot/imported/hs_pulley.OZJ-c1b193ffa5941b17786e317226196e2f.res"]
+
+[params]
+

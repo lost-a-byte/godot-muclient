@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1cnsv3x2a66j"
+path="res://.godot/imported/snowman.OZJ-b5db6e12a38c5156ea363387eba9277e.res"
+
+[deps]
+
+source_file="res://Data/Item/xmas/snowman.OZJ"
+dest_files=["res://.godot/imported/snowman.OZJ-b5db6e12a38c5156ea363387eba9277e.res"]
+
+[params]
+

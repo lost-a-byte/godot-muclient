@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8vbwm40aef4w"
+path="res://.godot/imported/panda_r.ozj-05077e77514d5a235b7660ac6611f89d.res"
+
+[deps]
+
+source_file="res://Data/Item/panda_r.ozj"
+dest_files=["res://.godot/imported/panda_r.ozj-05077e77514d5a235b7660ac6611f89d.res"]
+
+[params]
+

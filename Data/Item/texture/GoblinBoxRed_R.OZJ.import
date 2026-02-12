@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yg0jmtjej5gc"
+path="res://.godot/imported/GoblinBoxRed_R.OZJ-808bc8ab5309f6575a64894aee515a84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GoblinBoxRed_R.OZJ"
+dest_files=["res://.godot/imported/GoblinBoxRed_R.OZJ-808bc8ab5309f6575a64894aee515a84.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddopbnnghul2l"
+path="res://.godot/imported/dksaddle.OZJ-9f99f204315035f90c0e6f9defe1caf4.res"
+
+[deps]
+
+source_file="res://Data/Skill/dksaddle.OZJ"
+dest_files=["res://.godot/imported/dksaddle.OZJ-9f99f204315035f90c0e6f9defe1caf4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtff6fyxpw4lt"
+path="res://.godot/imported/dust01.OZT-ac10ceb073249f5a4a1068f7c33f432f.res"
+
+[deps]
+
+source_file="res://Data/Effect/dust01.OZT"
+dest_files=["res://.godot/imported/dust01.OZT-ac10ceb073249f5a4a1068f7c33f432f.res"]
+
+[params]
+

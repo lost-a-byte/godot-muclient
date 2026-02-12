@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cavtqpo5mpakh"
+path="res://.godot/imported/PantMale174_slayer.bmd-11baa661ed8faf6788e1290f07338857.scn"
+
+[deps]
+
+source_file="res://Data/Item/PantMale174_slayer.bmd"
+dest_files=["res://.godot/imported/PantMale174_slayer.bmd-11baa661ed8faf6788e1290f07338857.scn"]
+
+[params]
+
+modelScale=0.01

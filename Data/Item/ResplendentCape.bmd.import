@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bouiqd7mgyju4"
+path="res://.godot/imported/ResplendentCape.bmd-0c9da2cdceae84dee4da003a8a8164d4.scn"
+
+[deps]
+
+source_file="res://Data/Item/ResplendentCape.bmd"
+dest_files=["res://.godot/imported/ResplendentCape.bmd-0c9da2cdceae84dee4da003a8a8164d4.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bj01b4h22uiwf"
+path="res://.godot/imported/lobfur.OZT-197b3fa103bf71bb3289c6ac207b1c52.res"
+
+[deps]
+
+source_file="res://Data/Monster/lobfur.OZT"
+dest_files=["res://.godot/imported/lobfur.OZT-197b3fa103bf71bb3289c6ac207b1c52.res"]
+
+[params]
+

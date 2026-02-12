@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyuk6v4ng5072"
+path="res://.godot/imported/UEFairy_alpha.OZT-94fc4e69d119a6993688916f18fe1686.res"
+
+[deps]
+
+source_file="res://Data/Monster/UEFairy_alpha.OZT"
+dest_files=["res://.godot/imported/UEFairy_alpha.OZT-94fc4e69d119a6993688916f18fe1686.res"]
+
+[params]
+

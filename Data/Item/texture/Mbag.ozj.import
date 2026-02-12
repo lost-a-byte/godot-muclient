@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dru2frwfhog23"
+path="res://.godot/imported/Mbag.ozj-00c012ea0983a67254e2b6718760cfd6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Mbag.ozj"
+dest_files=["res://.godot/imported/Mbag.ozj-00c012ea0983a67254e2b6718760cfd6.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nb168kc568ex"
+path="res://.godot/imported/gatelight01_R.OZJ-2cc08554636cd76fb39d5ba8ddbc82d8.res"
+
+[deps]
+
+source_file="res://Data/Object75/gatelight01_R.OZJ"
+dest_files=["res://.godot/imported/gatelight01_R.OZJ-2cc08554636cd76fb39d5ba8ddbc82d8.res"]
+
+[params]
+

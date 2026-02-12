@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bradguxic647v"
+path="res://.godot/imported/absolute02_sword02.OZJ-a3fe75c6caff775ef72de2187443d049.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/absolute02_sword02.OZJ"
+dest_files=["res://.godot/imported/absolute02_sword02.OZJ-a3fe75c6caff775ef72de2187443d049.res"]
+
+[params]
+

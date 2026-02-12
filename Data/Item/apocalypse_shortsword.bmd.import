@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxuj3qodkj8me"
+path="res://.godot/imported/apocalypse_shortsword.bmd-810d3516f91b2ddd203f55d25141e6ef.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse_shortsword.bmd"
+dest_files=["res://.godot/imported/apocalypse_shortsword.bmd-810d3516f91b2ddd203f55d25141e6ef.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq78k7ncsxivs"
+path="res://.godot/imported/Item2002_cloth.OZT-4b6eed6056de129191ec7481a67c3108.res"
+
+[deps]
+
+source_file="res://Data/Player/Item2002_cloth.OZT"
+dest_files=["res://.godot/imported/Item2002_cloth.OZT-4b6eed6056de129191ec7481a67c3108.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlg1536yp51qc"
+path="res://.godot/imported/tobi2.OZJ-a0040b8bcb27a2ff569519f9d35378ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/tobi2.OZJ"
+dest_files=["res://.godot/imported/tobi2.OZJ-a0040b8bcb27a2ff569519f9d35378ea.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4in2rfugguy"
+path="res://.godot/imported/character_ex.OZT-339f1bfb46357dcbd6761261fc5fd9b2.res"
+
+[deps]
+
+source_file="res://Data/Interface/character_ex.OZT"
+dest_files=["res://.godot/imported/character_ex.OZT-339f1bfb46357dcbd6761261fc5fd9b2.res"]
+
+[params]
+

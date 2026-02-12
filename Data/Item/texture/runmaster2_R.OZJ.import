@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4lqcw75c7fcv"
+path="res://.godot/imported/runmaster2_R.OZJ-d742ff0d9784a5e11a7e820f11b46c1a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runmaster2_R.OZJ"
+dest_files=["res://.godot/imported/runmaster2_R.OZJ-d742ff0d9784a5e11a7e820f11b46c1a.res"]
+
+[params]
+

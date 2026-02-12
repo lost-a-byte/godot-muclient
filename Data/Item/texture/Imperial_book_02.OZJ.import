@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctxa7npx0fnjd"
+path="res://.godot/imported/Imperial_book_02.OZJ-ef40a0e25216901b0bef37bdc8bdf1a0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_book_02.OZJ"
+dest_files=["res://.godot/imported/Imperial_book_02.OZJ-ef40a0e25216901b0bef37bdc8bdf1a0.res"]
+
+[params]
+

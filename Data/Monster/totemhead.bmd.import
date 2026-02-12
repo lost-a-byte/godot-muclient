@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c15pqycnco46w"
+path="res://.godot/imported/totemhead.bmd-29609232fd605de9d0a2b9a622812b46.scn"
+
+[deps]
+
+source_file="res://Data/Monster/totemhead.bmd"
+dest_files=["res://.godot/imported/totemhead.bmd-29609232fd605de9d0a2b9a622812b46.scn"]
+
+[params]
+
+modelScale=0.01

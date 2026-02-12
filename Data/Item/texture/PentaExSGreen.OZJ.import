@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csbgvofbkrdvc"
+path="res://.godot/imported/PentaExSGreen.OZJ-3cd423c343918232271a5b760b7960a4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaExSGreen.OZJ"
+dest_files=["res://.godot/imported/PentaExSGreen.OZJ-3cd423c343918232271a5b760b7960a4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr3a0xavbf76v"
+path="res://.godot/imported/wolfa02.OZJ-2f62b3307445d2fdde4535e47b51bd16.res"
+
+[deps]
+
+source_file="res://Data/Monster/wolfa02.OZJ"
+dest_files=["res://.godot/imported/wolfa02.OZJ-2f62b3307445d2fdde4535e47b51bd16.res"]
+
+[params]
+

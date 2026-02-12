@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csckj05en2erx"
+path="res://.godot/imported/brilliantmagicbook_1.OZJ-3b97a2aeab2400bc5cf1d0df5be4ffca.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/brilliantmagicbook_1.OZJ"
+dest_files=["res://.godot/imported/brilliantmagicbook_1.OZJ-3b97a2aeab2400bc5cf1d0df5be4ffca.res"]
+
+[params]
+

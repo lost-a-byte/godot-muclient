@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d11041vuuwnv5"
+path="res://.godot/imported/Wind_smoke2.OZJ-660aed944b95d308768df39a69876615.res"
+
+[deps]
+
+source_file="res://Data/Effect/Wind_smoke2.OZJ"
+dest_files=["res://.godot/imported/Wind_smoke2.OZJ-660aed944b95d308768df39a69876615.res"]
+
+[params]
+

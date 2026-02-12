@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cw7iblmgeyte1"
+path="res://.godot/imported/hs_3mastery_ball.OZJ-0a901e53389c76e67be2cdae01ef319f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_3mastery_ball.OZJ"
+dest_files=["res://.godot/imported/hs_3mastery_ball.OZJ-0a901e53389c76e67be2cdae01ef319f.res"]
+
+[params]
+

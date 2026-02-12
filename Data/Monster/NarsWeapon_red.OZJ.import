@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5jlggwxy4k7a"
+path="res://.godot/imported/NarsWeapon_red.OZJ-9cf68494497028ca63dc92a19016c5ec.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsWeapon_red.OZJ"
+dest_files=["res://.godot/imported/NarsWeapon_red.OZJ-9cf68494497028ca63dc92a19016c5ec.res"]
+
+[params]
+

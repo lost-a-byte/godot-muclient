@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dwwf5crsmbu3e"
+path="res://.godot/imported/blue_eye_magicsword01.bmd-efc741b15c538a378839c01944fdd3c0.scn"
+
+[deps]
+
+source_file="res://Data/Item/blue_eye_magicsword01.bmd"
+dest_files=["res://.godot/imported/blue_eye_magicsword01.bmd-efc741b15c538a378839c01944fdd3c0.scn"]
+
+[params]
+
+modelScale=0.01

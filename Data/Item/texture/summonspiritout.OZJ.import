@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dajcr3mf108ix"
+path="res://.godot/imported/summonspiritout.OZJ-31c83e4f49c96036e1e274ce012b2e43.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/summonspiritout.OZJ"
+dest_files=["res://.godot/imported/summonspiritout.OZJ-31c83e4f49c96036e1e274ce012b2e43.res"]
+
+[params]
+

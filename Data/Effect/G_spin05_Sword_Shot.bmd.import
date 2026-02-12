@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8jh2fguxfbak"
+path="res://.godot/imported/G_spin05_Sword_Shot.bmd-a02369a17224f919a8f2e8827594c9a3.scn"
+
+[deps]
+
+source_file="res://Data/Effect/G_spin05_Sword_Shot.bmd"
+dest_files=["res://.godot/imported/G_spin05_Sword_Shot.bmd-a02369a17224f919a8f2e8827594c9a3.scn"]
+
+[params]
+
+modelScale=0.01

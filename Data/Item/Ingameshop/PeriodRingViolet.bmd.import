@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6r8wico7m4pr"
+path="res://.godot/imported/PeriodRingViolet.bmd-68744621e7a386b0cc1d60b58dfc4dd4.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/PeriodRingViolet.bmd"
+dest_files=["res://.godot/imported/PeriodRingViolet.bmd-68744621e7a386b0cc1d60b58dfc4dd4.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dckyyr6oosxrt"
+path="res://.godot/imported/hoblinset_glove.ozj-d6c6e540249a09a528c629093dda2f1e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hoblinset_glove.ozj"
+dest_files=["res://.godot/imported/hoblinset_glove.ozj-d6c6e540249a09a528c629093dda2f1e.res"]
+
+[params]
+

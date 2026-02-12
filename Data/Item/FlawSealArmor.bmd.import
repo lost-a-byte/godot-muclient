@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cenvow3cx6x4e"
+path="res://.godot/imported/FlawSealArmor.bmd-7ced73780dac663e89bac34fadbfaa70.scn"
+
+[deps]
+
+source_file="res://Data/Item/FlawSealArmor.bmd"
+dest_files=["res://.godot/imported/FlawSealArmor.bmd-7ced73780dac663e89bac34fadbfaa70.scn"]
+
+[params]
+
+modelScale=0.01

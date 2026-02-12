@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcrg6wvtq0i7s"
+path="res://.godot/imported/bell_body.OZJ-6cdb7c2e7e9dedfb7a30f14a2e61498e.res"
+
+[deps]
+
+source_file="res://Data/Logo/bell_body.OZJ"
+dest_files=["res://.godot/imported/bell_body.OZJ-6cdb7c2e7e9dedfb7a30f14a2e61498e.res"]
+
+[params]
+

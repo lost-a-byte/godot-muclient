@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dugm18gq2xgw7"
+path="res://.godot/imported/alchemist_wind.bmd-dd694858fafcd34777f7706c8518e4e5.scn"
+
+[deps]
+
+source_file="res://Data/Effect/alchemist_wind.bmd"
+dest_files=["res://.godot/imported/alchemist_wind.bmd-dd694858fafcd34777f7706c8518e4e5.scn"]
+
+[params]
+
+modelScale=0.01

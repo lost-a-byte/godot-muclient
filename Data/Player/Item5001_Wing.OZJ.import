@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://41b12exccpun"
+path="res://.godot/imported/Item5001_Wing.OZJ-3acc2c3eed6a7ce01129c49da0e89cea.res"
+
+[deps]
+
+source_file="res://Data/Player/Item5001_Wing.OZJ"
+dest_files=["res://.godot/imported/Item5001_Wing.OZJ-3acc2c3eed6a7ce01129c49da0e89cea.res"]
+
+[params]
+

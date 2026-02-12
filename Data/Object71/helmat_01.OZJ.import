@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg10gnoeytrn4"
+path="res://.godot/imported/helmat_01.OZJ-0f544a7d8ce5ea6114d7a4fb7a08dde1.res"
+
+[deps]
+
+source_file="res://Data/Object71/helmat_01.OZJ"
+dest_files=["res://.godot/imported/helmat_01.OZJ-0f544a7d8ce5ea6114d7a4fb7a08dde1.res"]
+
+[params]
+

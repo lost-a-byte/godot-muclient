@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://5ivgjo6p6ikb"
+path="res://.godot/imported/volvo.bmd-40f30857db674c3295277db696ec2ae9.scn"
+
+[deps]
+
+source_file="res://Data/NPC/volvo.bmd"
+dest_files=["res://.godot/imported/volvo.bmd-40f30857db674c3295277db696ec2ae9.scn"]
+
+[params]
+
+modelScale=0.01

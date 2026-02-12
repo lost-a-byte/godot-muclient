@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3wdl16xwupt8"
+path="res://.godot/imported/mark_export.bmd-819e18a3e6f1e12a2bd82a64088bc47e.scn"
+
+[deps]
+
+source_file="res://Data/NPC/mark_export.bmd"
+dest_files=["res://.godot/imported/mark_export.bmd-819e18a3e6f1e12a2bd82a64088bc47e.scn"]
+
+[params]
+
+modelScale=0.01

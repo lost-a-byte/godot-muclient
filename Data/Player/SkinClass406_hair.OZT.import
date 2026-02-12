@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crn0k1gy53qj8"
+path="res://.godot/imported/SkinClass406_hair.OZT-4d763fdb532ff2d4299452a5b1375cd6.res"
+
+[deps]
+
+source_file="res://Data/Player/SkinClass406_hair.OZT"
+dest_files=["res://.godot/imported/SkinClass406_hair.OZT-4d763fdb532ff2d4299452a5b1375cd6.res"]
+
+[params]
+

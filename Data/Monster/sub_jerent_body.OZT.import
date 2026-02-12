@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btq8bdv2gx14v"
+path="res://.godot/imported/sub_jerent_body.OZT-f70c8aaeb8d80980d95cbb496093dc9a.res"
+
+[deps]
+
+source_file="res://Data/Monster/sub_jerent_body.OZT"
+dest_files=["res://.godot/imported/sub_jerent_body.OZT-f70c8aaeb8d80980d95cbb496093dc9a.res"]
+
+[params]
+

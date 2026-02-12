@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://0nj6x2ju7x74"
+path="res://.godot/imported/Skill_Remu_A01.bmd-e45f436b445bdccc67d0620f8d27a89a.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Skill_Remu_A01.bmd"
+dest_files=["res://.godot/imported/Skill_Remu_A01.bmd-e45f436b445bdccc67d0620f8d27a89a.scn"]
+
+[params]
+
+modelScale=0.01

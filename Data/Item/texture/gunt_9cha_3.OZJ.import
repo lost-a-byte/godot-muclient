@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs2tlcsniqtve"
+path="res://.godot/imported/gunt_9cha_3.OZJ-4c9a17b57a374b50f8eae1c395dc3779.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gunt_9cha_3.OZJ"
+dest_files=["res://.godot/imported/gunt_9cha_3.OZJ-4c9a17b57a374b50f8eae1c395dc3779.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chk4eeggineet"
+path="res://.godot/imported/sd_cat01A.OZJ-f2f3e5da59f1b6405bd7742713842fe0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_cat01A.OZJ"
+dest_files=["res://.godot/imported/sd_cat01A.OZJ-f2f3e5da59f1b6405bd7742713842fe0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8ois13cvoku"
+path="res://.godot/imported/magi_face.OZJ-43ad74e547009e215c51b887813e2c6d.res"
+
+[deps]
+
+source_file="res://Data/Logo/magi_face.OZJ"
+dest_files=["res://.godot/imported/magi_face.OZJ-43ad74e547009e215c51b887813e2c6d.res"]
+
+[params]
+

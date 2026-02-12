@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://db674smdljn5e"
+path="res://.godot/imported/T_Fire_Sprite_01_1.OZJ-5c569fecb147b10b114c987a06ab51ff.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/T_Fire_Sprite_01_1.OZJ"
+dest_files=["res://.godot/imported/T_Fire_Sprite_01_1.OZJ-5c569fecb147b10b114c987a06ab51ff.res"]
+
+[params]
+

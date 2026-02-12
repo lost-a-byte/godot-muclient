@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cda48t4pfh5tm"
+path="res://.godot/imported/clouds_magenta.OZJ-bc8b60f43d033ae4d932ab5c8d10557f.res"
+
+[deps]
+
+source_file="res://Data/Effect/clouds_magenta.OZJ"
+dest_files=["res://.godot/imported/clouds_magenta.OZJ-bc8b60f43d033ae4d932ab5c8d10557f.res"]
+
+[params]
+

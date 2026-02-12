@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwtikflu8xavs"
+path="res://.godot/imported/rok.ozt-f612d71185a5ab896f5425863cec23dc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rok.ozt"
+dest_files=["res://.godot/imported/rok.ozt-f612d71185a5ab896f5425863cec23dc.res"]
+
+[params]
+

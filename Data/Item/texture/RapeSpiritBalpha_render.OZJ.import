@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5qt5o3dr4laa"
+path="res://.godot/imported/RapeSpiritBalpha_render.OZJ-bc0a53e43e57044f30ed0f6790135530.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RapeSpiritBalpha_render.OZJ"
+dest_files=["res://.godot/imported/RapeSpiritBalpha_render.OZJ-bc0a53e43e57044f30ed0f6790135530.res"]
+
+[params]
+

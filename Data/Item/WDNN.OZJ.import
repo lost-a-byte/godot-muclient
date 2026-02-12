@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgdo81kkst1i4"
+path="res://.godot/imported/WDNN.OZJ-e612ba764490c1c0c294eadd37b03c32.res"
+
+[deps]
+
+source_file="res://Data/Item/WDNN.OZJ"
+dest_files=["res://.godot/imported/WDNN.OZJ-e612ba764490c1c0c294eadd37b03c32.res"]
+
+[params]
+

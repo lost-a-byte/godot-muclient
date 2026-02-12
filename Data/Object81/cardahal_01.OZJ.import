@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0u2nsyslto5u"
+path="res://.godot/imported/cardahal_01.OZJ-b28d4cb36cb05953c560fd3b64200ae6.res"
+
+[deps]
+
+source_file="res://Data/Object81/cardahal_01.OZJ"
+dest_files=["res://.godot/imported/cardahal_01.OZJ-b28d4cb36cb05953c560fd3b64200ae6.res"]
+
+[params]
+

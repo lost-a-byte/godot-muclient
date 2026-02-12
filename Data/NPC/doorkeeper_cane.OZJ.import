@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3vk3r5q5qlcb"
+path="res://.godot/imported/doorkeeper_cane.OZJ-bd4f2363ffcd410c14badbc7f52d4f7c.res"
+
+[deps]
+
+source_file="res://Data/NPC/doorkeeper_cane.OZJ"
+dest_files=["res://.godot/imported/doorkeeper_cane.OZJ-bd4f2363ffcd410c14badbc7f52d4f7c.res"]
+
+[params]
+

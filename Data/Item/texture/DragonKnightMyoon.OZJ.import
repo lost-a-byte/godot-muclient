@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwc7xrqlo31sy"
+path="res://.godot/imported/DragonKnightMyoon.OZJ-67e48d8ab6202cbeda7c3d012b788960.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DragonKnightMyoon.OZJ"
+dest_files=["res://.godot/imported/DragonKnightMyoon.OZJ-67e48d8ab6202cbeda7c3d012b788960.res"]
+
+[params]
+

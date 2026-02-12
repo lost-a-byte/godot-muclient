@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djad870q26g65"
+path="res://.godot/imported/GoblinWing1.OZJ-79da958bc4871923c3578a7162f885ba.res"
+
+[deps]
+
+source_file="res://Data/Monster/GoblinWing1.OZJ"
+dest_files=["res://.godot/imported/GoblinWing1.OZJ-79da958bc4871923c3578a7162f885ba.res"]
+
+[params]
+

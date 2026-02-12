@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dsbtgxh4d14b"
+path="res://.godot/imported/djmonkeyUp.bmd-fe8385037552f6409d00ff69d621ffe6.scn"
+
+[deps]
+
+source_file="res://Data/Item/djmonkeyUp.bmd"
+dest_files=["res://.godot/imported/djmonkeyUp.bmd-fe8385037552f6409d00ff69d621ffe6.scn"]
+
+[params]
+
+modelScale=0.01

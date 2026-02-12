@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djjw6apy5t0uk"
+path="res://.godot/imported/nightmare_back_1.OZT-2da76403c7afa3d661edb34d20cdd2ad.res"
+
+[deps]
+
+source_file="res://Data/Monster/nightmare_back_1.OZT"
+dest_files=["res://.godot/imported/nightmare_back_1.OZT-2da76403c7afa3d661edb34d20cdd2ad.res"]
+
+[params]
+

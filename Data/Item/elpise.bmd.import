@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://codb07kkdxq8t"
+path="res://.godot/imported/elpise.bmd-caa0d30e6b3ad1ed85d6389b55699dda.scn"
+
+[deps]
+
+source_file="res://Data/Item/elpise.bmd"
+dest_files=["res://.godot/imported/elpise.bmd-caa0d30e6b3ad1ed85d6389b55699dda.scn"]
+
+[params]
+
+modelScale=0.01

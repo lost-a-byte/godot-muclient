@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c11kme6uex5o2"
+path="res://.godot/imported/lightweightscroll.bmd-ddc38f01f048c72952e8f0f795e530ca.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightweightscroll.bmd"
+dest_files=["res://.godot/imported/lightweightscroll.bmd-ddc38f01f048c72952e8f0f795e530ca.scn"]
+
+[params]
+
+modelScale=0.01

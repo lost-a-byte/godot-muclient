@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://brncux5enkupu"
+path="res://.godot/imported/HawkStatue.bmd-ad96221c9a5468a955ea31f614ae3c74.scn"
+
+[deps]
+
+source_file="res://Data/Item/HawkStatue.bmd"
+dest_files=["res://.godot/imported/HawkStatue.bmd-ad96221c9a5468a955ea31f614ae3c74.scn"]
+
+[params]
+
+modelScale=0.01

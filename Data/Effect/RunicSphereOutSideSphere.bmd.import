@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2upxldnaqrih"
+path="res://.godot/imported/RunicSphereOutSideSphere.bmd-867b19e3283f3656feca0730c70a1cb1.scn"
+
+[deps]
+
+source_file="res://Data/Effect/RunicSphereOutSideSphere.bmd"
+dest_files=["res://.godot/imported/RunicSphereOutSideSphere.bmd-867b19e3283f3656feca0730c70a1cb1.scn"]
+
+[params]
+
+modelScale=0.01

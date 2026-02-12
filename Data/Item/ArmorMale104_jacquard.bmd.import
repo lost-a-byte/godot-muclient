@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://6lnaam5dfr8l"
+path="res://.godot/imported/ArmorMale104_jacquard.bmd-4e7751d495e9c250e59f2b99e1894caf.scn"
+
+[deps]
+
+source_file="res://Data/Item/ArmorMale104_jacquard.bmd"
+dest_files=["res://.godot/imported/ArmorMale104_jacquard.bmd-4e7751d495e9c250e59f2b99e1894caf.scn"]
+
+[params]
+
+modelScale=0.01

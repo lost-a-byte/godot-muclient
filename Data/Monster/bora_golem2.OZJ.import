@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfassq0fs14tq"
+path="res://.godot/imported/bora_golem2.OZJ-758cd529f7784cea4a65a7164c93a13d.res"
+
+[deps]
+
+source_file="res://Data/Monster/bora_golem2.OZJ"
+dest_files=["res://.godot/imported/bora_golem2.OZJ-758cd529f7784cea4a65a7164c93a13d.res"]
+
+[params]
+

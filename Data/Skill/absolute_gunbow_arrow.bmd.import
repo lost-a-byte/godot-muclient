@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bpyx1yp0swrhi"
+path="res://.godot/imported/absolute_gunbow_arrow.bmd-3c9cbf2aee58c7f284f70e10a8ce1313.scn"
+
+[deps]
+
+source_file="res://Data/Skill/absolute_gunbow_arrow.bmd"
+dest_files=["res://.godot/imported/absolute_gunbow_arrow.bmd-3c9cbf2aee58c7f284f70e10a8ce1313.scn"]
+
+[params]
+
+modelScale=0.01

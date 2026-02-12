@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkflikklbyttj"
+path="res://.godot/imported/Slope.OZJ-6b6f25ae36e3216734c4b441bd491de6.res"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/Slope.OZJ"
+dest_files=["res://.godot/imported/Slope.OZJ-6b6f25ae36e3216734c4b441bd491de6.res"]
+
+[params]
+

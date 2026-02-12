@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnuuxksx771ac"
+path="res://.godot/imported/Valkyrie_pin_yellow.OZT-d8f98e485d51f978dfce96964d807311.res"
+
+[deps]
+
+source_file="res://Data/Monster/Valkyrie_pin_yellow.OZT"
+dest_files=["res://.godot/imported/Valkyrie_pin_yellow.OZT-d8f98e485d51f978dfce96964d807311.res"]
+
+[params]
+

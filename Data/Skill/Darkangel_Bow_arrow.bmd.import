@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://coggc18h87jeg"
+path="res://.godot/imported/Darkangel_Bow_arrow.bmd-74dfa9b8b3368647377f57fb5d0dfaa8.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Darkangel_Bow_arrow.bmd"
+dest_files=["res://.godot/imported/Darkangel_Bow_arrow.bmd-74dfa9b8b3368647377f57fb5d0dfaa8.scn"]
+
+[params]
+
+modelScale=0.01

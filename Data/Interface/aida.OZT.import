@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xvg2vr346met"
+path="res://.godot/imported/aida.OZT-6bc32201cc56be1a16e5d74e389a4034.res"
+
+[deps]
+
+source_file="res://Data/Interface/aida.OZT"
+dest_files=["res://.godot/imported/aida.OZT-6bc32201cc56be1a16e5d74e389a4034.res"]
+
+[params]
+

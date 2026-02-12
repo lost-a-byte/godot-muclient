@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dogu58pwftxsf"
+path="res://.godot/imported/ragefightermuun_02.OZJ-b2d753d020ffa29896c989f7ac8269cc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ragefightermuun_02.OZJ"
+dest_files=["res://.godot/imported/ragefightermuun_02.OZJ-b2d753d020ffa29896c989f7ac8269cc.res"]
+
+[params]
+

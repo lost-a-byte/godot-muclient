@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0jrfpwpdtaga"
+path="res://.godot/imported/pannill_eff02.OZT-95770ee802f2575cd31fa657dfda1510.res"
+
+[deps]
+
+source_file="res://Data/Effect/pannill_eff02.OZT"
+dest_files=["res://.godot/imported/pannill_eff02.OZT-95770ee802f2575cd31fa657dfda1510.res"]
+
+[params]
+

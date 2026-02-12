@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c123ueyuasdjo"
+path="res://.godot/imported/gaionkharein_face.OZJ-95e70b854d614f13ed8307c50253ec05.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gaionkharein_face.OZJ"
+dest_files=["res://.godot/imported/gaionkharein_face.OZJ-95e70b854d614f13ed8307c50253ec05.res"]
+
+[params]
+

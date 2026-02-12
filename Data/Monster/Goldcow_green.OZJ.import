@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cduvsdfpcwdrt"
+path="res://.godot/imported/Goldcow_green.OZJ-ccb26638aa28a7eb4ba5d951afe5946a.res"
+
+[deps]
+
+source_file="res://Data/Monster/Goldcow_green.OZJ"
+dest_files=["res://.godot/imported/Goldcow_green.OZJ-ccb26638aa28a7eb4ba5d951afe5946a.res"]
+
+[params]
+

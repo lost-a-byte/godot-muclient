@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7e4lduaryntx"
+path="res://.godot/imported/Item762_Sword_luck.OZJ-160f71f786cf0cc743605cc5f291b007.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/72/Item762_Sword_luck.OZJ"
+dest_files=["res://.godot/imported/Item762_Sword_luck.OZJ-160f71f786cf0cc743605cc5f291b007.res"]
+
+[params]
+

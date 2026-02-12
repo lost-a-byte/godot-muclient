@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw1hrkjgvdsft"
+path="res://.godot/imported/Stormfiends_skirt.OZJ-66bb38c1b095ea793a148ea681fa0a6d.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormfiends_skirt.OZJ"
+dest_files=["res://.godot/imported/Stormfiends_skirt.OZJ-66bb38c1b095ea793a148ea681fa0a6d.res"]
+
+[params]
+

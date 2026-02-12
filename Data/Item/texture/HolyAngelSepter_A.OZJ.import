@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsl8qa8k0w7gd"
+path="res://.godot/imported/HolyAngelSepter_A.OZJ-c9244e5893ec92a6776dfab20cebd1d3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HolyAngelSepter_A.OZJ"
+dest_files=["res://.godot/imported/HolyAngelSepter_A.OZJ-c9244e5893ec92a6776dfab20cebd1d3.res"]
+
+[params]
+

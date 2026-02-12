@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://n46l4q6aqahi"
+path="res://.godot/imported/H_Spider02.OZT-f18a80abc8f9e6d447cbfa33951afb5b.res"
+
+[deps]
+
+source_file="res://Data/Object74/H_Spider02.OZT"
+dest_files=["res://.godot/imported/H_Spider02.OZT-f18a80abc8f9e6d447cbfa33951afb5b.res"]
+
+[params]
+

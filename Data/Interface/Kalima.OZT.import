@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5c6ewggyrmkv"
+path="res://.godot/imported/Kalima.OZT-06a782afc8e77a7159cf77b79b705e52.res"
+
+[deps]
+
+source_file="res://Data/Interface/Kalima.OZT"
+dest_files=["res://.godot/imported/Kalima.OZT-06a782afc8e77a7159cf77b79b705e52.res"]
+
+[params]
+

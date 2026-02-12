@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgbpqeb61qi6"
+path="res://.godot/imported/rockca_nomal.OZJ-af9cc854068a7230275dec5acca4f2d8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rockca_nomal.OZJ"
+dest_files=["res://.godot/imported/rockca_nomal.OZJ-af9cc854068a7230275dec5acca4f2d8.res"]
+
+[params]
+

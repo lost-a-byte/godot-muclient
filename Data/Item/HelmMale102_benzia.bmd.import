@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c7xgeawmnkkt0"
+path="res://.godot/imported/HelmMale102_benzia.bmd-449b29ee5c2f6f75cf638f27456080f3.scn"
+
+[deps]
+
+source_file="res://Data/Item/HelmMale102_benzia.bmd"
+dest_files=["res://.godot/imported/HelmMale102_benzia.bmd-449b29ee5c2f6f75cf638f27456080f3.scn"]
+
+[params]
+
+modelScale=0.01

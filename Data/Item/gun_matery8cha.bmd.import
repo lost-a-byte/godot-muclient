@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://civp2fs6kb3c2"
+path="res://.godot/imported/gun_matery8cha.bmd-d14a2912e71b3fe3d54a74782e868932.scn"
+
+[deps]
+
+source_file="res://Data/Item/gun_matery8cha.bmd"
+dest_files=["res://.godot/imported/gun_matery8cha.bmd-d14a2912e71b3fe3d54a74782e868932.scn"]
+
+[params]
+
+modelScale=0.01

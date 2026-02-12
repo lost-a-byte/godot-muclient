@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cx3dsoln67dpy"
+path="res://.godot/imported/remu_marble.OZJ-b9eb12014c48c819dad2e67fb38a2746.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/remu_marble.OZJ"
+dest_files=["res://.godot/imported/remu_marble.OZJ-b9eb12014c48c819dad2e67fb38a2746.res"]
+
+[params]
+

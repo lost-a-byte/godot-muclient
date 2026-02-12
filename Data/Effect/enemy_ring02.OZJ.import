@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vduif8gvthpj"
+path="res://.godot/imported/enemy_ring02.OZJ-4557d71befafe76d4b539089454b4966.res"
+
+[deps]
+
+source_file="res://Data/Effect/enemy_ring02.OZJ"
+dest_files=["res://.godot/imported/enemy_ring02.OZJ-4557d71befafe76d4b539089454b4966.res"]
+
+[params]
+

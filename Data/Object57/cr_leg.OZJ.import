@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3onxs37h0kub"
+path="res://.godot/imported/cr_leg.OZJ-3cb950e45bb055538af76b4b52e92d64.res"
+
+[deps]
+
+source_file="res://Data/Object57/cr_leg.OZJ"
+dest_files=["res://.godot/imported/cr_leg.OZJ-3cb950e45bb055538af76b4b52e92d64.res"]
+
+[params]
+

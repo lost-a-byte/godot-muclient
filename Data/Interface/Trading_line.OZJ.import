@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://be2r8vu7m4qmi"
+path="res://.godot/imported/Trading_line.OZJ-236304f111c991c6b61f66e95ef4b213.res"
+
+[deps]
+
+source_file="res://Data/Interface/Trading_line.OZJ"
+dest_files=["res://.godot/imported/Trading_line.OZJ-236304f111c991c6b61f66e95ef4b213.res"]
+
+[params]
+

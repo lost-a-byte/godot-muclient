@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blad5macjhj8"
+path="res://.godot/imported/af.ozt-b7a298ab5a54a25537ed6d6bd34306a0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/af.ozt"
+dest_files=["res://.godot/imported/af.ozt-b7a298ab5a54a25537ed6d6bd34306a0.res"]
+
+[params]
+

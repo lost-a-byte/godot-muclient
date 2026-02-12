@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfnj5o0y2t7h1"
+path="res://.godot/imported/garp.OZJ-f78ca6b299d1a243512340ae3e978000.res"
+
+[deps]
+
+source_file="res://Data/Monster/garp.OZJ"
+dest_files=["res://.godot/imported/garp.OZJ-f78ca6b299d1a243512340ae3e978000.res"]
+
+[params]
+

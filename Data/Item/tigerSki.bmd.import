@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cripwgwj17a64"
+path="res://.godot/imported/tigerSki.bmd-2f372756491bf1a50643ed44a4670c8f.scn"
+
+[deps]
+
+source_file="res://Data/Item/tigerSki.bmd"
+dest_files=["res://.godot/imported/tigerSki.bmd-2f372756491bf1a50643ed44a4670c8f.scn"]
+
+[params]
+
+modelScale=0.01

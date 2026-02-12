@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://45l447o2148f"
+path="res://.godot/imported/ignis_gargoyle_01.OZJ-e751ed036b2728309a97f88805ab3b7f.res"
+
+[deps]
+
+source_file="res://Data/Object139/ignis_gargoyle_01.OZJ"
+dest_files=["res://.godot/imported/ignis_gargoyle_01.OZJ-e751ed036b2728309a97f88805ab3b7f.res"]
+
+[params]
+

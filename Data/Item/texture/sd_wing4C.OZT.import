@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://k6cu5xrrcra8"
+path="res://.godot/imported/sd_wing4C.OZT-4cd83b952ddb98401ba4476387903c2b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_wing4C.OZT"
+dest_files=["res://.godot/imported/sd_wing4C.OZT-4cd83b952ddb98401ba4476387903c2b.res"]
+
+[params]
+

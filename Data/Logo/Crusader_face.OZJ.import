@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxfmwmwwpr051"
+path="res://.godot/imported/Crusader_face.OZJ-c444578731c3a212ea621565e1b3ef9a.res"
+
+[deps]
+
+source_file="res://Data/Logo/Crusader_face.OZJ"
+dest_files=["res://.godot/imported/Crusader_face.OZJ-c444578731c3a212ea621565e1b3ef9a.res"]
+
+[params]
+

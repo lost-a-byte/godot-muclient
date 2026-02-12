@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dk4hagghlpnny"
+path="res://.godot/imported/hs_TaurosGR02_r.OZJ-1fb8e16b25e81dd0575d43969d4714fe.res"
+
+[deps]
+
+source_file="res://Data/Skill/hs_TaurosGR02_r.OZJ"
+dest_files=["res://.godot/imported/hs_TaurosGR02_r.OZJ-1fb8e16b25e81dd0575d43969d4714fe.res"]
+
+[params]
+

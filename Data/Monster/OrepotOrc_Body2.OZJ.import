@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hur2d1h1mlwt"
+path="res://.godot/imported/OrepotOrc_Body2.OZJ-b5d6fdb6c77d36bbc8c6aeb80e855808.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrepotOrc_Body2.OZJ"
+dest_files=["res://.godot/imported/OrepotOrc_Body2.OZJ-b5d6fdb6c77d36bbc8c6aeb80e855808.res"]
+
+[params]
+

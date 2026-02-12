@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cohu5dvesleri"
+path="res://.godot/imported/ex01shadow_master_7_knee_right.bmd-25a1f34e37c55271b1627c62c79b0bd9.scn"
+
+[deps]
+
+source_file="res://Data/Monster/ex01shadow_master_7_knee_right.bmd"
+dest_files=["res://.godot/imported/ex01shadow_master_7_knee_right.bmd-25a1f34e37c55271b1627c62c79b0bd9.scn"]
+
+[params]
+
+modelScale=0.01

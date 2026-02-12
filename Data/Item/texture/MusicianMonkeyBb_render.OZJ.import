@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kqvc0n4ddw5e"
+path="res://.godot/imported/MusicianMonkeyBb_render.OZJ-ce1482f939a70b75ea3d84632d32e2ab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MusicianMonkeyBb_render.OZJ"
+dest_files=["res://.godot/imported/MusicianMonkeyBb_render.OZJ-ce1482f939a70b75ea3d84632d32e2ab.res"]
+
+[params]
+

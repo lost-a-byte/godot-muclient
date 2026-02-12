@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brgdcseuoku4"
+path="res://.godot/imported/mastery_gun107.OZJ-5890088a99c1b2921670198e34784f5f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mastery_gun107.OZJ"
+dest_files=["res://.godot/imported/mastery_gun107.OZJ-5890088a99c1b2921670198e34784f5f.res"]
+
+[params]
+

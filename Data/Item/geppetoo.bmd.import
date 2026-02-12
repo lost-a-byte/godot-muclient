@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dclug4c7fa2i0"
+path="res://.godot/imported/geppetoo.bmd-764ab7b74adc2205deb9021a18e77565.scn"
+
+[deps]
+
+source_file="res://Data/Item/geppetoo.bmd"
+dest_files=["res://.godot/imported/geppetoo.bmd-764ab7b74adc2205deb9021a18e77565.scn"]
+
+[params]
+
+modelScale=0.01

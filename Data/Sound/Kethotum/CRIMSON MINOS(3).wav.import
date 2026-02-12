@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bq6sjun4s3sde"
+path="res://.godot/imported/CRIMSON MINOS(3).wav-bc4ea64430b396629b2b2206b5718af6.sample"
+
+[deps]
+
+source_file="res://Data/Sound/Kethotum/CRIMSON MINOS(3).wav"
+dest_files=["res://.godot/imported/CRIMSON MINOS(3).wav-bc4ea64430b396629b2b2206b5718af6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

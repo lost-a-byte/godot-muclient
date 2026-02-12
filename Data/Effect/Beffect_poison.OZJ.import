@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ptywcngoqwlr"
+path="res://.godot/imported/Beffect_poison.OZJ-4a333beefd34cd6bb1d7fab7f0572b1f.res"
+
+[deps]
+
+source_file="res://Data/Effect/Beffect_poison.OZJ"
+dest_files=["res://.godot/imported/Beffect_poison.OZJ-4a333beefd34cd6bb1d7fab7f0572b1f.res"]
+
+[params]
+

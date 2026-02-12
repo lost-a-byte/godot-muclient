@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://hkcef7viwbvh"
+path="res://.godot/imported/hellnights.bmd-77cd8e1c15c8351dd9894dbc573e4272.scn"
+
+[deps]
+
+source_file="res://Data/Item/hellnights.bmd"
+dest_files=["res://.godot/imported/hellnights.bmd-77cd8e1c15c8351dd9894dbc573e4272.scn"]
+
+[params]
+
+modelScale=0.01

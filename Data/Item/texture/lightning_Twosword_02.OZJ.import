@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg6qlql588kn7"
+path="res://.godot/imported/lightning_Twosword_02.OZJ-2c738c9f51730c04fd3caa5554c3f0c4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_Twosword_02.OZJ"
+dest_files=["res://.godot/imported/lightning_Twosword_02.OZJ-2c738c9f51730c04fd3caa5554c3f0c4.res"]
+
+[params]
+

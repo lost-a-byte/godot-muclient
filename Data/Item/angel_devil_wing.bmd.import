@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://t2q18anlaojr"
+path="res://.godot/imported/angel_devil_wing.bmd-e770eba8f912f3f43652b6b46dd0fac1.scn"
+
+[deps]
+
+source_file="res://Data/Item/angel_devil_wing.bmd"
+dest_files=["res://.godot/imported/angel_devil_wing.bmd-e770eba8f912f3f43652b6b46dd0fac1.scn"]
+
+[params]
+
+modelScale=0.01

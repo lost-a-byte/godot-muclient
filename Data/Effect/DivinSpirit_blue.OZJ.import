@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyje3a36tb1uj"
+path="res://.godot/imported/DivinSpirit_blue.OZJ-c96f15dd5f8805dfbabc1e6b13750db7.res"
+
+[deps]
+
+source_file="res://Data/Effect/DivinSpirit_blue.OZJ"
+dest_files=["res://.godot/imported/DivinSpirit_blue.OZJ-c96f15dd5f8805dfbabc1e6b13750db7.res"]
+
+[params]
+

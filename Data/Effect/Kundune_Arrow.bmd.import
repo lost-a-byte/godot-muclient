@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dq83bvn68expg"
+path="res://.godot/imported/Kundune_Arrow.bmd-aea2c1324ed2e7e973132e92d0eaad6b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Kundune_Arrow.bmd"
+dest_files=["res://.godot/imported/Kundune_Arrow.bmd-aea2c1324ed2e7e973132e92d0eaad6b.scn"]
+
+[params]
+
+modelScale=0.01

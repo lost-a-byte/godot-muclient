@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://btmiq30pb5s0l"
+path="res://.godot/imported/lesnar.bmd-6e0783e1c1eb0a821f410d461d39fdd5.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/lesnar.bmd"
+dest_files=["res://.godot/imported/lesnar.bmd-6e0783e1c1eb0a821f410d461d39fdd5.scn"]
+
+[params]
+
+modelScale=0.01

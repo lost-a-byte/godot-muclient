@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2ls7ooc2s6rc"
+path="res://.godot/imported/prsonas_max.OZT-eab309b85def8e7361816a73a01090b6.res"
+
+[deps]
+
+source_file="res://Data/Monster/prsonas_max.OZT"
+dest_files=["res://.godot/imported/prsonas_max.OZT-eab309b85def8e7361816a73a01090b6.res"]
+
+[params]
+

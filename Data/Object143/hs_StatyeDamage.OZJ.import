@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqmb26fg8d173"
+path="res://.godot/imported/hs_StatyeDamage.OZJ-af83078a7c663d44966f40ea6b29974c.res"
+
+[deps]
+
+source_file="res://Data/Object143/hs_StatyeDamage.OZJ"
+dest_files=["res://.godot/imported/hs_StatyeDamage.OZJ-af83078a7c663d44966f40ea6b29974c.res"]
+
+[params]
+

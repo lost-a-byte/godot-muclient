@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://x070wrm5065m"
+path="res://.godot/imported/DarkLordSleeve.bmd-0162f852c5eff410f922a0eccc75ea95.scn"
+
+[deps]
+
+source_file="res://Data/Item/DarkLordSleeve.bmd"
+dest_files=["res://.godot/imported/DarkLordSleeve.bmd-0162f852c5eff410f922a0eccc75ea95.scn"]
+
+[params]
+
+modelScale=0.01

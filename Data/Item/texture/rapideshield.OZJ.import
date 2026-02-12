@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blay0grjhfhfs"
+path="res://.godot/imported/rapideshield.OZJ-8c3c71f0313516a0904a3ca69c5e77c1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rapideshield.OZJ"
+dest_files=["res://.godot/imported/rapideshield.OZJ-8c3c71f0313516a0904a3ca69c5e77c1.res"]
+
+[params]
+

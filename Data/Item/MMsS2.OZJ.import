@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch0gf5rps7nig"
+path="res://.godot/imported/MMsS2.OZJ-0f1c452bd4ff6c0d5b1cf98c554c4b81.res"
+
+[deps]
+
+source_file="res://Data/Item/MMsS2.OZJ"
+dest_files=["res://.godot/imported/MMsS2.OZJ-0f1c452bd4ff6c0d5b1cf98c554c4b81.res"]
+
+[params]
+

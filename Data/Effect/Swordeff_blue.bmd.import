@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bx7422nte7k2b"
+path="res://.godot/imported/Swordeff_blue.bmd-23068700da5dbba73c66b73b14b24c89.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Swordeff_blue.bmd"
+dest_files=["res://.godot/imported/Swordeff_blue.bmd-23068700da5dbba73c66b73b14b24c89.scn"]
+
+[params]
+
+modelScale=0.01

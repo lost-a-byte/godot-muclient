@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mix38vgxbq1w"
+path="res://.godot/imported/cherryblossompet_evol.bmd-741cc05f4cf74a85a1abc31c0dd29a7b.scn"
+
+[deps]
+
+source_file="res://Data/Item/cherryblossompet_evol.bmd"
+dest_files=["res://.godot/imported/cherryblossompet_evol.bmd-741cc05f4cf74a85a1abc31c0dd29a7b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,37 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Mac Ignore
+.DS_Store
+
+// Export Preset
+export_presets.cfg
+
+
+# Data files
+Data/**/*.bmd
+Data/**/*.ozj
+Data/**/*.OZJ
+Data/**/*.ozt
+Data/**/*.OZT
+Data/**/*.ozb
+Data/**/*.OZB
+Data/**/*.att
+Data/**/*.map
+Data/**/*.ein
+Data/**/*.gfx
+Data/**/*.txt
+Data/**/*.swf
+Data/**/*.ozd
+Data/**/*.OZP
+Data/**/*.csr
+Data/**/*.ozg
+Data/**/*.mp3
+Data/**/*.ogg
+Data/**/*.wav
+Data/**/*.ini
+Data/**/*.obj
+Data/**/*.dat
+Data/**/*.cws
+Data/**/*.mpr

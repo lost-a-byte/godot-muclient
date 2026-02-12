@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bakni7kt5umgt"
+path="res://.godot/imported/skullchrom_H.OZJ-72a996288f2fd257d429d5ed150af43c.res"
+
+[deps]
+
+source_file="res://Data/Monster/skullchrom_H.OZJ"
+dest_files=["res://.godot/imported/skullchrom_H.OZJ-72a996288f2fd257d429d5ed150af43c.res"]
+
+[params]
+

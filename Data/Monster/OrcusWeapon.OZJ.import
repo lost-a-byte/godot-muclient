@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8sn06tph53dh"
+path="res://.godot/imported/OrcusWeapon.OZJ-ad44dc62e95fff96f743c3b43a0ddb7b.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrcusWeapon.OZJ"
+dest_files=["res://.godot/imported/OrcusWeapon.OZJ-ad44dc62e95fff96f743c3b43a0ddb7b.res"]
+
+[params]
+

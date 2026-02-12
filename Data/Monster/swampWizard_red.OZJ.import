@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dq8oqwtmg74f"
+path="res://.godot/imported/swampWizard_red.OZJ-a40513d8b5778a51f12a8587ebe15599.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampWizard_red.OZJ"
+dest_files=["res://.godot/imported/swampWizard_red.OZJ-a40513d8b5778a51f12a8587ebe15599.res"]
+
+[params]
+

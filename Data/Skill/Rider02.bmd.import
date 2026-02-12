@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://t2clp65la2mm"
+path="res://.godot/imported/Rider02.bmd-24cb08fe4c5b39cce62c2b6e6b036285.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Rider02.bmd"
+dest_files=["res://.godot/imported/Rider02.bmd-24cb08fe4c5b39cce62c2b6e6b036285.scn"]
+
+[params]
+
+modelScale=0.01

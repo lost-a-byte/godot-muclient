@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://djdlenpwsn0ko"
+path="res://.godot/imported/Poison01.bmd-f28b7913e9ab21ad7d521d7ae5742eb3.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Poison01.bmd"
+dest_files=["res://.godot/imported/Poison01.bmd-f28b7913e9ab21ad7d521d7ae5742eb3.scn"]
+
+[params]
+
+modelScale=0.01

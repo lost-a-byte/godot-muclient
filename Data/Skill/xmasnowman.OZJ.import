@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bavs43ctu5hci"
+path="res://.godot/imported/xmasnowman.OZJ-56afda084fafcd3557ff1c9e5ca064b3.res"
+
+[deps]
+
+source_file="res://Data/Skill/xmasnowman.OZJ"
+dest_files=["res://.godot/imported/xmasnowman.OZJ-56afda084fafcd3557ff1c9e5ca064b3.res"]
+
+[params]
+

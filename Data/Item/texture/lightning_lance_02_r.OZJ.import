@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cte4igevtrm2q"
+path="res://.godot/imported/lightning_lance_02_r.OZJ-ed28e820333a06358106480144d691d7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_lance_02_r.OZJ"
+dest_files=["res://.godot/imported/lightning_lance_02_r.OZJ-ed28e820333a06358106480144d691d7.res"]
+
+[params]
+

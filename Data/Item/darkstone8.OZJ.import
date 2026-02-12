@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c157qbm0f3cab"
+path="res://.godot/imported/darkstone8.OZJ-2a26df45492328830a1060d6cccf0920.res"
+
+[deps]
+
+source_file="res://Data/Item/darkstone8.OZJ"
+dest_files=["res://.godot/imported/darkstone8.OZJ-2a26df45492328830a1060d6cccf0920.res"]
+
+[params]
+

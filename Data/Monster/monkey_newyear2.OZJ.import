@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c77rv6lom2451"
+path="res://.godot/imported/monkey_newyear2.OZJ-8ca3bd0abfe72a8d8255124f13b1735d.res"
+
+[deps]
+
+source_file="res://Data/Monster/monkey_newyear2.OZJ"
+dest_files=["res://.godot/imported/monkey_newyear2.OZJ-8ca3bd0abfe72a8d8255124f13b1735d.res"]
+
+[params]
+

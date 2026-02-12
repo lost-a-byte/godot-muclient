@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b7dud6240fn86"
+path="res://.godot/imported/splinterpet_evol.bmd-c29aa4c80afd4276aa6c3b9d8316ee9b.scn"
+
+[deps]
+
+source_file="res://Data/Item/splinterpet_evol.bmd"
+dest_files=["res://.godot/imported/splinterpet_evol.bmd-c29aa4c80afd4276aa6c3b9d8316ee9b.scn"]
+
+[params]
+
+modelScale=0.01

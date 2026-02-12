@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxtv4g3oho2dk"
+path="res://.godot/imported/BlueEyeAnvil.OZJ-24fab32ab55bc2a6c7b259ce7fcc9291.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlueEyeAnvil.OZJ"
+dest_files=["res://.godot/imported/BlueEyeAnvil.OZJ-24fab32ab55bc2a6c7b259ce7fcc9291.res"]
+
+[params]
+

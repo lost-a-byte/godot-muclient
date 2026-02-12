@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bijd1my2wiqg7"
+path="res://.godot/imported/CRmuun_weapon.OZJ-4b89bccff3ed6283f5af052a56f6d260.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CRmuun_weapon.OZJ"
+dest_files=["res://.godot/imported/CRmuun_weapon.OZJ-4b89bccff3ed6283f5af052a56f6d260.res"]
+
+[params]
+

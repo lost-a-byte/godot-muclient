@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bfqwot5x2u1el"
+path="res://.godot/imported/blue_eyebow_stand.bmd-9ae3829068ab8d72a8e4617866556aab.scn"
+
+[deps]
+
+source_file="res://Data/Item/blue_eyebow_stand.bmd"
+dest_files=["res://.godot/imported/blue_eyebow_stand.bmd-9ae3829068ab8d72a8e4617866556aab.scn"]
+
+[params]
+
+modelScale=0.01

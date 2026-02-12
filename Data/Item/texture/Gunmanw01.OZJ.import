@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2khlwb6c6flk"
+path="res://.godot/imported/Gunmanw01.OZJ-9624f983e09912587c4d9e046339d661.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Gunmanw01.OZJ"
+dest_files=["res://.godot/imported/Gunmanw01.OZJ-9624f983e09912587c4d9e046339d661.res"]
+
+[params]
+

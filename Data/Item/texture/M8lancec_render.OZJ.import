@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drwrmtr6fq3lp"
+path="res://.godot/imported/M8lancec_render.OZJ-d9a70b10c83ed94b7d82a76cb522d9d1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/M8lancec_render.OZJ"
+dest_files=["res://.godot/imported/M8lancec_render.OZJ-d9a70b10c83ed94b7d82a76cb522d9d1.res"]
+
+[params]
+

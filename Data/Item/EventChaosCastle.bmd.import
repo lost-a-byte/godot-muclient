@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dlv3xoy16esuh"
+path="res://.godot/imported/EventChaosCastle.bmd-d521fd54b2b91629f196313f8e6c5742.scn"
+
+[deps]
+
+source_file="res://Data/Item/EventChaosCastle.bmd"
+dest_files=["res://.godot/imported/EventChaosCastle.bmd-d521fd54b2b91629f196313f8e6c5742.scn"]
+
+[params]
+
+modelScale=0.01

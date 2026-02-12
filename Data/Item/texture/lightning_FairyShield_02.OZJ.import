@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clkx5hsndl4fq"
+path="res://.godot/imported/lightning_FairyShield_02.OZJ-0a8d7ee67081fa91aec957bd888f8f51.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_FairyShield_02.OZJ"
+dest_files=["res://.godot/imported/lightning_FairyShield_02.OZJ-0a8d7ee67081fa91aec957bd888f8f51.res"]
+
+[params]
+

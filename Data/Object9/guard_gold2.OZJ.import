@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cabe0aty0wwme"
+path="res://.godot/imported/guard_gold2.OZJ-b97be3968f9a9470c47ef11cf7a2aaf2.res"
+
+[deps]
+
+source_file="res://Data/Object9/guard_gold2.OZJ"
+dest_files=["res://.godot/imported/guard_gold2.OZJ-b97be3968f9a9470c47ef11cf7a2aaf2.res"]
+
+[params]
+

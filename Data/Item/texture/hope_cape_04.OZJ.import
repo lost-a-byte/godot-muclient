@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c88xtvo0vj44e"
+path="res://.godot/imported/hope_cape_04.OZJ-f3c01b34775c3175e8e55d81c53f0254.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hope_cape_04.OZJ"
+dest_files=["res://.godot/imported/hope_cape_04.OZJ-f3c01b34775c3175e8e55d81c53f0254.res"]
+
+[params]
+

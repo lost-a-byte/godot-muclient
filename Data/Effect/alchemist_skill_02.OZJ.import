@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp6c7bmbainex"
+path="res://.godot/imported/alchemist_skill_02.OZJ-e326ed235ecaaedd69ab660ad896156b.res"
+
+[deps]
+
+source_file="res://Data/Effect/alchemist_skill_02.OZJ"
+dest_files=["res://.godot/imported/alchemist_skill_02.OZJ-e326ed235ecaaedd69ab660ad896156b.res"]
+
+[params]
+

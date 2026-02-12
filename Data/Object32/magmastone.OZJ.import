@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bs8d0q4mgpjhl"
+path="res://.godot/imported/magmastone.OZJ-5c24637d40f1981ce25f16cb9c9b2212.res"
+
+[deps]
+
+source_file="res://Data/Object32/magmastone.OZJ"
+dest_files=["res://.godot/imported/magmastone.OZJ-5c24637d40f1981ce25f16cb9c9b2212.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c38segwhlmbjx"
+path="res://.godot/imported/giftbox_bp.bmd-008d0acc5e1262c6c2baa4fb3ee90a0a.scn"
+
+[deps]
+
+source_file="res://Data/Item/giftbox_bp.bmd"
+dest_files=["res://.godot/imported/giftbox_bp.bmd-008d0acc5e1262c6c2baa4fb3ee90a0a.scn"]
+
+[params]
+
+modelScale=0.01

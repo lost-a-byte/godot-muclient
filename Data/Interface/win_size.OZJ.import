@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcp10psk6wine"
+path="res://.godot/imported/win_size.OZJ-1270897e4340ae79c6d660511b4c8f84.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_size.OZJ"
+dest_files=["res://.godot/imported/win_size.OZJ-1270897e4340ae79c6d660511b4c8f84.res"]
+
+[params]
+

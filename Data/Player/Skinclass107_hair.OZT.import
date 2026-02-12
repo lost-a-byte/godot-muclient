@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyhg65tkb1d4e"
+path="res://.godot/imported/Skinclass107_hair.OZT-0d4746049f1554014a663e6e8156d65b.res"
+
+[deps]
+
+source_file="res://Data/Player/Skinclass107_hair.OZT"
+dest_files=["res://.godot/imported/Skinclass107_hair.OZT-0d4746049f1554014a663e6e8156d65b.res"]
+
+[params]
+

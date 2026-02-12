@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://l5rpvbs7jd0l"
+path="res://.godot/imported/chaos_amulet_silverheart.OZJ-17eed0877bec58fea096afe39a3af605.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_silverheart.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_silverheart.OZJ-17eed0877bec58fea096afe39a3af605.res"]
+
+[params]
+

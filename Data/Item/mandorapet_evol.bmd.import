@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://din4pnune6xyq"
+path="res://.godot/imported/mandorapet_evol.bmd-fa44fe7f105045a06447b44ccb042a74.scn"
+
+[deps]
+
+source_file="res://Data/Item/mandorapet_evol.bmd"
+dest_files=["res://.godot/imported/mandorapet_evol.bmd-fa44fe7f105045a06447b44ccb042a74.scn"]
+
+[params]
+
+modelScale=0.01

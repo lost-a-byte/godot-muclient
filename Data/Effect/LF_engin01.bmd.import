@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ch6ntfyx46x2u"
+path="res://.godot/imported/LF_engin01.bmd-c557ab509c8952de0d34466c86ab5b09.scn"
+
+[deps]
+
+source_file="res://Data/Effect/LF_engin01.bmd"
+dest_files=["res://.godot/imported/LF_engin01.bmd-c557ab509c8952de0d34466c86ab5b09.scn"]
+
+[params]
+
+modelScale=0.01

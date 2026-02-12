@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0mg663bm7l0v"
+path="res://.godot/imported/magriffi_Body_Green.OZJ-0f86c4e81030dd639fea49bad41c7b2f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magriffi_Body_Green.OZJ"
+dest_files=["res://.godot/imported/magriffi_Body_Green.OZJ-0f86c4e81030dd639fea49bad41c7b2f.res"]
+
+[params]
+

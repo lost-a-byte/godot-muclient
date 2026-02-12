@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6fwfbvwrsfjr"
+path="res://.godot/imported/wingcore_buildup.OZJ-340f0791ef1648aa894b6f9eb62d6fda.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wingcore_buildup.OZJ"
+dest_files=["res://.godot/imported/wingcore_buildup.OZJ-340f0791ef1648aa894b6f9eb62d6fda.res"]
+
+[params]
+

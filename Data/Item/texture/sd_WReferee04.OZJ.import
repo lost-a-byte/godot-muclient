@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvyefqqke4wkm"
+path="res://.godot/imported/sd_WReferee04.OZJ-1eedf209ed4c2f7498bb5a9a1de25d06.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_WReferee04.OZJ"
+dest_files=["res://.godot/imported/sd_WReferee04.OZJ-1eedf209ed4c2f7498bb5a9a1de25d06.res"]
+
+[params]
+

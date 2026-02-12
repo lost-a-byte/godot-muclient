@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn1drl88k7de2"
+path="res://.godot/imported/mwalker_01.OZJ-dd4dc9114cde0ac26e630f3e9eb77844.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mwalker_01.OZJ"
+dest_files=["res://.godot/imported/mwalker_01.OZJ-dd4dc9114cde0ac26e630f3e9eb77844.res"]
+
+[params]
+

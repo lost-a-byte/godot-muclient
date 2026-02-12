@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmx28yt07pn2t"
+path="res://.godot/imported/barnert.OZJ-5b76dbfcc32237167ccafad6190484e5.res"
+
+[deps]
+
+source_file="res://Data/NPC/barnert.OZJ"
+dest_files=["res://.godot/imported/barnert.OZJ-5b76dbfcc32237167ccafad6190484e5.res"]
+
+[params]
+

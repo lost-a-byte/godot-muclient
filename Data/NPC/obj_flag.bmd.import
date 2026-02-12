@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ddine2heghtga"
+path="res://.godot/imported/obj_flag.bmd-e1d9615d152bc7120dae516127c9574a.scn"
+
+[deps]
+
+source_file="res://Data/NPC/obj_flag.bmd"
+dest_files=["res://.godot/imported/obj_flag.bmd-e1d9615d152bc7120dae516127c9574a.scn"]
+
+[params]
+
+modelScale=0.01

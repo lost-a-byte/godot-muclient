@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4bdbuwecpdfg"
+path="res://.godot/imported/apocalypse_GunB.OZJ-6fd3300a42c5f7580e616dc0c8b0db37.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_GunB.OZJ"
+dest_files=["res://.godot/imported/apocalypse_GunB.OZJ-6fd3300a42c5f7580e616dc0c8b0db37.res"]
+
+[params]
+

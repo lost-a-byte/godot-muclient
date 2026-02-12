@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjl1f1j7r3ipm"
+path="res://.godot/imported/membership_item_sky.OZJ-f58ab280b6735fc9965384263e48f6e3.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/membership_item_sky.OZJ"
+dest_files=["res://.godot/imported/membership_item_sky.OZJ-f58ab280b6735fc9965384263e48f6e3.res"]
+
+[params]
+

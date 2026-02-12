@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx1vnlmf4lkss"
+path="res://.godot/imported/JointThunder01.OZJ-7a6b9d520a3b508acbc206f1bb898e26.res"
+
+[deps]
+
+source_file="res://Data/Effect/JointThunder01.OZJ"
+dest_files=["res://.godot/imported/JointThunder01.OZJ-7a6b9d520a3b508acbc206f1bb898e26.res"]
+
+[params]
+

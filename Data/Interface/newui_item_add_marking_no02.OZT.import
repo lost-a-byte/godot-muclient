@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7cocrsiqow4u"
+path="res://.godot/imported/newui_item_add_marking_no02.OZT-79b923f8a31435caa95a727e767e8d49.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_add_marking_no02.OZT"
+dest_files=["res://.godot/imported/newui_item_add_marking_no02.OZT-79b923f8a31435caa95a727e767e8d49.res"]
+
+[params]
+

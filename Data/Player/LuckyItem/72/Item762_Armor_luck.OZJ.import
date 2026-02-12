@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://t6tf0mvblta8"
+path="res://.godot/imported/Item762_Armor_luck.OZJ-4134b13e94193927af223413dc811c0d.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/72/Item762_Armor_luck.OZJ"
+dest_files=["res://.godot/imported/Item762_Armor_luck.OZJ-4134b13e94193927af223413dc811c0d.res"]
+
+[params]
+

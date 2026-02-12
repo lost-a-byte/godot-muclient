@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://inunk2lrkfcd"
+path="res://.godot/imported/hshammerB_R.OZJ-32e9fcfe05ba73185551fd16c192c9ef.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hshammerB_R.OZJ"
+dest_files=["res://.godot/imported/hshammerB_R.OZJ-32e9fcfe05ba73185551fd16c192c9ef.res"]
+
+[params]
+

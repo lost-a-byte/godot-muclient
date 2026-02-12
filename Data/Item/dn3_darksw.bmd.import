@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dc4li37twx1tc"
+path="res://.godot/imported/dn3_darksw.bmd-96ac040245d080584a553e11951e02d0.scn"
+
+[deps]
+
+source_file="res://Data/Item/dn3_darksw.bmd"
+dest_files=["res://.godot/imported/dn3_darksw.bmd-96ac040245d080584a553e11951e02d0.scn"]
+
+[params]
+
+modelScale=0.01

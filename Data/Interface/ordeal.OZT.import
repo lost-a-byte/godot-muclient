@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1ci5bedks6ko"
+path="res://.godot/imported/ordeal.OZT-78f7a4dc6e2582cb7542799d4d7e47d6.res"
+
+[deps]
+
+source_file="res://Data/Interface/ordeal.OZT"
+dest_files=["res://.godot/imported/ordeal.OZT-78f7a4dc6e2582cb7542799d4d7e47d6.res"]
+
+[params]
+

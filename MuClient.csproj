@@ -1,0 +1,14 @@
+<Project Sdk="Godot.NET.Sdk/4.6.0">
+  <ItemGroup Condition="$(DefineConstants.Contains('TOOLS'))">
+    <ProjectReference Include="Lib\MuOnlineData\Client.Data\Client.Data.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <TargetFramework Condition=" '$(GodotTargetPlatform)' == 'android' ">net9.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Lib/**/*" />
+  </ItemGroup>
+</Project>

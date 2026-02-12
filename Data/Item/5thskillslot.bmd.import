@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d4g78gge53cp2"
+path="res://.godot/imported/5thskillslot.bmd-eee9b53a03060175dd6795ceae3e551b.scn"
+
+[deps]
+
+source_file="res://Data/Item/5thskillslot.bmd"
+dest_files=["res://.godot/imported/5thskillslot.bmd-eee9b53a03060175dd6795ceae3e551b.scn"]
+
+[params]
+
+modelScale=0.01

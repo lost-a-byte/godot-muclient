@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dl0nbrygmw0jo"
+path="res://.godot/imported/Leviathan_rare.bmd-8d40e5e84676347f64db2a9acda8c89a.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Leviathan_rare.bmd"
+dest_files=["res://.godot/imported/Leviathan_rare.bmd-8d40e5e84676347f64db2a9acda8c89a.scn"]
+
+[params]
+
+modelScale=0.01

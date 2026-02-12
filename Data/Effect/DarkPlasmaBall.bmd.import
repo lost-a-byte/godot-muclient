@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dihylp8rxugxm"
+path="res://.godot/imported/DarkPlasmaBall.bmd-4e5df555c9fd1906c1bcafdc5b7314e3.scn"
+
+[deps]
+
+source_file="res://Data/Effect/DarkPlasmaBall.bmd"
+dest_files=["res://.godot/imported/DarkPlasmaBall.bmd-4e5df555c9fd1906c1bcafdc5b7314e3.scn"]
+
+[params]
+
+modelScale=0.01

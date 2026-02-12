@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://qkbb0nkyb5lt"
+path="res://.godot/imported/MobiusStrip.bmd-67817518b5552bdf26419a6072a33efd.scn"
+
+[deps]
+
+source_file="res://Data/Effect/MobiusStrip.bmd"
+dest_files=["res://.godot/imported/MobiusStrip.bmd-67817518b5552bdf26419a6072a33efd.scn"]
+
+[params]
+
+modelScale=0.01

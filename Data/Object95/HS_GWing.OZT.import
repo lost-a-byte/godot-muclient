@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yk2d1saafuhc"
+path="res://.godot/imported/HS_GWing.OZT-93cdea7bd73839a786aa64d9c3ec4f77.res"
+
+[deps]
+
+source_file="res://Data/Object95/HS_GWing.OZT"
+dest_files=["res://.godot/imported/HS_GWing.OZT-93cdea7bd73839a786aa64d9c3ec4f77.res"]
+
+[params]
+

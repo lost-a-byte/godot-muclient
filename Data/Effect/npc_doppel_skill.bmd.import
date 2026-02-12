@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cqysrm57dflv4"
+path="res://.godot/imported/npc_doppel_skill.bmd-70578eacd551e11eedac39c051734a0e.scn"
+
+[deps]
+
+source_file="res://Data/Effect/npc_doppel_skill.bmd"
+dest_files=["res://.godot/imported/npc_doppel_skill.bmd-70578eacd551e11eedac39c051734a0e.scn"]
+
+[params]
+
+modelScale=0.01

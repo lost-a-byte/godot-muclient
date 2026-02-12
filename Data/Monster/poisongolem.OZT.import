@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cp6qdmugc72ma"
+path="res://.godot/imported/poisongolem.OZT-feff226d56b6110b13a887182f7baef3.res"
+
+[deps]
+
+source_file="res://Data/Monster/poisongolem.OZT"
+dest_files=["res://.godot/imported/poisongolem.OZT-feff226d56b6110b13a887182f7baef3.res"]
+
+[params]
+

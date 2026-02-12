@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dphfsswrm8k3h"
+path="res://.godot/imported/Fury_ContractStone.bmd-b803ddb807b21e6ea11ee7747360b4eb.scn"
+
+[deps]
+
+source_file="res://Data/Item/Fury_ContractStone.bmd"
+dest_files=["res://.godot/imported/Fury_ContractStone.bmd-b803ddb807b21e6ea11ee7747360b4eb.scn"]
+
+[params]
+
+modelScale=0.01

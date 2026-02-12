@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6mloi18lowpm"
+path="res://.godot/imported/Divinehorse_4.OZT-8969017b21c2f52ab1457c559c9b0f61.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Divinehorse_4.OZT"
+dest_files=["res://.godot/imported/Divinehorse_4.OZT-8969017b21c2f52ab1457c559c9b0f61.res"]
+
+[params]
+

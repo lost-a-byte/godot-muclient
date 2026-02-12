@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cti6qm55kwt1d"
+path="res://.godot/imported/woddenbeastalpha.OZT-de1672059b37c18bf052ecd5edab2fc2.res"
+
+[deps]
+
+source_file="res://Data/Monster/woddenbeastalpha.OZT"
+dest_files=["res://.godot/imported/woddenbeastalpha.OZT-de1672059b37c18bf052ecd5edab2fc2.res"]
+
+[params]
+

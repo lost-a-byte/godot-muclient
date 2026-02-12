@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://beg4i5bangtxf"
+path="res://.godot/imported/sulredgochu.bmd-013cfa45c2267003e583f22fc3e4c04e.scn"
+
+[deps]
+
+source_file="res://Data/Monster/sulredgochu.bmd"
+dest_files=["res://.godot/imported/sulredgochu.bmd-013cfa45c2267003e583f22fc3e4c04e.scn"]
+
+[params]
+
+modelScale=0.01

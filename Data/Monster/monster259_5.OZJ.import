@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beu5y6lajqdmh"
+path="res://.godot/imported/monster259_5.OZJ-fd9998e304279b2183a84c24fd2a4253.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster259_5.OZJ"
+dest_files=["res://.godot/imported/monster259_5.OZJ-fd9998e304279b2183a84c24fd2a4253.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3ecxy2q7p37h"
+path="res://.godot/imported/runemacesocket400_nomal.OZJ-f65bed74d82ca2c094a40e50056cab62.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runemacesocket400_nomal.OZJ"
+dest_files=["res://.godot/imported/runemacesocket400_nomal.OZJ-f65bed74d82ca2c094a40e50056cab62.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btl538csmxvmo"
+path="res://.godot/imported/cho_wedding_03.OZT-1db6c9fda80fc838b20e2bbb24f8fc1b.res"
+
+[deps]
+
+source_file="res://Data/Object3/cho_wedding_03.OZT"
+dest_files=["res://.godot/imported/cho_wedding_03.OZT-1db6c9fda80fc838b20e2bbb24f8fc1b.res"]
+
+[params]
+

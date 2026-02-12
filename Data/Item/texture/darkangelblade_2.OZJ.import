@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0ravfjirl2qw"
+path="res://.godot/imported/darkangelblade_2.OZJ-ee7acdba889b92f5da866a4520af6035.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkangelblade_2.OZJ"
+dest_files=["res://.godot/imported/darkangelblade_2.OZJ-ee7acdba889b92f5da866a4520af6035.res"]
+
+[params]
+

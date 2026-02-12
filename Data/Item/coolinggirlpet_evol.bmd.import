@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dwsbludim8xsk"
+path="res://.godot/imported/coolinggirlpet_evol.bmd-7cfc960f41db9211264e38b388dbc134.scn"
+
+[deps]
+
+source_file="res://Data/Item/coolinggirlpet_evol.bmd"
+dest_files=["res://.godot/imported/coolinggirlpet_evol.bmd-7cfc960f41db9211264e38b388dbc134.scn"]
+
+[params]
+
+modelScale=0.01

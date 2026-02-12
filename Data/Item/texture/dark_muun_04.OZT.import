@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://026dqlibmy25"
+path="res://.godot/imported/dark_muun_04.OZT-270af8d25f1c148652386b97b91dfdec.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark_muun_04.OZT"
+dest_files=["res://.godot/imported/dark_muun_04.OZT-270af8d25f1c148652386b97b91dfdec.res"]
+
+[params]
+

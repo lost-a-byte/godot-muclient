@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfv4pkflbm8vj"
+path="res://.godot/imported/apocalypse_staffB.OZJ-62887fdf65e4857c27467f168e9c7e75.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_staffB.OZJ"
+dest_files=["res://.godot/imported/apocalypse_staffB.OZJ-62887fdf65e4857c27467f168e9c7e75.res"]
+
+[params]
+

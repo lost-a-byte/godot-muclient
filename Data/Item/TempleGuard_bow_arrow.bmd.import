@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://gnspmp7kvai0"
+path="res://.godot/imported/TempleGuard_bow_arrow.bmd-bd0003ee1cf09c515d8a31f9651b1139.scn"
+
+[deps]
+
+source_file="res://Data/Item/TempleGuard_bow_arrow.bmd"
+dest_files=["res://.godot/imported/TempleGuard_bow_arrow.bmd-bd0003ee1cf09c515d8a31f9651b1139.scn"]
+
+[params]
+
+modelScale=0.01

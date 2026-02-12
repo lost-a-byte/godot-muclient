@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlxyjap47gi2d"
+path="res://.godot/imported/MapNameAddStrife.OZT-de59dd0218386864cfed99030109145a.res"
+
+[deps]
+
+source_file="res://Data/Interface/MapNameAddStrife.OZT"
+dest_files=["res://.godot/imported/MapNameAddStrife.OZT-de59dd0218386864cfed99030109145a.res"]
+
+[params]
+

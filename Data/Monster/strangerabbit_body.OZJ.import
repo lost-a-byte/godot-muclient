@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkrqcfk7pgiw"
+path="res://.godot/imported/strangerabbit_body.OZJ-8fd1b77fb9318a0034ebeb3c76e7dca0.res"
+
+[deps]
+
+source_file="res://Data/Monster/strangerabbit_body.OZJ"
+dest_files=["res://.godot/imported/strangerabbit_body.OZJ-8fd1b77fb9318a0034ebeb3c76e7dca0.res"]
+
+[params]
+

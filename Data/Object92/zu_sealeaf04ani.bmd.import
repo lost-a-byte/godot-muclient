@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ngkdf4r7a1qg"
+path="res://.godot/imported/zu_sealeaf04ani.bmd-52cf098cde472a42699921e41a760cd1.scn"
+
+[deps]
+
+source_file="res://Data/Object92/zu_sealeaf04ani.bmd"
+dest_files=["res://.godot/imported/zu_sealeaf04ani.bmd-52cf098cde472a42699921e41a760cd1.scn"]
+
+[params]
+
+modelScale=0.01

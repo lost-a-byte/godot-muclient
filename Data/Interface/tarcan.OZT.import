@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkb0j7hjxrdu3"
+path="res://.godot/imported/tarcan.OZT-42626ba53bc75833e7edc24ed9a2fa5f.res"
+
+[deps]
+
+source_file="res://Data/Interface/tarcan.OZT"
+dest_files=["res://.godot/imported/tarcan.OZT-42626ba53bc75833e7edc24ed9a2fa5f.res"]
+
+[params]
+

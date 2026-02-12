@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dj04c4tqw6cv3"
+path="res://.godot/imported/icegiantpart_4.bmd-6c57672dacfbac41038cbbcaadc68428.scn"
+
+[deps]
+
+source_file="res://Data/Monster/icegiantpart_4.bmd"
+dest_files=["res://.godot/imported/icegiantpart_4.bmd-6c57672dacfbac41038cbbcaadc68428.scn"]
+
+[params]
+
+modelScale=0.01

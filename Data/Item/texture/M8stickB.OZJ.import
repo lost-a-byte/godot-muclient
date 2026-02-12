@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uhyb2iwloy6i"
+path="res://.godot/imported/M8stickB.OZJ-36cd0b3cd7ced971de8e3754c9c1055f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/M8stickB.OZJ"
+dest_files=["res://.godot/imported/M8stickB.OZJ-36cd0b3cd7ced971de8e3754c9c1055f.res"]
+
+[params]
+

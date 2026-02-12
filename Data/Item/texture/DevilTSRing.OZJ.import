@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c644tva5i1sy7"
+path="res://.godot/imported/DevilTSRing.OZJ-52575b1da6dad09458cca96a0cb4d920.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DevilTSRing.OZJ"
+dest_files=["res://.godot/imported/DevilTSRing.OZJ-52575b1da6dad09458cca96a0cb4d920.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dg8nr4jdtxaq3"
+path="res://.godot/imported/ex01icenight.OZJ-3696b3b19949599534dfaa9dcd5ca98c.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01icenight.OZJ"
+dest_files=["res://.godot/imported/ex01icenight.OZJ-3696b3b19949599534dfaa9dcd5ca98c.res"]
+
+[params]
+

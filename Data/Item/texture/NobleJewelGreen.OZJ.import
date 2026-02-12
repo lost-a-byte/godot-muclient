@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lx84pm0jjgy7"
+path="res://.godot/imported/NobleJewelGreen.OZJ-e82227ee81b2e5ec539f60aab4f46263.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NobleJewelGreen.OZJ"
+dest_files=["res://.godot/imported/NobleJewelGreen.OZJ-e82227ee81b2e5ec539f60aab4f46263.res"]
+
+[params]
+

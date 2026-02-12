@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmf0ouvya312l"
+path="res://.godot/imported/backLight.OZJ-ae7f5b453e3fe1cd1c9f4b63fe3ec115.res"
+
+[deps]
+
+source_file="res://Data/Effect/backLight.OZJ"
+dest_files=["res://.godot/imported/backLight.OZJ-ae7f5b453e3fe1cd1c9f4b63fe3ec115.res"]
+
+[params]
+

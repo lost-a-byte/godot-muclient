@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sb1fwsqy8lx7"
+path="res://.godot/imported/flareBlue_R.OZJ-94c81dd47f3ce44933ee3de124037f25.res"
+
+[deps]
+
+source_file="res://Data/Object101/flareBlue_R.OZJ"
+dest_files=["res://.godot/imported/flareBlue_R.OZJ-94c81dd47f3ce44933ee3de124037f25.res"]
+
+[params]
+

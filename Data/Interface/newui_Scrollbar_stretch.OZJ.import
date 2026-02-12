@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c73iw3gjws575"
+path="res://.godot/imported/newui_Scrollbar_stretch.OZJ-06eab845b43644964c4044afbebe1955.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Scrollbar_stretch.OZJ"
+dest_files=["res://.godot/imported/newui_Scrollbar_stretch.OZJ-06eab845b43644964c4044afbebe1955.res"]
+
+[params]
+

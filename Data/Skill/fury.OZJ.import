@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ck7uewbwyqako"
+path="res://.godot/imported/fury.OZJ-dd696953eb2504f9c1022e2b91e91abc.res"
+
+[deps]
+
+source_file="res://Data/Skill/fury.OZJ"
+dest_files=["res://.godot/imported/fury.OZJ-dd696953eb2504f9c1022e2b91e91abc.res"]
+
+[params]
+

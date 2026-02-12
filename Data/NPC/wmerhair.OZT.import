@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2rxmh5fp81jc"
+path="res://.godot/imported/wmerhair.OZT-0f02e0afd4c6257a920b806933da2847.res"
+
+[deps]
+
+source_file="res://Data/NPC/wmerhair.OZT"
+dest_files=["res://.godot/imported/wmerhair.OZT-0f02e0afd4c6257a920b806933da2847.res"]
+
+[params]
+

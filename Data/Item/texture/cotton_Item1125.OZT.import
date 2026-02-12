@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3a5xgmxoub0v"
+path="res://.godot/imported/cotton_Item1125.OZT-bf1deb046fb013279aa3fa8bb74a47c5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cotton_Item1125.OZT"
+dest_files=["res://.godot/imported/cotton_Item1125.OZT-bf1deb046fb013279aa3fa8bb74a47c5.res"]
+
+[params]
+

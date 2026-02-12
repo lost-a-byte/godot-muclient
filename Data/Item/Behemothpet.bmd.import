@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://brwxaldrxmhfa"
+path="res://.godot/imported/Behemothpet.bmd-9081bf01376ffdd64ceeb14fc56d758e.scn"
+
+[deps]
+
+source_file="res://Data/Item/Behemothpet.bmd"
+dest_files=["res://.godot/imported/Behemothpet.bmd-9081bf01376ffdd64ceeb14fc56d758e.scn"]
+
+[params]
+
+modelScale=0.01

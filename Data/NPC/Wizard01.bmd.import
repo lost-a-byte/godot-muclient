@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dugk24bn3ayfh"
+path="res://.godot/imported/Wizard01.bmd-5a9b2ddaa10bc1355d0eec14dfbf30cf.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Wizard01.bmd"
+dest_files=["res://.godot/imported/Wizard01.bmd-5a9b2ddaa10bc1355d0eec14dfbf30cf.scn"]
+
+[params]
+
+modelScale=0.01

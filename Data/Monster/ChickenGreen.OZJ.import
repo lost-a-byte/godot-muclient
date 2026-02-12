@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://684dykpd3jrj"
+path="res://.godot/imported/ChickenGreen.OZJ-5c94d8ff0854a34bd876d15d24fdb0f0.res"
+
+[deps]
+
+source_file="res://Data/Monster/ChickenGreen.OZJ"
+dest_files=["res://.godot/imported/ChickenGreen.OZJ-5c94d8ff0854a34bd876d15d24fdb0f0.res"]
+
+[params]
+

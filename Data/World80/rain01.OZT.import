@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvdm7058fsevg"
+path="res://.godot/imported/rain01.OZT-562c51961725b9577fbb5bc4a00ddf51.res"
+
+[deps]
+
+source_file="res://Data/World80/rain01.OZT"
+dest_files=["res://.godot/imported/rain01.OZT-562c51961725b9577fbb5bc4a00ddf51.res"]
+
+[params]
+

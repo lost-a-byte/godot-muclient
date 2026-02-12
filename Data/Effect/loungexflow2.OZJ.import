@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://87h5xn6wv0sn"
+path="res://.godot/imported/loungexflow2.OZJ-9ef9f24db0b79d795318c4ccc0e85763.res"
+
+[deps]
+
+source_file="res://Data/Effect/loungexflow2.OZJ"
+dest_files=["res://.godot/imported/loungexflow2.OZJ-9ef9f24db0b79d795318c4ccc0e85763.res"]
+
+[params]
+

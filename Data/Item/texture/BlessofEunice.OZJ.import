@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cctwsfsupelj3"
+path="res://.godot/imported/BlessofEunice.OZJ-e39e2e0af25267b75b393d040efb23b9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlessofEunice.OZJ"
+dest_files=["res://.godot/imported/BlessofEunice.OZJ-e39e2e0af25267b75b393d040efb23b9.res"]
+
+[params]
+

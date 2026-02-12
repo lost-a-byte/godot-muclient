@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0v65uq36w6gp"
+path="res://.godot/imported/w_merchant_b.OZJ-f40aab1f2ac7270430c77186726280ea.res"
+
+[deps]
+
+source_file="res://Data/NPC/w_merchant_b.OZJ"
+dest_files=["res://.godot/imported/w_merchant_b.OZJ-f40aab1f2ac7270430c77186726280ea.res"]
+
+[params]
+

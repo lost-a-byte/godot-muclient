@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2fosc5qipxpo"
+path="res://.godot/imported/TowerGateplane.bmd-38573b5d98139e1b056ddbbe626f5c29.scn"
+
+[deps]
+
+source_file="res://Data/Skill/TowerGateplane.bmd"
+dest_files=["res://.godot/imported/TowerGateplane.bmd-38573b5d98139e1b056ddbbe626f5c29.scn"]
+
+[params]
+
+modelScale=0.01

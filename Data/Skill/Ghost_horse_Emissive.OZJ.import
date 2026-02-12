@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuelb2mi1udpj"
+path="res://.godot/imported/Ghost_horse_Emissive.OZJ-710ad30095ff3c6d37f5271d99276c3d.res"
+
+[deps]
+
+source_file="res://Data/Skill/Ghost_horse_Emissive.OZJ"
+dest_files=["res://.godot/imported/Ghost_horse_Emissive.OZJ-710ad30095ff3c6d37f5271d99276c3d.res"]
+
+[params]
+

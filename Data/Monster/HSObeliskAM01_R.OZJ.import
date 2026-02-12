@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://um5rhhtv3yy0"
+path="res://.godot/imported/HSObeliskAM01_R.OZJ-040c8a7f5a8929656202fc0364e68cae.res"
+
+[deps]
+
+source_file="res://Data/Monster/HSObeliskAM01_R.OZJ"
+dest_files=["res://.godot/imported/HSObeliskAM01_R.OZJ-040c8a7f5a8929656202fc0364e68cae.res"]
+
+[params]
+

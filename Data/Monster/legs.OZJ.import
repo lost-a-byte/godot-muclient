@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yba5fekhb81j"
+path="res://.godot/imported/legs.OZJ-4dd60bdb8f9b5d100e95839d0788b220.res"
+
+[deps]
+
+source_file="res://Data/Monster/legs.OZJ"
+dest_files=["res://.godot/imported/legs.OZJ-4dd60bdb8f9b5d100e95839d0788b220.res"]
+
+[params]
+

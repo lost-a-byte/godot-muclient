@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3lkhxahcbsv6"
+path="res://.godot/imported/Lizard_man_puple.OZJ-00c681b744263d5b0cd1df7bf9f2390f.res"
+
+[deps]
+
+source_file="res://Data/Monster/Lizard_man_puple.OZJ"
+dest_files=["res://.godot/imported/Lizard_man_puple.OZJ-00c681b744263d5b0cd1df7bf9f2390f.res"]
+
+[params]
+

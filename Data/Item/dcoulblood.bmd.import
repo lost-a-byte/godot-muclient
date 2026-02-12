@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cslq2a2nb7jv3"
+path="res://.godot/imported/dcoulblood.bmd-d58a603223b7729fe88839a42fed0bbf.scn"
+
+[deps]
+
+source_file="res://Data/Item/dcoulblood.bmd"
+dest_files=["res://.godot/imported/dcoulblood.bmd-d58a603223b7729fe88839a42fed0bbf.scn"]
+
+[params]
+
+modelScale=0.01

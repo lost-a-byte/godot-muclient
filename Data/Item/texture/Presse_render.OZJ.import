@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coc6yq2wvyxg2"
+path="res://.godot/imported/Presse_render.OZJ-e852ac5f7d14074ed97a02fc7f0965b1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Presse_render.OZJ"
+dest_files=["res://.godot/imported/Presse_render.OZJ-e852ac5f7d14074ed97a02fc7f0965b1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtia67qva181a"
+path="res://.godot/imported/GodofDarknessA1.OZJ-e78e4c019ae7fb8dbd860b8e6054f8db.res"
+
+[deps]
+
+source_file="res://Data/Monster/GodofDarknessA1.OZJ"
+dest_files=["res://.godot/imported/GodofDarknessA1.OZJ-e78e4c019ae7fb8dbd860b8e6054f8db.res"]
+
+[params]
+

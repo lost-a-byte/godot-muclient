@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brdkvl2llcs45"
+path="res://.godot/imported/icewalker_R.OZJ-dd82b71e859b068b75d440a9807cb9c4.res"
+
+[deps]
+
+source_file="res://Data/Monster/icewalker_R.OZJ"
+dest_files=["res://.godot/imported/icewalker_R.OZJ-dd82b71e859b068b75d440a9807cb9c4.res"]
+
+[params]
+

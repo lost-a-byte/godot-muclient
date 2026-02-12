@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7j458b73lq2u"
+path="res://.godot/imported/GiantIce.bmd-ff71576e52febb4ca529684aa2ce8be1.scn"
+
+[deps]
+
+source_file="res://Data/Item/GiantIce.bmd"
+dest_files=["res://.godot/imported/GiantIce.bmd-ff71576e52febb4ca529684aa2ce8be1.scn"]
+
+[params]
+
+modelScale=0.01

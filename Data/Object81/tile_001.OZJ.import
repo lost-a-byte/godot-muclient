@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch1uw8lpnwqqs"
+path="res://.godot/imported/tile_001.OZJ-8b5526c520c6fd660a91dd80a70b7f29.res"
+
+[deps]
+
+source_file="res://Data/Object81/tile_001.OZJ"
+dest_files=["res://.godot/imported/tile_001.OZJ-8b5526c520c6fd660a91dd80a70b7f29.res"]
+
+[params]
+

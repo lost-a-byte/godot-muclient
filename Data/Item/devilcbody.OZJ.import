@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5pf00p4inmri"
+path="res://.godot/imported/devilcbody.OZJ-d54589ac25f697ff74a9b2853f686033.res"
+
+[deps]
+
+source_file="res://Data/Item/devilcbody.OZJ"
+dest_files=["res://.godot/imported/devilcbody.OZJ-d54589ac25f697ff74a9b2853f686033.res"]
+
+[params]
+

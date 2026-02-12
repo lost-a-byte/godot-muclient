@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwppoes8e6yaj"
+path="res://.godot/imported/ex01giantmemud_body.OZJ-260ef502dfcbb91e377bc6af1f1b9c18.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01giantmemud_body.OZJ"
+dest_files=["res://.godot/imported/ex01giantmemud_body.OZJ-260ef502dfcbb91e377bc6af1f1b9c18.res"]
+
+[params]
+

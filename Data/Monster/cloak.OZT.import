@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7fwfr8kos5me"
+path="res://.godot/imported/cloak.OZT-017155d79b9578ae718cc19512a7f62d.res"
+
+[deps]
+
+source_file="res://Data/Monster/cloak.OZT"
+dest_files=["res://.godot/imported/cloak.OZT-017155d79b9578ae718cc19512a7f62d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cww8xmu0411e0"
+path="res://.godot/imported/hellnights_effect.OZJ-1a8dd8bdc68af1c920cc73b6d3092726.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hellnights_effect.OZJ"
+dest_files=["res://.godot/imported/hellnights_effect.OZJ-1a8dd8bdc68af1c920cc73b6d3092726.res"]
+
+[params]
+

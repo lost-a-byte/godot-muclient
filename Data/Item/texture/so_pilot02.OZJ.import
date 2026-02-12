@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuk8otg4yhqo"
+path="res://.godot/imported/so_pilot02.OZJ-3d8c686c59c50c2a517188e4b63f3984.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_pilot02.OZJ"
+dest_files=["res://.godot/imported/so_pilot02.OZJ-3d8c686c59c50c2a517188e4b63f3984.res"]
+
+[params]
+

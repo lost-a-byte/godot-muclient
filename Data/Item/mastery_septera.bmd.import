@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bhdvml4q8535l"
+path="res://.godot/imported/mastery_septera.bmd-7139fb33b0a5a51f251ebec1c4cdc9b2.scn"
+
+[deps]
+
+source_file="res://Data/Item/mastery_septera.bmd"
+dest_files=["res://.godot/imported/mastery_septera.bmd-7139fb33b0a5a51f251ebec1c4cdc9b2.scn"]
+
+[params]
+
+modelScale=0.01

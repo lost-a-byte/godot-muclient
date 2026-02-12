@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jcf5eb530mwi"
+path="res://.godot/imported/Earow.OZJ-07dc4cd733dd9b412eebfc9b4edeb2ee.res"
+
+[deps]
+
+source_file="res://Data/Skill/Earow.OZJ"
+dest_files=["res://.godot/imported/Earow.OZJ-07dc4cd733dd9b412eebfc9b4edeb2ee.res"]
+
+[params]
+

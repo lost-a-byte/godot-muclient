@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwwat2sfl8gxx"
+path="res://.godot/imported/TileGrass01.OZJ-f7dfdc4a3737388a96bb9267db75f7a0.res"
+
+[deps]
+
+source_file="res://Data/World143/TileGrass01.OZJ"
+dest_files=["res://.godot/imported/TileGrass01.OZJ-f7dfdc4a3737388a96bb9267db75f7a0.res"]
+
+[params]
+

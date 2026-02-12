@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccr62pc0u1lck"
+path="res://.godot/imported/newui_Bt_lock.OZT-e78915dd12bf57c1d93023a90749a53d.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Bt_lock.OZT"
+dest_files=["res://.godot/imported/newui_Bt_lock.OZT-e78915dd12bf57c1d93023a90749a53d.res"]
+
+[params]
+

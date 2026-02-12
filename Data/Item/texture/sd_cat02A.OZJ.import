@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwssm0rcexlgs"
+path="res://.godot/imported/sd_cat02A.OZJ-e7fdcc7f0b4d616b1b36a0850c63cb5f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_cat02A.OZJ"
+dest_files=["res://.godot/imported/sd_cat02A.OZJ-e7fdcc7f0b4d616b1b36a0850c63cb5f.res"]
+
+[params]
+

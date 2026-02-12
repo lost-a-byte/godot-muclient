@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byrh5cyrq4rwi"
+path="res://.godot/imported/SpiritDustAlpha.OZT-0a70d140164e6a77063f9ac278becb78.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpiritDustAlpha.OZT"
+dest_files=["res://.godot/imported/SpiritDustAlpha.OZT-0a70d140164e6a77063f9ac278becb78.res"]
+
+[params]
+

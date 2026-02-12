@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bv57uht5idyfi"
+path="res://.godot/imported/shadow_knight_7_chest.bmd-2c0b19c7b2d5121f3ebef6b1c66f9d33.scn"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_knight_7_chest.bmd"
+dest_files=["res://.godot/imported/shadow_knight_7_chest.bmd-2c0b19c7b2d5121f3ebef6b1c66f9d33.scn"]
+
+[params]
+
+modelScale=0.01

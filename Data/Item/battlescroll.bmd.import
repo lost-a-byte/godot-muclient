@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://v2fvjm5kbgya"
+path="res://.godot/imported/battlescroll.bmd-ba07b39f8db0f44f7d9c916797950067.scn"
+
+[deps]
+
+source_file="res://Data/Item/battlescroll.bmd"
+dest_files=["res://.godot/imported/battlescroll.bmd-ba07b39f8db0f44f7d9c916797950067.scn"]
+
+[params]
+
+modelScale=0.01

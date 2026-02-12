@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://g5c7y4mqowpw"
+path="res://.godot/imported/japan_gold01.OZJ-7b44710cf72e6b771cb7e8f04aefb168.res"
+
+[deps]
+
+source_file="res://Data/Effect/japan_gold01.OZJ"
+dest_files=["res://.godot/imported/japan_gold01.OZJ-7b44710cf72e6b771cb7e8f04aefb168.res"]
+
+[params]
+

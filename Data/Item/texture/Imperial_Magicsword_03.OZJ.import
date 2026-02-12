@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgab6qaw66yhs"
+path="res://.godot/imported/Imperial_Magicsword_03.OZJ-dd66b3ac69542c72f145d98a3cbefd90.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_Magicsword_03.OZJ"
+dest_files=["res://.godot/imported/Imperial_Magicsword_03.OZJ-dd66b3ac69542c72f145d98a3cbefd90.res"]
+
+[params]
+

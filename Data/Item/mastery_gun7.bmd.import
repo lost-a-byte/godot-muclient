@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://com5fv6d4hyxw"
+path="res://.godot/imported/mastery_gun7.bmd-ed2262b7b8d1be42263458a72d9922c7.scn"
+
+[deps]
+
+source_file="res://Data/Item/mastery_gun7.bmd"
+dest_files=["res://.godot/imported/mastery_gun7.bmd-ed2262b7b8d1be42263458a72d9922c7.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://4kvmopxvc2qs"
+path="res://.godot/imported/Carow.bmd-bb1a7174b07ce1c3afc5d034721aa27e.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Carow.bmd"
+dest_files=["res://.godot/imported/Carow.bmd-bb1a7174b07ce1c3afc5d034721aa27e.scn"]
+
+[params]
+
+modelScale=0.01

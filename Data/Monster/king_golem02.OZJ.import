@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn2t455he6utd"
+path="res://.godot/imported/king_golem02.OZJ-bc58d6e195e3aa477e2a6a22d29ee9e1.res"
+
+[deps]
+
+source_file="res://Data/Monster/king_golem02.OZJ"
+dest_files=["res://.godot/imported/king_golem02.OZJ-bc58d6e195e3aa477e2a6a22d29ee9e1.res"]
+
+[params]
+

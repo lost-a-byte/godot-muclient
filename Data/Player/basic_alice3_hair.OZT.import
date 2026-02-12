@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhkq748kkaaay"
+path="res://.godot/imported/basic_alice3_hair.OZT-2df25b09996060e61fdbe322b88f721f.res"
+
+[deps]
+
+source_file="res://Data/Player/basic_alice3_hair.OZT"
+dest_files=["res://.godot/imported/basic_alice3_hair.OZT-2df25b09996060e61fdbe322b88f721f.res"]
+
+[params]
+

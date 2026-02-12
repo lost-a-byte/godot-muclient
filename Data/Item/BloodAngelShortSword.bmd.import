@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://2xmndg1chfoo"
+path="res://.godot/imported/BloodAngelShortSword.bmd-29e84a05a1e84267144ed2eb745be697.scn"
+
+[deps]
+
+source_file="res://Data/Item/BloodAngelShortSword.bmd"
+dest_files=["res://.godot/imported/BloodAngelShortSword.bmd-29e84a05a1e84267144ed2eb745be697.scn"]
+
+[params]
+
+modelScale=0.01

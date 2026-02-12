@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ct25t3y7b2oh2"
+path="res://.godot/imported/maskreta03.OZT-ddf7a8bea14ad3303168a885b58cd109.res"
+
+[deps]
+
+source_file="res://Data/Skill/maskreta03.OZT"
+dest_files=["res://.godot/imported/maskreta03.OZT-ddf7a8bea14ad3303168a885b58cd109.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cf6w5iy87g6ub"
+path="res://.godot/imported/non_command.OZJ-f97366f58da95abcc2a7e1d5f6a38336.res"
+
+[deps]
+
+source_file="res://Data/Interface/non_command.OZJ"
+dest_files=["res://.godot/imported/non_command.OZJ-f97366f58da95abcc2a7e1d5f6a38336.res"]
+
+[params]
+

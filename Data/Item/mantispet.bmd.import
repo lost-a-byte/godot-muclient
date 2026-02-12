@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dq5xfnkmg5lod"
+path="res://.godot/imported/mantispet.bmd-cb2609e9f4e571ed1e92e24ac53a409f.scn"
+
+[deps]
+
+source_file="res://Data/Item/mantispet.bmd"
+dest_files=["res://.godot/imported/mantispet.bmd-cb2609e9f4e571ed1e92e24ac53a409f.scn"]
+
+[params]
+
+modelScale=0.01

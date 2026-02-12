@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2uqr0ququlbr"
+path="res://.godot/imported/mystery.ozj-d17fc4e05be20b40e9d91998ea51877f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mystery.ozj"
+dest_files=["res://.godot/imported/mystery.ozj-d17fc4e05be20b40e9d91998ea51877f.res"]
+
+[params]
+

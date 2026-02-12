@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dmu2y75qsvm0j"
+path="res://.godot/imported/bursta06.bmd-53b5e1f827baac2f958327c54e8d3532.scn"
+
+[deps]
+
+source_file="res://Data/Effect/bursta06.bmd"
+dest_files=["res://.godot/imported/bursta06.bmd-53b5e1f827baac2f958327c54e8d3532.scn"]
+
+[params]
+
+modelScale=0.01

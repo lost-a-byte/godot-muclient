@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7cavilshcji5"
+path="res://.godot/imported/mousemuun.bmd-e4deb1632a8cde279c50c2a207d0b876.scn"
+
+[deps]
+
+source_file="res://Data/Item/mousemuun.bmd"
+dest_files=["res://.godot/imported/mousemuun.bmd-e4deb1632a8cde279c50c2a207d0b876.scn"]
+
+[params]
+
+modelScale=0.01

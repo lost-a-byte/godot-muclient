@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjm2w2yknpg3d"
+path="res://.godot/imported/monster258_armor.OZJ-ecdc63c493be7fffdbc6e1098a905f73.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster258_armor.OZJ"
+dest_files=["res://.godot/imported/monster258_armor.OZJ-ecdc63c493be7fffdbc6e1098a905f73.res"]
+
+[params]
+

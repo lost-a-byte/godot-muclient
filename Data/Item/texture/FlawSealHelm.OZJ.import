@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5csvby5d30og"
+path="res://.godot/imported/FlawSealHelm.OZJ-0fe5d1297e83401ee18787b0db19c74d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FlawSealHelm.OZJ"
+dest_files=["res://.godot/imported/FlawSealHelm.OZJ-0fe5d1297e83401ee18787b0db19c74d.res"]
+
+[params]
+

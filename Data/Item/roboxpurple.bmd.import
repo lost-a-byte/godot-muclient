@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://r2wksqalgsft"
+path="res://.godot/imported/roboxpurple.bmd-4bd6668c892b8404051a39533df3f38c.scn"
+
+[deps]
+
+source_file="res://Data/Item/roboxpurple.bmd"
+dest_files=["res://.godot/imported/roboxpurple.bmd-4bd6668c892b8404051a39533df3f38c.scn"]
+
+[params]
+
+modelScale=0.01

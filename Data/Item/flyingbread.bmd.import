@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b0lsy56psyw4h"
+path="res://.godot/imported/flyingbread.bmd-44deb8860c5f1309959d45c7af0ad8ec.scn"
+
+[deps]
+
+source_file="res://Data/Item/flyingbread.bmd"
+dest_files=["res://.godot/imported/flyingbread.bmd-44deb8860c5f1309959d45c7af0ad8ec.scn"]
+
+[params]
+
+modelScale=0.01

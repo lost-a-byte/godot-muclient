@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://kxqbbku6gdmi"
+path="res://.godot/imported/01spa_skill.bmd-b7d67b469ce2c764b6dea3d74d4eab4f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/01spa_skill.bmd"
+dest_files=["res://.godot/imported/01spa_skill.bmd-b7d67b469ce2c764b6dea3d74d4eab4f.scn"]
+
+[params]
+
+modelScale=0.01

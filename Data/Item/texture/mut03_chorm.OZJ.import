@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byawsu70bhbai"
+path="res://.godot/imported/mut03_chorm.OZJ-2fe5f210dbf8e64ff680f0ca7f7bdd3d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mut03_chorm.OZJ"
+dest_files=["res://.godot/imported/mut03_chorm.OZJ-2fe5f210dbf8e64ff680f0ca7f7bdd3d.res"]
+
+[params]
+

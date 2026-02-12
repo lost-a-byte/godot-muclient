@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwtnpfxyc542a"
+path="res://.godot/imported/angelicarrow_eff.OZJ-d60ac1fc66bd6b99d9e29938cb247b5b.res"
+
+[deps]
+
+source_file="res://Data/Skill/angelicarrow_eff.OZJ"
+dest_files=["res://.godot/imported/angelicarrow_eff.OZJ-d60ac1fc66bd6b99d9e29938cb247b5b.res"]
+
+[params]
+

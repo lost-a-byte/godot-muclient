@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d02tilithp286"
+path="res://.godot/imported/amuletspititwing_r.ozj-5c4cb7cd88f82370638f56268face6c9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amuletspititwing_r.ozj"
+dest_files=["res://.godot/imported/amuletspititwing_r.ozj-5c4cb7cd88f82370638f56268face6c9.res"]
+
+[params]
+

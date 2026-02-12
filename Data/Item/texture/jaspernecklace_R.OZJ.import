@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dclwxpfxy4g4r"
+path="res://.godot/imported/jaspernecklace_R.OZJ-e81e84f1c7e2887a63ea1a06e038176b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/jaspernecklace_R.OZJ"
+dest_files=["res://.godot/imported/jaspernecklace_R.OZJ-e81e84f1c7e2887a63ea1a06e038176b.res"]
+
+[params]
+

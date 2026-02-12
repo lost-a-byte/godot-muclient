@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cx1sgg3ylvdpw"
+path="res://.godot/imported/unitedsoldier_renew.bmd-5f1d620c4ea3d3f7467bf2a2542d2c4d.scn"
+
+[deps]
+
+source_file="res://Data/Skill/unitedsoldier_renew.bmd"
+dest_files=["res://.godot/imported/unitedsoldier_renew.bmd-5f1d620c4ea3d3f7467bf2a2542d2c4d.scn"]
+
+[params]
+
+modelScale=0.01

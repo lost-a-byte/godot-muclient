@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://u1c74nqv4peu"
+path="res://.godot/imported/HugeRock02.OZJ-797515e447cbd348f8f6faa8eefd3fd9.res"
+
+[deps]
+
+source_file="res://Data/NPC/HugeRock02.OZJ"
+dest_files=["res://.godot/imported/HugeRock02.OZJ-797515e447cbd348f8f6faa8eefd3fd9.res"]
+
+[params]
+

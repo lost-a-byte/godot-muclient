@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8cuggy5afu5t"
+path="res://.godot/imported/map1.OZJ-e3a75aff2a5df0ab0ce15fbc3212630e.res"
+
+[deps]
+
+source_file="res://Data/World31/map1.OZJ"
+dest_files=["res://.godot/imported/map1.OZJ-e3a75aff2a5df0ab0ce15fbc3212630e.res"]
+
+[params]
+

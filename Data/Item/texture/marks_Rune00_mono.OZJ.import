@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4onwrn7acrbp"
+path="res://.godot/imported/marks_Rune00_mono.OZJ-f49c266ccf4329cc12c1d756df256991.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/marks_Rune00_mono.OZJ"
+dest_files=["res://.godot/imported/marks_Rune00_mono.OZJ-f49c266ccf4329cc12c1d756df256991.res"]
+
+[params]
+

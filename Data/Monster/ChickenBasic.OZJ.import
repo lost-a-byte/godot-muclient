@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch01jcu8onulm"
+path="res://.godot/imported/ChickenBasic.OZJ-46b96c6b11b674ad9dd9366b6a160581.res"
+
+[deps]
+
+source_file="res://Data/Monster/ChickenBasic.OZJ"
+dest_files=["res://.godot/imported/ChickenBasic.OZJ-46b96c6b11b674ad9dd9366b6a160581.res"]
+
+[params]
+

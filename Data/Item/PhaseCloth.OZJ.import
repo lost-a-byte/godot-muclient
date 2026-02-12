@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctvyiuwjtkbxy"
+path="res://.godot/imported/PhaseCloth.OZJ-656d60a6cefa2b54edd5f75092e6c128.res"
+
+[deps]
+
+source_file="res://Data/Item/PhaseCloth.OZJ"
+dest_files=["res://.godot/imported/PhaseCloth.OZJ-656d60a6cefa2b54edd5f75092e6c128.res"]
+
+[params]
+

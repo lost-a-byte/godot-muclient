@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwsnj6q5i5kv6"
+path="res://.godot/imported/Flare.OZJ-d3ac3b236fb9badeeed4fae6c06622ba.res"
+
+[deps]
+
+source_file="res://Data/Effect/Flare.OZJ"
+dest_files=["res://.godot/imported/Flare.OZJ-d3ac3b236fb9badeeed4fae6c06622ba.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cunfutfb71y2j"
+path="res://.godot/imported/PlumaShield.bmd-880f26ce825cfafabdd6a57c564dca42.scn"
+
+[deps]
+
+source_file="res://Data/Item/PlumaShield.bmd"
+dest_files=["res://.godot/imported/PlumaShield.bmd-880f26ce825cfafabdd6a57c564dca42.scn"]
+
+[params]
+
+modelScale=0.01

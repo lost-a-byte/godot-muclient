@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pirb0mhdqmgs"
+path="res://.godot/imported/logo01.OZT-74f71376815b209012c0d3a203b16c3c.res"
+
+[deps]
+
+source_file="res://Data/Object119/logo01.OZT"
+dest_files=["res://.godot/imported/logo01.OZT-74f71376815b209012c0d3a203b16c3c.res"]
+
+[params]
+

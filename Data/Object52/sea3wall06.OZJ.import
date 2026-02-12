@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmp0c3xc30tqr"
+path="res://.godot/imported/sea3wall06.OZJ-2d86084e3d3920becf975c52f6c86345.res"
+
+[deps]
+
+source_file="res://Data/Object52/sea3wall06.OZJ"
+dest_files=["res://.godot/imported/sea3wall06.OZJ-2d86084e3d3920becf975c52f6c86345.res"]
+
+[params]
+

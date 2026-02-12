@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpcd6k42ljp3q"
+path="res://.godot/imported/ContractStone_Fury.OZJ-7013bf1b1451e9f04b0efbdd0964f8fb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ContractStone_Fury.OZJ"
+dest_files=["res://.godot/imported/ContractStone_Fury.OZJ-7013bf1b1451e9f04b0efbdd0964f8fb.res"]
+
+[params]
+

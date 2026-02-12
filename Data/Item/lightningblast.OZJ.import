@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://caldrspmts7av"
+path="res://.godot/imported/lightningblast.OZJ-761311f5f8700b0fc67e6cfd2d5c348d.res"
+
+[deps]
+
+source_file="res://Data/Item/lightningblast.OZJ"
+dest_files=["res://.godot/imported/lightningblast.OZJ-761311f5f8700b0fc67e6cfd2d5c348d.res"]
+
+[params]
+

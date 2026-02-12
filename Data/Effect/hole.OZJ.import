@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://debpruxatum5t"
+path="res://.godot/imported/hole.OZJ-b7b4b33b1e7d267de39194987df01d5d.res"
+
+[deps]
+
+source_file="res://Data/Effect/hole.OZJ"
+dest_files=["res://.godot/imported/hole.OZJ-b7b4b33b1e7d267de39194987df01d5d.res"]
+
+[params]
+

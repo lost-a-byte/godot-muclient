@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://u8vy8xvivoi2"
+path="res://.godot/imported/PhoenixShield01.bmd-d309661cdcb0ee1d13a1c3fdc752b8fa.scn"
+
+[deps]
+
+source_file="res://Data/Skill/PhoenixShield01.bmd"
+dest_files=["res://.godot/imported/PhoenixShield01.bmd-d309661cdcb0ee1d13a1c3fdc752b8fa.scn"]
+
+[params]
+
+modelScale=0.01

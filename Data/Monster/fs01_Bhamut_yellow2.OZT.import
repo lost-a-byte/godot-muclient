@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0t6jaj6nryux"
+path="res://.godot/imported/fs01_Bhamut_yellow2.OZT-7fff7fd70f50702f555fd6af7954b9cd.res"
+
+[deps]
+
+source_file="res://Data/Monster/fs01_Bhamut_yellow2.OZT"
+dest_files=["res://.godot/imported/fs01_Bhamut_yellow2.OZT-7fff7fd70f50702f555fd6af7954b9cd.res"]
+
+[params]
+

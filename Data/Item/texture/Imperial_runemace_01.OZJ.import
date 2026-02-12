@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c57f6apbb7e21"
+path="res://.godot/imported/Imperial_runemace_01.OZJ-2bffeca0d481da5dc473cc7dc50890aa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_runemace_01.OZJ"
+dest_files=["res://.godot/imported/Imperial_runemace_01.OZJ-2bffeca0d481da5dc473cc7dc50890aa.res"]
+
+[params]
+

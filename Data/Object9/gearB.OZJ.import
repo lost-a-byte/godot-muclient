@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2nh8t6t80vo3"
+path="res://.godot/imported/gearB.OZJ-7be83d6b56abeb86f653f4c150ddf775.res"
+
+[deps]
+
+source_file="res://Data/Object9/gearB.OZJ"
+dest_files=["res://.godot/imported/gearB.OZJ-7be83d6b56abeb86f653f4c150ddf775.res"]
+
+[params]
+

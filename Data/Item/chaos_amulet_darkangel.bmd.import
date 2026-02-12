@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1hnfo3gl4cxq"
+path="res://.godot/imported/chaos_amulet_darkangel.bmd-d5a50a12b7f989c0d89b1c187626c0fb.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_amulet_darkangel.bmd"
+dest_files=["res://.godot/imported/chaos_amulet_darkangel.bmd-d5a50a12b7f989c0d89b1c187626c0fb.scn"]
+
+[params]
+
+modelScale=0.01

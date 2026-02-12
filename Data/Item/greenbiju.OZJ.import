@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5fggxabh8b7e"
+path="res://.godot/imported/greenbiju.OZJ-13f845c958c32daaab7a8913f8007f53.res"
+
+[deps]
+
+source_file="res://Data/Item/greenbiju.OZJ"
+dest_files=["res://.godot/imported/greenbiju.OZJ-13f845c958c32daaab7a8913f8007f53.res"]
+
+[params]
+

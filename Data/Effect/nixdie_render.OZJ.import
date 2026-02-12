@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7b17si4mdvdc"
+path="res://.godot/imported/nixdie_render.OZJ-27297cd4196420f09e858aa69bb81f27.res"
+
+[deps]
+
+source_file="res://Data/Effect/nixdie_render.OZJ"
+dest_files=["res://.godot/imported/nixdie_render.OZJ-27297cd4196420f09e858aa69bb81f27.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dic8c1m8alth2"
+path="res://.godot/imported/bow05.OZT-ce77d914d792a988e48205abcaae87f0.res"
+
+[deps]
+
+source_file="res://Data/Monster/bow05.OZT"
+dest_files=["res://.godot/imported/bow05.OZT-ce77d914d792a988e48205abcaae87f0.res"]
+
+[params]
+

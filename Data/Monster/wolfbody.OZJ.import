@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tkvmwcjw42k3"
+path="res://.godot/imported/wolfbody.OZJ-418f313726358e8bd31e85dbf494f757.res"
+
+[deps]
+
+source_file="res://Data/Monster/wolfbody.OZJ"
+dest_files=["res://.godot/imported/wolfbody.OZJ-418f313726358e8bd31e85dbf494f757.res"]
+
+[params]
+

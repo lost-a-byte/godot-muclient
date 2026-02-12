@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cr4nqr4mcc13x"
+path="res://.godot/imported/hound_shield2.OZJ-366801f1ab012eefafe0564c67cab6f4.res"
+
+[deps]
+
+source_file="res://Data/Item/hound_shield2.OZJ"
+dest_files=["res://.godot/imported/hound_shield2.OZJ-366801f1ab012eefafe0564c67cab6f4.res"]
+
+[params]
+

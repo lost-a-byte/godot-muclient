@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu0klxtxpl8k2"
+path="res://.godot/imported/AHeroSpirit.OZJ-4173f717aaa54dfb41c96ef625e318ec.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AHeroSpirit.OZJ"
+dest_files=["res://.godot/imported/AHeroSpirit.OZJ-4173f717aaa54dfb41c96ef625e318ec.res"]
+
+[params]
+

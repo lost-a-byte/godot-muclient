@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgpnj1tw0cffg"
+path="res://.godot/imported/so_cookie02.OZT-c8dd48f0c9d53b9a33c3be2a7947ba2d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_cookie02.OZT"
+dest_files=["res://.godot/imported/so_cookie02.OZT-c8dd48f0c9d53b9a33c3be2a7947ba2d.res"]
+
+[params]
+

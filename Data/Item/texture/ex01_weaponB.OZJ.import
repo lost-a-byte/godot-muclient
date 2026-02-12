@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp6cjveq1gkvu"
+path="res://.godot/imported/ex01_weaponB.OZJ-1688eaa3a71371bf84a35e8f6331367f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ex01_weaponB.OZJ"
+dest_files=["res://.godot/imported/ex01_weaponB.OZJ-1688eaa3a71371bf84a35e8f6331367f.res"]
+
+[params]
+

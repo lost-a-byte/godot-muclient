@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8bo3ie431qey"
+path="res://.godot/imported/sidgoblin.OZJ-fdc459f3d0a83cc4219de2dfc0a9adab.res"
+
+[deps]
+
+source_file="res://Data/NPC/sidgoblin.OZJ"
+dest_files=["res://.godot/imported/sidgoblin.OZJ-fdc459f3d0a83cc4219de2dfc0a9adab.res"]
+
+[params]
+

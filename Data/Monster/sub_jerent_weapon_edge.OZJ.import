@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhyyagkmxytnk"
+path="res://.godot/imported/sub_jerent_weapon_edge.OZJ-cf62b0974dde147cf8cd81c4eba9337d.res"
+
+[deps]
+
+source_file="res://Data/Monster/sub_jerent_weapon_edge.OZJ"
+dest_files=["res://.godot/imported/sub_jerent_weapon_edge.OZJ-cf62b0974dde147cf8cd81c4eba9337d.res"]
+
+[params]
+

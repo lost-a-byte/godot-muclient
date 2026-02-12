@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dk1ph4wmfyhds"
+path="res://.godot/imported/MSIitemBlack.bmd-90c6d491875a5752e8076bcd9871845e.scn"
+
+[deps]
+
+source_file="res://Data/Item/MSIitemBlack.bmd"
+dest_files=["res://.godot/imported/MSIitemBlack.bmd-90c6d491875a5752e8076bcd9871845e.scn"]
+
+[params]
+
+modelScale=0.01

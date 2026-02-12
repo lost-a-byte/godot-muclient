@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ynv8tntx6s04"
+path="res://.godot/imported/Karanebos.bmd-df4bd38e9416811d7bc488fd1972915c.scn"
+
+[deps]
+
+source_file="res://Data/Monster/Karanebos.bmd"
+dest_files=["res://.godot/imported/Karanebos.bmd-df4bd38e9416811d7bc488fd1972915c.scn"]
+
+[params]
+
+modelScale=0.01

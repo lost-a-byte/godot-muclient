@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://djxerhtkmk0at"
+path="res://.godot/imported/chaferpet.bmd-6f2b06f0c1df2051e2c9fc82f2c2ae62.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaferpet.bmd"
+dest_files=["res://.godot/imported/chaferpet.bmd-6f2b06f0c1df2051e2c9fc82f2c2ae62.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjk60ys3ti725"
+path="res://.godot/imported/Fifth_Summoner_Wing_02_render.OZJ-1d7a2edcd360892a0286f760de9530ac.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Summoner_Wing_02_render.OZJ"
+dest_files=["res://.godot/imported/Fifth_Summoner_Wing_02_render.OZJ-1d7a2edcd360892a0286f760de9530ac.res"]
+
+[params]
+

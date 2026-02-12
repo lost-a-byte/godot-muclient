@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3j6vg8ivvcqq"
+path="res://.godot/imported/devilsword_01_r.OZJ-8e9ca9da9b53a4f8dae4bc5fe4596caf.res"
+
+[deps]
+
+source_file="res://Data/Monster/devilsword_01_r.OZJ"
+dest_files=["res://.godot/imported/devilsword_01_r.OZJ-8e9ca9da9b53a4f8dae4bc5fe4596caf.res"]
+
+[params]
+

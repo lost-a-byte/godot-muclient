@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://diu48m4rgbf41"
+path="res://.godot/imported/deathsoul.OZJ-53508bb75feb5e7bb94f45cb28a6f559.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/deathsoul.OZJ"
+dest_files=["res://.godot/imported/deathsoul.OZJ-53508bb75feb5e7bb94f45cb28a6f559.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvbujcs741m3c"
+path="res://.godot/imported/hs_WingsRelic4th.bmd-3a5aa737566d27d9209011383bfab9ac.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_WingsRelic4th.bmd"
+dest_files=["res://.godot/imported/hs_WingsRelic4th.bmd-3a5aa737566d27d9209011383bfab9ac.scn"]
+
+[params]
+
+modelScale=0.01

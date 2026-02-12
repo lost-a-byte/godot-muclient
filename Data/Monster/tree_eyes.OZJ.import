@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nmt77sjo7et1"
+path="res://.godot/imported/tree_eyes.OZJ-f9f3aed7b247446edd3397640424bf4e.res"
+
+[deps]
+
+source_file="res://Data/Monster/tree_eyes.OZJ"
+dest_files=["res://.godot/imported/tree_eyes.OZJ-f9f3aed7b247446edd3397640424bf4e.res"]
+
+[params]
+

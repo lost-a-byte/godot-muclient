@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0rbs0ldad12a"
+path="res://.godot/imported/upper_10.OZJ-6c493520f93ecf7f894f3cb03e0bfb19.res"
+
+[deps]
+
+source_file="res://Data/Player/upper_10.OZJ"
+dest_files=["res://.godot/imported/upper_10.OZJ-6c493520f93ecf7f894f3cb03e0bfb19.res"]
+
+[params]
+

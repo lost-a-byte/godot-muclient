@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmo5pvmxrivl"
+path="res://.godot/imported/tail.bmd-f4c90a10d00b4af369fa7fa71680715d.scn"
+
+[deps]
+
+source_file="res://Data/Skill/tail.bmd"
+dest_files=["res://.godot/imported/tail.bmd-f4c90a10d00b4af369fa7fa71680715d.scn"]
+
+[params]
+
+modelScale=0.01

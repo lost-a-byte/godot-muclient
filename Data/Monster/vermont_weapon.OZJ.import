@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btxdvmtlepncn"
+path="res://.godot/imported/vermont_weapon.OZJ-ec7b6aee18a0a411ca8f0fa954f68128.res"
+
+[deps]
+
+source_file="res://Data/Monster/vermont_weapon.OZJ"
+dest_files=["res://.godot/imported/vermont_weapon.OZJ-ec7b6aee18a0a411ca8f0fa954f68128.res"]
+
+[params]
+

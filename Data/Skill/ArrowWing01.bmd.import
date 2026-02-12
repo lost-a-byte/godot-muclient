@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bp0kmcrp6qvig"
+path="res://.godot/imported/ArrowWing01.bmd-dc3cccbe29ec9341407f1e5436979419.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ArrowWing01.bmd"
+dest_files=["res://.godot/imported/ArrowWing01.bmd-dc3cccbe29ec9341407f1e5436979419.scn"]
+
+[params]
+
+modelScale=0.01

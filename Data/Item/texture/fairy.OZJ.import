@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjskrfygeyams"
+path="res://.godot/imported/fairy.OZJ-68f8a499a220df6642eb7b2f3e490188.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fairy.OZJ"
+dest_files=["res://.godot/imported/fairy.OZJ-68f8a499a220df6642eb7b2f3e490188.res"]
+
+[params]
+

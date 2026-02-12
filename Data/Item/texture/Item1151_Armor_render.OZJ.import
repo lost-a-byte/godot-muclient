@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjar3byg380ud"
+path="res://.godot/imported/Item1151_Armor_render.OZJ-c65015dd5d832cefd1f3700e0cfd4edb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1151_Armor_render.OZJ"
+dest_files=["res://.godot/imported/Item1151_Armor_render.OZJ-c65015dd5d832cefd1f3700e0cfd4edb.res"]
+
+[params]
+

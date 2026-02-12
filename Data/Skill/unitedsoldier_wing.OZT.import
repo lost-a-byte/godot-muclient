@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctfftaawd7wsm"
+path="res://.godot/imported/unitedsoldier_wing.OZT-3f9fdf664c18a44ad5e240085f919cbe.res"
+
+[deps]
+
+source_file="res://Data/Skill/unitedsoldier_wing.OZT"
+dest_files=["res://.godot/imported/unitedsoldier_wing.OZT-3f9fdf664c18a44ad5e240085f919cbe.res"]
+
+[params]
+

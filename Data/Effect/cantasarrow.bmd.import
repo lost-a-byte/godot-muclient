@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dwp60d04m4570"
+path="res://.godot/imported/cantasarrow.bmd-c3df60800f49c7da1b216d945a5b564b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/cantasarrow.bmd"
+dest_files=["res://.godot/imported/cantasarrow.bmd-c3df60800f49c7da1b216d945a5b564b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhc3evncy6rcj"
+path="res://.godot/imported/magic_ground4_red.bmd-07041be69a69b89362be337dd8361c3e.scn"
+
+[deps]
+
+source_file="res://Data/Effect/magic_ground4_red.bmd"
+dest_files=["res://.godot/imported/magic_ground4_red.bmd-07041be69a69b89362be337dd8361c3e.scn"]
+
+[params]
+
+modelScale=0.01

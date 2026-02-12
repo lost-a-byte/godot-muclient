@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba1f5gh7ktn4b"
+path="res://.godot/imported/text_skill01_mono_1.OZJ-6ea9076e00a53d1bd7050176c955639e.res"
+
+[deps]
+
+source_file="res://Data/Effect/text_skill01_mono_1.OZJ"
+dest_files=["res://.godot/imported/text_skill01_mono_1.OZJ-6ea9076e00a53d1bd7050176c955639e.res"]
+
+[params]
+

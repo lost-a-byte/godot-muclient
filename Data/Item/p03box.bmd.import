@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxxipg37gafts"
+path="res://.godot/imported/p03box.bmd-7863dcf6f9868262ae8c909d6ce8a3c9.scn"
+
+[deps]
+
+source_file="res://Data/Item/p03box.bmd"
+dest_files=["res://.godot/imported/p03box.bmd-7863dcf6f9868262ae8c909d6ce8a3c9.scn"]
+
+[params]
+
+modelScale=0.01

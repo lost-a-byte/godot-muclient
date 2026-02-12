@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byfr0ph0v0tpk"
+path="res://.godot/imported/Desperatecloak3.OZT-2f82ab2f6723f4cdca10f275931f3733.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Desperatecloak3.OZT"
+dest_files=["res://.godot/imported/Desperatecloak3.OZT-2f82ab2f6723f4cdca10f275931f3733.res"]
+
+[params]
+

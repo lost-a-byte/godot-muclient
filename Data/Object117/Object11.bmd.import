@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ypcuad2o60m6"
+path="res://.godot/imported/Object11.bmd-ee1a69d2e903336a814f81e1fc6bda61.scn"
+
+[deps]
+
+source_file="res://Data/Object117/Object11.bmd"
+dest_files=["res://.godot/imported/Object11.bmd-ee1a69d2e903336a814f81e1fc6bda61.scn"]
+
+[params]
+
+modelScale=0.01

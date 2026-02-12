@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1m7wtlfmvkve"
+path="res://.godot/imported/item1002_spear.OZJ-ce7cf1fc25555eae64e8d7932e3b9d39.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/item1002_spear.OZJ"
+dest_files=["res://.godot/imported/item1002_spear.OZJ-ce7cf1fc25555eae64e8d7932e3b9d39.res"]
+
+[params]
+

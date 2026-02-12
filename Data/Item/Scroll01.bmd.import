@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dnqxsu74qpvmt"
+path="res://.godot/imported/Scroll01.bmd-a1116a25a805a8e5cc3da374b81c7ea3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Scroll01.bmd"
+dest_files=["res://.godot/imported/Scroll01.bmd-a1116a25a805a8e5cc3da374b81c7ea3.scn"]
+
+[params]
+
+modelScale=0.01

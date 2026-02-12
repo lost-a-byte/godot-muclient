@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3f84pjvofngb"
+path="res://.godot/imported/stadium.OZT-35549e1948a6589edfe6686bbab0135a.res"
+
+[deps]
+
+source_file="res://Data/Interface/stadium.OZT"
+dest_files=["res://.godot/imported/stadium.OZT-35549e1948a6589edfe6686bbab0135a.res"]
+
+[params]
+

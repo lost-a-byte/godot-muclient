@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp3xxs5hqhes7"
+path="res://.godot/imported/dark400_boots.ozj-3d74be6f89ee45c0b014c751abda480a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark400_boots.ozj"
+dest_files=["res://.godot/imported/dark400_boots.ozj-3d74be6f89ee45c0b014c751abda480a.res"]
+
+[params]
+

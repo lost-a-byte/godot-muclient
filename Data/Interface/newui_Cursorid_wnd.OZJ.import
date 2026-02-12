@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnr4dmn22wqhv"
+path="res://.godot/imported/newui_Cursorid_wnd.OZJ-b75687d47dfeb7fefeeffa6216fee058.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Cursorid_wnd.OZJ"
+dest_files=["res://.godot/imported/newui_Cursorid_wnd.OZJ-b75687d47dfeb7fefeeffa6216fee058.res"]
+
+[params]
+

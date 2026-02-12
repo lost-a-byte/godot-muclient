@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yp38p5lemqqo"
+path="res://.godot/imported/tailor_chair.OZJ-13b1b2fa85178419e015e7e687b75a30.res"
+
+[deps]
+
+source_file="res://Data/NPC/tailor_chair.OZJ"
+dest_files=["res://.godot/imported/tailor_chair.OZJ-13b1b2fa85178419e015e7e687b75a30.res"]
+
+[params]
+

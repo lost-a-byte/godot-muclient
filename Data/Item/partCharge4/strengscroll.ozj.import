@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp6vhqv84ney1"
+path="res://.godot/imported/strengscroll.ozj-1e6fba62cf9ca54c7b56656f5d6b9d01.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge4/strengscroll.ozj"
+dest_files=["res://.godot/imported/strengscroll.ozj-1e6fba62cf9ca54c7b56656f5d6b9d01.res"]
+
+[params]
+

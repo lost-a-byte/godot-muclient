@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbxx6s3h3psfk"
+path="res://.godot/imported/bloodangellance01.OZJ-d05eb9fe3174ee9f4f02c180e23b32d3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodangellance01.OZJ"
+dest_files=["res://.godot/imported/bloodangellance01.OZJ-d05eb9fe3174ee9f4f02c180e23b32d3.res"]
+
+[params]
+

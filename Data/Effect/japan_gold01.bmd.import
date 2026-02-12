@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqv4fqbvmj2t0"
+path="res://.godot/imported/japan_gold01.bmd-204e8dd0af0fa8132d2370332b575ade.scn"
+
+[deps]
+
+source_file="res://Data/Effect/japan_gold01.bmd"
+dest_files=["res://.godot/imported/japan_gold01.bmd-204e8dd0af0fa8132d2370332b575ade.scn"]
+
+[params]
+
+modelScale=0.01

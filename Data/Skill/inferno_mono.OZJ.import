@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byi8mwpo3dk0x"
+path="res://.godot/imported/inferno_mono.OZJ-e8e9dac40b61cd2f23b96121ae3f2818.res"
+
+[deps]
+
+source_file="res://Data/Skill/inferno_mono.OZJ"
+dest_files=["res://.godot/imported/inferno_mono.OZJ-e8e9dac40b61cd2f23b96121ae3f2818.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://by40ehcngom7b"
+path="res://.godot/imported/apocalypse_lance_A.OZJ-db4258d5c063e687ccb5ac3b1ebcd474.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_lance_A.OZJ"
+dest_files=["res://.godot/imported/apocalypse_lance_A.OZJ-db4258d5c063e687ccb5ac3b1ebcd474.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5ijkkodj111i"
+path="res://.godot/imported/OrepotOrc_Alpha.OZT-22993879c65d1c5f8ab6602cc686dd51.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrepotOrc_Alpha.OZT"
+dest_files=["res://.godot/imported/OrepotOrc_Alpha.OZT-22993879c65d1c5f8ab6602cc686dd51.res"]
+
+[params]
+

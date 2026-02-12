@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqplrdipno0eu"
+path="res://.godot/imported/font_slow.OZT-4ca9768247e1f571fe6681fc5bc10e46.res"
+
+[deps]
+
+source_file="res://Data/Interface/font_slow.OZT"
+dest_files=["res://.godot/imported/font_slow.OZT-4ca9768247e1f571fe6681fc5bc10e46.res"]
+
+[params]
+

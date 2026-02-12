@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b11cpbvrwmjuk"
+path="res://.godot/imported/EXPscroll.OZJ-83dd594f8dd881817da9fb1449890afd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/EXPscroll.OZJ"
+dest_files=["res://.godot/imported/EXPscroll.OZJ-83dd594f8dd881817da9fb1449890afd.res"]
+
+[params]
+

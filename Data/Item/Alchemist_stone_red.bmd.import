@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bpkdonrrcbic4"
+path="res://.godot/imported/Alchemist_stone_red.bmd-c85013dc6c20cd6498d8f6525fe8a0e7.scn"
+
+[deps]
+
+source_file="res://Data/Item/Alchemist_stone_red.bmd"
+dest_files=["res://.godot/imported/Alchemist_stone_red.bmd-c85013dc6c20cd6498d8f6525fe8a0e7.scn"]
+
+[params]
+
+modelScale=0.01

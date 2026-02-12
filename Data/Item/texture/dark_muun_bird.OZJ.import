@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://beqqp7gxk8785"
+path="res://.godot/imported/dark_muun_bird.OZJ-2e4f408ec5fe966eb92d061d1f894706.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark_muun_bird.OZJ"
+dest_files=["res://.godot/imported/dark_muun_bird.OZJ-2e4f408ec5fe966eb92d061d1f894706.res"]
+
+[params]
+

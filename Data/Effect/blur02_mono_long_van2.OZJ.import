@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://taycvbi71v2f"
+path="res://.godot/imported/blur02_mono_long_van2.OZJ-d4aec6b3c6cebb7c5a3ca12bae077778.res"
+
+[deps]
+
+source_file="res://Data/Effect/blur02_mono_long_van2.OZJ"
+dest_files=["res://.godot/imported/blur02_mono_long_van2.OZJ-d4aec6b3c6cebb7c5a3ca12bae077778.res"]
+
+[params]
+

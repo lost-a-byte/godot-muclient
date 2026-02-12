@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dte2h6nhd0thg"
+path="res://.godot/imported/bons.OZJ-fb850db0ef7f266e47bfe522c5bab740.res"
+
+[deps]
+
+source_file="res://Data/Skill/bons.OZJ"
+dest_files=["res://.godot/imported/bons.OZJ-fb850db0ef7f266e47bfe522c5bab740.res"]
+
+[params]
+

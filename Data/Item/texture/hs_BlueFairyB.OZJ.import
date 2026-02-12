@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwir5x2nqdcxt"
+path="res://.godot/imported/hs_BlueFairyB.OZJ-52e21751ec1191c2d79a3b6f94344039.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_BlueFairyB.OZJ"
+dest_files=["res://.godot/imported/hs_BlueFairyB.OZJ-52e21751ec1191c2d79a3b6f94344039.res"]
+
+[params]
+

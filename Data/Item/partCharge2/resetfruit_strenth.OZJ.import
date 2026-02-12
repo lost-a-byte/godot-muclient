@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dej4l2f4yi8bw"
+path="res://.godot/imported/resetfruit_strenth.OZJ-7b680618e94f8fd6dd756c21ad4d9c07.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/resetfruit_strenth.OZJ"
+dest_files=["res://.godot/imported/resetfruit_strenth.OZJ-7b680618e94f8fd6dd756c21ad4d9c07.res"]
+
+[params]
+

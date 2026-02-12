@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4a3aby35n2wn"
+path="res://.godot/imported/water_maigc.OZJ-d94e533f5679d2a2a87bd15c2d3de031.res"
+
+[deps]
+
+source_file="res://Data/Effect/water_maigc.OZJ"
+dest_files=["res://.godot/imported/water_maigc.OZJ-d94e533f5679d2a2a87bd15c2d3de031.res"]
+
+[params]
+

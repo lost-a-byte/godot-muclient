@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgstvs3dnsdr7"
+path="res://.godot/imported/LightingWave00_2X2_mono.OZJ-110c5a614f40cacccea46dfc66329790.res"
+
+[deps]
+
+source_file="res://Data/Effect/LightingWave00_2X2_mono.OZJ"
+dest_files=["res://.godot/imported/LightingWave00_2X2_mono.OZJ-110c5a614f40cacccea46dfc66329790.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhx43lqvxbonr"
+path="res://.godot/imported/M8shortswordC_render.OZJ-eed12aba8e7e95ecbe4c6b89b1f58f6f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/M8shortswordC_render.OZJ"
+dest_files=["res://.godot/imported/M8shortswordC_render.OZJ-eed12aba8e7e95ecbe4c6b89b1f58f6f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clwyyd8tb2yso"
+path="res://.godot/imported/swampWizard_yellow.OZJ-e35902a8f4b2cc2834c969b9ae618b08.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampWizard_yellow.OZJ"
+dest_files=["res://.godot/imported/swampWizard_yellow.OZJ-e35902a8f4b2cc2834c969b9ae618b08.res"]
+
+[params]
+

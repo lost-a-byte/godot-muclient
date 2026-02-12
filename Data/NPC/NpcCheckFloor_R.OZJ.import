@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5yqenx5vw4cq"
+path="res://.godot/imported/NpcCheckFloor_R.OZJ-18c9cf2732eea891a56b8b9f4eabd891.res"
+
+[deps]
+
+source_file="res://Data/NPC/NpcCheckFloor_R.OZJ"
+dest_files=["res://.godot/imported/NpcCheckFloor_R.OZJ-18c9cf2732eea891a56b8b9f4eabd891.res"]
+
+[params]
+

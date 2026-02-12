@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://baqcsu4b5i6kx"
+path="res://.godot/imported/multishot01.bmd-a7c3a1ff94423369f2256ebea51c04ca.scn"
+
+[deps]
+
+source_file="res://Data/Effect/multishot01.bmd"
+dest_files=["res://.godot/imported/multishot01.bmd-a7c3a1ff94423369f2256ebea51c04ca.scn"]
+
+[params]
+
+modelScale=0.01

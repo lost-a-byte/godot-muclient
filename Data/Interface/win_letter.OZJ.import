@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0ewsanjwe032"
+path="res://.godot/imported/win_letter.OZJ-13b6dd6dc963c4a89ba58da982007df2.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_letter.OZJ"
+dest_files=["res://.godot/imported/win_letter.OZJ-13b6dd6dc963c4a89ba58da982007df2.res"]
+
+[params]
+

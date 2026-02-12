@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dp2gb6h0k52fn"
+path="res://.godot/imported/chysukmoon.bmd-aa0c6eb84fa016a7f5ee9c4b8218d7d7.scn"
+
+[deps]
+
+source_file="res://Data/Effect/chysukmoon.bmd"
+dest_files=["res://.godot/imported/chysukmoon.bmd-aa0c6eb84fa016a7f5ee9c4b8218d7d7.scn"]
+
+[params]
+
+modelScale=0.01

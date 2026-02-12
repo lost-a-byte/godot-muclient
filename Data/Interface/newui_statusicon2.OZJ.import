@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dc580dlqtmomc"
+path="res://.godot/imported/newui_statusicon2.OZJ-373b5f204b98147c139ed29147b1ff6d.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_statusicon2.OZJ"
+dest_files=["res://.godot/imported/newui_statusicon2.OZJ-373b5f204b98147c139ed29147b1ff6d.res"]
+
+[params]
+

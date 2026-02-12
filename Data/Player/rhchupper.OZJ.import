@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctmhso8box7x3"
+path="res://.godot/imported/rhchupper.OZJ-87b421231ab7afa8d843250d03671b6f.res"
+
+[deps]
+
+source_file="res://Data/Player/rhchupper.OZJ"
+dest_files=["res://.godot/imported/rhchupper.OZJ-87b421231ab7afa8d843250d03671b6f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cotjfojy3hqsk"
+path="res://.godot/imported/fire_sq_00003.OZJ-5d0add240bfa4f5657134d8ad1b52a0e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fire_sq_00003.OZJ"
+dest_files=["res://.godot/imported/fire_sq_00003.OZJ-5d0add240bfa4f5657134d8ad1b52a0e.res"]
+
+[params]
+

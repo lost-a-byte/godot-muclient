@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://61appap36q4l"
+path="res://.godot/imported/scentbody_R.OZJ-0ebae213c35c6ccb3b60166eddb4b00a.res"
+
+[deps]
+
+source_file="res://Data/NPC/scentbody_R.OZJ"
+dest_files=["res://.godot/imported/scentbody_R.OZJ-0ebae213c35c6ccb3b60166eddb4b00a.res"]
+
+[params]
+

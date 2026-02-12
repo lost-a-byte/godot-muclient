@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://p1uh88rm5bhw"
+path="res://.godot/imported/BalgasBarrack.OZT-5d66b70a1226f5e9c8cc8f46349f50c0.res"
+
+[deps]
+
+source_file="res://Data/Interface/BalgasBarrack.OZT"
+dest_files=["res://.godot/imported/BalgasBarrack.OZT-5d66b70a1226f5e9c8cc8f46349f50c0.res"]
+
+[params]
+

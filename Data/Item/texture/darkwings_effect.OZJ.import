@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mtyw2saujemd"
+path="res://.godot/imported/darkwings_effect.OZJ-c2d4fe8a25ea072ac2c15c8c7c15c933.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkwings_effect.OZJ"
+dest_files=["res://.godot/imported/darkwings_effect.OZJ-c2d4fe8a25ea072ac2c15c8c7c15c933.res"]
+
+[params]
+

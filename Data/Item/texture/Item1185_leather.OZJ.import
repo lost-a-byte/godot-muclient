@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c64dtp4wwjl3f"
+path="res://.godot/imported/Item1185_leather.OZJ-ae8421d8d53c379da65afeb4f9195f13.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1185_leather.OZJ"
+dest_files=["res://.godot/imported/Item1185_leather.OZJ-ae8421d8d53c379da65afeb4f9195f13.res"]
+
+[params]
+

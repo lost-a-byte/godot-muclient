@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://eu85wkl2sr27"
+path="res://.godot/imported/angel_wing.ozt-dcd80580209a74f1ad7986137535e93a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/angel_wing.ozt"
+dest_files=["res://.godot/imported/angel_wing.ozt-dcd80580209a74f1ad7986137535e93a.res"]
+
+[params]
+

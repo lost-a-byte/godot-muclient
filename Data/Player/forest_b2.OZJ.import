@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkcvtja8cimy6"
+path="res://.godot/imported/forest_b2.OZJ-919a9e6064545f5e67643973c91c98a1.res"
+
+[deps]
+
+source_file="res://Data/Player/forest_b2.OZJ"
+dest_files=["res://.godot/imported/forest_b2.OZJ-919a9e6064545f5e67643973c91c98a1.res"]
+
+[params]
+

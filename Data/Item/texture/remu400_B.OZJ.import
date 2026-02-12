@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doycp0tulpkuh"
+path="res://.godot/imported/remu400_B.OZJ-dee0d17d43a551cd31fa43d2448384bb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/remu400_B.OZJ"
+dest_files=["res://.godot/imported/remu400_B.OZJ-dee0d17d43a551cd31fa43d2448384bb.res"]
+
+[params]
+

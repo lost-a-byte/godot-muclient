@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8607raay5j1h"
+path="res://.godot/imported/bat02.OZT-e6d12b8fe6d17042c6ea5f21b14d73ad.res"
+
+[deps]
+
+source_file="res://Data/Object2/bat02.OZT"
+dest_files=["res://.godot/imported/bat02.OZT-e6d12b8fe6d17042c6ea5f21b14d73ad.res"]
+
+[params]
+

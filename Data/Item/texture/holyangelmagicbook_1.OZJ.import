@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c501k2rvwtcam"
+path="res://.godot/imported/holyangelmagicbook_1.OZJ-21aea93d3afdad581f518f6f2997f518.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holyangelmagicbook_1.OZJ"
+dest_files=["res://.godot/imported/holyangelmagicbook_1.OZJ-21aea93d3afdad581f518f6f2997f518.res"]
+
+[params]
+

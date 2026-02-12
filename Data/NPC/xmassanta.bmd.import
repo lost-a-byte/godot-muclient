@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://buf0o8ltc34hr"
+path="res://.godot/imported/xmassanta.bmd-438c08f9631ba1a12f46e7618439bd83.scn"
+
+[deps]
+
+source_file="res://Data/NPC/xmassanta.bmd"
+dest_files=["res://.godot/imported/xmassanta.bmd-438c08f9631ba1a12f46e7618439bd83.scn"]
+
+[params]
+
+modelScale=0.01

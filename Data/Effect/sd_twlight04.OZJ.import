@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4ewiv8cqv4ri"
+path="res://.godot/imported/sd_twlight04.OZJ-957bac3f59774eb44b3f109cae2c32e1.res"
+
+[deps]
+
+source_file="res://Data/Effect/sd_twlight04.OZJ"
+dest_files=["res://.godot/imported/sd_twlight04.OZJ-957bac3f59774eb44b3f109cae2c32e1.res"]
+
+[params]
+

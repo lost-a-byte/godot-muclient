@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dddtp7t8nof5m"
+path="res://.godot/imported/MerinoBHorn.OZJ-bf466518064f198eb3b4672a260e2e00.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MerinoBHorn.OZJ"
+dest_files=["res://.godot/imported/MerinoBHorn.OZJ-bf466518064f198eb3b4672a260e2e00.res"]
+
+[params]
+

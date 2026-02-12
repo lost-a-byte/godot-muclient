@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wvtb7xujvd5a"
+path="res://.godot/imported/pk_manhead_green.bmd-d73e1742b356b9ca0c8d3d1c2e823fd3.scn"
+
+[deps]
+
+source_file="res://Data/Monster/pk_manhead_green.bmd"
+dest_files=["res://.godot/imported/pk_manhead_green.bmd-d73e1742b356b9ca0c8d3d1c2e823fd3.scn"]
+
+[params]
+
+modelScale=0.01

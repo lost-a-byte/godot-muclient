@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bs0864sp4umxx"
+path="res://.godot/imported/soulknightsword.bmd-e3bb1d4798465a03a8e609b316300d1c.scn"
+
+[deps]
+
+source_file="res://Data/Item/soulknightsword.bmd"
+dest_files=["res://.godot/imported/soulknightsword.bmd-e3bb1d4798465a03a8e609b316300d1c.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://caoo2j1ya8evc"
+path="res://.godot/imported/upper_15.ozt-0930cc991333017759a9c33764fffdb8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/upper_15.ozt"
+dest_files=["res://.godot/imported/upper_15.ozt-0930cc991333017759a9c33764fffdb8.res"]
+
+[params]
+

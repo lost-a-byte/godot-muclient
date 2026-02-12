@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ccgc53th8se84"
+path="res://.godot/imported/monkyRing.bmd-c93c3ef9e8faee9b3d8fd76397a8c09b.scn"
+
+[deps]
+
+source_file="res://Data/Item/monkyRing.bmd"
+dest_files=["res://.godot/imported/monkyRing.bmd-c93c3ef9e8faee9b3d8fd76397a8c09b.scn"]
+
+[params]
+
+modelScale=0.01

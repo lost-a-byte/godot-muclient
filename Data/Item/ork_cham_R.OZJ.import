@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0lp6cxk1kahe"
+path="res://.godot/imported/ork_cham_R.OZJ-2d36e12ec7ced03dfb5d481035451100.res"
+
+[deps]
+
+source_file="res://Data/Item/ork_cham_R.OZJ"
+dest_files=["res://.godot/imported/ork_cham_R.OZJ-2d36e12ec7ced03dfb5d481035451100.res"]
+
+[params]
+

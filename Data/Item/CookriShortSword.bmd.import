@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://vw5mgn4bkr10"
+path="res://.godot/imported/CookriShortSword.bmd-85e9c8adf6445359aceec45c6fbb4c82.scn"
+
+[deps]
+
+source_file="res://Data/Item/CookriShortSword.bmd"
+dest_files=["res://.godot/imported/CookriShortSword.bmd-85e9c8adf6445359aceec45c6fbb4c82.scn"]
+
+[params]
+
+modelScale=0.01

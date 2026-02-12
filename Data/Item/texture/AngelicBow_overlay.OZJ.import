@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnx84nv32w80a"
+path="res://.godot/imported/AngelicBow_overlay.OZJ-fae5eaf45f2cd89ae37999801118a89e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AngelicBow_overlay.OZJ"
+dest_files=["res://.godot/imported/AngelicBow_overlay.OZJ-fae5eaf45f2cd89ae37999801118a89e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b38syxxhp5tek"
+path="res://.godot/imported/lava_mono.OZJ-8814a5c00616248398e8d10edcd748a4.res"
+
+[deps]
+
+source_file="res://Data/Effect/lava_mono.OZJ"
+dest_files=["res://.godot/imported/lava_mono.OZJ-8814a5c00616248398e8d10edcd748a4.res"]
+
+[params]
+

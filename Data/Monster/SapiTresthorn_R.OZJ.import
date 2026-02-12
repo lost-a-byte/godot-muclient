@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6f2fewklkhld"
+path="res://.godot/imported/SapiTresthorn_R.OZJ-d620dac9a53121c540ee9b20479c7b39.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiTresthorn_R.OZJ"
+dest_files=["res://.godot/imported/SapiTresthorn_R.OZJ-d620dac9a53121c540ee9b20479c7b39.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://sbqvre2odhup"
+path="res://.godot/imported/FMammor.OZJ-908acb14329dad8e83bef8e74eb7b5d6.res"
+
+[deps]
+
+source_file="res://Data/Monster/FMammor.OZJ"
+dest_files=["res://.godot/imported/FMammor.OZJ-908acb14329dad8e83bef8e74eb7b5d6.res"]
+
+[params]
+

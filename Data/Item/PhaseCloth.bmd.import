@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bw7twq46co1lq"
+path="res://.godot/imported/PhaseCloth.bmd-7ba9272aa71b901fb42c4d48bba0f522.scn"
+
+[deps]
+
+source_file="res://Data/Item/PhaseCloth.bmd"
+dest_files=["res://.godot/imported/PhaseCloth.bmd-7ba9272aa71b901fb42c4d48bba0f522.scn"]
+
+[params]
+
+modelScale=0.01

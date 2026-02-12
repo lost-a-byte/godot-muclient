@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c7f2kxrwyaw8p"
+path="res://.godot/imported/PantMail_succubus.bmd-ee8fe4ad387b0e3c1e9e026b696a292e.scn"
+
+[deps]
+
+source_file="res://Data/Item/PantMail_succubus.bmd"
+dest_files=["res://.godot/imported/PantMail_succubus.bmd-ee8fe4ad387b0e3c1e9e026b696a292e.scn"]
+
+[params]
+
+modelScale=0.01

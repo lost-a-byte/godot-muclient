@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://pb4kcc62c5oa"
+path="res://.godot/imported/cherry_blossom.bmd-e003dc94078c6bdd2a2370999ea276f8.scn"
+
+[deps]
+
+source_file="res://Data/NPC/cherryblossom/cherry_blossom.bmd"
+dest_files=["res://.godot/imported/cherry_blossom.bmd-e003dc94078c6bdd2a2370999ea276f8.scn"]
+
+[params]
+
+modelScale=0.01

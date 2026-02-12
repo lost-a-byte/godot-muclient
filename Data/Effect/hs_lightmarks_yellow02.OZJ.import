@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djn6t1xdh6iat"
+path="res://.godot/imported/hs_lightmarks_yellow02.OZJ-30c3b87c7fd4149eb5ab15ee6c85e5ac.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_lightmarks_yellow02.OZJ"
+dest_files=["res://.godot/imported/hs_lightmarks_yellow02.OZJ-30c3b87c7fd4149eb5ab15ee6c85e5ac.res"]
+
+[params]
+

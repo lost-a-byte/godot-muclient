@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfkcmqy0w2q7y"
+path="res://.godot/imported/tree_nomtallo.OZT-302bfb32cdc5c61e55b0ed9e84504197.res"
+
+[deps]
+
+source_file="res://Data/Monster/tree_nomtallo.OZT"
+dest_files=["res://.godot/imported/tree_nomtallo.OZT-302bfb32cdc5c61e55b0ed9e84504197.res"]
+
+[params]
+

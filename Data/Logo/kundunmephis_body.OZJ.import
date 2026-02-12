@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq256pfgrocvm"
+path="res://.godot/imported/kundunmephis_body.OZJ-7f477d487f1073f4a2d028e61fecea1c.res"
+
+[deps]
+
+source_file="res://Data/Logo/kundunmephis_body.OZJ"
+dest_files=["res://.godot/imported/kundunmephis_body.OZJ-7f477d487f1073f4a2d028e61fecea1c.res"]
+
+[params]
+

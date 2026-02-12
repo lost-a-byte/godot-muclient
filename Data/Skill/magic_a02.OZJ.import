@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ihu284auhl8m"
+path="res://.godot/imported/magic_a02.OZJ-bd149c4ff683fa965a443e50ed7f4227.res"
+
+[deps]
+
+source_file="res://Data/Skill/magic_a02.OZJ"
+dest_files=["res://.godot/imported/magic_a02.OZJ-bd149c4ff683fa965a443e50ed7f4227.res"]
+
+[params]
+

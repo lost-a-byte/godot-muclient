@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dusasxpjxr2jp"
+path="res://.godot/imported/ex01gigantis_axl.OZJ-e957b26d4e742d9062d0f3e92e18d6cf.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01gigantis_axl.OZJ"
+dest_files=["res://.godot/imported/ex01gigantis_axl.OZJ-e957b26d4e742d9062d0f3e92e18d6cf.res"]
+
+[params]
+

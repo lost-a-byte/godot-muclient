@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh4l0867q8vvn"
+path="res://.godot/imported/mastery_spear207_render.OZJ-9768b1bbe711aa5c43085664452e3a82.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mastery_spear207_render.OZJ"
+dest_files=["res://.godot/imported/mastery_spear207_render.OZJ-9768b1bbe711aa5c43085664452e3a82.res"]
+
+[params]
+

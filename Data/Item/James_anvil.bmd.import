@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c1kbs8smhjuwc"
+path="res://.godot/imported/James_anvil.bmd-c8a807da8381751f39c2f31322248c4e.scn"
+
+[deps]
+
+source_file="res://Data/Item/James_anvil.bmd"
+dest_files=["res://.godot/imported/James_anvil.bmd-c8a807da8381751f39c2f31322248c4e.scn"]
+
+[params]
+
+modelScale=0.01

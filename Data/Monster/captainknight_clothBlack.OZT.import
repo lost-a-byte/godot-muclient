@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsesq1d06bbv0"
+path="res://.godot/imported/captainknight_clothBlack.OZT-56312abe2c05603ee14ed1a2f1c96b86.res"
+
+[deps]
+
+source_file="res://Data/Monster/captainknight_clothBlack.OZT"
+dest_files=["res://.godot/imported/captainknight_clothBlack.OZT-56312abe2c05603ee14ed1a2f1c96b86.res"]
+
+[params]
+

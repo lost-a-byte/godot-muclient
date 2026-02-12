@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bavsfm7q6tb48"
+path="res://.godot/imported/dust01_2025.OZJ-da513525d754a7d11ba2a71e76496d31.res"
+
+[deps]
+
+source_file="res://Data/Effect/dust01_2025.OZJ"
+dest_files=["res://.godot/imported/dust01_2025.OZJ-da513525d754a7d11ba2a71e76496d31.res"]
+
+[params]
+

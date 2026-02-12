@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnc1ht0mqdlkw"
+path="res://.godot/imported/BDrillmaster_bodyBlack.OZJ-bc37e253d78e6c4bb61e435dd2c07699.res"
+
+[deps]
+
+source_file="res://Data/Monster/BDrillmaster_bodyBlack.OZJ"
+dest_files=["res://.godot/imported/BDrillmaster_bodyBlack.OZJ-bc37e253d78e6c4bb61e435dd2c07699.res"]
+
+[params]
+

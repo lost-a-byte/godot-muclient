@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://br0k5u2ua34dp"
+path="res://.godot/imported/hs_pumpi02_render.OZJ-493bff7f8363bc8ab38f0c377c5c462f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_pumpi02_render.OZJ"
+dest_files=["res://.godot/imported/hs_pumpi02_render.OZJ-493bff7f8363bc8ab38f0c377c5c462f.res"]
+
+[params]
+

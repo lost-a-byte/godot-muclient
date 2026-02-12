@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bygackdesfbdt"
+path="res://.godot/imported/mg_under.ozt-175970400f906379c03d643ce35e2ea8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mg_under.ozt"
+dest_files=["res://.godot/imported/mg_under.ozt-175970400f906379c03d643ce35e2ea8.res"]
+
+[params]
+

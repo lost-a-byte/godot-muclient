@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ssh6i3cradr4"
+path="res://.godot/imported/charingst2.OZJ-acf6eebe0b38361440909b27d1e7e9cb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/charingst2.OZJ"
+dest_files=["res://.godot/imported/charingst2.OZJ-acf6eebe0b38361440909b27d1e7e9cb.res"]
+
+[params]
+

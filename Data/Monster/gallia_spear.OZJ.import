@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ykql54yasy4a"
+path="res://.godot/imported/gallia_spear.OZJ-361377c400684493ed942fd2f10205e8.res"
+
+[deps]
+
+source_file="res://Data/Monster/gallia_spear.OZJ"
+dest_files=["res://.godot/imported/gallia_spear.OZJ-361377c400684493ed942fd2f10205e8.res"]
+
+[params]
+

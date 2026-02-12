@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdcu04mjd7hll"
+path="res://.godot/imported/newui_expansion_btn.OZT-fca02009400e71289e93700d0e9c0f32.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_expansion_btn.OZT"
+dest_files=["res://.godot/imported/newui_expansion_btn.OZT-fca02009400e71289e93700d0e9c0f32.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2oofbopxaycs"
+path="res://.godot/imported/Ice_ground01.OZJ-5c78d9c05c3e2acde24f017d387da65d.res"
+
+[deps]
+
+source_file="res://Data/Effect/Ice_ground01.OZJ"
+dest_files=["res://.godot/imported/Ice_ground01.OZJ-5c78d9c05c3e2acde24f017d387da65d.res"]
+
+[params]
+

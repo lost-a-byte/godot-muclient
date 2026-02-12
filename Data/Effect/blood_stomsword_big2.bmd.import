@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqnu2xef4d1y6"
+path="res://.godot/imported/blood_stomsword_big2.bmd-1dc0092bee20a6cb542406a4bab573c8.scn"
+
+[deps]
+
+source_file="res://Data/Effect/blood_stomsword_big2.bmd"
+dest_files=["res://.godot/imported/blood_stomsword_big2.bmd-1dc0092bee20a6cb542406a4bab573c8.scn"]
+
+[params]
+
+modelScale=0.01

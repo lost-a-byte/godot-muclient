@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmw5smtldpcg5"
+path="res://.godot/imported/eventgirl_race.OZT-07d7e2baab7b1c3a0b0defde06bd37e3.res"
+
+[deps]
+
+source_file="res://Data/Skill/eventgirl_race.OZT"
+dest_files=["res://.godot/imported/eventgirl_race.OZT-07d7e2baab7b1c3a0b0defde06bd37e3.res"]
+
+[params]
+

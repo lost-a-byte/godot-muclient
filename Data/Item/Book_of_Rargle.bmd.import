@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://buip541eptlj3"
+path="res://.godot/imported/Book_of_Rargle.bmd-7c43cc1026ad0626de9b4ae28506af3d.scn"
+
+[deps]
+
+source_file="res://Data/Item/Book_of_Rargle.bmd"
+dest_files=["res://.godot/imported/Book_of_Rargle.bmd-7c43cc1026ad0626de9b4ae28506af3d.scn"]
+
+[params]
+
+modelScale=0.01

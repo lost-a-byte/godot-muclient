@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btlkjvn4e56vp"
+path="res://.godot/imported/blueeyesceptre_render.OZJ-89622a3c33dc608fd8416bfda734d13f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blueeyesceptre_render.OZJ"
+dest_files=["res://.godot/imported/blueeyesceptre_render.OZJ-89622a3c33dc608fd8416bfda734d13f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djpfdmhs2pdg6"
+path="res://.godot/imported/heaywood_balck.OZJ-4ecf7a1d9b24af26b05b87c08a05abe1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/heaywood_balck.OZJ"
+dest_files=["res://.godot/imported/heaywood_balck.OZJ-4ecf7a1d9b24af26b05b87c08a05abe1.res"]
+
+[params]
+

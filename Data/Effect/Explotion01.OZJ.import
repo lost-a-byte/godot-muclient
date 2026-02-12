@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djo7ftaa6suoa"
+path="res://.godot/imported/Explotion01.OZJ-0e6e43a1ce6fa99d53f3c6472dafdae7.res"
+
+[deps]
+
+source_file="res://Data/Effect/Explotion01.OZJ"
+dest_files=["res://.godot/imported/Explotion01.OZJ-0e6e43a1ce6fa99d53f3c6472dafdae7.res"]
+
+[params]
+

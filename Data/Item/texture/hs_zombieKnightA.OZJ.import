@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dogdmu84u8c0g"
+path="res://.godot/imported/hs_zombieKnightA.OZJ-4454da72e481b4f876bf8372ee8d90fc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_zombieKnightA.OZJ"
+dest_files=["res://.godot/imported/hs_zombieKnightA.OZJ-4454da72e481b4f876bf8372ee8d90fc.res"]
+
+[params]
+

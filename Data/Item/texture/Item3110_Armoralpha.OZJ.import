@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dygq7a5t54mxq"
+path="res://.godot/imported/Item3110_Armoralpha.OZJ-22fb26d00b64ef9f96139202475d9f7d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3110_Armoralpha.OZJ"
+dest_files=["res://.godot/imported/Item3110_Armoralpha.OZJ-22fb26d00b64ef9f96139202475d9f7d.res"]
+
+[params]
+

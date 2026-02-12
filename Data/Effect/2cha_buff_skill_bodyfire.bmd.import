@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://htc4im3il2m4"
+path="res://.godot/imported/2cha_buff_skill_bodyfire.bmd-65da90d7c86703d78bc57e36e821481e.scn"
+
+[deps]
+
+source_file="res://Data/Effect/2cha_buff_skill_bodyfire.bmd"
+dest_files=["res://.godot/imported/2cha_buff_skill_bodyfire.bmd-65da90d7c86703d78bc57e36e821481e.scn"]
+
+[params]
+
+modelScale=0.01

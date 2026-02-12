@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1e86s320budd"
+path="res://.godot/imported/hs_stoneA.OZT-21d1ed985f44bc2d2258174a00d7950a.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_stoneA.OZT"
+dest_files=["res://.godot/imported/hs_stoneA.OZT-21d1ed985f44bc2d2258174a00d7950a.res"]
+
+[params]
+

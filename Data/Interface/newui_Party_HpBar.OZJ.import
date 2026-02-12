@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpxcqcuhfs13f"
+path="res://.godot/imported/newui_Party_HpBar.OZJ-ff75ea4dde8c9bf86af54792b8fb7f13.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Party_HpBar.OZJ"
+dest_files=["res://.godot/imported/newui_Party_HpBar.OZJ-ff75ea4dde8c9bf86af54792b8fb7f13.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wqyijv22jb24"
+path="res://.godot/imported/Fire_shock.bmd-ec7fa10b5f15628bcd9559cb818aceeb.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Fire_shock.bmd"
+dest_files=["res://.godot/imported/Fire_shock.bmd-ec7fa10b5f15628bcd9559cb818aceeb.scn"]
+
+[params]
+
+modelScale=0.01

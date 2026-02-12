@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1yf73kjkrbnx"
+path="res://.godot/imported/guild.OZT-d8c171f7fd8be723e9da7e5721f2152b.res"
+
+[deps]
+
+source_file="res://Data/Interface/guild.OZT"
+dest_files=["res://.godot/imported/guild.OZT-d8c171f7fd8be723e9da7e5721f2152b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cu8wx4q4c6wmg"
+path="res://.godot/imported/footballerBa.OZJ-5c55d99cd1bf850336f46dd39ec2cc4d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/footballerBa.OZJ"
+dest_files=["res://.godot/imported/footballerBa.OZJ-5c55d99cd1bf850336f46dd39ec2cc4d.res"]
+
+[params]
+

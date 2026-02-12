@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb076b83dqipf"
+path="res://.godot/imported/dark400_helmet.ozj-7527cd8e2db16e77275c2252266d7145.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark400_helmet.ozj"
+dest_files=["res://.godot/imported/dark400_helmet.ozj-7527cd8e2db16e77275c2252266d7145.res"]
+
+[params]
+

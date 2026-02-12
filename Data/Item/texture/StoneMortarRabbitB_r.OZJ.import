@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6avmk114sd82"
+path="res://.godot/imported/StoneMortarRabbitB_r.OZJ-51d48e4fce915311afd8077c2d1a247f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/StoneMortarRabbitB_r.OZJ"
+dest_files=["res://.godot/imported/StoneMortarRabbitB_r.OZJ-51d48e4fce915311afd8077c2d1a247f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kyrdcao028qe"
+path="res://.godot/imported/LesnarBody.OZJ-baaaa13b757932eabb81ba01048e4f55.res"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/LesnarBody.OZJ"
+dest_files=["res://.godot/imported/LesnarBody.OZJ-baaaa13b757932eabb81ba01048e4f55.res"]
+
+[params]
+

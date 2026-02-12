@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://itd8xgihfayh"
+path="res://.godot/imported/MiracleStaff.OZJ-0167079ab005da4b261b9b7cd92c36c5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MiracleStaff.OZJ"
+dest_files=["res://.godot/imported/MiracleStaff.OZJ-0167079ab005da4b261b9b7cd92c36c5.res"]
+
+[params]
+

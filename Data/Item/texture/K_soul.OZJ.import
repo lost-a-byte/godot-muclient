@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c30xy6jugjcus"
+path="res://.godot/imported/K_soul.OZJ-1e928599503d61f3524fbcdbfadb45fd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/K_soul.OZJ"
+dest_files=["res://.godot/imported/K_soul.OZJ-1e928599503d61f3524fbcdbfadb45fd.res"]
+
+[params]
+

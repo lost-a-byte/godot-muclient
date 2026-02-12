@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyeacw782d6pc"
+path="res://.godot/imported/lower_luck07.OZJ-c907efc380a70d52c34a1d8881bacd44.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/63/lower_luck07.OZJ"
+dest_files=["res://.godot/imported/lower_luck07.OZJ-c907efc380a70d52c34a1d8881bacd44.res"]
+
+[params]
+

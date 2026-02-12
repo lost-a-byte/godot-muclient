@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://l23ww6tboqvc"
+path="res://.godot/imported/buff_stun.OZJ-478b128e10ccb3fe3a963cba4b98b0d3.res"
+
+[deps]
+
+source_file="res://Data/Effect/buff_stun.OZJ"
+dest_files=["res://.godot/imported/buff_stun.OZJ-478b128e10ccb3fe3a963cba4b98b0d3.res"]
+
+[params]
+

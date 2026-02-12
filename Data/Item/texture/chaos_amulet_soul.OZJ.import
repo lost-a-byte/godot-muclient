@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nb7vlq7k3cxu"
+path="res://.godot/imported/chaos_amulet_soul.OZJ-cf9169f410af5a138c98f0c396ab8bfe.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chaos_amulet_soul.OZJ"
+dest_files=["res://.godot/imported/chaos_amulet_soul.OZJ-cf9169f410af5a138c98f0c396ab8bfe.res"]
+
+[params]
+

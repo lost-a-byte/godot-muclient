@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccuo6oswn8fea"
+path="res://.godot/imported/whitedayrose02.ozt-f6db67c77a1dfe388170f3d877c56b92.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/whitedayrose02.ozt"
+dest_files=["res://.godot/imported/whitedayrose02.ozt-f6db67c77a1dfe388170f3d877c56b92.res"]
+
+[params]
+

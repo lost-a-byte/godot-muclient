@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://crgslvhsoc4gv"
+path="res://.godot/imported/beachgirlUp.bmd-38e58d05d7605dba1c659bddd7e87a56.scn"
+
+[deps]
+
+source_file="res://Data/Item/beachgirlUp.bmd"
+dest_files=["res://.godot/imported/beachgirlUp.bmd-38e58d05d7605dba1c659bddd7e87a56.scn"]
+
+[params]
+
+modelScale=0.01

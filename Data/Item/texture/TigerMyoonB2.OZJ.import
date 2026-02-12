@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bl7gxahjr03dg"
+path="res://.godot/imported/TigerMyoonB2.OZJ-35b6aca1a76d8e2960edc5029b5b0e3c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TigerMyoonB2.OZJ"
+dest_files=["res://.godot/imported/TigerMyoonB2.OZJ-35b6aca1a76d8e2960edc5029b5b0e3c.res"]
+
+[params]
+

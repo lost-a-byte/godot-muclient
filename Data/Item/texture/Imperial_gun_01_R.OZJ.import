@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3bvtfw6qqol8"
+path="res://.godot/imported/Imperial_gun_01_R.OZJ-4e798891c20d14f7ebb6ee5936204c8c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_gun_01_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_gun_01_R.OZJ-4e798891c20d14f7ebb6ee5936204c8c.res"]
+
+[params]
+

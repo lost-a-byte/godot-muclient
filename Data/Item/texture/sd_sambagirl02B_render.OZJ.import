@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0kd8k70myidn"
+path="res://.godot/imported/sd_sambagirl02B_render.OZJ-6586968158854e357d1b8962f4ed91bc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_sambagirl02B_render.OZJ"
+dest_files=["res://.godot/imported/sd_sambagirl02B_render.OZJ-6586968158854e357d1b8962f4ed91bc.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4lmnfwkyvscw"
+path="res://.godot/imported/dkfrontShd.OZJ-e4506e8c090609fe2470267459ca0547.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkfrontShd.OZJ"
+dest_files=["res://.godot/imported/dkfrontShd.OZJ-e4506e8c090609fe2470267459ca0547.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clpxdca2qwfaf"
+path="res://.godot/imported/divinspirit_talon.OZJ-90c26f8a3b1b867ba793dc2f256ce456.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/divinspirit_talon.OZJ"
+dest_files=["res://.godot/imported/divinspirit_talon.OZJ-90c26f8a3b1b867ba793dc2f256ce456.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvx5y031302ka"
+path="res://.godot/imported/obsidiana.bmd-2ccc0b77886c3613d1ac2b213a643645.scn"
+
+[deps]
+
+source_file="res://Data/Effect/obsidiana.bmd"
+dest_files=["res://.godot/imported/obsidiana.bmd-2ccc0b77886c3613d1ac2b213a643645.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ds6bnuv611lql"
+path="res://.godot/imported/jacquard_Ironcloak.bmd-7724488fe9758bce406fba52facd8696.scn"
+
+[deps]
+
+source_file="res://Data/Item/jacquard_Ironcloak.bmd"
+dest_files=["res://.godot/imported/jacquard_Ironcloak.bmd-7724488fe9758bce406fba52facd8696.scn"]
+
+[params]
+
+modelScale=0.01

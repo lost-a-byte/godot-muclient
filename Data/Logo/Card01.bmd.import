@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://rg8tb7rmemsk"
+path="res://.godot/imported/Card01.bmd-aff041b9bbbde5972f2c2b1ef85e3354.scn"
+
+[deps]
+
+source_file="res://Data/Logo/Card01.bmd"
+dest_files=["res://.godot/imported/Card01.bmd-aff041b9bbbde5972f2c2b1ef85e3354.scn"]
+
+[params]
+
+modelScale=0.01

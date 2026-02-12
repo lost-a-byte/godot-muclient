@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://duymr7iydodks"
+path="res://.godot/imported/Imperial_quiver_03_R.OZJ-6c65975dd988e6785af564cd4a39e77a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_quiver_03_R.OZJ"
+dest_files=["res://.godot/imported/Imperial_quiver_03_R.OZJ-6c65975dd988e6785af564cd4a39e77a.res"]
+
+[params]
+

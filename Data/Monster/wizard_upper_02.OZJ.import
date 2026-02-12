@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qwiy1ea834bk"
+path="res://.godot/imported/wizard_upper_02.OZJ-3ab3ce32acd14d8a3ebebdd398ae49ce.res"
+
+[deps]
+
+source_file="res://Data/Monster/wizard_upper_02.OZJ"
+dest_files=["res://.godot/imported/wizard_upper_02.OZJ-3ab3ce32acd14d8a3ebebdd398ae49ce.res"]
+
+[params]
+

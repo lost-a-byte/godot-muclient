@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bh3we0ydsqjns"
+path="res://.godot/imported/BugbearA.OZJ-6a63b180e963857a60233a7503bbd43a.res"
+
+[deps]
+
+source_file="res://Data/Monster/BugbearA.OZJ"
+dest_files=["res://.godot/imported/BugbearA.OZJ-6a63b180e963857a60233a7503bbd43a.res"]
+
+[params]
+

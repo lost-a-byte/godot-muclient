@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddx1a5tk0vi1l"
+path="res://.godot/imported/Alchemistmuun_02.OZJ-01304ed8409027124739bb52f8da7f9a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Alchemistmuun_02.OZJ"
+dest_files=["res://.godot/imported/Alchemistmuun_02.OZJ-01304ed8409027124739bb52f8da7f9a.res"]
+
+[params]
+

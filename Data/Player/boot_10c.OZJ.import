@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c68gv52c16rgs"
+path="res://.godot/imported/boot_10c.OZJ-5820c2ead5bb79dc157df7b3af4f9590.res"
+
+[deps]
+
+source_file="res://Data/Player/boot_10c.OZJ"
+dest_files=["res://.godot/imported/boot_10c.OZJ-5820c2ead5bb79dc157df7b3af4f9590.res"]
+
+[params]
+

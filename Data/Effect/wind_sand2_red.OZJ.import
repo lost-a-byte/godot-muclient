@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cl3jhiktovgim"
+path="res://.godot/imported/wind_sand2_red.OZJ-531edfe7132d96787b7403615dc65151.res"
+
+[deps]
+
+source_file="res://Data/Effect/wind_sand2_red.OZJ"
+dest_files=["res://.godot/imported/wind_sand2_red.OZJ-531edfe7132d96787b7403615dc65151.res"]
+
+[params]
+

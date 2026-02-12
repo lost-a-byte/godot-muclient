@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btkhxnykdqy63"
+path="res://.godot/imported/RingBlur_rainbow00.OZJ-2d6d8906eb61fff9460f6c7bc057beed.res"
+
+[deps]
+
+source_file="res://Data/Effect/RingBlur_rainbow00.OZJ"
+dest_files=["res://.godot/imported/RingBlur_rainbow00.OZJ-2d6d8906eb61fff9460f6c7bc057beed.res"]
+
+[params]
+

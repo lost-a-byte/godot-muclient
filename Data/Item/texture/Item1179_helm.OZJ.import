@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp4x2gn8jgx61"
+path="res://.godot/imported/Item1179_helm.OZJ-cc53faf7b46f52bb215fe6a64cc4b3b3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1179_helm.OZJ"
+dest_files=["res://.godot/imported/Item1179_helm.OZJ-cc53faf7b46f52bb215fe6a64cc4b3b3.res"]
+
+[params]
+

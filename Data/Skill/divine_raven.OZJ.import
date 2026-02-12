@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://donrkoru28k4y"
+path="res://.godot/imported/divine_raven.OZJ-046b9a7cd00a3f376abaf4895da45be3.res"
+
+[deps]
+
+source_file="res://Data/Skill/divine_raven.OZJ"
+dest_files=["res://.godot/imported/divine_raven.OZJ-046b9a7cd00a3f376abaf4895da45be3.res"]
+
+[params]
+

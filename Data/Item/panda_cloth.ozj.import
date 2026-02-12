@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c85h1dmkai4cl"
+path="res://.godot/imported/panda_cloth.ozj-e79bad421377e40812f3f35d741aa638.res"
+
+[deps]
+
+source_file="res://Data/Item/panda_cloth.ozj"
+dest_files=["res://.godot/imported/panda_cloth.ozj-e79bad421377e40812f3f35d741aa638.res"]
+
+[params]
+

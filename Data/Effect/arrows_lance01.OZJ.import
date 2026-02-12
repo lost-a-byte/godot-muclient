@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://oq3q2eacn8ap"
+path="res://.godot/imported/arrows_lance01.OZJ-11480c96c1df97cfa347e0f5bcf083f3.res"
+
+[deps]
+
+source_file="res://Data/Effect/arrows_lance01.OZJ"
+dest_files=["res://.godot/imported/arrows_lance01.OZJ-11480c96c1df97cfa347e0f5bcf083f3.res"]
+
+[params]
+

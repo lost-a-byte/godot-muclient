@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gm255480p70"
+path="res://.godot/imported/MagicRing.OZJ-48f2ef7de084bfe313e335a5d72af09e.res"
+
+[deps]
+
+source_file="res://Data/Item/MagicRing.OZJ"
+dest_files=["res://.godot/imported/MagicRing.OZJ-48f2ef7de084bfe313e335a5d72af09e.res"]
+
+[params]
+

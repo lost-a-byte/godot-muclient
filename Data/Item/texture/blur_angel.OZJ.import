@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bk65mvqlu4xnp"
+path="res://.godot/imported/blur_angel.OZJ-e79b41635c28dfce0c02d2a08454b03e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blur_angel.OZJ"
+dest_files=["res://.godot/imported/blur_angel.OZJ-e79b41635c28dfce0c02d2a08454b03e.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ddq7fn7jkyoef"
+path="res://.godot/imported/nightmaresum.bmd-bf68e77fc50f925faa85722df8f86dc6.scn"
+
+[deps]
+
+source_file="res://Data/Skill/nightmaresum.bmd"
+dest_files=["res://.godot/imported/nightmaresum.bmd-bf68e77fc50f925faa85722df8f86dc6.scn"]
+
+[params]
+
+modelScale=0.01

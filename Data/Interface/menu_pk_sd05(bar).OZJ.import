@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxhwcn7ddx7ce"
+path="res://.godot/imported/menu_pk_sd05(bar).OZJ-1a13810f274f7fcbfb41d75f617b2d9c.res"
+
+[deps]
+
+source_file="res://Data/Interface/menu_pk_sd05(bar).OZJ"
+dest_files=["res://.godot/imported/menu_pk_sd05(bar).OZJ-1a13810f274f7fcbfb41d75f617b2d9c.res"]
+
+[params]
+

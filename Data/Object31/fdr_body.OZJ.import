@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctem5ev416b70"
+path="res://.godot/imported/fdr_body.OZJ-ca427d42bc61c977afe63f23692c49e5.res"
+
+[deps]
+
+source_file="res://Data/Object31/fdr_body.OZJ"
+dest_files=["res://.godot/imported/fdr_body.OZJ-ca427d42bc61c977afe63f23692c49e5.res"]
+
+[params]
+

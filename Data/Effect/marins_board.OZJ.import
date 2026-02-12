@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn654pg784hke"
+path="res://.godot/imported/marins_board.OZJ-03f9dd783978b1ebe1f5fc2c31aa53d4.res"
+
+[deps]
+
+source_file="res://Data/Effect/marins_board.OZJ"
+dest_files=["res://.godot/imported/marins_board.OZJ-03f9dd783978b1ebe1f5fc2c31aa53d4.res"]
+
+[params]
+

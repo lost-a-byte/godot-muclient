@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2q1hjfkovc7x"
+path="res://.godot/imported/newui_Bt_clearness_illusion.OZJ-d4f6c830cdbb8e096f06f33d2688f59c.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Bt_clearness_illusion.OZJ"
+dest_files=["res://.godot/imported/newui_Bt_clearness_illusion.OZJ-d4f6c830cdbb8e096f06f33d2688f59c.res"]
+
+[params]
+

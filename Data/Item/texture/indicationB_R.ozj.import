@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://so7r5kesriow"
+path="res://.godot/imported/indicationB_R.ozj-260a57b258486e3246f4709bbeb5fd47.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/indicationB_R.ozj"
+dest_files=["res://.godot/imported/indicationB_R.ozj-260a57b258486e3246f4709bbeb5fd47.res"]
+
+[params]
+

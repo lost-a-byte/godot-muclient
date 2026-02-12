@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wh6ul4pogyo"
+path="res://.godot/imported/rockca_nomal02.OZT-c0119d869e05bc261715aa8d76fbb5a0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rockca_nomal02.OZT"
+dest_files=["res://.godot/imported/rockca_nomal02.OZT-c0119d869e05bc261715aa8d76fbb5a0.res"]
+
+[params]
+

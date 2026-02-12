@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crm7kilavyooi"
+path="res://.godot/imported/suho_button1.OZJ-723a33e990bd657b60e97b65bb35dd89.res"
+
+[deps]
+
+source_file="res://Data/Interface/suho_button1.OZJ"
+dest_files=["res://.godot/imported/suho_button1.OZJ-723a33e990bd657b60e97b65bb35dd89.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxmbw1uqjdlym"
+path="res://.godot/imported/Steam_01.OZJ-58af96d372963d81c3b861a91ae7996e.res"
+
+[deps]
+
+source_file="res://Data/Effect/Steam_01.OZJ"
+dest_files=["res://.godot/imported/Steam_01.OZJ-58af96d372963d81c3b861a91ae7996e.res"]
+
+[params]
+

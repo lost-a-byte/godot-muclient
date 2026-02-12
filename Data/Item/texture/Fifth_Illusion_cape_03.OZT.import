@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://icig8v054fa5"
+path="res://.godot/imported/Fifth_Illusion_cape_03.OZT-f291fcd2b9d463c0fcc834dbebc55620.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Illusion_cape_03.OZT"
+dest_files=["res://.godot/imported/Fifth_Illusion_cape_03.OZT-f291fcd2b9d463c0fcc834dbebc55620.res"]
+
+[params]
+

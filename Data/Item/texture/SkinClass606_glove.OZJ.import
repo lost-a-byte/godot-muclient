@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0hamjp3d8xny"
+path="res://.godot/imported/SkinClass606_glove.OZJ-2d271ce43aa3dd95a122dffcf5493303.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SkinClass606_glove.OZJ"
+dest_files=["res://.godot/imported/SkinClass606_glove.OZJ-2d271ce43aa3dd95a122dffcf5493303.res"]
+
+[params]
+

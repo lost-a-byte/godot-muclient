@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmcbrotggclma"
+path="res://.godot/imported/xerUp.bmd-a7e6249916ba132384c83917f8ba5945.scn"
+
+[deps]
+
+source_file="res://Data/Item/xerUp.bmd"
+dest_files=["res://.godot/imported/xerUp.bmd-a7e6249916ba132384c83917f8ba5945.scn"]
+
+[params]
+
+modelScale=0.01

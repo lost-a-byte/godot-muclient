@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drf4eph6ft46s"
+path="res://.godot/imported/strangerabbit_eyes.OZJ-c86f402f314703133334818bb4870dd8.res"
+
+[deps]
+
+source_file="res://Data/Monster/strangerabbit_eyes.OZJ"
+dest_files=["res://.godot/imported/strangerabbit_eyes.OZJ-c86f402f314703133334818bb4870dd8.res"]
+
+[params]
+

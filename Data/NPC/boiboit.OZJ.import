@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doek4msl57jcc"
+path="res://.godot/imported/boiboit.OZJ-924776b75096137cd9cd4bf3fc3e73cd.res"
+
+[deps]
+
+source_file="res://Data/NPC/boiboit.OZJ"
+dest_files=["res://.godot/imported/boiboit.OZJ-924776b75096137cd9cd4bf3fc3e73cd.res"]
+
+[params]
+

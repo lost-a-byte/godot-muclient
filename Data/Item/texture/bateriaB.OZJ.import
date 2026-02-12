@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3cng6v458oaj"
+path="res://.godot/imported/bateriaB.OZJ-fa5b9e2a4d841a3ec3a8dfc175f813ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bateriaB.OZJ"
+dest_files=["res://.godot/imported/bateriaB.OZJ-fa5b9e2a4d841a3ec3a8dfc175f813ea.res"]
+
+[params]
+

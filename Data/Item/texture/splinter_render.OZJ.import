@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bntglj7otym3"
+path="res://.godot/imported/splinter_render.OZJ-14712f8e4138036d8be9b05913bca4a7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/splinter_render.OZJ"
+dest_files=["res://.godot/imported/splinter_render.OZJ-14712f8e4138036d8be9b05913bca4a7.res"]
+
+[params]
+

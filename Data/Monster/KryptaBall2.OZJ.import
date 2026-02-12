@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3ywssesc47y2"
+path="res://.godot/imported/KryptaBall2.OZJ-8027bc1c7b5772b89009f4dc3083fe43.res"
+
+[deps]
+
+source_file="res://Data/Monster/KryptaBall2.OZJ"
+dest_files=["res://.godot/imported/KryptaBall2.OZJ-8027bc1c7b5772b89009f4dc3083fe43.res"]
+
+[params]
+

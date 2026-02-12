@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gxjug48c3q7q"
+path="res://.godot/imported/beepower.OZJ-11c45ec04169802365d900c20834b073.res"
+
+[deps]
+
+source_file="res://Data/Effect/beepower.OZJ"
+dest_files=["res://.godot/imported/beepower.OZJ-11c45ec04169802365d900c20834b073.res"]
+
+[params]
+

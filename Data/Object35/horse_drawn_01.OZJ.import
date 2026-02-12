@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brm1o6r5p60cu"
+path="res://.godot/imported/horse_drawn_01.OZJ-58c5246fde4b459f2755754864173080.res"
+
+[deps]
+
+source_file="res://Data/Object35/horse_drawn_01.OZJ"
+dest_files=["res://.godot/imported/horse_drawn_01.OZJ-58c5246fde4b459f2755754864173080.res"]
+
+[params]
+

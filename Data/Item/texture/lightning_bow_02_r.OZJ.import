@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bot4ogdauu0ru"
+path="res://.godot/imported/lightning_bow_02_r.OZJ-3b3452ab33cccf55dada35899fda4856.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_bow_02_r.OZJ"
+dest_files=["res://.godot/imported/lightning_bow_02_r.OZJ-3b3452ab33cccf55dada35899fda4856.res"]
+
+[params]
+

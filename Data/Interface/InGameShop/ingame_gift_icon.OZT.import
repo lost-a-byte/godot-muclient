@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://irsr0r5s0ex"
+path="res://.godot/imported/ingame_gift_icon.OZT-2d51fa364678e971896d3de0a299c0fa.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_gift_icon.OZT"
+dest_files=["res://.godot/imported/ingame_gift_icon.OZT-2d51fa364678e971896d3de0a299c0fa.res"]
+
+[params]
+

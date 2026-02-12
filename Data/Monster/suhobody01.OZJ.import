@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://br1n0byrx5int"
+path="res://.godot/imported/suhobody01.OZJ-a7349a9d76df7d5e0ddc08ed7e58cf75.res"
+
+[deps]
+
+source_file="res://Data/Monster/suhobody01.OZJ"
+dest_files=["res://.godot/imported/suhobody01.OZJ-a7349a9d76df7d5e0ddc08ed7e58cf75.res"]
+
+[params]
+

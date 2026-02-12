@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://colynsao1mvop"
+path="res://.godot/imported/dkswing.OZJ-19b6b2331da78100dfb34fb6951ed3a8.res"
+
+[deps]
+
+source_file="res://Data/NPC/dkswing.OZJ"
+dest_files=["res://.godot/imported/dkswing.OZJ-19b6b2331da78100dfb34fb6951ed3a8.res"]
+
+[params]
+

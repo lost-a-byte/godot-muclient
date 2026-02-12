@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4aljfr3mm2nd"
+path="res://.godot/imported/fire_16fmono2.OZJ-edcbb296e710f4a7c8ae6c0474e2a527.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fire_16fmono2.OZJ"
+dest_files=["res://.godot/imported/fire_16fmono2.OZJ-edcbb296e710f4a7c8ae6c0474e2a527.res"]
+
+[params]
+

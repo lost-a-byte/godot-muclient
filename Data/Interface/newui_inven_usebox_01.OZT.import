@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5veyabnoge6p"
+path="res://.godot/imported/newui_inven_usebox_01.OZT-60d3c3a13fbcb313b722a18e798fac39.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_inven_usebox_01.OZT"
+dest_files=["res://.godot/imported/newui_inven_usebox_01.OZT-60d3c3a13fbcb313b722a18e798fac39.res"]
+
+[params]
+

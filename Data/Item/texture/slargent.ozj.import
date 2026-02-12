@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvt3g7tkurvfn"
+path="res://.godot/imported/slargent.ozj-60e2993ef56419fd923a17f2c3278967.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/slargent.ozj"
+dest_files=["res://.godot/imported/slargent.ozj-60e2993ef56419fd923a17f2c3278967.res"]
+
+[params]
+

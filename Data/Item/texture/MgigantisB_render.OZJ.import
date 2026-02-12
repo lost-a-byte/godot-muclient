@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dld76oakl02r5"
+path="res://.godot/imported/MgigantisB_render.OZJ-43dcd6bb79f146c7177b4a7ab5ea7fa4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MgigantisB_render.OZJ"
+dest_files=["res://.godot/imported/MgigantisB_render.OZJ-43dcd6bb79f146c7177b4a7ab5ea7fa4.res"]
+
+[params]
+

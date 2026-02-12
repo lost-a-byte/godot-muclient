@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d4lc32my8o4ks"
+path="res://.godot/imported/bearhockey.bmd-7b34090d821181116cead23e2b6b12ee.scn"
+
+[deps]
+
+source_file="res://Data/Item/bearhockey.bmd"
+dest_files=["res://.godot/imported/bearhockey.bmd-7b34090d821181116cead23e2b6b12ee.scn"]
+
+[params]
+
+modelScale=0.01

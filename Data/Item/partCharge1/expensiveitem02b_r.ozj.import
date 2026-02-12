@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccoedy7ox4snb"
+path="res://.godot/imported/expensiveitem02b_r.ozj-9c46979aebd6242c8f71092117ba7f70.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge1/expensiveitem02b_r.ozj"
+dest_files=["res://.godot/imported/expensiveitem02b_r.ozj-9c46979aebd6242c8f71092117ba7f70.res"]
+
+[params]
+

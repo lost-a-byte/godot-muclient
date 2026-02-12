@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://faqanb7m1p3"
+path="res://.godot/imported/gemmix.bmd-04c6eb66cce605c97bcafa6f5dca1f51.scn"
+
+[deps]
+
+source_file="res://Data/Item/gemmix.bmd"
+dest_files=["res://.godot/imported/gemmix.bmd-04c6eb66cce605c97bcafa6f5dca1f51.scn"]
+
+[params]
+
+modelScale=0.01

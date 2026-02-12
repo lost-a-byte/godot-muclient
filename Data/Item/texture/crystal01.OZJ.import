@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbn6rm3cr8al6"
+path="res://.godot/imported/crystal01.OZJ-e00ff3c95e318efaa270726356b68b2f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/crystal01.OZJ"
+dest_files=["res://.godot/imported/crystal01.OZJ-e00ff3c95e318efaa270726356b68b2f.res"]
+
+[params]
+

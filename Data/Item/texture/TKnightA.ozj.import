@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6fvqrbousloe"
+path="res://.godot/imported/TKnightA.ozj-25969b195763e19bc7c5b650ffea5f3f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TKnightA.ozj"
+dest_files=["res://.godot/imported/TKnightA.ozj-25969b195763e19bc7c5b650ffea5f3f.res"]
+
+[params]
+

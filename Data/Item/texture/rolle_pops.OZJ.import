@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdvwbxudu5mxq"
+path="res://.godot/imported/rolle_pops.OZJ-0e5a4eda716ed222530ee971908bd4dd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rolle_pops.OZJ"
+dest_files=["res://.godot/imported/rolle_pops.OZJ-0e5a4eda716ed222530ee971908bd4dd.res"]
+
+[params]
+

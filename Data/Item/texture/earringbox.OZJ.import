@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bh8wwsqoxhkqy"
+path="res://.godot/imported/earringbox.OZJ-93af8ec0450bde010038641c628bb614.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/earringbox.OZJ"
+dest_files=["res://.godot/imported/earringbox.OZJ-93af8ec0450bde010038641c628bb614.res"]
+
+[params]
+

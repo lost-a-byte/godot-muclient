@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kc6yx11y1rck"
+path="res://.godot/imported/npcl.OZJ-3054c762f1abdb7a2db2b7a718185885.res"
+
+[deps]
+
+source_file="res://Data/NPC/npcl.OZJ"
+dest_files=["res://.godot/imported/npcl.OZJ-3054c762f1abdb7a2db2b7a718185885.res"]
+
+[params]
+

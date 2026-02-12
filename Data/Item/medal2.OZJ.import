@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bslm4dmg6ngpc"
+path="res://.godot/imported/medal2.OZJ-72b3e37d1baba33d65846596c8e9901a.res"
+
+[deps]
+
+source_file="res://Data/Item/medal2.OZJ"
+dest_files=["res://.godot/imported/medal2.OZJ-72b3e37d1baba33d65846596c8e9901a.res"]
+
+[params]
+

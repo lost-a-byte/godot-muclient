@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xymgenj3k64s"
+path="res://.godot/imported/tobypet_evol.bmd-83b9eb68cc0183f214c80ea59aab3a4f.scn"
+
+[deps]
+
+source_file="res://Data/Item/tobypet_evol.bmd"
+dest_files=["res://.godot/imported/tobypet_evol.bmd-83b9eb68cc0183f214c80ea59aab3a4f.scn"]
+
+[params]
+
+modelScale=0.01

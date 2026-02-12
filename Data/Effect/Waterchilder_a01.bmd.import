@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://jrky87tl4ugv"
+path="res://.godot/imported/Waterchilder_a01.bmd-cd85e6b720d4881c2cf1673db6efc4e8.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Waterchilder_a01.bmd"
+dest_files=["res://.godot/imported/Waterchilder_a01.bmd-cd85e6b720d4881c2cf1673db6efc4e8.scn"]
+
+[params]
+
+modelScale=0.01

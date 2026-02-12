@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2joax5i4m0hf"
+path="res://.godot/imported/DivineSpirit_N.bmd-20434b3c7a5d0680e06651c1a2635436.scn"
+
+[deps]
+
+source_file="res://Data/Skill/DivineSpirit_N.bmd"
+dest_files=["res://.godot/imported/DivineSpirit_N.bmd-20434b3c7a5d0680e06651c1a2635436.scn"]
+
+[params]
+
+modelScale=0.01

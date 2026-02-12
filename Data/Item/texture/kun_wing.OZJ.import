@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg68lti5r2jxk"
+path="res://.godot/imported/kun_wing.OZJ-f6b919f2897885fbb8549773079c84a9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kun_wing.OZJ"
+dest_files=["res://.godot/imported/kun_wing.OZJ-f6b919f2897885fbb8549773079c84a9.res"]
+
+[params]
+

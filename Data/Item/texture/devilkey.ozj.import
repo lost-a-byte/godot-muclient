@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7bp3fu2fyjiq"
+path="res://.godot/imported/devilkey.ozj-5f284bb3f7c86ad598ef14d77417f70c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/devilkey.ozj"
+dest_files=["res://.godot/imported/devilkey.ozj-5f284bb3f7c86ad598ef14d77417f70c.res"]
+
+[params]
+

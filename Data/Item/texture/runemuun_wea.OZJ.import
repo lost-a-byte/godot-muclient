@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwwg21xgjcv7"
+path="res://.godot/imported/runemuun_wea.OZJ-b9e9fc48d6b20ee8cb7202c6eb74055a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runemuun_wea.OZJ"
+dest_files=["res://.godot/imported/runemuun_wea.OZJ-b9e9fc48d6b20ee8cb7202c6eb74055a.res"]
+
+[params]
+

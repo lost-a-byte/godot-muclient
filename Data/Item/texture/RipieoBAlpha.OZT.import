@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8pwvanq0bdnc"
+path="res://.godot/imported/RipieoBAlpha.OZT-5c9c388c5e07c462a38a315b46cf71df.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RipieoBAlpha.OZT"
+dest_files=["res://.godot/imported/RipieoBAlpha.OZT-5c9c388c5e07c462a38a315b46cf71df.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfgmcm41gj2wt"
+path="res://.godot/imported/wall_02.OZJ-e1e22300e37d757914e887fb3b10079f.res"
+
+[deps]
+
+source_file="res://Data/Object115/wall_02.OZJ"
+dest_files=["res://.godot/imported/wall_02.OZJ-e1e22300e37d757914e887fb3b10079f.res"]
+
+[params]
+

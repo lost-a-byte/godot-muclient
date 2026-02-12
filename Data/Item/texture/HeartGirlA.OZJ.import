@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pea1vdulpt7b"
+path="res://.godot/imported/HeartGirlA.OZJ-1b0bfe42248fa9c79f9f180be7e6d7bf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HeartGirlA.OZJ"
+dest_files=["res://.godot/imported/HeartGirlA.OZJ-1b0bfe42248fa9c79f9f180be7e6d7bf.res"]
+
+[params]
+

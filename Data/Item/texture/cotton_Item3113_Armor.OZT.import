@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cter1jti44lfp"
+path="res://.godot/imported/cotton_Item3113_Armor.OZT-be5116dcbd09d7cfb0712c09ab5d49e5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cotton_Item3113_Armor.OZT"
+dest_files=["res://.godot/imported/cotton_Item3113_Armor.OZT-be5116dcbd09d7cfb0712c09ab5d49e5.res"]
+
+[params]
+

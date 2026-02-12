@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1jpo2dt5xa66"
+path="res://.godot/imported/BattleStage.OZJ-7f1581680044a34ca5376556c3147185.res"
+
+[deps]
+
+source_file="res://Data/Object32/BattleStage.OZJ"
+dest_files=["res://.godot/imported/BattleStage.OZJ-7f1581680044a34ca5376556c3147185.res"]
+
+[params]
+

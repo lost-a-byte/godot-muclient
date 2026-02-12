@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj8220li1hw1a"
+path="res://.godot/imported/explotion01_dark.OZJ-fd501bf202c76a818a1720523f8f9edf.res"
+
+[deps]
+
+source_file="res://Data/Effect/explotion01_dark.OZJ"
+dest_files=["res://.godot/imported/explotion01_dark.OZJ-fd501bf202c76a818a1720523f8f9edf.res"]
+
+[params]
+

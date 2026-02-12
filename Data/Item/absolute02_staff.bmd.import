@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dyope0cudki01"
+path="res://.godot/imported/absolute02_staff.bmd-f7903ecad332bfb0ddc244ba5fe543c4.scn"
+
+[deps]
+
+source_file="res://Data/Item/absolute02_staff.bmd"
+dest_files=["res://.godot/imported/absolute02_staff.bmd-f7903ecad332bfb0ddc244ba5fe543c4.scn"]
+
+[params]
+
+modelScale=0.01

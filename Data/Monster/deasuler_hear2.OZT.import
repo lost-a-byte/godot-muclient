@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgvhiuailotae"
+path="res://.godot/imported/deasuler_hear2.OZT-dd0787ff63ca5970680a08d0461bd7be.res"
+
+[deps]
+
+source_file="res://Data/Monster/deasuler_hear2.OZT"
+dest_files=["res://.godot/imported/deasuler_hear2.OZT-dd0787ff63ca5970680a08d0461bd7be.res"]
+
+[params]
+

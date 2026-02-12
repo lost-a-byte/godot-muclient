@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0kte0wniqeop"
+path="res://.godot/imported/scorpionA.OZT-a435c20ea4b2524820fb65cfeb4bba73.res"
+
+[deps]
+
+source_file="res://Data/Effect/scorpionA.OZT"
+dest_files=["res://.godot/imported/scorpionA.OZT-a435c20ea4b2524820fb65cfeb4bba73.res"]
+
+[params]
+

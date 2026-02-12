@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdyawwbapbvwy"
+path="res://.godot/imported/bloodywolf3.OZJ-c0360b1527baa630b66c7c8f9f2e2ab2.res"
+
+[deps]
+
+source_file="res://Data/Monster/bloodywolf3.OZJ"
+dest_files=["res://.godot/imported/bloodywolf3.OZJ-c0360b1527baa630b66c7c8f9f2e2ab2.res"]
+
+[params]
+

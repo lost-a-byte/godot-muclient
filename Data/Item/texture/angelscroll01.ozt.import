@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cntvwxtm3r51j"
+path="res://.godot/imported/angelscroll01.ozt-20ee1a207e4071828154a334ed5ed1f6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/angelscroll01.ozt"
+dest_files=["res://.godot/imported/angelscroll01.ozt-20ee1a207e4071828154a334ed5ed1f6.res"]
+
+[params]
+

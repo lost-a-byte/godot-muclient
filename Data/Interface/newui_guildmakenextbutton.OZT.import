@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbs38k15b0d7j"
+path="res://.godot/imported/newui_guildmakenextbutton.OZT-751ad68bae3963aa56ec1b5d01fd3bca.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_guildmakenextbutton.OZT"
+dest_files=["res://.godot/imported/newui_guildmakenextbutton.OZT-751ad68bae3963aa56ec1b5d01fd3bca.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brsix20jon7wh"
+path="res://.godot/imported/RingPenOfLordEvent.ozj-65844a7b81c8d96c50984fe5a1e256ef.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RingPenOfLordEvent.ozj"
+dest_files=["res://.godot/imported/RingPenOfLordEvent.ozj-65844a7b81c8d96c50984fe5a1e256ef.res"]
+
+[params]
+

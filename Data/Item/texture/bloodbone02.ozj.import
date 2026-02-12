@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c37177dq1fr60"
+path="res://.godot/imported/bloodbone02.ozj-7bcc091de0aa21f37cae186a3945a2a7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodbone02.ozj"
+dest_files=["res://.godot/imported/bloodbone02.ozj-7bcc091de0aa21f37cae186a3945a2a7.res"]
+
+[params]
+

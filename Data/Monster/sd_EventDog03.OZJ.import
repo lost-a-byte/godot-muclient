@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb2h6ejqmy2lp"
+path="res://.godot/imported/sd_EventDog03.OZJ-087bd3716cc9cfb9ccd32a0e307e4b96.res"
+
+[deps]
+
+source_file="res://Data/Monster/sd_EventDog03.OZJ"
+dest_files=["res://.godot/imported/sd_EventDog03.OZJ-087bd3716cc9cfb9ccd32a0e307e4b96.res"]
+
+[params]
+

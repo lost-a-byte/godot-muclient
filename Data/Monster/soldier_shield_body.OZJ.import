@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6ro4elb3nkhf"
+path="res://.godot/imported/soldier_shield_body.OZJ-a3fb7f8322e64898e0c079374cfc87e7.res"
+
+[deps]
+
+source_file="res://Data/Monster/soldier_shield_body.OZJ"
+dest_files=["res://.godot/imported/soldier_shield_body.OZJ-a3fb7f8322e64898e0c079374cfc87e7.res"]
+
+[params]
+

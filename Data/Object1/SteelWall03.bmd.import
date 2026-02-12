@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2p4vq74qbw3i"
+path="res://.godot/imported/SteelWall03.bmd-6dee44ed719a23758c13ee53a3e6b8dc.scn"
+
+[deps]
+
+source_file="res://Data/Object1/SteelWall03.bmd"
+dest_files=["res://.godot/imported/SteelWall03.bmd-6dee44ed719a23758c13ee53a3e6b8dc.scn"]
+
+[params]
+
+modelScale=0.01

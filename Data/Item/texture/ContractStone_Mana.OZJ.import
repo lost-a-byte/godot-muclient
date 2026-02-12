@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b55hc62eylcin"
+path="res://.godot/imported/ContractStone_Mana.OZJ-a47647568e2067fe530afcab626098df.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ContractStone_Mana.OZJ"
+dest_files=["res://.godot/imported/ContractStone_Mana.OZJ-a47647568e2067fe530afcab626098df.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blvwi20y0fi6s"
+path="res://.godot/imported/nici201602_R.OZJ-bd46a3ec8efb32fc23c0759b1b6a8fa6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nici201602_R.OZJ"
+dest_files=["res://.godot/imported/nici201602_R.OZJ-bd46a3ec8efb32fc23c0759b1b6a8fa6.res"]
+
+[params]
+

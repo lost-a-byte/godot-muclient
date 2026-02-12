@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hpy3aftrah32"
+path="res://.godot/imported/karafairy.OZJ-804c322bbe391bba6ebacaaf6757f9d7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/karafairy.OZJ"
+dest_files=["res://.godot/imported/karafairy.OZJ-804c322bbe391bba6ebacaaf6757f9d7.res"]
+
+[params]
+

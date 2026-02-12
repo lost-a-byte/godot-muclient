@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxq24881dd2xu"
+path="res://.godot/imported/deer.OZJ-a1020c514f059868144a92406e65c122.res"
+
+[deps]
+
+source_file="res://Data/Object3/deer.OZJ"
+dest_files=["res://.godot/imported/deer.OZJ-a1020c514f059868144a92406e65c122.res"]
+
+[params]
+

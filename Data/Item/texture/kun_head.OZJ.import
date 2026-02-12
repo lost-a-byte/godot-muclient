@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://deeax7rml1nld"
+path="res://.godot/imported/kun_head.OZJ-1a2f8063ebcbc7897a520f92f56498e8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/kun_head.OZJ"
+dest_files=["res://.godot/imported/kun_head.OZJ-1a2f8063ebcbc7897a520f92f56498e8.res"]
+
+[params]
+

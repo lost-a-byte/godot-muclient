@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://l255u5qmt2qo"
+path="res://.godot/imported/apocalypse_bow_B.OZJ-a0d3b126e103a3bef1dd705799741a96.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_bow_B.OZJ"
+dest_files=["res://.godot/imported/apocalypse_bow_B.OZJ-a0d3b126e103a3bef1dd705799741a96.res"]
+
+[params]
+

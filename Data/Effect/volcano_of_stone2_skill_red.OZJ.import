@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://coisa4kv7880k"
+path="res://.godot/imported/volcano_of_stone2_skill_red.OZJ-eb045e8adf6c389bc01b73340c4efca6.res"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_of_stone2_skill_red.OZJ"
+dest_files=["res://.godot/imported/volcano_of_stone2_skill_red.OZJ-eb045e8adf6c389bc01b73340c4efca6.res"]
+
+[params]
+

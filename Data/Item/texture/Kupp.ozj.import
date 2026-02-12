@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fdp2ky4d3dpj"
+path="res://.godot/imported/Kupp.ozj-c1b648930f8161870b78ae32f69a015c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Kupp.ozj"
+dest_files=["res://.godot/imported/Kupp.ozj-c1b648930f8161870b78ae32f69a015c.res"]
+
+[params]
+

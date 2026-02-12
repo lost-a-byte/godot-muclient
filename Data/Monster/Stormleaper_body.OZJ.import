@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsvxayvg8rw5b"
+path="res://.godot/imported/Stormleaper_body.OZJ-314225b5875ebb975727d47918f8d503.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormleaper_body.OZJ"
+dest_files=["res://.godot/imported/Stormleaper_body.OZJ-314225b5875ebb975727d47918f8d503.res"]
+
+[params]
+

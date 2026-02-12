@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0ew88hqiq6yl"
+path="res://.godot/imported/HilashaHBlood.OZJ-4fe5e0501492ddc96b73ccdf74e3cd1a.res"
+
+[deps]
+
+source_file="res://Data/Monster/HilashaHBlood.OZJ"
+dest_files=["res://.godot/imported/HilashaHBlood.OZJ-4fe5e0501492ddc96b73ccdf74e3cd1a.res"]
+
+[params]
+

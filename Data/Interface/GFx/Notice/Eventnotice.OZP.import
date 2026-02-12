@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dljokltcciii6"
+path="res://.godot/imported/Eventnotice.OZP-7361ccc20ab999df817335f4b573f3ac.res"
+
+[deps]
+
+source_file="res://Data/Interface/GFx/Notice/Eventnotice.OZP"
+dest_files=["res://.godot/imported/Eventnotice.OZP-7361ccc20ab999df817335f4b573f3ac.res"]
+
+[params]
+

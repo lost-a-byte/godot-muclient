@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dtdu6yi00f006"
+path="res://.godot/imported/leafsorcererUp.bmd-7fd0056500b1369e112532cd3ef7f0ab.scn"
+
+[deps]
+
+source_file="res://Data/Item/leafsorcererUp.bmd"
+dest_files=["res://.godot/imported/leafsorcererUp.bmd-7fd0056500b1369e112532cd3ef7f0ab.scn"]
+
+[params]
+
+modelScale=0.01

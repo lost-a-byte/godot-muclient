@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bp4yig77b7an2"
+path="res://.godot/imported/bael2weapon2.OZJ-5e8eae3e5b2b45597c92a8a1aebea232.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bael2weapon2.OZJ"
+dest_files=["res://.godot/imported/bael2weapon2.OZJ-5e8eae3e5b2b45597c92a8a1aebea232.res"]
+
+[params]
+

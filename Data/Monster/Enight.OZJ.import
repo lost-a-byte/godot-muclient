@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c67fcw04nog5t"
+path="res://.godot/imported/Enight.OZJ-d7b9d9969d23d1d6f5239859ed7065da.res"
+
+[deps]
+
+source_file="res://Data/Monster/Enight.OZJ"
+dest_files=["res://.godot/imported/Enight.OZJ-d7b9d9969d23d1d6f5239859ed7065da.res"]
+
+[params]
+

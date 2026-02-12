@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmkuhnlwca6ja"
+path="res://.godot/imported/nar_condra_7_pelvis.bmd-ca2ecf1506d2eb2c4dea1719fcc187b2.scn"
+
+[deps]
+
+source_file="res://Data/Monster/nar_condra_7_pelvis.bmd"
+dest_files=["res://.godot/imported/nar_condra_7_pelvis.bmd-ca2ecf1506d2eb2c4dea1719fcc187b2.scn"]
+
+[params]
+
+modelScale=0.01

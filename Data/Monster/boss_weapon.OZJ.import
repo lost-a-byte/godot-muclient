@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wtivlx166c1s"
+path="res://.godot/imported/boss_weapon.OZJ-d53c4c0e7508806bd77b69199acf6e5a.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_weapon.OZJ"
+dest_files=["res://.godot/imported/boss_weapon.OZJ-d53c4c0e7508806bd77b69199acf6e5a.res"]
+
+[params]
+

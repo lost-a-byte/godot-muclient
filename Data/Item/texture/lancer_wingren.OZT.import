@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ckbq3vcyhbyhc"
+path="res://.godot/imported/lancer_wingren.OZT-51dd01b767b829c4f2b682d3a532f2f7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lancer_wingren.OZT"
+dest_files=["res://.godot/imported/lancer_wingren.OZT-51dd01b767b829c4f2b682d3a532f2f7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cohfimobhs82o"
+path="res://.godot/imported/Quest_Bt_open.OZT-47ba77cb4f16b000e63aa197b8c0b727.res"
+
+[deps]
+
+source_file="res://Data/Interface/Quest_Bt_open.OZT"
+dest_files=["res://.godot/imported/Quest_Bt_open.OZT-47ba77cb4f16b000e63aa197b8c0b727.res"]
+
+[params]
+

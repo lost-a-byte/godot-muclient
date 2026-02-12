@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yupajm1uypgp"
+path="res://.godot/imported/blackrabbit_blue.OZJ-ce728ce314a2b4e2a78d3976d18bfffe.res"
+
+[deps]
+
+source_file="res://Data/Monster/blackrabbit_blue.OZJ"
+dest_files=["res://.godot/imported/blackrabbit_blue.OZJ-ce728ce314a2b4e2a78d3976d18bfffe.res"]
+
+[params]
+

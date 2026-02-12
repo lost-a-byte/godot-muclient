@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1bi4qiycxmb"
+path="res://.godot/imported/Hustatue.OZJ-d6efcc21c8c6641acf8a7a5ffa152d39.res"
+
+[deps]
+
+source_file="res://Data/Object25/Hustatue.OZJ"
+dest_files=["res://.godot/imported/Hustatue.OZJ-d6efcc21c8c6641acf8a7a5ffa152d39.res"]
+
+[params]
+

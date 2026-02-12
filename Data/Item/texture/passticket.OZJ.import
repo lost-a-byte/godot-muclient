@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8wvaxb04nkfp"
+path="res://.godot/imported/passticket.OZJ-446bb3e40ce20c2df7160b435fcd5d16.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/passticket.OZJ"
+dest_files=["res://.godot/imported/passticket.OZJ-446bb3e40ce20c2df7160b435fcd5d16.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cugybc1bg2tq8"
+path="res://.godot/imported/SapiTrestile_R.OZJ-b3179bfaad4038dd041549898760a832.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiTrestile_R.OZJ"
+dest_files=["res://.godot/imported/SapiTrestile_R.OZJ-b3179bfaad4038dd041549898760a832.res"]
+
+[params]
+

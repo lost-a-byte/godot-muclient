@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lbgu7000fqyc"
+path="res://.godot/imported/suhobody02.OZJ-835c2bfe4449c42da6ced15a4f2c18e0.res"
+
+[deps]
+
+source_file="res://Data/Monster/suhobody02.OZJ"
+dest_files=["res://.godot/imported/suhobody02.OZJ-835c2bfe4449c42da6ced15a4f2c18e0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0wk32rcs3qog"
+path="res://.godot/imported/richboots.OZJ-10476235e4605fbedbc912b548a5209c.res"
+
+[deps]
+
+source_file="res://Data/Player/richboots.OZJ"
+dest_files=["res://.godot/imported/richboots.OZJ-10476235e4605fbedbc912b548a5209c.res"]
+
+[params]
+

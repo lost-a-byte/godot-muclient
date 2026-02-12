@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkx8b8av8jkph"
+path="res://.godot/imported/elfw2_06.ozj-5377930f89581b269bfd1f2f8ae5aa0f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elfw2_06.ozj"
+dest_files=["res://.godot/imported/elfw2_06.ozj-5377930f89581b269bfd1f2f8ae5aa0f.res"]
+
+[params]
+

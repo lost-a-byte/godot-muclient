@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csxn2mlkb5pxd"
+path="res://.godot/imported/apocalypse_GunA.OZJ-753847d25798f47b528b02219bf68d60.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_GunA.OZJ"
+dest_files=["res://.godot/imported/apocalypse_GunA.OZJ-753847d25798f47b528b02219bf68d60.res"]
+
+[params]
+

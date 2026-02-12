@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bho48ergvnfqp"
+path="res://.godot/imported/runemuunsh2_R.OZJ-832a9716ea69476cbb0a2e62618aeb9d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/runemuunsh2_R.OZJ"
+dest_files=["res://.godot/imported/runemuunsh2_R.OZJ-832a9716ea69476cbb0a2e62618aeb9d.res"]
+
+[params]
+

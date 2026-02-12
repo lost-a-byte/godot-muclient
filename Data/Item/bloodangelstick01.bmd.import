@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bls0gxtjt7ov"
+path="res://.godot/imported/bloodangelstick01.bmd-959a2867aa9d5ecd1780be1cc482e20e.scn"
+
+[deps]
+
+source_file="res://Data/Item/bloodangelstick01.bmd"
+dest_files=["res://.godot/imported/bloodangelstick01.bmd-959a2867aa9d5ecd1780be1cc482e20e.scn"]
+
+[params]
+
+modelScale=0.01

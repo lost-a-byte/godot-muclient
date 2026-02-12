@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://do7m61ew0gym0"
+path="res://.godot/imported/Nbskill_R.OZJ-9f190c45c057a5620cf22530ab3db747.res"
+
+[deps]
+
+source_file="res://Data/Skill/Nbskill_R.OZJ"
+dest_files=["res://.godot/imported/Nbskill_R.OZJ-9f190c45c057a5620cf22530ab3db747.res"]
+
+[params]
+

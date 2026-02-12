@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ftrwvonyrp23"
+path="res://.godot/imported/bookshelf.OZJ-eaf1fec8a97e736fd09c6f993a92f2ef.res"
+
+[deps]
+
+source_file="res://Data/Object3/bookshelf.OZJ"
+dest_files=["res://.godot/imported/bookshelf.OZJ-eaf1fec8a97e736fd09c6f993a92f2ef.res"]
+
+[params]
+

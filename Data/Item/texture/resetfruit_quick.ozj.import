@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gsv87wymv725"
+path="res://.godot/imported/resetfruit_quick.ozj-17557cd732dc3de8d8a37c4ce2def8c1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/resetfruit_quick.ozj"
+dest_files=["res://.godot/imported/resetfruit_quick.ozj-17557cd732dc3de8d8a37c4ce2def8c1.res"]
+
+[params]
+

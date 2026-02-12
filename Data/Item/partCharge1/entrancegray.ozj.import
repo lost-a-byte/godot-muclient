@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3pa7g4qh63wt"
+path="res://.godot/imported/entrancegray.ozj-0547c2ae1498cc5ba7674602d3c4e1dd.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge1/entrancegray.ozj"
+dest_files=["res://.godot/imported/entrancegray.ozj-0547c2ae1498cc5ba7674602d3c4e1dd.res"]
+
+[params]
+

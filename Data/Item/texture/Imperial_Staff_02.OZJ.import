@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3pimwprxf414"
+path="res://.godot/imported/Imperial_Staff_02.OZJ-0dfb199b9a870dc82d08eeec554a3ca9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_Staff_02.OZJ"
+dest_files=["res://.godot/imported/Imperial_Staff_02.OZJ-0dfb199b9a870dc82d08eeec554a3ca9.res"]
+
+[params]
+

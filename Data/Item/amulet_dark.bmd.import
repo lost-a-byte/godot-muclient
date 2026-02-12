@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://btmqxhs3p1otf"
+path="res://.godot/imported/amulet_dark.bmd-e4a8762f7694a716fa65d97dc38e4f3b.scn"
+
+[deps]
+
+source_file="res://Data/Item/amulet_dark.bmd"
+dest_files=["res://.godot/imported/amulet_dark.bmd-e4a8762f7694a716fa65d97dc38e4f3b.scn"]
+
+[params]
+
+modelScale=0.01

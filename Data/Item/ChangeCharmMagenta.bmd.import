@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://phxqeku22q44"
+path="res://.godot/imported/ChangeCharmMagenta.bmd-5fe1417f6b49dce332ab236881c099bb.scn"
+
+[deps]
+
+source_file="res://Data/Item/ChangeCharmMagenta.bmd"
+dest_files=["res://.godot/imported/ChangeCharmMagenta.bmd-5fe1417f6b49dce332ab236881c099bb.scn"]
+
+[params]
+
+modelScale=0.01

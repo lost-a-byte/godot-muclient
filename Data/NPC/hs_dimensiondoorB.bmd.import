@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cle6xsjbpodgv"
+path="res://.godot/imported/hs_dimensiondoorB.bmd-bb0bcf52c91d4ce67e04bd5c6cda0c8b.scn"
+
+[deps]
+
+source_file="res://Data/NPC/hs_dimensiondoorB.bmd"
+dest_files=["res://.godot/imported/hs_dimensiondoorB.bmd-bb0bcf52c91d4ce67e04bd5c6cda0c8b.scn"]
+
+[params]
+
+modelScale=0.01

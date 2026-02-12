@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjlwrymp6yjt8"
+path="res://.godot/imported/gigantespet_evol.bmd-30a04b7feca8cfe0431048817ffd2175.scn"
+
+[deps]
+
+source_file="res://Data/Item/gigantespet_evol.bmd"
+dest_files=["res://.godot/imported/gigantespet_evol.bmd-30a04b7feca8cfe0431048817ffd2175.scn"]
+
+[params]
+
+modelScale=0.01

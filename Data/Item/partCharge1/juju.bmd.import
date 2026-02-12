@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvnhv4o2pi776"
+path="res://.godot/imported/juju.bmd-ecb81d074a2d88255e2d339581ba68af.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge1/juju.bmd"
+dest_files=["res://.godot/imported/juju.bmd-ecb81d074a2d88255e2d339581ba68af.scn"]
+
+[params]
+
+modelScale=0.01

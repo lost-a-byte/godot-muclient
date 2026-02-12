@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://iheek6hmy80i"
+path="res://.godot/imported/hs_6silverheart_Base.OZJ-b9900152684a93192bad8ba9edf09f68.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_6silverheart_Base.OZJ"
+dest_files=["res://.godot/imported/hs_6silverheart_Base.OZJ-b9900152684a93192bad8ba9edf09f68.res"]
+
+[params]
+

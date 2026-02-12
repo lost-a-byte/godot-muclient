@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c58breh11lw7j"
+path="res://.godot/imported/Corncoat_Goblin_Alpha.OZT-a72ad947eab407ea5efb9ae77784aa6f.res"
+
+[deps]
+
+source_file="res://Data/Monster/Corncoat_Goblin_Alpha.OZT"
+dest_files=["res://.godot/imported/Corncoat_Goblin_Alpha.OZT-a72ad947eab407ea5efb9ae77784aa6f.res"]
+
+[params]
+

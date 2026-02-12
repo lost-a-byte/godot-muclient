@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccxrbq0pjqfli"
+path="res://.godot/imported/soulknightswordA_render.OZJ-9cdfe45e20f4b115a5357965e5390c30.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soulknightswordA_render.OZJ"
+dest_files=["res://.godot/imported/soulknightswordA_render.OZJ-9cdfe45e20f4b115a5357965e5390c30.res"]
+
+[params]
+

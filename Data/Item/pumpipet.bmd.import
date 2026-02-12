@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cewbvkmumihpw"
+path="res://.godot/imported/pumpipet.bmd-be46c45c0705b7a0f590880833e3891e.scn"
+
+[deps]
+
+source_file="res://Data/Item/pumpipet.bmd"
+dest_files=["res://.godot/imported/pumpipet.bmd-be46c45c0705b7a0f590880833e3891e.scn"]
+
+[params]
+
+modelScale=0.01

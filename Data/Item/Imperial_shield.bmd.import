@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://mmgnabdjsdmb"
+path="res://.godot/imported/Imperial_shield.bmd-22cc4309835c3b2c75348b974969b070.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_shield.bmd"
+dest_files=["res://.godot/imported/Imperial_shield.bmd-22cc4309835c3b2c75348b974969b070.scn"]
+
+[params]
+
+modelScale=0.01

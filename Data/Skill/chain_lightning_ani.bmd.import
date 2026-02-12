@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xr5ejiobtmcq"
+path="res://.godot/imported/chain_lightning_ani.bmd-28ccf6402089abad395bf39e3439acf5.scn"
+
+[deps]
+
+source_file="res://Data/Skill/chain_lightning_ani.bmd"
+dest_files=["res://.godot/imported/chain_lightning_ani.bmd-28ccf6402089abad395bf39e3439acf5.scn"]
+
+[params]
+
+modelScale=0.01

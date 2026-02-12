@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://chhs353082u6a"
+path="res://.godot/imported/boswind.bmd-daf78b111b1d6e9815fa1835e44eeb32.scn"
+
+[deps]
+
+source_file="res://Data/Skill/boswind.bmd"
+dest_files=["res://.godot/imported/boswind.bmd-daf78b111b1d6e9815fa1835e44eeb32.scn"]
+
+[params]
+
+modelScale=0.01

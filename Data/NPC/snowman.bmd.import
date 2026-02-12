@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ca4oqiaqkxba1"
+path="res://.godot/imported/snowman.bmd-59d63333cefe19a3343e80462e538a24.scn"
+
+[deps]
+
+source_file="res://Data/NPC/snowman.bmd"
+dest_files=["res://.godot/imported/snowman.bmd-59d63333cefe19a3343e80462e538a24.scn"]
+
+[params]
+
+modelScale=0.01

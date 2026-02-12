@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnvib5uc2ia2m"
+path="res://.godot/imported/NPC_cristeen_body.OZJ-2a8ce739545b8e49f8d2ed7cc43d676a.res"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_cristeen_body.OZJ"
+dest_files=["res://.godot/imported/NPC_cristeen_body.OZJ-2a8ce739545b8e49f8d2ed7cc43d676a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d34888t46dwve"
+path="res://.godot/imported/newui_durable_gloves.OZT-9b6995b98c99b22dc42e930d849761c2.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_gloves.OZT"
+dest_files=["res://.godot/imported/newui_durable_gloves.OZT-9b6995b98c99b22dc42e930d849761c2.res"]
+
+[params]
+

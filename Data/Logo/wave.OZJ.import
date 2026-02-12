@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qm4536hdtqr1"
+path="res://.godot/imported/wave.OZJ-5d35f8c1a10d74bcb2e9e3bd580ab83a.res"
+
+[deps]
+
+source_file="res://Data/Logo/wave.OZJ"
+dest_files=["res://.godot/imported/wave.OZJ-5d35f8c1a10d74bcb2e9e3bd580ab83a.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxqhs3r6e23s1"
+path="res://.godot/imported/so_AidaWeapon.OZJ-c591d06e5254d25dfc8b3fdde73b3c4d.res"
+
+[deps]
+
+source_file="res://Data/Object135/so_AidaWeapon.OZJ"
+dest_files=["res://.godot/imported/so_AidaWeapon.OZJ-c591d06e5254d25dfc8b3fdde73b3c4d.res"]
+
+[params]
+

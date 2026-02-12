@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4hru6xm6icdo"
+path="res://.godot/imported/alpha_light2.OZJ-a60126bbe23e800fcd755b39a4b59b27.res"
+
+[deps]
+
+source_file="res://Data/Skill/alpha_light2.OZJ"
+dest_files=["res://.godot/imported/alpha_light2.OZJ-a60126bbe23e800fcd755b39a4b59b27.res"]
+
+[params]
+

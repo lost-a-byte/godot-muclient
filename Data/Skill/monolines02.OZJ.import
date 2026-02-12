@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba05knatvg6mg"
+path="res://.godot/imported/monolines02.OZJ-eb274fd4a81c8398e3ff0be2dd719eae.res"
+
+[deps]
+
+source_file="res://Data/Skill/monolines02.OZJ"
+dest_files=["res://.godot/imported/monolines02.OZJ-eb274fd4a81c8398e3ff0be2dd719eae.res"]
+
+[params]
+

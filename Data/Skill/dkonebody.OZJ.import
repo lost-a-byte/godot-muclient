@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dldpmmkq83fmh"
+path="res://.godot/imported/dkonebody.OZJ-b4222736af6a0964cbce468c54e3a244.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkonebody.OZJ"
+dest_files=["res://.godot/imported/dkonebody.OZJ-b4222736af6a0964cbce468c54e3a244.res"]
+
+[params]
+

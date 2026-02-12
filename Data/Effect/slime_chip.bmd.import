@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://81w7qqfleraj"
+path="res://.godot/imported/slime_chip.bmd-42f0ab629746fd6ae4b7edb5ebdd7d3a.scn"
+
+[deps]
+
+source_file="res://Data/Effect/slime_chip.bmd"
+dest_files=["res://.godot/imported/slime_chip.bmd-42f0ab629746fd6ae4b7edb5ebdd7d3a.scn"]
+
+[params]
+
+modelScale=0.01

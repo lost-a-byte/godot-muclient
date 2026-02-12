@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://biy6flkmn4j8d"
+path="res://.godot/imported/hs_quiverLV3.bmd-037c5e4df788aec0368b3049e6cf17b8.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_quiverLV3.bmd"
+dest_files=["res://.godot/imported/hs_quiverLV3.bmd-037c5e4df788aec0368b3049e6cf17b8.scn"]
+
+[params]
+
+modelScale=0.01

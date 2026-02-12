@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuhnxqye7yv7i"
+path="res://.godot/imported/icon_Rank_1.OZT-4a2258538a3b324280a963dd6460bc92.res"
+
+[deps]
+
+source_file="res://Data/Interface/icon_Rank_1.OZT"
+dest_files=["res://.godot/imported/icon_Rank_1.OZT-4a2258538a3b324280a963dd6460bc92.res"]
+
+[params]
+

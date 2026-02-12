@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbeeln0kp2pqg"
+path="res://.godot/imported/xmasfire.OZJ-18eff527036226a1c4c045d3d0bc3562.res"
+
+[deps]
+
+source_file="res://Data/Item/xmas/xmasfire.OZJ"
+dest_files=["res://.godot/imported/xmasfire.OZJ-18eff527036226a1c4c045d3d0bc3562.res"]
+
+[params]
+

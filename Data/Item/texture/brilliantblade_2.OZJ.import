@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhcq5f3xwjmhe"
+path="res://.godot/imported/brilliantblade_2.OZJ-5e17ad5785a985f181f81b31d3885a4c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/brilliantblade_2.OZJ"
+dest_files=["res://.godot/imported/brilliantblade_2.OZJ-5e17ad5785a985f181f81b31d3885a4c.res"]
+
+[params]
+

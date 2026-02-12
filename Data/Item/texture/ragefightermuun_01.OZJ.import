@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bi11ap18yvysf"
+path="res://.godot/imported/ragefightermuun_01.OZJ-d3ef54d89dd0b7e1b588e0e5e68b7071.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ragefightermuun_01.OZJ"
+dest_files=["res://.godot/imported/ragefightermuun_01.OZJ-d3ef54d89dd0b7e1b588e0e5e68b7071.res"]
+
+[params]
+

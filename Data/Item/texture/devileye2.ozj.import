@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djb8ijs3mfhbo"
+path="res://.godot/imported/devileye2.ozj-8fa35c9ad96a729da05b2ad4b8f0c84c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/devileye2.ozj"
+dest_files=["res://.godot/imported/devileye2.ozj-8fa35c9ad96a729da05b2ad4b8f0c84c.res"]
+
+[params]
+

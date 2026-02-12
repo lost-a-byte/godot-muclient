@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fte58dpcnuvk"
+path="res://.godot/imported/mutantile_ground.OZJ-10dc3da45ef15c56a90feaf3c03871d7.res"
+
+[deps]
+
+source_file="res://Data/Monster/mutantile_ground.OZJ"
+dest_files=["res://.godot/imported/mutantile_ground.OZJ-10dc3da45ef15c56a90feaf3c03871d7.res"]
+
+[params]
+

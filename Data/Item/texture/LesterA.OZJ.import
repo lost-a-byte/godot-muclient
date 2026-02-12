@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6u8gkm426sqa"
+path="res://.godot/imported/LesterA.OZJ-08f56ad8cba73bbb402b6f280c23589d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LesterA.OZJ"
+dest_files=["res://.godot/imported/LesterA.OZJ-08f56ad8cba73bbb402b6f280c23589d.res"]
+
+[params]
+

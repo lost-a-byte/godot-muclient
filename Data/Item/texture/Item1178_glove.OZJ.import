@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt6fan6nlj8up"
+path="res://.godot/imported/Item1178_glove.OZJ-fad037258b62ddc3da708fb1cd960884.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1178_glove.OZJ"
+dest_files=["res://.godot/imported/Item1178_glove.OZJ-fad037258b62ddc3da708fb1cd960884.res"]
+
+[params]
+

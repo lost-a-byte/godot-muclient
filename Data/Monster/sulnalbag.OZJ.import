@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd0p1ovsp1u1g"
+path="res://.godot/imported/sulnalbag.OZJ-f0454ca78c2047060738d1c30fd682d8.res"
+
+[deps]
+
+source_file="res://Data/Monster/sulnalbag.OZJ"
+dest_files=["res://.godot/imported/sulnalbag.OZJ-f0454ca78c2047060738d1c30fd682d8.res"]
+
+[params]
+

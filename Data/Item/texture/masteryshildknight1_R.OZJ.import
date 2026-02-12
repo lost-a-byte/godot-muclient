@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlj4m1faqqwy0"
+path="res://.godot/imported/masteryshildknight1_R.OZJ-13ab91c3caf20c8196b063b570ebc81e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/masteryshildknight1_R.OZJ"
+dest_files=["res://.godot/imported/masteryshildknight1_R.OZJ-13ab91c3caf20c8196b063b570ebc81e.res"]
+
+[params]
+

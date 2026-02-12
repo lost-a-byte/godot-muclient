@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7erws74bofhu"
+path="res://.godot/imported/font_toxic.OZT-750dbe7b8ebd83c154379101c9a6bf81.res"
+
+[deps]
+
+source_file="res://Data/Interface/font_toxic.OZT"
+dest_files=["res://.godot/imported/font_toxic.OZT-750dbe7b8ebd83c154379101c9a6bf81.res"]
+
+[params]
+

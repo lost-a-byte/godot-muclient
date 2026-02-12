@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b3o0wrciefg44"
+path="res://.godot/imported/raincoatgirlUp.bmd-6bb92f9c0da50879bcb801c77b7f148c.scn"
+
+[deps]
+
+source_file="res://Data/Item/raincoatgirlUp.bmd"
+dest_files=["res://.godot/imported/raincoatgirlUp.bmd-6bb92f9c0da50879bcb801c77b7f148c.scn"]
+
+[params]
+
+modelScale=0.01

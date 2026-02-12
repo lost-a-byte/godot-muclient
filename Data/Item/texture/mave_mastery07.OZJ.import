@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm75418yspabi"
+path="res://.godot/imported/mave_mastery07.OZJ-adaedd2465a04e5177cfb60e69f95579.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mave_mastery07.OZJ"
+dest_files=["res://.godot/imported/mave_mastery07.OZJ-adaedd2465a04e5177cfb60e69f95579.res"]
+
+[params]
+

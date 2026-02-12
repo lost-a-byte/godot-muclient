@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://by43cwr1uqicf"
+path="res://.godot/imported/GodofDarknessB_render.OZJ-f2aa569c89d6a3da42fe94e0e0e84bca.res"
+
+[deps]
+
+source_file="res://Data/Monster/GodofDarknessB_render.OZJ"
+dest_files=["res://.godot/imported/GodofDarknessB_render.OZJ-f2aa569c89d6a3da42fe94e0e0e84bca.res"]
+
+[params]
+

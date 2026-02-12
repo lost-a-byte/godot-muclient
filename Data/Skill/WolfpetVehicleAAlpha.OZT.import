@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfwoqlax8necw"
+path="res://.godot/imported/WolfpetVehicleAAlpha.OZT-275498d419ffb5b177dc37d1dec485a8.res"
+
+[deps]
+
+source_file="res://Data/Skill/WolfpetVehicleAAlpha.OZT"
+dest_files=["res://.godot/imported/WolfpetVehicleAAlpha.OZT-275498d419ffb5b177dc37d1dec485a8.res"]
+
+[params]
+

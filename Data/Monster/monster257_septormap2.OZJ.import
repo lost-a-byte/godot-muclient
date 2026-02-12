@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8ooxrdr7rpf1"
+path="res://.godot/imported/monster257_septormap2.OZJ-4141d82eed6ac98afab61c27606ad205.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster257_septormap2.OZJ"
+dest_files=["res://.godot/imported/monster257_septormap2.OZJ-4141d82eed6ac98afab61c27606ad205.res"]
+
+[params]
+

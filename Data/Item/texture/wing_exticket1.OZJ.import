@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tookgowp4qkl"
+path="res://.godot/imported/wing_exticket1.OZJ-f54f66a399236aec79bbca68e01dfd2a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wing_exticket1.OZJ"
+dest_files=["res://.godot/imported/wing_exticket1.OZJ-f54f66a399236aec79bbca68e01dfd2a.res"]
+
+[params]
+

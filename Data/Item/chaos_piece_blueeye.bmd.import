@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://oxmi6ynvpqqv"
+path="res://.godot/imported/chaos_piece_blueeye.bmd-226fabbd1b3fb444c4ececee6b1a1c62.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_piece_blueeye.bmd"
+dest_files=["res://.godot/imported/chaos_piece_blueeye.bmd-226fabbd1b3fb444c4ececee6b1a1c62.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qcduv1jxd8gh"
+path="res://.godot/imported/eunice_cloth.OZJ-0ededb2e0ebeaa746d0af98d5e5dcf75.res"
+
+[deps]
+
+source_file="res://Data/NPC/eunice_cloth.OZJ"
+dest_files=["res://.godot/imported/eunice_cloth.OZJ-0ededb2e0ebeaa746d0af98d5e5dcf75.res"]
+
+[params]
+

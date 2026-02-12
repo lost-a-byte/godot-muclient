@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buu1s7mlbshuj"
+path="res://.godot/imported/smartangel01.ozt-2e123ffcf590ce0c4682a50020ef27df.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/smartangel01.ozt"
+dest_files=["res://.godot/imported/smartangel01.ozt-2e123ffcf590ce0c4682a50020ef27df.res"]
+
+[params]
+

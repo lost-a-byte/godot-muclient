@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnqa1a34xm8lk"
+path="res://.godot/imported/chainring3.OZT-dbd976d8d05475f074b6d7174c417586.res"
+
+[deps]
+
+source_file="res://Data/Skill/chainring3.OZT"
+dest_files=["res://.godot/imported/chainring3.OZT-dbd976d8d05475f074b6d7174c417586.res"]
+
+[params]
+

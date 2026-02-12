@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q378q8i33prs"
+path="res://.godot/imported/soimixbasic01.OZJ-125fedf47ec539b158bf8667214aa668.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soimixbasic01.OZJ"
+dest_files=["res://.godot/imported/soimixbasic01.OZJ-125fedf47ec539b158bf8667214aa668.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://iap2ds42thxr"
+path="res://.godot/imported/quartermaster_body.OZJ-43f105d9ad50e0d3055853b7e0d80953.res"
+
+[deps]
+
+source_file="res://Data/Monster/quartermaster_body.OZJ"
+dest_files=["res://.godot/imported/quartermaster_body.OZJ-43f105d9ad50e0d3055853b7e0d80953.res"]
+
+[params]
+

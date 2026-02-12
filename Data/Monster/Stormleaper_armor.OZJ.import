@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt0kuy4g3mqt"
+path="res://.godot/imported/Stormleaper_armor.OZJ-8324ade2fee5370709cec0ca50d616a2.res"
+
+[deps]
+
+source_file="res://Data/Monster/Stormleaper_armor.OZJ"
+dest_files=["res://.godot/imported/Stormleaper_armor.OZJ-8324ade2fee5370709cec0ca50d616a2.res"]
+
+[params]
+

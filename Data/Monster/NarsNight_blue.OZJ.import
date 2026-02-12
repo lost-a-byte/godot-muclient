@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyfwkrkl8vy0h"
+path="res://.godot/imported/NarsNight_blue.OZJ-c855637ff2dd3858b7b48929dc0b4a0d.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsNight_blue.OZJ"
+dest_files=["res://.godot/imported/NarsNight_blue.OZJ-c855637ff2dd3858b7b48929dc0b4a0d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1mcjcji0s8cl"
+path="res://.godot/imported/changeamulet01.OZT-5c76503b7ecce7ad3d37d7b69d7f2a9c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/changeamulet01.OZT"
+dest_files=["res://.godot/imported/changeamulet01.OZT-5c76503b7ecce7ad3d37d7b69d7f2a9c.res"]
+
+[params]
+

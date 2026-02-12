@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wes66uf2o3hv"
+path="res://.godot/imported/CommanderAAlpha.OZT-57996012e3748caef871efc15e6c4534.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/CommanderAAlpha.OZT"
+dest_files=["res://.godot/imported/CommanderAAlpha.OZT-57996012e3748caef871efc15e6c4534.res"]
+
+[params]
+

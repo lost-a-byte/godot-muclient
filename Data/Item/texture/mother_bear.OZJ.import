@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfke3d6m4a7gw"
+path="res://.godot/imported/mother_bear.OZJ-90736bc04640eac099f922167ad4aa93.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mother_bear.OZJ"
+dest_files=["res://.godot/imported/mother_bear.OZJ-90736bc04640eac099f922167ad4aa93.res"]
+
+[params]
+

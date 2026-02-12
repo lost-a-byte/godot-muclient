@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgc5hhbq0b33n"
+path="res://.godot/imported/quartermaster_weapon.OZJ-d2888989adb0d62ead4ac3555f73cd83.res"
+
+[deps]
+
+source_file="res://Data/Monster/quartermaster_weapon.OZJ"
+dest_files=["res://.godot/imported/quartermaster_weapon.OZJ-d2888989adb0d62ead4ac3555f73cd83.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://llkqv13js4w0"
+path="res://.godot/imported/EXPscroll.bmd-4731ab8adb8b296cd12a6bcdf67e6adf.scn"
+
+[deps]
+
+source_file="res://Data/Item/EXPscroll.bmd"
+dest_files=["res://.godot/imported/EXPscroll.bmd-4731ab8adb8b296cd12a6bcdf67e6adf.scn"]
+
+[params]
+
+modelScale=0.01

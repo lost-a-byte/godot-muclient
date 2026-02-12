@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kf26w8806sek"
+path="res://.godot/imported/lightweightscroll.OZJ-6a25ced3f95ad8f28decdb2352a448a5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightweightscroll.OZJ"
+dest_files=["res://.godot/imported/lightweightscroll.OZJ-6a25ced3f95ad8f28decdb2352a448a5.res"]
+
+[params]
+

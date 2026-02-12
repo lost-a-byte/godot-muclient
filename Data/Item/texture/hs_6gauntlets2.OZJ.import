@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cbrk8j2u03img"
+path="res://.godot/imported/hs_6gauntlets2.OZJ-dfc971c818ce519bd04deb9c9ee49eab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_6gauntlets2.OZJ"
+dest_files=["res://.godot/imported/hs_6gauntlets2.OZJ-dfc971c818ce519bd04deb9c9ee49eab.res"]
+
+[params]
+

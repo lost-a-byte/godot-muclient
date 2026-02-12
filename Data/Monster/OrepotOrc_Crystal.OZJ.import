@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvvhseccitmiv"
+path="res://.godot/imported/OrepotOrc_Crystal.OZJ-e4f18d409ef1699c89d2435b93a52237.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrepotOrc_Crystal.OZJ"
+dest_files=["res://.godot/imported/OrepotOrc_Crystal.OZJ-e4f18d409ef1699c89d2435b93a52237.res"]
+
+[params]
+

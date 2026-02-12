@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjw6f3o2sptwb"
+path="res://.godot/imported/UbaidEKnight_red.OZJ-4e9c83c219129ce4eea6cc90779775f5.res"
+
+[deps]
+
+source_file="res://Data/Monster/UbaidEKnight_red.OZJ"
+dest_files=["res://.godot/imported/UbaidEKnight_red.OZJ-4e9c83c219129ce4eea6cc90779775f5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buxblkwrvraka"
+path="res://.godot/imported/whitedaybox.OZJ-260026b31bb3aebd8b79b9b7edd88b4a.res"
+
+[deps]
+
+source_file="res://Data/Item/whitedaybox.OZJ"
+dest_files=["res://.godot/imported/whitedaybox.OZJ-260026b31bb3aebd8b79b9b7edd88b4a.res"]
+
+[params]
+

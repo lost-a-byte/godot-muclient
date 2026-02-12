@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://h0ibuoyrq5xh"
+path="res://.godot/imported/Meteo05.bmd-05ad5ad36cd76dbed13a4aaff8af0350.scn"
+
+[deps]
+
+source_file="res://Data/Object63/Meteo05.bmd"
+dest_files=["res://.godot/imported/Meteo05.bmd-05ad5ad36cd76dbed13a4aaff8af0350.scn"]
+
+[params]
+
+modelScale=0.01

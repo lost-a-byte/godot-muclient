@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfla5u2oaih5b"
+path="res://.godot/imported/castle001.OZJ-e700076f6354ee50ae1a54ceece788ae.res"
+
+[deps]
+
+source_file="res://Data/Object41/castle001.OZJ"
+dest_files=["res://.godot/imported/castle001.OZJ-e700076f6354ee50ae1a54ceece788ae.res"]
+
+[params]
+

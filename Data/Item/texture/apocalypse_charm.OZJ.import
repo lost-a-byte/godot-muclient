@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1lnqkawiosk4"
+path="res://.godot/imported/apocalypse_charm.OZJ-c49279e283885768faaf4ce600835a51.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_charm.OZJ"
+dest_files=["res://.godot/imported/apocalypse_charm.OZJ-c49279e283885768faaf4ce600835a51.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bio1iqee546xi"
+path="res://.godot/imported/skill_absoulte.OZJ-c6662003988b661b744b0b8a6f4030b1.res"
+
+[deps]
+
+source_file="res://Data/Skill/skill_absoulte.OZJ"
+dest_files=["res://.godot/imported/skill_absoulte.OZJ-c6662003988b661b744b0b8a6f4030b1.res"]
+
+[params]
+

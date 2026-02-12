@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxt7frfsmk4op"
+path="res://.godot/imported/sd_shovel01.OZJ-4267f4a28cdcfb5de2c83e9aa10256a1.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_shovel01.OZJ"
+dest_files=["res://.godot/imported/sd_shovel01.OZJ-4267f4a28cdcfb5de2c83e9aa10256a1.res"]
+
+[params]
+

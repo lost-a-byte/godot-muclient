@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pma0lom55ttq"
+path="res://.godot/imported/HS_Gbody.OZT-43e591a8d7ecf3f03a639763c6e1a886.res"
+
+[deps]
+
+source_file="res://Data/Object95/HS_Gbody.OZT"
+dest_files=["res://.godot/imported/HS_Gbody.OZT-43e591a8d7ecf3f03a639763c6e1a886.res"]
+
+[params]
+

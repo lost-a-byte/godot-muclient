@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c602a7ysmjw0r"
+path="res://.godot/imported/DeadminePickaxe_crystal.OZJ-998acde349278a32ed679d2df3619a98.res"
+
+[deps]
+
+source_file="res://Data/Monster/DeadminePickaxe_crystal.OZJ"
+dest_files=["res://.godot/imported/DeadminePickaxe_crystal.OZJ-998acde349278a32ed679d2df3619a98.res"]
+
+[params]
+

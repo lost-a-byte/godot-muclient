@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cxujfqgt8cdrh"
+path="res://.godot/imported/Darkangel_effect.bmd-18f1a2cdc9f14c94f8a1ea7b0222b8f4.scn"
+
+[deps]
+
+source_file="res://Data/Item/Darkangel_effect.bmd"
+dest_files=["res://.godot/imported/Darkangel_effect.bmd-18f1a2cdc9f14c94f8a1ea7b0222b8f4.scn"]
+
+[params]
+
+modelScale=0.01

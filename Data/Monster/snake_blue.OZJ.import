@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vlc7154ix0cf"
+path="res://.godot/imported/snake_blue.OZJ-b6bbd081ae212b5e25e95b37a19defff.res"
+
+[deps]
+
+source_file="res://Data/Monster/snake_blue.OZJ"
+dest_files=["res://.godot/imported/snake_blue.OZJ-b6bbd081ae212b5e25e95b37a19defff.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://27dfncr4ibpy"
+path="res://.godot/imported/runeY_mark.OZJ-9d191b224ad70a8f3dca7f9378697cd8.res"
+
+[deps]
+
+source_file="res://Data/Effect/runeY_mark.OZJ"
+dest_files=["res://.godot/imported/runeY_mark.OZJ-9d191b224ad70a8f3dca7f9378697cd8.res"]
+
+[params]
+

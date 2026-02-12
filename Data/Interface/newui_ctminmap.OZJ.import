@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bk2yy2shjms6y"
+path="res://.godot/imported/newui_ctminmap.OZJ-1326fd393246fb86943d96251da95eb1.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_ctminmap.OZJ"
+dest_files=["res://.godot/imported/newui_ctminmap.OZJ-1326fd393246fb86943d96251da95eb1.res"]
+
+[params]
+

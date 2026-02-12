@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj5wvo3lj7fmu"
+path="res://.godot/imported/Ghost_horse_Eye.OZJ-9c2386a760d45d93f57c183e73f13d6f.res"
+
+[deps]
+
+source_file="res://Data/Skill/Ghost_horse_Eye.OZJ"
+dest_files=["res://.godot/imported/Ghost_horse_Eye.OZJ-9c2386a760d45d93f57c183e73f13d6f.res"]
+
+[params]
+

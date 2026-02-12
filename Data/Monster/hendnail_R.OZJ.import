@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dn5n4cbrmmfj1"
+path="res://.godot/imported/hendnail_R.OZJ-c0876cd6ad60d377bc9aa2d28aea55eb.res"
+
+[deps]
+
+source_file="res://Data/Monster/hendnail_R.OZJ"
+dest_files=["res://.godot/imported/hendnail_R.OZJ-c0876cd6ad60d377bc9aa2d28aea55eb.res"]
+
+[params]
+

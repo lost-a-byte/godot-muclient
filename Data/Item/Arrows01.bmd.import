@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cxpygupcljday"
+path="res://.godot/imported/Arrows01.bmd-ac7a7c3d246eeaed22c34270df802f51.scn"
+
+[deps]
+
+source_file="res://Data/Item/Arrows01.bmd"
+dest_files=["res://.godot/imported/Arrows01.bmd-ac7a7c3d246eeaed22c34270df802f51.scn"]
+
+[params]
+
+modelScale=0.01

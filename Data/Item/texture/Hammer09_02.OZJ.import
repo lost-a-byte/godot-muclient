@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cchru5wavae0b"
+path="res://.godot/imported/Hammer09_02.OZJ-cce85e4992ab0f9f08d2ec2d4d87b858.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Hammer09_02.OZJ"
+dest_files=["res://.godot/imported/Hammer09_02.OZJ-cce85e4992ab0f9f08d2ec2d4d87b858.res"]
+
+[params]
+

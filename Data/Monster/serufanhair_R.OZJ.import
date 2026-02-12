@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1iq1ixljks35"
+path="res://.godot/imported/serufanhair_R.OZJ-63e4e76991cb910dcf6bb3b0114f85b8.res"
+
+[deps]
+
+source_file="res://Data/Monster/serufanhair_R.OZJ"
+dest_files=["res://.godot/imported/serufanhair_R.OZJ-63e4e76991cb910dcf6bb3b0114f85b8.res"]
+
+[params]
+

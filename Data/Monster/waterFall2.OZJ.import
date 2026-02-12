@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c546dcxi5omeg"
+path="res://.godot/imported/waterFall2.OZJ-3cfc70fd39cee745eeceb28e91dceb37.res"
+
+[deps]
+
+source_file="res://Data/Monster/waterFall2.OZJ"
+dest_files=["res://.godot/imported/waterFall2.OZJ-3cfc70fd39cee745eeceb28e91dceb37.res"]
+
+[params]
+

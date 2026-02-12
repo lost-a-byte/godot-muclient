@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4k3tch3yupou"
+path="res://.godot/imported/mouse.OZJ-13aeb42f1de0ca977880656e9ae64006.res"
+
+[deps]
+
+source_file="res://Data/Object2/mouse.OZJ"
+dest_files=["res://.godot/imported/mouse.OZJ-13aeb42f1de0ca977880656e9ae64006.res"]
+
+[params]
+

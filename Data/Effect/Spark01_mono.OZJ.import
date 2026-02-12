@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3g1uj1s47se0"
+path="res://.godot/imported/Spark01_mono.OZJ-90075bdc91a1b0660983afd97b23b7d2.res"
+
+[deps]
+
+source_file="res://Data/Effect/Spark01_mono.OZJ"
+dest_files=["res://.godot/imported/Spark01_mono.OZJ-90075bdc91a1b0660983afd97b23b7d2.res"]
+
+[params]
+

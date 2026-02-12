@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cp2k6jg6rj1wb"
+path="res://.godot/imported/JinnM.OZT-bd2ca2d03e2e9c986cf070d0b863a83c.res"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/JinnM.OZT"
+dest_files=["res://.godot/imported/JinnM.OZT-bd2ca2d03e2e9c986cf070d0b863a83c.res"]
+
+[params]
+

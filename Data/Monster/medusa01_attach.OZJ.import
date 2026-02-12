@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c31ek32jfpkip"
+path="res://.godot/imported/medusa01_attach.OZJ-1b2720105d95d14d971def7f03c063d8.res"
+
+[deps]
+
+source_file="res://Data/Monster/medusa01_attach.OZJ"
+dest_files=["res://.godot/imported/medusa01_attach.OZJ-1b2720105d95d14d971def7f03c063d8.res"]
+
+[params]
+

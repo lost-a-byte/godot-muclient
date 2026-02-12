@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr8dcxvqruq68"
+path="res://.godot/imported/CircleFire03.OZJ-c451985176f1eb116494979f51e3a1be.res"
+
+[deps]
+
+source_file="res://Data/Effect/CircleFire03.OZJ"
+dest_files=["res://.godot/imported/CircleFire03.OZJ-c451985176f1eb116494979f51e3a1be.res"]
+
+[params]
+

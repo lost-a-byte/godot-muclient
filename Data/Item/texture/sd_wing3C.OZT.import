@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6dwtkrrg23gn"
+path="res://.godot/imported/sd_wing3C.OZT-67c715ee7e8f6ae5ea3155afbce9bf57.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_wing3C.OZT"
+dest_files=["res://.godot/imported/sd_wing3C.OZT-67c715ee7e8f6ae5ea3155afbce9bf57.res"]
+
+[params]
+

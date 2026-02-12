@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj4mo8fgyxlh8"
+path="res://.godot/imported/alpha_line2_red.OZJ-c34b22049ac4b9244c6249f9c284de34.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/alpha_line2_red.OZJ"
+dest_files=["res://.godot/imported/alpha_line2_red.OZJ-c34b22049ac4b9244c6249f9c284de34.res"]
+
+[params]
+

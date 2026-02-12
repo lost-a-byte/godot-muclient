@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://voe35uuehm2q"
+path="res://.godot/imported/eyecoloreffect_R.OZJ-c92b106bdae571ec4a8f811b91e98947.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/eyecoloreffect_R.OZJ"
+dest_files=["res://.godot/imported/eyecoloreffect_R.OZJ-c92b106bdae571ec4a8f811b91e98947.res"]
+
+[params]
+

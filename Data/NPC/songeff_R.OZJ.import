@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crr736wuj0lar"
+path="res://.godot/imported/songeff_R.OZJ-5d06338a575f2fe23b8ec4faa48f7e1f.res"
+
+[deps]
+
+source_file="res://Data/NPC/songeff_R.OZJ"
+dest_files=["res://.godot/imported/songeff_R.OZJ-5d06338a575f2fe23b8ec4faa48f7e1f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jwr7usm5wh0i"
+path="res://.godot/imported/weaphon_ven01.OZJ-8e1e119ae737c2811cda73bb83306398.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/weaphon_ven01.OZJ"
+dest_files=["res://.godot/imported/weaphon_ven01.OZJ-8e1e119ae737c2811cda73bb83306398.res"]
+
+[params]
+

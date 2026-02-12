@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgfrkxwgh2lbp"
+path="res://.godot/imported/illusionmuun_weapon.OZJ-ed6f7a704c47cc0d1d186940e53a81a8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/illusionmuun_weapon.OZJ"
+dest_files=["res://.godot/imported/illusionmuun_weapon.OZJ-ed6f7a704c47cc0d1d186940e53a81a8.res"]
+
+[params]
+

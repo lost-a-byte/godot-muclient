@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jfut4k8756qy"
+path="res://.godot/imported/requitalbox_flame_wood.OZJ-63af0af7f944ef5a00fa77a33e00a3fa.res"
+
+[deps]
+
+source_file="res://Data/Item/requitalbox_flame_wood.OZJ"
+dest_files=["res://.godot/imported/requitalbox_flame_wood.OZJ-63af0af7f944ef5a00fa77a33e00a3fa.res"]
+
+[params]
+

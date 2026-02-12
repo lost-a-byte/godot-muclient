@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dg8hqlsqflvgi"
+path="res://.godot/imported/armor_lower2.OZJ-d122e3a20a3eae90d48a5836bd100989.res"
+
+[deps]
+
+source_file="res://Data/Monster/armor_lower2.OZJ"
+dest_files=["res://.godot/imported/armor_lower2.OZJ-d122e3a20a3eae90d48a5836bd100989.res"]
+
+[params]
+

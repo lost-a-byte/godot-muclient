@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://csj5mvxhg8u0r"
+path="res://.godot/imported/lightning_arrow.bmd-1b9d8c6db0eff297016870f98cbeff26.scn"
+
+[deps]
+
+source_file="res://Data/Skill/lightning_arrow.bmd"
+dest_files=["res://.godot/imported/lightning_arrow.bmd-1b9d8c6db0eff297016870f98cbeff26.scn"]
+
+[params]
+
+modelScale=0.01

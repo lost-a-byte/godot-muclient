@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dtsurymy8q0vt"
+path="res://.godot/imported/gate.OZJ-7e2bf4ed08e53a25601be21008989eb2.res"
+
+[deps]
+
+source_file="res://Data/Monster/gate.OZJ"
+dest_files=["res://.godot/imported/gate.OZJ-7e2bf4ed08e53a25601be21008989eb2.res"]
+
+[params]
+

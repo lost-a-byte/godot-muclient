@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0wxli211m415"
+path="res://.godot/imported/sd_darkfoliage01.OZT-5b45a0df37c6c52c792cd77fdf3432c7.res"
+
+[deps]
+
+source_file="res://Data/Object123/sd_darkfoliage01.OZT"
+dest_files=["res://.godot/imported/sd_darkfoliage01.OZT-5b45a0df37c6c52c792cd77fdf3432c7.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddi4tc5p4mvr6"
+path="res://.godot/imported/monster258_skin.OZJ-be572930887e471495d4d6bc82f6b305.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster258_skin.OZJ"
+dest_files=["res://.godot/imported/monster258_skin.OZJ-be572930887e471495d4d6bc82f6b305.res"]
+
+[params]
+

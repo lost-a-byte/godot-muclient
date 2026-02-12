@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwfitsaodgnmo"
+path="res://.godot/imported/han_cwall.OZJ-d8d349c1c434deae6f00081b390e7e3d.res"
+
+[deps]
+
+source_file="res://Data/Object69/han_cwall.OZJ"
+dest_files=["res://.godot/imported/han_cwall.OZJ-d8d349c1c434deae6f00081b390e7e3d.res"]
+
+[params]
+

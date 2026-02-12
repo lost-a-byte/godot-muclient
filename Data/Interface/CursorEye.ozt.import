@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gbc667t5u28t"
+path="res://.godot/imported/CursorEye.ozt-11fb4a164d0617d825ccf1a6c3a90989.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorEye.ozt"
+dest_files=["res://.godot/imported/CursorEye.ozt-11fb4a164d0617d825ccf1a6c3a90989.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://p76fma676tqs"
+path="res://.godot/imported/SMshield_a.ozj-f2019b5dea78a5e263ac5c55d472de4c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SMshield_a.ozj"
+dest_files=["res://.godot/imported/SMshield_a.ozj-f2019b5dea78a5e263ac5c55d472de4c.res"]
+
+[params]
+

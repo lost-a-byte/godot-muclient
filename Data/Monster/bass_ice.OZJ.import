@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://duodebsyvj3i6"
+path="res://.godot/imported/bass_ice.OZJ-0f85367b3f74184f411467f671faeedc.res"
+
+[deps]
+
+source_file="res://Data/Monster/bass_ice.OZJ"
+dest_files=["res://.godot/imported/bass_ice.OZJ-0f85367b3f74184f411467f671faeedc.res"]
+
+[params]
+

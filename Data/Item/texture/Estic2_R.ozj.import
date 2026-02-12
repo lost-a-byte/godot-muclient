@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cj1ojwrabdm8c"
+path="res://.godot/imported/Estic2_R.ozj-b335501a35bc47e6fa2c0f190237b2c8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Estic2_R.ozj"
+dest_files=["res://.godot/imported/Estic2_R.ozj-b335501a35bc47e6fa2c0f190237b2c8.res"]
+
+[params]
+

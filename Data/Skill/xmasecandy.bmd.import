@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bbavnmigvlv36"
+path="res://.godot/imported/xmasecandy.bmd-8832291a1309ff3dacc8e2e146617800.scn"
+
+[deps]
+
+source_file="res://Data/Skill/xmasecandy.bmd"
+dest_files=["res://.godot/imported/xmasecandy.bmd-8832291a1309ff3dacc8e2e146617800.scn"]
+
+[params]
+
+modelScale=0.01

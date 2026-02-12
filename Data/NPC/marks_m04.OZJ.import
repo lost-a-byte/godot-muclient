@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://stgtf57cr6t6"
+path="res://.godot/imported/marks_m04.OZJ-785bcc43e4ac02c1ea7ea305d91aa2ed.res"
+
+[deps]
+
+source_file="res://Data/NPC/marks_m04.OZJ"
+dest_files=["res://.godot/imported/marks_m04.OZJ-785bcc43e4ac02c1ea7ea305d91aa2ed.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chyvfhstor3a1"
+path="res://.godot/imported/newui_item_table02(L).OZT-3e3d86402cb314765d9ca66178fb45da.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_table02(L).OZT"
+dest_files=["res://.godot/imported/newui_item_table02(L).OZT-3e3d86402cb314765d9ca66178fb45da.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://06jmsdpxrihs"
+path="res://.godot/imported/succubus_arms.OZJ-87e5b16989c92e590f75ba0fd8df1760.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_arms.OZJ"
+dest_files=["res://.godot/imported/succubus_arms.OZJ-87e5b16989c92e590f75ba0fd8df1760.res"]
+
+[params]
+

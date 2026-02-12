@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq2rqh2025dqw"
+path="res://.godot/imported/InventoryBox2.OZJ-240b5c5487f09b5f3d7bd71548af9006.res"
+
+[deps]
+
+source_file="res://Data/Interface/InventoryBox2.OZJ"
+dest_files=["res://.godot/imported/InventoryBox2.OZJ-240b5c5487f09b5f3d7bd71548af9006.res"]
+
+[params]
+

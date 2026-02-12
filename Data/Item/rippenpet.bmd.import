@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d0yq3qw0vjvl0"
+path="res://.godot/imported/rippenpet.bmd-414afd0ac226f4fcaae774f28adb415b.scn"
+
+[deps]
+
+source_file="res://Data/Item/rippenpet.bmd"
+dest_files=["res://.godot/imported/rippenpet.bmd-414afd0ac226f4fcaae774f28adb415b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bl7qyhwy7el73"
+path="res://.godot/imported/GoblinBox_Green.bmd-03962bdda4a01f980d07d9f04745f567.scn"
+
+[deps]
+
+source_file="res://Data/Item/GoblinBox_Green.bmd"
+dest_files=["res://.godot/imported/GoblinBox_Green.bmd-03962bdda4a01f980d07d9f04745f567.scn"]
+
+[params]
+
+modelScale=0.01

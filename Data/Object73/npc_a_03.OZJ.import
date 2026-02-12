@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ds47mbtu265f7"
+path="res://.godot/imported/npc_a_03.OZJ-75d3b057a18068ec4519396608519f7f.res"
+
+[deps]
+
+source_file="res://Data/Object73/npc_a_03.OZJ"
+dest_files=["res://.godot/imported/npc_a_03.OZJ-75d3b057a18068ec4519396608519f7f.res"]
+
+[params]
+

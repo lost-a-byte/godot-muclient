@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb1bepkq0bj23"
+path="res://.godot/imported/darkhorn.OZJ-ec45a360e47f90d05956c0c6dcbcf9f3.res"
+
+[deps]
+
+source_file="res://Data/Item/darkhorn.OZJ"
+dest_files=["res://.godot/imported/darkhorn.OZJ-ec45a360e47f90d05956c0c6dcbcf9f3.res"]
+
+[params]
+

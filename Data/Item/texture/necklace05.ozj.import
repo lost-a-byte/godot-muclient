@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dev3vtcr7480d"
+path="res://.godot/imported/necklace05.ozj-c9151720e4c685bce57d0be0d1eb5e6f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/necklace05.ozj"
+dest_files=["res://.godot/imported/necklace05.ozj-c9151720e4c685bce57d0be0d1eb5e6f.res"]
+
+[params]
+

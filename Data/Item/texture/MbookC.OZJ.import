@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://5qdqgd6mggeu"
+path="res://.godot/imported/MbookC.OZJ-1ba7e95e4f4dda4b1fb7542e3508d748.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MbookC.OZJ"
+dest_files=["res://.godot/imported/MbookC.OZJ-1ba7e95e4f4dda4b1fb7542e3508d748.res"]
+
+[params]
+

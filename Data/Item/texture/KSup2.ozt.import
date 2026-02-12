@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://818y63xoftxq"
+path="res://.godot/imported/KSup2.ozt-40d488d61c504faa59c6eabdf23f7a12.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/KSup2.ozt"
+dest_files=["res://.godot/imported/KSup2.ozt-40d488d61c504faa59c6eabdf23f7a12.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://fog04kjyor2m"
+path="res://.godot/imported/phoenix_shot_effect.bmd-a277eec778d2c512707f44e558d93ecd.scn"
+
+[deps]
+
+source_file="res://Data/Effect/phoenix_shot_effect.bmd"
+dest_files=["res://.godot/imported/phoenix_shot_effect.bmd-a277eec778d2c512707f44e558d93ecd.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb4s3p67hfem0"
+path="res://.godot/imported/blueeyemagicbook_2.OZJ-adc9b6b5ecf3546a5aa5d5bae3ae6fea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blueeyemagicbook_2.OZJ"
+dest_files=["res://.godot/imported/blueeyemagicbook_2.OZJ-adc9b6b5ecf3546a5aa5d5bae3ae6fea.res"]
+
+[params]
+

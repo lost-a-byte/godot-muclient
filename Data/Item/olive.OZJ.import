@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8yuxdjvw3d48"
+path="res://.godot/imported/olive.OZJ-c433f7916294751535df73a4b521cf6d.res"
+
+[deps]
+
+source_file="res://Data/Item/olive.OZJ"
+dest_files=["res://.godot/imported/olive.OZJ-c433f7916294751535df73a4b521cf6d.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3qywgfyp8uau"
+path="res://.godot/imported/wind_foce.bmd-045c525660c2ccad539da1117209f22e.scn"
+
+[deps]
+
+source_file="res://Data/Effect/wind_foce.bmd"
+dest_files=["res://.godot/imported/wind_foce.bmd-045c525660c2ccad539da1117209f22e.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlw38cqxlftn7"
+path="res://.godot/imported/spellstone4.OZJ-3328e656c945cdfbaeef2d6914b2c396.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/spellstone4.OZJ"
+dest_files=["res://.godot/imported/spellstone4.OZJ-3328e656c945cdfbaeef2d6914b2c396.res"]
+
+[params]
+

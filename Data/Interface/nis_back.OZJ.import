@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c18h8bll13anw"
+path="res://.godot/imported/nis_back.OZJ-608814bee77d06a436ac00134faef170.res"
+
+[deps]
+
+source_file="res://Data/Interface/nis_back.OZJ"
+dest_files=["res://.godot/imported/nis_back.OZJ-608814bee77d06a436ac00134faef170.res"]
+
+[params]
+

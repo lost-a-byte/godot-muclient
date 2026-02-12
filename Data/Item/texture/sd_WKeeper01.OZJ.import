@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2hrqe84oa54m"
+path="res://.godot/imported/sd_WKeeper01.OZJ-5d47057ea41253c230d772e1296e0eb6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_WKeeper01.OZJ"
+dest_files=["res://.godot/imported/sd_WKeeper01.OZJ-5d47057ea41253c230d772e1296e0eb6.res"]
+
+[params]
+

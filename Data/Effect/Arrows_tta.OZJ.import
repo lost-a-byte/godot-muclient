@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlq5bqhnsid8y"
+path="res://.godot/imported/Arrows_tta.OZJ-ab8a05a2cc6fda6e5d5084ca59f9b148.res"
+
+[deps]
+
+source_file="res://Data/Effect/Arrows_tta.OZJ"
+dest_files=["res://.godot/imported/Arrows_tta.OZJ-ab8a05a2cc6fda6e5d5084ca59f9b148.res"]
+
+[params]
+

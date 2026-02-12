@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7a5jbyt2pkr"
+path="res://.godot/imported/AuraWave_Mono_00.OZJ-688b48b1e1c8b1bb1f16387c9adc7d5d.res"
+
+[deps]
+
+source_file="res://Data/Effect/AuraWave_Mono_00.OZJ"
+dest_files=["res://.godot/imported/AuraWave_Mono_00.OZJ-688b48b1e1c8b1bb1f16387c9adc7d5d.res"]
+
+[params]
+

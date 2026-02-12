@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bkgn4opj1krtk"
+path="res://.godot/imported/shadowphantom.bmd-4745c9edde75ae60e5278de8af896cc6.scn"
+
+[deps]
+
+source_file="res://Data/Item/shadowphantom.bmd"
+dest_files=["res://.godot/imported/shadowphantom.bmd-4745c9edde75ae60e5278de8af896cc6.scn"]
+
+[params]
+
+modelScale=0.01

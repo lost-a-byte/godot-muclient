@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bu31i8ajugyr7"
+path="res://.godot/imported/maskingstone.OZJ-c4b7d3b2562af5a88d7ec4d38224f5af.res"
+
+[deps]
+
+source_file="res://Data/NPC/LuckyItem/maskingstone.OZJ"
+dest_files=["res://.godot/imported/maskingstone.OZJ-c4b7d3b2562af5a88d7ec4d38224f5af.res"]
+
+[params]
+

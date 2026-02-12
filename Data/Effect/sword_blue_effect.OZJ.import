@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwcdkrj6sju8i"
+path="res://.godot/imported/sword_blue_effect.OZJ-19e5e986010f6fddf119ef5ddae34933.res"
+
+[deps]
+
+source_file="res://Data/Effect/sword_blue_effect.OZJ"
+dest_files=["res://.godot/imported/sword_blue_effect.OZJ-19e5e986010f6fddf119ef5ddae34933.res"]
+
+[params]
+

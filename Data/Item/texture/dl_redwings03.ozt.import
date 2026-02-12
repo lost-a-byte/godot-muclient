@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4e4cu6j5oq6g"
+path="res://.godot/imported/dl_redwings03.ozt-622a727395aaa4dafdfc69581558b1ac.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dl_redwings03.ozt"
+dest_files=["res://.godot/imported/dl_redwings03.ozt-622a727395aaa4dafdfc69581558b1ac.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brdgl7uxvuclh"
+path="res://.godot/imported/medicine1.OZJ-2867727e736f9388f313f0b9831e4d83.res"
+
+[deps]
+
+source_file="res://Data/NPC/medicine1.OZJ"
+dest_files=["res://.godot/imported/medicine1.OZJ-2867727e736f9388f313f0b9831e4d83.res"]
+
+[params]
+

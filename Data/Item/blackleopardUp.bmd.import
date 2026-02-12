@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ca7l7t2ir36pb"
+path="res://.godot/imported/blackleopardUp.bmd-e6b22c9f0e3d434a5b3f666b2c628ce3.scn"
+
+[deps]
+
+source_file="res://Data/Item/blackleopardUp.bmd"
+dest_files=["res://.godot/imported/blackleopardUp.bmd-e6b22c9f0e3d434a5b3f666b2c628ce3.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7ro8rkih38nq"
+path="res://.godot/imported/king_bug02.OZJ-e8cb10c21e8c92563b6cc8e49657a58a.res"
+
+[deps]
+
+source_file="res://Data/Monster/king_bug02.OZJ"
+dest_files=["res://.godot/imported/king_bug02.OZJ-e8cb10c21e8c92563b6cc8e49657a58a.res"]
+
+[params]
+

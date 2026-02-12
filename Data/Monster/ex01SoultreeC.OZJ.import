@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwk3pyavhwfdt"
+path="res://.godot/imported/ex01SoultreeC.OZJ-dedf806d7a78f4b8455d8ca29bf77c73.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01SoultreeC.OZJ"
+dest_files=["res://.godot/imported/ex01SoultreeC.OZJ-dedf806d7a78f4b8455d8ca29bf77c73.res"]
+
+[params]
+

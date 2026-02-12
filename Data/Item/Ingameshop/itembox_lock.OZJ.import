@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0h04t1vamn24"
+path="res://.godot/imported/itembox_lock.OZJ-8b5c7836aee95fe59b6abd7a90b4187a.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/itembox_lock.OZJ"
+dest_files=["res://.godot/imported/itembox_lock.OZJ-8b5c7836aee95fe59b6abd7a90b4187a.res"]
+
+[params]
+

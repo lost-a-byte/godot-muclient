@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh7poomptotx2"
+path="res://.godot/imported/wfmoonhead.OZJ-afdd629c2ad258d25eb8bacfb8f95b97.res"
+
+[deps]
+
+source_file="res://Data/NPC/wfmoonhead.OZJ"
+dest_files=["res://.godot/imported/wfmoonhead.OZJ-afdd629c2ad258d25eb8bacfb8f95b97.res"]
+
+[params]
+

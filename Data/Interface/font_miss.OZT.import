@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpbvtnqb2acfj"
+path="res://.godot/imported/font_miss.OZT-5bc511d389a4eaa18128136ada6dde94.res"
+
+[deps]
+
+source_file="res://Data/Interface/font_miss.OZT"
+dest_files=["res://.godot/imported/font_miss.OZT-5bc511d389a4eaa18128136ada6dde94.res"]
+
+[params]
+

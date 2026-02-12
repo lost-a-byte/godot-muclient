@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b43tuxwfukh5r"
+path="res://.godot/imported/volcano_stone_arrow.bmd-b97d82f431fd87da9e0c0aaeed67b84b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_stone_arrow.bmd"
+dest_files=["res://.godot/imported/volcano_stone_arrow.bmd-b97d82f431fd87da9e0c0aaeed67b84b.scn"]
+
+[params]
+
+modelScale=0.01

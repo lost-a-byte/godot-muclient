@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bkf10mn7ldq0x"
+path="res://.godot/imported/chusukgam.bmd-2afae2360c2448d1d512c8b22f1fa941.scn"
+
+[deps]
+
+source_file="res://Data/Effect/chusukgam.bmd"
+dest_files=["res://.godot/imported/chusukgam.bmd-2afae2360c2448d1d512c8b22f1fa941.scn"]
+
+[params]
+
+modelScale=0.01

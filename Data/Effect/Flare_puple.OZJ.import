@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d4ui65ybiu7j"
+path="res://.godot/imported/Flare_puple.OZJ-bbb96593666a4540c6e251ced00c22e0.res"
+
+[deps]
+
+source_file="res://Data/Effect/Flare_puple.OZJ"
+dest_files=["res://.godot/imported/Flare_puple.OZJ-bbb96593666a4540c6e251ced00c22e0.res"]
+
+[params]
+

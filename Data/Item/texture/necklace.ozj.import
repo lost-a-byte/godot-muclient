@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cabybuvnj6nbi"
+path="res://.godot/imported/necklace.ozj-15cdce65f86ad18ba3ecb79e500fc701.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/necklace.ozj"
+dest_files=["res://.godot/imported/necklace.ozj-15cdce65f86ad18ba3ecb79e500fc701.res"]
+
+[params]
+

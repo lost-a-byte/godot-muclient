@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cstgiwsibwicx"
+path="res://.godot/imported/eventshild.bmd-6c6aef71a5a18829e0971b7a256cbc9f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/eventshild.bmd"
+dest_files=["res://.godot/imported/eventshild.bmd-6c6aef71a5a18829e0971b7a256cbc9f.scn"]
+
+[params]
+
+modelScale=0.01

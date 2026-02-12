@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://baqcuylekxasn"
+path="res://.godot/imported/master_x2cha.bmd-a8992b4c3474765dc060727fe3d69b7b.scn"
+
+[deps]
+
+source_file="res://Data/Item/master_x2cha.bmd"
+dest_files=["res://.godot/imported/master_x2cha.bmd-a8992b4c3474765dc060727fe3d69b7b.scn"]
+
+[params]
+
+modelScale=0.01

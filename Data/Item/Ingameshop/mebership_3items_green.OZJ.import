@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cp1eew1blmo85"
+path="res://.godot/imported/mebership_3items_green.OZJ-362a1f8fdd25d8a2b0006c717e2c2ddc.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/mebership_3items_green.OZJ"
+dest_files=["res://.godot/imported/mebership_3items_green.OZJ-362a1f8fdd25d8a2b0006c717e2c2ddc.res"]
+
+[params]
+

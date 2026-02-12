@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rs4twa0nwdge"
+path="res://.godot/imported/ChaWing.OZT-21ee5b733739b70066e41aa14e8727ef.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ChaWing.OZT"
+dest_files=["res://.godot/imported/ChaWing.OZT-21ee5b733739b70066e41aa14e8727ef.res"]
+
+[params]
+

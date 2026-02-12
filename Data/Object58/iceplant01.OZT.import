@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mowi1w7omtlj"
+path="res://.godot/imported/iceplant01.OZT-dc45f4c6f062dd1bf5961c3f7d69cd3d.res"
+
+[deps]
+
+source_file="res://Data/Object58/iceplant01.OZT"
+dest_files=["res://.godot/imported/iceplant01.OZT-dc45f4c6f062dd1bf5961c3f7d69cd3d.res"]
+
+[params]
+

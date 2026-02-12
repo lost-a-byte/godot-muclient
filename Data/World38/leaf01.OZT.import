@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cf5o35c87irdp"
+path="res://.godot/imported/leaf01.OZT-8794f31bdc09d22ccd40f6a17ee4dd5e.res"
+
+[deps]
+
+source_file="res://Data/World38/leaf01.OZT"
+dest_files=["res://.godot/imported/leaf01.OZT-8794f31bdc09d22ccd40f6a17ee4dd5e.res"]
+
+[params]
+

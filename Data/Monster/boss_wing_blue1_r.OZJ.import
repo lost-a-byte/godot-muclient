@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x8serv2h2fif"
+path="res://.godot/imported/boss_wing_blue1_r.OZJ-96f10fcb8a9eb6c5b49d693205efb789.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_wing_blue1_r.OZJ"
+dest_files=["res://.godot/imported/boss_wing_blue1_r.OZJ-96f10fcb8a9eb6c5b49d693205efb789.res"]
+
+[params]
+

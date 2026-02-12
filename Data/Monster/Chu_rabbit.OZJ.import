@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2c5wlfob2j8"
+path="res://.godot/imported/Chu_rabbit.OZJ-629cc8df25c62037f3e91029c9492c97.res"
+
+[deps]
+
+source_file="res://Data/Monster/Chu_rabbit.OZJ"
+dest_files=["res://.godot/imported/Chu_rabbit.OZJ-629cc8df25c62037f3e91029c9492c97.res"]
+
+[params]
+

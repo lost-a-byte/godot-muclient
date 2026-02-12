@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkyoyqke51hnb"
+path="res://.godot/imported/cundunend.OZT-964654b123e00637a1a37211204cd5d5.res"
+
+[deps]
+
+source_file="res://Data/Monster/cundunend.OZT"
+dest_files=["res://.godot/imported/cundunend.OZT-964654b123e00637a1a37211204cd5d5.res"]
+
+[params]
+

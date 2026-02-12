@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3so3yvkhgkfo"
+path="res://.godot/imported/newui_skill.OZJ-cc1a50f5e8849aca00c36fae944878dd.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_skill.OZJ"
+dest_files=["res://.godot/imported/newui_skill.OZJ-cc1a50f5e8849aca00c36fae944878dd.res"]
+
+[params]
+

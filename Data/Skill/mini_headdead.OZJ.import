@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4thpgw47pxr8"
+path="res://.godot/imported/mini_headdead.OZJ-114c3d6e76975513959df7d909ea6b2f.res"
+
+[deps]
+
+source_file="res://Data/Skill/mini_headdead.OZJ"
+dest_files=["res://.godot/imported/mini_headdead.OZJ-114c3d6e76975513959df7d909ea6b2f.res"]
+
+[params]
+

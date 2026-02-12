@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mgetagma25ir"
+path="res://.godot/imported/upper_02b_m.ozt-cafdc5541d0b8886b0ff22ba006e62fe.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/upper_02b_m.ozt"
+dest_files=["res://.godot/imported/upper_02b_m.ozt-cafdc5541d0b8886b0ff22ba006e62fe.res"]
+
+[params]
+

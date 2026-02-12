@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csdaqeekue8ry"
+path="res://.godot/imported/splinterwolffur_tail.OZT-902862508922b3e63048bec0dd8a155c.res"
+
+[deps]
+
+source_file="res://Data/Monster/splinterwolffur_tail.OZT"
+dest_files=["res://.godot/imported/splinterwolffur_tail.OZT-902862508922b3e63048bec0dd8a155c.res"]
+
+[params]
+

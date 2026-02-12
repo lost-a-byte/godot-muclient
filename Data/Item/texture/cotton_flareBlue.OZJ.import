@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccjbkk1bunl2y"
+path="res://.godot/imported/cotton_flareBlue.OZJ-5b194718736e7468f2020499ad421826.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/cotton_flareBlue.OZJ"
+dest_files=["res://.godot/imported/cotton_flareBlue.OZJ-5b194718736e7468f2020499ad421826.res"]
+
+[params]
+

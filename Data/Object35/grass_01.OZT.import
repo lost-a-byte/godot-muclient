@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ci8r338ibgm48"
+path="res://.godot/imported/grass_01.OZT-98f15934de02209c56db1914ceb0831a.res"
+
+[deps]
+
+source_file="res://Data/Object35/grass_01.OZT"
+dest_files=["res://.godot/imported/grass_01.OZT-98f15934de02209c56db1914ceb0831a.res"]
+
+[params]
+

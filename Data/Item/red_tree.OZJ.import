@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gfw5gfvctrpi"
+path="res://.godot/imported/red_tree.OZJ-50475e8adbbc8178677a988661802223.res"
+
+[deps]
+
+source_file="res://Data/Item/red_tree.OZJ"
+dest_files=["res://.godot/imported/red_tree.OZJ-50475e8adbbc8178677a988661802223.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b81isc6u3hn4g"
+path="res://.godot/imported/New_lo_webzen_logo.OZT-c014a4596bd0a5dbb95c3302cef4a974.res"
+
+[deps]
+
+source_file="res://Data/Interface/New_lo_webzen_logo.OZT"
+dest_files=["res://.godot/imported/New_lo_webzen_logo.OZT-c014a4596bd0a5dbb95c3302cef4a974.res"]
+
+[params]
+

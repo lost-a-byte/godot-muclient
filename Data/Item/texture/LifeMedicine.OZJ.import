@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmipyhyp4yit"
+path="res://.godot/imported/LifeMedicine.OZJ-08cbae2c51daf40b3e32bcd574cbc572.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LifeMedicine.OZJ"
+dest_files=["res://.godot/imported/LifeMedicine.OZJ-08cbae2c51daf40b3e32bcd574cbc572.res"]
+
+[params]
+

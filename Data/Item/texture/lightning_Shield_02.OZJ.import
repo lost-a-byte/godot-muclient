@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3h1shc1qt1ip"
+path="res://.godot/imported/lightning_Shield_02.OZJ-b40c44c555cb9b6440c312df667f9fc4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_Shield_02.OZJ"
+dest_files=["res://.godot/imported/lightning_Shield_02.OZJ-b40c44c555cb9b6440c312df667f9fc4.res"]
+
+[params]
+

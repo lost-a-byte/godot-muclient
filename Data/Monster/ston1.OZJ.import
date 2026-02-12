@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://biu1h34rrg32c"
+path="res://.godot/imported/ston1.OZJ-a60677b0e2d2153a8979418c53fa2edb.res"
+
+[deps]
+
+source_file="res://Data/Monster/ston1.OZJ"
+dest_files=["res://.godot/imported/ston1.OZJ-a60677b0e2d2153a8979418c53fa2edb.res"]
+
+[params]
+

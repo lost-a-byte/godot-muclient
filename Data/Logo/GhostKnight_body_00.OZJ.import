@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgpaoq64xpa13"
+path="res://.godot/imported/GhostKnight_body_00.OZJ-33e117295008905847cd6017b3761576.res"
+
+[deps]
+
+source_file="res://Data/Logo/GhostKnight_body_00.OZJ"
+dest_files=["res://.godot/imported/GhostKnight_body_00.OZJ-33e117295008905847cd6017b3761576.res"]
+
+[params]
+

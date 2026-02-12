@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://deq6y5lt1armh"
+path="res://.godot/imported/Eccross.OZJ-869256d24981b256e0ea5d2c090b4dbd.res"
+
+[deps]
+
+source_file="res://Data/Item/Eccross.OZJ"
+dest_files=["res://.godot/imported/Eccross.OZJ-869256d24981b256e0ea5d2c090b4dbd.res"]
+
+[params]
+

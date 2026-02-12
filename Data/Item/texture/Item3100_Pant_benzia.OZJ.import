@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://w7g5y5wctq1l"
+path="res://.godot/imported/Item3100_Pant_benzia.OZJ-c4f033dee4586d251d7b87d1460b6ae4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item3100_Pant_benzia.OZJ"
+dest_files=["res://.godot/imported/Item3100_Pant_benzia.OZJ-c4f033dee4586d251d7b87d1460b6ae4.res"]
+
+[params]
+

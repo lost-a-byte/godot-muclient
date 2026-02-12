@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bto24na3jga7e"
+path="res://.godot/imported/Imperial_soul_gray.bmd-25ad4059203401ef46b39a7537af4fa8.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_soul_gray.bmd"
+dest_files=["res://.godot/imported/Imperial_soul_gray.bmd-25ad4059203401ef46b39a7537af4fa8.scn"]
+
+[params]
+
+modelScale=0.01

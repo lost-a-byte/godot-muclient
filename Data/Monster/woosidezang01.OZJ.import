@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dl2s7drlu5n7g"
+path="res://.godot/imported/woosidezang01.OZJ-453e052088ebf1a00d746d6333a7747d.res"
+
+[deps]
+
+source_file="res://Data/Monster/woosidezang01.OZJ"
+dest_files=["res://.godot/imported/woosidezang01.OZJ-453e052088ebf1a00d746d6333a7747d.res"]
+
+[params]
+

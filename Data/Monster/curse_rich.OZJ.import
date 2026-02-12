@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmfeu5onpirvg"
+path="res://.godot/imported/curse_rich.OZJ-f6e056153ad3328b31310db2162a332b.res"
+
+[deps]
+
+source_file="res://Data/Monster/curse_rich.OZJ"
+dest_files=["res://.godot/imported/curse_rich.OZJ-f6e056153ad3328b31310db2162a332b.res"]
+
+[params]
+

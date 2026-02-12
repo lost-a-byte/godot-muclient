@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuwexdgutq5p4"
+path="res://.godot/imported/bluedragon_green.OZJ-c4871e07bb32d33742ea83a0c0e8782f.res"
+
+[deps]
+
+source_file="res://Data/Monster/bluedragon_green.OZJ"
+dest_files=["res://.godot/imported/bluedragon_green.OZJ-c4871e07bb32d33742ea83a0c0e8782f.res"]
+
+[params]
+

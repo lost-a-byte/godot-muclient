@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbdjvobumclv"
+path="res://.godot/imported/windnecklace.ozj-a97ec42ba19c3518aabc1d0ede92d7a1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/windnecklace.ozj"
+dest_files=["res://.godot/imported/windnecklace.ozj-a97ec42ba19c3518aabc1d0ede92d7a1.res"]
+
+[params]
+

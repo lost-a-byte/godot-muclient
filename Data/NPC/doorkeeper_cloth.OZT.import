@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpvu3q77rqiac"
+path="res://.godot/imported/doorkeeper_cloth.OZT-bbd047268baa80baa812484b2603e91b.res"
+
+[deps]
+
+source_file="res://Data/NPC/doorkeeper_cloth.OZT"
+dest_files=["res://.godot/imported/doorkeeper_cloth.OZT-bbd047268baa80baa812484b2603e91b.res"]
+
+[params]
+

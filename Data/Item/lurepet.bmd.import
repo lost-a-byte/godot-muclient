@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wk53jq152yw7"
+path="res://.godot/imported/lurepet.bmd-6761417a423c31121dbc5282f984157e.scn"
+
+[deps]
+
+source_file="res://Data/Item/lurepet.bmd"
+dest_files=["res://.godot/imported/lurepet.bmd-6761417a423c31121dbc5282f984157e.scn"]
+
+[params]
+
+modelScale=0.01

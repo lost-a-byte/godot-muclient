@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg5mmawv2k0s5"
+path="res://.godot/imported/intergbattlefdown.OZJ-c878beecd1fde0d1867eb17746d35ae0.res"
+
+[deps]
+
+source_file="res://Data/NPC/intergbattlefdown.OZJ"
+dest_files=["res://.godot/imported/intergbattlefdown.OZJ-c878beecd1fde0d1867eb17746d35ae0.res"]
+
+[params]
+

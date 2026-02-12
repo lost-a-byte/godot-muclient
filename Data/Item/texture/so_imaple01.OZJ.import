@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bnqfw28oxpaij"
+path="res://.godot/imported/so_imaple01.OZJ-c56a5ce3f12cac8fab67c969f8682a49.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_imaple01.OZJ"
+dest_files=["res://.godot/imported/so_imaple01.OZJ-c56a5ce3f12cac8fab67c969f8682a49.res"]
+
+[params]
+

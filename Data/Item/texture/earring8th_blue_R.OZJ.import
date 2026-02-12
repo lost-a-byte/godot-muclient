@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bt7m5e6bqt01u"
+path="res://.godot/imported/earring8th_blue_R.OZJ-f1102e8ddd39b299bee7e10e467d8311.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/earring8th_blue_R.OZJ"
+dest_files=["res://.godot/imported/earring8th_blue_R.OZJ-f1102e8ddd39b299bee7e10e467d8311.res"]
+
+[params]
+

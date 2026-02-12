@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfngcxnxolc43"
+path="res://.godot/imported/TwohandswordA.OZJ-c928fbe96f079242eefe9c0c562957ff.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TwohandswordA.OZJ"
+dest_files=["res://.godot/imported/TwohandswordA.OZJ-c928fbe96f079242eefe9c0c562957ff.res"]
+
+[params]
+

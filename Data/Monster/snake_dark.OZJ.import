@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccy18q7yuwame"
+path="res://.godot/imported/snake_dark.OZJ-94ec761c49f1c286cab08ef6a7c212ca.res"
+
+[deps]
+
+source_file="res://Data/Monster/snake_dark.OZJ"
+dest_files=["res://.godot/imported/snake_dark.OZJ-94ec761c49f1c286cab08ef6a7c212ca.res"]
+
+[params]
+

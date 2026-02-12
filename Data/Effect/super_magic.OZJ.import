@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://r6nvuoe8t27n"
+path="res://.godot/imported/super_magic.OZJ-a83ec8cff8766ef2bf44d6dd736239dd.res"
+
+[deps]
+
+source_file="res://Data/Effect/super_magic.OZJ"
+dest_files=["res://.godot/imported/super_magic.OZJ-a83ec8cff8766ef2bf44d6dd736239dd.res"]
+
+[params]
+

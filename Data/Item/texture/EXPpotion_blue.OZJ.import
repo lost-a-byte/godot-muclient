@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0ogvlj8d0jgn"
+path="res://.godot/imported/EXPpotion_blue.OZJ-82ff8407fc5ac3e7c5b57c4c1256e2a5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/EXPpotion_blue.OZJ"
+dest_files=["res://.godot/imported/EXPpotion_blue.OZJ-82ff8407fc5ac3e7c5b57c4c1256e2a5.res"]
+
+[params]
+

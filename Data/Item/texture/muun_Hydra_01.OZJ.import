@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1grnsavni6hb"
+path="res://.godot/imported/muun_Hydra_01.OZJ-8578ddaf65e3f02e7143553a9dc9c2a9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/muun_Hydra_01.OZJ"
+dest_files=["res://.godot/imported/muun_Hydra_01.OZJ-8578ddaf65e3f02e7143553a9dc9c2a9.res"]
+
+[params]
+

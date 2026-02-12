@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://854of4x3h8s0"
+path="res://.godot/imported/soketel_soulbringer.OZJ-0ec75d1b5199f15e258f5daebbd31454.res"
+
+[deps]
+
+source_file="res://Data/Item/soketel_soulbringer.OZJ"
+dest_files=["res://.godot/imported/soketel_soulbringer.OZJ-0ec75d1b5199f15e258f5daebbd31454.res"]
+
+[params]
+

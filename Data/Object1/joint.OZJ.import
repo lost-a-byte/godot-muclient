@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xk45o4go543n"
+path="res://.godot/imported/joint.OZJ-cc4c470a0afb01e5e13b718bf2826f89.res"
+
+[deps]
+
+source_file="res://Data/Object1/joint.OZJ"
+dest_files=["res://.godot/imported/joint.OZJ-cc4c470a0afb01e5e13b718bf2826f89.res"]
+
+[params]
+

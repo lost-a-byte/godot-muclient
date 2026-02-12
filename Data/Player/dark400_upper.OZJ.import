@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0kwdouv4ybge"
+path="res://.godot/imported/dark400_upper.OZJ-a5404faa9ddfeb7695d90f702c4a702d.res"
+
+[deps]
+
+source_file="res://Data/Player/dark400_upper.OZJ"
+dest_files=["res://.godot/imported/dark400_upper.OZJ-a5404faa9ddfeb7695d90f702c4a702d.res"]
+
+[params]
+

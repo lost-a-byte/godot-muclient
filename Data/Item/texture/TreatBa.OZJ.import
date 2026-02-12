@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cm3dvfsbxli3j"
+path="res://.godot/imported/TreatBa.OZJ-92121be576dabbf3aea281f272c73b03.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TreatBa.OZJ"
+dest_files=["res://.godot/imported/TreatBa.OZJ-92121be576dabbf3aea281f272c73b03.res"]
+
+[params]
+

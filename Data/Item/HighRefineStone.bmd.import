@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://co0rvr4xbso6e"
+path="res://.godot/imported/HighRefineStone.bmd-07893274215b139156954d2d328abe62.scn"
+
+[deps]
+
+source_file="res://Data/Item/HighRefineStone.bmd"
+dest_files=["res://.godot/imported/HighRefineStone.bmd-07893274215b139156954d2d328abe62.scn"]
+
+[params]
+
+modelScale=0.01

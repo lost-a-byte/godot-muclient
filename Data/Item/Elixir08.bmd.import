@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bl4bu0rjn0wtj"
+path="res://.godot/imported/Elixir08.bmd-0e7770e860649cf85045ad03b3eb91a3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Elixir08.bmd"
+dest_files=["res://.godot/imported/Elixir08.bmd-0e7770e860649cf85045ad03b3eb91a3.scn"]
+
+[params]
+
+modelScale=0.01

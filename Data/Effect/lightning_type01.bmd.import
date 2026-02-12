@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bf1atlfb5sbwf"
+path="res://.godot/imported/lightning_type01.bmd-7ed0f8ddf3c194f3bc4964b9f5c6cb90.scn"
+
+[deps]
+
+source_file="res://Data/Effect/lightning_type01.bmd"
+dest_files=["res://.godot/imported/lightning_type01.bmd-7ed0f8ddf3c194f3bc4964b9f5c6cb90.scn"]
+
+[params]
+
+modelScale=0.01

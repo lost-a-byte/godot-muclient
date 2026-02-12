@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bewajhxpyrlnp"
+path="res://.godot/imported/sword03.ozj-fa1506a3615b846df1170ba5e5a9ac21.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sword03.ozj"
+dest_files=["res://.godot/imported/sword03.ozj-fa1506a3615b846df1170ba5e5a9ac21.res"]
+
+[params]
+

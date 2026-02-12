@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ds05sfqprxswc"
+path="res://.godot/imported/CursorDivide.OZT-3fb5e24fb672338e4665a231b877397f.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorDivide.OZT"
+dest_files=["res://.godot/imported/CursorDivide.OZT-3fb5e24fb672338e4665a231b877397f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1gotijxxxv8q"
+path="res://.godot/imported/BladeHunter.OZJ-38f3da434e6377c14519416078c8da9b.res"
+
+[deps]
+
+source_file="res://Data/Monster/BladeHunter.OZJ"
+dest_files=["res://.godot/imported/BladeHunter.OZJ-38f3da434e6377c14519416078c8da9b.res"]
+
+[params]
+

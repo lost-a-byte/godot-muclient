@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vsh2mrhaemo"
+path="res://.godot/imported/bridge_shadow01.OZT-f6e3bd11720caadb100b26464b779f39.res"
+
+[deps]
+
+source_file="res://Data/Object1/bridge_shadow01.OZT"
+dest_files=["res://.godot/imported/bridge_shadow01.OZT-f6e3bd11720caadb100b26464b779f39.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://de36ejx38iy6d"
+path="res://.godot/imported/Sapiatttres.bmd-4d9e6771dbf3950c95ef6fbfeb045e4a.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Sapiatttres.bmd"
+dest_files=["res://.godot/imported/Sapiatttres.bmd-4d9e6771dbf3950c95ef6fbfeb045e4a.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctjncmoeonqw"
+path="res://.godot/imported/piercing.OZJ-37fc59419375dfa263cf4f6e8c413c19.res"
+
+[deps]
+
+source_file="res://Data/Skill/piercing.OZJ"
+dest_files=["res://.godot/imported/piercing.OZJ-37fc59419375dfa263cf4f6e8c413c19.res"]
+
+[params]
+

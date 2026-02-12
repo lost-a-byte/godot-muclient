@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxfhmo20in8o5"
+path="res://.godot/imported/baron01_dark.OZJ-41030b3285babccc236d409b5f4a7bde.res"
+
+[deps]
+
+source_file="res://Data/Monster/baron01_dark.OZJ"
+dest_files=["res://.godot/imported/baron01_dark.OZJ-41030b3285babccc236d409b5f4a7bde.res"]
+
+[params]
+

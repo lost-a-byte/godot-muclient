@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bfb8vn8sbscyl"
+path="res://.godot/imported/m_Piercing.OZT-fb2825703a19a6af394dd5213f6259df.res"
+
+[deps]
+
+source_file="res://Data/Skill/m_Piercing.OZT"
+dest_files=["res://.godot/imported/m_Piercing.OZT-fb2825703a19a6af394dd5213f6259df.res"]
+
+[params]
+

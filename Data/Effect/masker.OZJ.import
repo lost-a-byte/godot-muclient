@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhxp2570jq8jv"
+path="res://.godot/imported/masker.OZJ-2307326699ea2c9944681e71e3dbf024.res"
+
+[deps]
+
+source_file="res://Data/Effect/masker.OZJ"
+dest_files=["res://.godot/imported/masker.OZJ-2307326699ea2c9944681e71e3dbf024.res"]
+
+[params]
+

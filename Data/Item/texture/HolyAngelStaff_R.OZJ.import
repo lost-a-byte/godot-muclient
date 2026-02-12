@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cm60kvc6uolmk"
+path="res://.godot/imported/HolyAngelStaff_R.OZJ-bc3814fd08f6d74302bbcc2d4de199fa.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HolyAngelStaff_R.OZJ"
+dest_files=["res://.godot/imported/HolyAngelStaff_R.OZJ-bc3814fd08f6d74302bbcc2d4de199fa.res"]
+
+[params]
+

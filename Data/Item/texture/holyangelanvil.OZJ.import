@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwht503toixph"
+path="res://.godot/imported/holyangelanvil.OZJ-2d0bd7819296fe348b1a61959e5f5749.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/holyangelanvil.OZJ"
+dest_files=["res://.godot/imported/holyangelanvil.OZJ-2d0bd7819296fe348b1a61959e5f5749.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://djuc0t0367fbo"
+path="res://.godot/imported/wingcore_stone.bmd-d6700315c6235e617da28fbda328d7eb.scn"
+
+[deps]
+
+source_file="res://Data/Item/wingcore_stone.bmd"
+dest_files=["res://.godot/imported/wingcore_stone.bmd-d6700315c6235e617da28fbda328d7eb.scn"]
+
+[params]
+
+modelScale=0.01

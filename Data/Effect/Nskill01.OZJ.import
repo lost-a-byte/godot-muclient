@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bc2qt85gvnia7"
+path="res://.godot/imported/Nskill01.OZJ-cc4452e873d204abfb7da8b9330d50bc.res"
+
+[deps]
+
+source_file="res://Data/Effect/Nskill01.OZJ"
+dest_files=["res://.godot/imported/Nskill01.OZJ-cc4452e873d204abfb7da8b9330d50bc.res"]
+
+[params]
+

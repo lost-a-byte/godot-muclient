@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ote78o4d4r00"
+path="res://.godot/imported/UEKnight_weapon.OZJ-e7b407abdd3d4b2ea986d5a8ba0bf163.res"
+
+[deps]
+
+source_file="res://Data/Monster/UEKnight_weapon.OZJ"
+dest_files=["res://.godot/imported/UEKnight_weapon.OZJ-e7b407abdd3d4b2ea986d5a8ba0bf163.res"]
+
+[params]
+

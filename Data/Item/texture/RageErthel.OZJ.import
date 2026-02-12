@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgkmboixmq6uk"
+path="res://.godot/imported/RageErthel.OZJ-d6285abf6b26ae907352f34ee4799120.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RageErthel.OZJ"
+dest_files=["res://.godot/imported/RageErthel.OZJ-d6285abf6b26ae907352f34ee4799120.res"]
+
+[params]
+

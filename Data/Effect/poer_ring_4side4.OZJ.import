@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgu5xvsbnylam"
+path="res://.godot/imported/poer_ring_4side4.OZJ-c286b46b852665eac69261de7fec936f.res"
+
+[deps]
+
+source_file="res://Data/Effect/poer_ring_4side4.OZJ"
+dest_files=["res://.godot/imported/poer_ring_4side4.OZJ-c286b46b852665eac69261de7fec936f.res"]
+
+[params]
+

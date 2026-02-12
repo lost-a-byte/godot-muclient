@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bx4wh5s63ppph"
+path="res://.godot/imported/scarecrow.bmd-75fcd2bebe27ca0c6c25112316434e91.scn"
+
+[deps]
+
+source_file="res://Data/Item/scarecrow.bmd"
+dest_files=["res://.godot/imported/scarecrow.bmd-75fcd2bebe27ca0c6c25112316434e91.scn"]
+
+[params]
+
+modelScale=0.01

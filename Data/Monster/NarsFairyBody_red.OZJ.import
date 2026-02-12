@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cy501k1fapd3m"
+path="res://.godot/imported/NarsFairyBody_red.OZJ-13782f2cc22f9eacb456244f6ac0fae5.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsFairyBody_red.OZJ"
+dest_files=["res://.godot/imported/NarsFairyBody_red.OZJ-13782f2cc22f9eacb456244f6ac0fae5.res"]
+
+[params]
+

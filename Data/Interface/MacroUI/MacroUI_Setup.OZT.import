@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvmt2md4ldqqb"
+path="res://.godot/imported/MacroUI_Setup.OZT-914945844329f8f185fb2d793cb4c666.res"
+
+[deps]
+
+source_file="res://Data/Interface/MacroUI/MacroUI_Setup.OZT"
+dest_files=["res://.godot/imported/MacroUI_Setup.OZT-914945844329f8f185fb2d793cb4c666.res"]
+
+[params]
+

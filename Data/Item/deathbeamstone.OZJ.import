@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crhwq3wwjm3q5"
+path="res://.godot/imported/deathbeamstone.OZJ-4046548a170ab2480941b524cb3c7420.res"
+
+[deps]
+
+source_file="res://Data/Item/deathbeamstone.OZJ"
+dest_files=["res://.godot/imported/deathbeamstone.OZJ-4046548a170ab2480941b524cb3c7420.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2avvka8vco7i"
+path="res://.godot/imported/stone_01.OZJ-86fa0ff1eb80c82671d52abf1e20e0c8.res"
+
+[deps]
+
+source_file="res://Data/Object38/stone_01.OZJ"
+dest_files=["res://.godot/imported/stone_01.OZJ-86fa0ff1eb80c82671d52abf1e20e0c8.res"]
+
+[params]
+

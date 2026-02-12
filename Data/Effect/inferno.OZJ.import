@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rxpiipnyo300"
+path="res://.godot/imported/inferno.OZJ-349781aa474b94a5341d2a205eb84bf0.res"
+
+[deps]
+
+source_file="res://Data/Effect/inferno.OZJ"
+dest_files=["res://.godot/imported/inferno.OZJ-349781aa474b94a5341d2a205eb84bf0.res"]
+
+[params]
+

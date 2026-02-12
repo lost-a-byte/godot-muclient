@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x8gblgk17fpi"
+path="res://.godot/imported/Darkangel_StaffA.OZJ-c29d70fd0dca2cc17eb59dc50b662136.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Darkangel_StaffA.OZJ"
+dest_files=["res://.godot/imported/Darkangel_StaffA.OZJ-c29d70fd0dca2cc17eb59dc50b662136.res"]
+
+[params]
+

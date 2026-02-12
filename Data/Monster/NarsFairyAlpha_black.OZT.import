@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mglpivv334rm"
+path="res://.godot/imported/NarsFairyAlpha_black.OZT-0fcfc47b3c5788039e598a4e55217e11.res"
+
+[deps]
+
+source_file="res://Data/Monster/NarsFairyAlpha_black.OZT"
+dest_files=["res://.godot/imported/NarsFairyAlpha_black.OZT-0fcfc47b3c5788039e598a4e55217e11.res"]
+
+[params]
+

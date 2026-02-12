@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dlbtyimi18e7w"
+path="res://.godot/imported/shiningpeakspinmagic.bmd-61404ab079d45f732ebc37c70e200e69.scn"
+
+[deps]
+
+source_file="res://Data/Effect/shiningpeakspinmagic.bmd"
+dest_files=["res://.godot/imported/shiningpeakspinmagic.bmd-61404ab079d45f732ebc37c70e200e69.scn"]
+
+[params]
+
+modelScale=0.01

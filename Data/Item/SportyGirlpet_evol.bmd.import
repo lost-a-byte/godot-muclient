@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cv7huk1dacgqh"
+path="res://.godot/imported/SportyGirlpet_evol.bmd-da1ee37b6557f86aac88364a2982b0ad.scn"
+
+[deps]
+
+source_file="res://Data/Item/SportyGirlpet_evol.bmd"
+dest_files=["res://.godot/imported/SportyGirlpet_evol.bmd-da1ee37b6557f86aac88364a2982b0ad.scn"]
+
+[params]
+
+modelScale=0.01

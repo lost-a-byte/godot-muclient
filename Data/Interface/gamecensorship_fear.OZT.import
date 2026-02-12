@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://myu3lpcswqkx"
+path="res://.godot/imported/gamecensorship_fear.OZT-f147365d17a8659245c4aed5507c1f0d.res"
+
+[deps]
+
+source_file="res://Data/Interface/gamecensorship_fear.OZT"
+dest_files=["res://.godot/imported/gamecensorship_fear.OZT-f147365d17a8659245c4aed5507c1f0d.res"]
+
+[params]
+

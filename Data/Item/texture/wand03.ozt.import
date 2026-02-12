@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6qs20xxfix7v"
+path="res://.godot/imported/wand03.ozt-69f5727f32323adff58cc8991f7a2459.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wand03.ozt"
+dest_files=["res://.godot/imported/wand03.ozt-69f5727f32323adff58cc8991f7a2459.res"]
+
+[params]
+

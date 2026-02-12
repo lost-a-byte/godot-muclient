@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhuy5f73fgd0t"
+path="res://.godot/imported/GL380shieldA.OZJ-0bfb3533161f71f5555d1aadadc8d597.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GL380shieldA.OZJ"
+dest_files=["res://.godot/imported/GL380shieldA.OZJ-0bfb3533161f71f5555d1aadadc8d597.res"]
+
+[params]
+

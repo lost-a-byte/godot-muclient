@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmicsshrln6t0"
+path="res://.godot/imported/snowmantree.OZJ-b425b9a52e92c2160f3a8a5a6e06d919.res"
+
+[deps]
+
+source_file="res://Data/NPC/snowmantree.OZJ"
+dest_files=["res://.godot/imported/snowmantree.OZJ-b425b9a52e92c2160f3a8a5a6e06d919.res"]
+
+[params]
+

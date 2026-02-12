@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dep8aaf8w1n3m"
+path="res://.godot/imported/songko.bmd-aaaeb4294a1eaf650bd55b203a8e1167.scn"
+
+[deps]
+
+source_file="res://Data/NPC/songko.bmd"
+dest_files=["res://.godot/imported/songko.bmd-aaaeb4294a1eaf650bd55b203a8e1167.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2h2b2ts0a1fm"
+path="res://.godot/imported/magum_arrows.OZJ-734f32f42766644e40233064355d9d42.res"
+
+[deps]
+
+source_file="res://Data/Skill/magum_arrows.OZJ"
+dest_files=["res://.godot/imported/magum_arrows.OZJ-734f32f42766644e40233064355d9d42.res"]
+
+[params]
+

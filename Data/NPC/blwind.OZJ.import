@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://deojqivylcau3"
+path="res://.godot/imported/blwind.OZJ-b5ad46e85e4e8400f7a6183ab31c3dde.res"
+
+[deps]
+
+source_file="res://Data/NPC/blwind.OZJ"
+dest_files=["res://.godot/imported/blwind.OZJ-b5ad46e85e4e8400f7a6183ab31c3dde.res"]
+
+[params]
+

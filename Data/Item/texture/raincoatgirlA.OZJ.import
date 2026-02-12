@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd8jra7wwf333"
+path="res://.godot/imported/raincoatgirlA.OZJ-b5f1a3bd0fc8c8c606a162d54af6c089.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/raincoatgirlA.OZJ"
+dest_files=["res://.godot/imported/raincoatgirlA.OZJ-b5f1a3bd0fc8c8c606a162d54af6c089.res"]
+
+[params]
+

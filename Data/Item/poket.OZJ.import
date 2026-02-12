@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dea5fpbiuixwp"
+path="res://.godot/imported/poket.OZJ-27642b8142e5f9656385201cd68f493f.res"
+
+[deps]
+
+source_file="res://Data/Item/poket.OZJ"
+dest_files=["res://.godot/imported/poket.OZJ-27642b8142e5f9656385201cd68f493f.res"]
+
+[params]
+

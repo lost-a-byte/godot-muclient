@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2h2paxjv7hlm"
+path="res://.godot/imported/Fifth_Magic_Wing_01.OZJ-a5cc43743b68437032da756e7fe47818.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Magic_Wing_01.OZJ"
+dest_files=["res://.godot/imported/Fifth_Magic_Wing_01.OZJ-a5cc43743b68437032da756e7fe47818.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cisg2pff67ftg"
+path="res://.godot/imported/houndpet.bmd-507ccc65f331ee4f4868fcd3d81d21ef.scn"
+
+[deps]
+
+source_file="res://Data/Item/houndpet.bmd"
+dest_files=["res://.godot/imported/houndpet.bmd-507ccc65f331ee4f4868fcd3d81d21ef.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcadmxflwrqqh"
+path="res://.godot/imported/MSIitemRed_R.OZJ-fdddc1ef7613c30c99cf07f7925db0b3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MSIitemRed_R.OZJ"
+dest_files=["res://.godot/imported/MSIitemRed_R.OZJ-fdddc1ef7613c30c99cf07f7925db0b3.res"]
+
+[params]
+

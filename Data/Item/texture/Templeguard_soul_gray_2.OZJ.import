@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmdjv8pmnunjw"
+path="res://.godot/imported/Templeguard_soul_gray_2.OZJ-06f23c407d1012a7b5d7b8d91ca7b45a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Templeguard_soul_gray_2.OZJ"
+dest_files=["res://.godot/imported/Templeguard_soul_gray_2.OZJ-06f23c407d1012a7b5d7b8d91ca7b45a.res"]
+
+[params]
+

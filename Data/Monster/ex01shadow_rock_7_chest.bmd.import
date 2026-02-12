@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bil3ihjlt4sap"
+path="res://.godot/imported/ex01shadow_rock_7_chest.bmd-236652c95eb0c2f5b0976fde4b8697a4.scn"
+
+[deps]
+
+source_file="res://Data/Monster/ex01shadow_rock_7_chest.bmd"
+dest_files=["res://.godot/imported/ex01shadow_rock_7_chest.bmd-236652c95eb0c2f5b0976fde4b8697a4.scn"]
+
+[params]
+
+modelScale=0.01

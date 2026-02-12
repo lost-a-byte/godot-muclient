@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://87tx2gnms30k"
+path="res://.godot/imported/UMbeasthair.OZT-bf44dafb296a969852526e298eca63bd.res"
+
+[deps]
+
+source_file="res://Data/Monster/UMbeasthair.OZT"
+dest_files=["res://.godot/imported/UMbeasthair.OZT-bf44dafb296a969852526e298eca63bd.res"]
+
+[params]
+

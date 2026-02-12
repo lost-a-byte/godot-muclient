@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dd16oaqabotv7"
+path="res://.godot/imported/darkwingsxa.OZT-c9b489fd3e9c2b0c24bcdfad648b4fcd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/darkwingsxa.OZT"
+dest_files=["res://.godot/imported/darkwingsxa.OZT-c9b489fd3e9c2b0c24bcdfad648b4fcd.res"]
+
+[params]
+

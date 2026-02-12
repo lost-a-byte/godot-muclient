@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxemnvu7osxb1"
+path="res://.godot/imported/VisShield2.OZJ-0578a0af891fe961b34b9561b893e485.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/VisShield2.OZJ"
+dest_files=["res://.godot/imported/VisShield2.OZJ-0578a0af891fe961b34b9561b893e485.res"]
+
+[params]
+

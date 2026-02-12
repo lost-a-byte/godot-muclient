@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cqsu31euo3rec"
+path="res://.godot/imported/ponpet_evol.bmd-84b6a88ff66126bdbdc7280244a0c3fe.scn"
+
+[deps]
+
+source_file="res://Data/Item/ponpet_evol.bmd"
+dest_files=["res://.godot/imported/ponpet_evol.bmd-84b6a88ff66126bdbdc7280244a0c3fe.scn"]
+
+[params]
+
+modelScale=0.01

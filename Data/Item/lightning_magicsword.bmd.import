@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://re43l31cf08m"
+path="res://.godot/imported/lightning_magicsword.bmd-c1be9d45ed5cf569996697353b1e4acc.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_magicsword.bmd"
+dest_files=["res://.godot/imported/lightning_magicsword.bmd-c1be9d45ed5cf569996697353b1e4acc.scn"]
+
+[params]
+
+modelScale=0.01

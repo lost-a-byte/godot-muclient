@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://1gmhc23lcbvm"
+path="res://.godot/imported/ProofOfOrdeal.bmd-23d5807c75e7c8f546e2f53c000820a4.scn"
+
+[deps]
+
+source_file="res://Data/Item/ProofOfOrdeal.bmd"
+dest_files=["res://.godot/imported/ProofOfOrdeal.bmd-23d5807c75e7c8f546e2f53c000820a4.scn"]
+
+[params]
+
+modelScale=0.01

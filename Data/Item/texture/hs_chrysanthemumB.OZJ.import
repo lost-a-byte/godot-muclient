@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b06806h70g6ip"
+path="res://.godot/imported/hs_chrysanthemumB.OZJ-b7cc330ded3dbe743abb1e4686c25f8b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_chrysanthemumB.OZJ"
+dest_files=["res://.godot/imported/hs_chrysanthemumB.OZJ-b7cc330ded3dbe743abb1e4686c25f8b.res"]
+
+[params]
+

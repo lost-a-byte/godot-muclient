@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnwobny1l5wch"
+path="res://.godot/imported/tree_nomback.OZJ-cb6bdfcbd25fde5fe074628fa9713c23.res"
+
+[deps]
+
+source_file="res://Data/Monster/tree_nomback.OZJ"
+dest_files=["res://.godot/imported/tree_nomback.OZJ-cb6bdfcbd25fde5fe074628fa9713c23.res"]
+
+[params]
+

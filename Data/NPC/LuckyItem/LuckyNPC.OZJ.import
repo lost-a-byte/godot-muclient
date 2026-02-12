@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crdigsiq4flk0"
+path="res://.godot/imported/LuckyNPC.OZJ-534063754d30411c230e95c70f2d5885.res"
+
+[deps]
+
+source_file="res://Data/NPC/LuckyItem/LuckyNPC.OZJ"
+dest_files=["res://.godot/imported/LuckyNPC.OZJ-534063754d30411c230e95c70f2d5885.res"]
+
+[params]
+

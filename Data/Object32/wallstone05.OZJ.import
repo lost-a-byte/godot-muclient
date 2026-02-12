@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2mv8j436urxa"
+path="res://.godot/imported/wallstone05.OZJ-14734cd55a927d3d733abe1865c06ebe.res"
+
+[deps]
+
+source_file="res://Data/Object32/wallstone05.OZJ"
+dest_files=["res://.godot/imported/wallstone05.OZJ-14734cd55a927d3d733abe1865c06ebe.res"]
+
+[params]
+

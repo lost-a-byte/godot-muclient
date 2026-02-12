@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgsnuvvtr86g4"
+path="res://.godot/imported/darknight_gloves.OZJ-a51f029294c3089bb1fca9e669fa47f2.res"
+
+[deps]
+
+source_file="res://Data/Player/darknight_gloves.OZJ"
+dest_files=["res://.godot/imported/darknight_gloves.OZJ-a51f029294c3089bb1fca9e669fa47f2.res"]
+
+[params]
+

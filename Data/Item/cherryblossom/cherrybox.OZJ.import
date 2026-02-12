@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bc1sxihg2hmq2"
+path="res://.godot/imported/cherrybox.OZJ-4fc8391b7e8e5fcf14d1075243a7584b.res"
+
+[deps]
+
+source_file="res://Data/Item/cherryblossom/cherrybox.OZJ"
+dest_files=["res://.godot/imported/cherrybox.OZJ-4fc8391b7e8e5fcf14d1075243a7584b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2r70pnxvyu3f"
+path="res://.godot/imported/RFighter_Hair.OZT-f5e40ef98dafaba9974f3dd59a19b0c5.res"
+
+[deps]
+
+source_file="res://Data/Player/RFighter_Hair.OZT"
+dest_files=["res://.godot/imported/RFighter_Hair.OZT-f5e40ef98dafaba9974f3dd59a19b0c5.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c60wdc0cp6rys"
+path="res://.godot/imported/nightmareUp.bmd-5ea27082e3716b772757eef98104e5b1.scn"
+
+[deps]
+
+source_file="res://Data/Item/nightmareUp.bmd"
+dest_files=["res://.godot/imported/nightmareUp.bmd-5ea27082e3716b772757eef98104e5b1.scn"]
+
+[params]
+
+modelScale=0.01

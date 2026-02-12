@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c78wly0mrpm84"
+path="res://.godot/imported/kan_tree.OZJ-93aae37bb04ceb4c4f9af4657a4de119.res"
+
+[deps]
+
+source_file="res://Data/Object38/kan_tree.OZJ"
+dest_files=["res://.godot/imported/kan_tree.OZJ-93aae37bb04ceb4c4f9af4657a4de119.res"]
+
+[params]
+

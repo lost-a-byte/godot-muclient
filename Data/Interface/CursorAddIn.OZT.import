@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwbu8wwt1nrbv"
+path="res://.godot/imported/CursorAddIn.OZT-e09672c216e8f0e8e164b7d146744b1f.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorAddIn.OZT"
+dest_files=["res://.godot/imported/CursorAddIn.OZT-e09672c216e8f0e8e164b7d146744b1f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kdfwo8ptx8eo"
+path="res://.godot/imported/book.ozj-6a86c3d1e32f46f95d9f9168246dd5bb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/book.ozj"
+dest_files=["res://.godot/imported/book.ozj-6a86c3d1e32f46f95d9f9168246dd5bb.res"]
+
+[params]
+

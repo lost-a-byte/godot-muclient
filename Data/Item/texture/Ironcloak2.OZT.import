@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4m6s1dypulkn"
+path="res://.godot/imported/Ironcloak2.OZT-3b325b06d730457e502ccbe819ba4814.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Ironcloak2.OZT"
+dest_files=["res://.godot/imported/Ironcloak2.OZT-3b325b06d730457e502ccbe819ba4814.res"]
+
+[params]
+

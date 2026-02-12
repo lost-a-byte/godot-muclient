@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://urtomksyehka"
+path="res://.godot/imported/Nova_arrow_sim01.bmd-85c8997c1a5023b21d809687f17d820f.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Nova_arrow_sim01.bmd"
+dest_files=["res://.godot/imported/Nova_arrow_sim01.bmd-85c8997c1a5023b21d809687f17d820f.scn"]
+
+[params]
+
+modelScale=0.01

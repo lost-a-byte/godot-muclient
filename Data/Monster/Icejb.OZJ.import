@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6s6w7s1jtjof"
+path="res://.godot/imported/Icejb.OZJ-bac3f87c9721e140b985c1ee36587da0.res"
+
+[deps]
+
+source_file="res://Data/Monster/Icejb.OZJ"
+dest_files=["res://.godot/imported/Icejb.OZJ-bac3f87c9721e140b985c1ee36587da0.res"]
+
+[params]
+

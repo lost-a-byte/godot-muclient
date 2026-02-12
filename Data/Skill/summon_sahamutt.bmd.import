@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://behhe7p8utpf8"
+path="res://.godot/imported/summon_sahamutt.bmd-5537f98cc0a9eb639dcd39c7215259a2.scn"
+
+[deps]
+
+source_file="res://Data/Skill/summon_sahamutt.bmd"
+dest_files=["res://.godot/imported/summon_sahamutt.bmd-5537f98cc0a9eb639dcd39c7215259a2.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bb5u0knhsyfjr"
+path="res://.godot/imported/sunlight2_R.OZJ-3cf1af2eb361b3b27bdc537bd5637cc3.res"
+
+[deps]
+
+source_file="res://Data/Object135/sunlight2_R.OZJ"
+dest_files=["res://.godot/imported/sunlight2_R.OZJ-3cf1af2eb361b3b27bdc537bd5637cc3.res"]
+
+[params]
+

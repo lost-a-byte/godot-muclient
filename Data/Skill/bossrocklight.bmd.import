@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cvr1868dor2m3"
+path="res://.godot/imported/bossrocklight.bmd-4b59fe98ae905d14f7a27d3b01e96d3d.scn"
+
+[deps]
+
+source_file="res://Data/Skill/bossrocklight.bmd"
+dest_files=["res://.godot/imported/bossrocklight.bmd-4b59fe98ae905d14f7a27d3b01e96d3d.scn"]
+
+[params]
+
+modelScale=0.01

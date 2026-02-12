@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dm2fux5pwpr3t"
+path="res://.godot/imported/AL_wand03_02.OZJ-4b9dd10c2f62292785b5212091d2f594.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AL_wand03_02.OZJ"
+dest_files=["res://.godot/imported/AL_wand03_02.OZJ-4b9dd10c2f62292785b5212091d2f594.res"]
+
+[params]
+

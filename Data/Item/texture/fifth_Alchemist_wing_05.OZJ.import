@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4rdte1teptxy"
+path="res://.godot/imported/fifth_Alchemist_wing_05.OZJ-a8a96b86964fed43d49f9aaf1c451837.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fifth_Alchemist_wing_05.OZJ"
+dest_files=["res://.godot/imported/fifth_Alchemist_wing_05.OZJ-a8a96b86964fed43d49f9aaf1c451837.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcbppxpgktxyo"
+path="res://.godot/imported/sd_minefence01.OZJ-9c64fd055332b66bf3ae77e89f7eae62.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_minefence01.OZJ"
+dest_files=["res://.godot/imported/sd_minefence01.OZJ-9c64fd055332b66bf3ae77e89f7eae62.res"]
+
+[params]
+

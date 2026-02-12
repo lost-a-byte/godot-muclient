@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvx34fljbwuqk"
+path="res://.godot/imported/ragefightermuun.bmd-8544f75663de225fa3fcc6be3472ed64.scn"
+
+[deps]
+
+source_file="res://Data/Item/ragefightermuun.bmd"
+dest_files=["res://.godot/imported/ragefightermuun.bmd-8544f75663de225fa3fcc6be3472ed64.scn"]
+
+[params]
+
+modelScale=0.01

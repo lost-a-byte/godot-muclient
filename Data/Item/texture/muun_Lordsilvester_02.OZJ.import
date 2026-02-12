@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6yirm0pnud5u"
+path="res://.godot/imported/muun_Lordsilvester_02.OZJ-3cb25aab3b3867afd9f689be39c2000a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/muun_Lordsilvester_02.OZJ"
+dest_files=["res://.godot/imported/muun_Lordsilvester_02.OZJ-3cb25aab3b3867afd9f689be39c2000a.res"]
+
+[params]
+

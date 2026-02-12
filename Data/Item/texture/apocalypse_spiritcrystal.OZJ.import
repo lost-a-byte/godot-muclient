@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb3s71bcaglxe"
+path="res://.godot/imported/apocalypse_spiritcrystal.OZJ-2183a24c4a282be255e07d33e8a4355c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_spiritcrystal.OZJ"
+dest_files=["res://.godot/imported/apocalypse_spiritcrystal.OZJ-2183a24c4a282be255e07d33e8a4355c.res"]
+
+[params]
+

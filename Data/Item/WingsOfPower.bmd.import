@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cyih1s2dbggci"
+path="res://.godot/imported/WingsOfPower.bmd-115c3a9d7c76a0b035dedf95a7decd33.scn"
+
+[deps]
+
+source_file="res://Data/Item/WingsOfPower.bmd"
+dest_files=["res://.godot/imported/WingsOfPower.bmd-115c3a9d7c76a0b035dedf95a7decd33.scn"]
+
+[params]
+
+modelScale=0.01

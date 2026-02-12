@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fc77br10clr"
+path="res://.godot/imported/newui_option_effect03.OZT-c0f8f5ebba432c3888d8eeb640223098.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_option_effect03.OZT"
+dest_files=["res://.godot/imported/newui_option_effect03.OZT-c0f8f5ebba432c3888d8eeb640223098.res"]
+
+[params]
+

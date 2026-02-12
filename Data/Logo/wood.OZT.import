@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1wlk6d1dflut"
+path="res://.godot/imported/wood.OZT-d86e9f6180ab82db4d26e310ccc858e9.res"
+
+[deps]
+
+source_file="res://Data/Logo/wood.OZT"
+dest_files=["res://.godot/imported/wood.OZT-d86e9f6180ab82db4d26e310ccc858e9.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ggyup6nn88i5"
+path="res://.godot/imported/nds03.OZJ-a102f87e97c2a550aeb4a78813436957.res"
+
+[deps]
+
+source_file="res://Data/Item/nds03.OZJ"
+dest_files=["res://.godot/imported/nds03.OZJ-a102f87e97c2a550aeb4a78813436957.res"]
+
+[params]
+

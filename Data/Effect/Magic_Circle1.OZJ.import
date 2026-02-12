@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clyuqamj84r3r"
+path="res://.godot/imported/Magic_Circle1.OZJ-5539bed599e5c1e68f4b3f506a18bbeb.res"
+
+[deps]
+
+source_file="res://Data/Effect/Magic_Circle1.OZJ"
+dest_files=["res://.godot/imported/Magic_Circle1.OZJ-5539bed599e5c1e68f4b3f506a18bbeb.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csft11v46h2dt"
+path="res://.godot/imported/pumpkingirls_render.OZJ-70b87b0c1287de887b7abbb7fb606f9a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pumpkingirls_render.OZJ"
+dest_files=["res://.godot/imported/pumpkingirls_render.OZJ-70b87b0c1287de887b7abbb7fb606f9a.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b13xgst3jox8a"
+path="res://.godot/imported/NewFace03.bmd-6648a25c28fdf81a824777599cf7988a.scn"
+
+[deps]
+
+source_file="res://Data/Logo/NewFace03.bmd"
+dest_files=["res://.godot/imported/NewFace03.bmd-6648a25c28fdf81a824777599cf7988a.scn"]
+
+[params]
+
+modelScale=0.01

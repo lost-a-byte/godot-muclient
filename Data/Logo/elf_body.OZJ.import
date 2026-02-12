@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn8kap4bk8ci5"
+path="res://.godot/imported/elf_body.OZJ-d4debe68ba192c46e3aed06e274bc9dd.res"
+
+[deps]
+
+source_file="res://Data/Logo/elf_body.OZJ"
+dest_files=["res://.godot/imported/elf_body.OZJ-d4debe68ba192c46e3aed06e274bc9dd.res"]
+
+[params]
+

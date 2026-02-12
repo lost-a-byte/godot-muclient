@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dopgk8d6e5gnp"
+path="res://.godot/imported/saramanda_body.OZJ-16a70bcfa0ff5f4bde88913c6b33522c.res"
+
+[deps]
+
+source_file="res://Data/Monster/saramanda_body.OZJ"
+dest_files=["res://.godot/imported/saramanda_body.OZJ-16a70bcfa0ff5f4bde88913c6b33522c.res"]
+
+[params]
+

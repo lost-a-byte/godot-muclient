@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg5v2eii5mu6p"
+path="res://.godot/imported/sebina.OZJ-1ec547f55303c293ebda618128a15d02.res"
+
+[deps]
+
+source_file="res://Data/NPC/sebina.OZJ"
+dest_files=["res://.godot/imported/sebina.OZJ-1ec547f55303c293ebda618128a15d02.res"]
+
+[params]
+

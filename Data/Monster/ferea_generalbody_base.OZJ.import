@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2psw3moh6xht"
+path="res://.godot/imported/ferea_generalbody_base.OZJ-ad169faefd72b2dd6b8d5e5bde35f42f.res"
+
+[deps]
+
+source_file="res://Data/Monster/ferea_generalbody_base.OZJ"
+dest_files=["res://.godot/imported/ferea_generalbody_base.OZJ-ad169faefd72b2dd6b8d5e5bde35f42f.res"]
+
+[params]
+

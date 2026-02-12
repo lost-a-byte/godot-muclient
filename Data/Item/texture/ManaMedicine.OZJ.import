@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx1svdtn1cax6"
+path="res://.godot/imported/ManaMedicine.OZJ-5e61c0757edb7509e0812e905309881e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ManaMedicine.OZJ"
+dest_files=["res://.godot/imported/ManaMedicine.OZJ-5e61c0757edb7509e0812e905309881e.res"]
+
+[params]
+

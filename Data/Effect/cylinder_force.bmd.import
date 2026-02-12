@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://pyt4swvuk3sl"
+path="res://.godot/imported/cylinder_force.bmd-88b5b1f44863d244ae06a7de0ccdfa67.scn"
+
+[deps]
+
+source_file="res://Data/Effect/cylinder_force.bmd"
+dest_files=["res://.godot/imported/cylinder_force.bmd-88b5b1f44863d244ae06a7de0ccdfa67.scn"]
+
+[params]
+
+modelScale=0.01

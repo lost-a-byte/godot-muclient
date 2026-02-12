@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c53gp4or3i05f"
+path="res://.godot/imported/hs_blueeyeknightA.bmd-5299d1c851eda1891c20ee8ef6d64840.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_blueeyeknightA.bmd"
+dest_files=["res://.godot/imported/hs_blueeyeknightA.bmd-5299d1c851eda1891c20ee8ef6d64840.scn"]
+
+[params]
+
+modelScale=0.01

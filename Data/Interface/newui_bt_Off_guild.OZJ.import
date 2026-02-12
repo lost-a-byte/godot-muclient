@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dm2td0ofpcqti"
+path="res://.godot/imported/newui_bt_Off_guild.OZJ-e244e40d805b48ea928ce2dd0b01638c.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_bt_Off_guild.OZJ"
+dest_files=["res://.godot/imported/newui_bt_Off_guild.OZJ-e244e40d805b48ea928ce2dd0b01638c.res"]
+
+[params]
+

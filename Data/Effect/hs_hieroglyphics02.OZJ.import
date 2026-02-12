@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cu75yxsptd8pv"
+path="res://.godot/imported/hs_hieroglyphics02.OZJ-cb443df821f60577bf80c8f45110ab49.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_hieroglyphics02.OZJ"
+dest_files=["res://.godot/imported/hs_hieroglyphics02.OZJ-cb443df821f60577bf80c8f45110ab49.res"]
+
+[params]
+

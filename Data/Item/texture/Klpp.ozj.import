@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drc7kxhee2pvl"
+path="res://.godot/imported/Klpp.ozj-dc4aed2381b088cff1096c8dec76ebf4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Klpp.ozj"
+dest_files=["res://.godot/imported/Klpp.ozj-dc4aed2381b088cff1096c8dec76ebf4.res"]
+
+[params]
+

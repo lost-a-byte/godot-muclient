@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uf13aqvv2i4r"
+path="res://.godot/imported/scarecrowmyoon_render.OZJ-e61f05a47363005657247b6f49c1cabd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/scarecrowmyoon_render.OZJ"
+dest_files=["res://.godot/imported/scarecrowmyoon_render.OZJ-e61f05a47363005657247b6f49c1cabd.res"]
+
+[params]
+

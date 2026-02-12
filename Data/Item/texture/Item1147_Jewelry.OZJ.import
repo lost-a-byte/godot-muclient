@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt7w4c4ndkiyf"
+path="res://.godot/imported/Item1147_Jewelry.OZJ-e9f7fe9f2b6df6d84746b3ab9e259ad0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1147_Jewelry.OZJ"
+dest_files=["res://.godot/imported/Item1147_Jewelry.OZJ-e9f7fe9f2b6df6d84746b3ab9e259ad0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cb8ggoltx5fcf"
+path="res://.godot/imported/richcrystal.ozj-0f1be87a3fa1e41ee6772b79d4bee88a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/richcrystal.ozj"
+dest_files=["res://.godot/imported/richcrystal.ozj-0f1be87a3fa1e41ee6772b79d4bee88a.res"]
+
+[params]
+

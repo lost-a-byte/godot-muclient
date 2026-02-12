@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmwspcrd38ald"
+path="res://.godot/imported/Bow02.bmd-3670f41b40d3189f0a08dc1d15deeb8d.scn"
+
+[deps]
+
+source_file="res://Data/Item/Bow02.bmd"
+dest_files=["res://.godot/imported/Bow02.bmd-3670f41b40d3189f0a08dc1d15deeb8d.scn"]
+
+[params]
+
+modelScale=0.01

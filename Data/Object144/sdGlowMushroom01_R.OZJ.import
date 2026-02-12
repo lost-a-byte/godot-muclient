@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpo7515r3rdin"
+path="res://.godot/imported/sdGlowMushroom01_R.OZJ-6ac6919cf0c3c782088268523c09d19e.res"
+
+[deps]
+
+source_file="res://Data/Object144/sdGlowMushroom01_R.OZJ"
+dest_files=["res://.godot/imported/sdGlowMushroom01_R.OZJ-6ac6919cf0c3c782088268523c09d19e.res"]
+
+[params]
+

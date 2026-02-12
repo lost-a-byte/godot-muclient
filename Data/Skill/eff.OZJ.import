@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cay4yfho1lpqq"
+path="res://.godot/imported/eff.OZJ-8eb4c5f55e97df8dba9a12e64d2ae0c1.res"
+
+[deps]
+
+source_file="res://Data/Skill/eff.OZJ"
+dest_files=["res://.godot/imported/eff.OZJ-8eb4c5f55e97df8dba9a12e64d2ae0c1.res"]
+
+[params]
+

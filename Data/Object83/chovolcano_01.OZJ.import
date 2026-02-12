@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cex6wp6rb4h1n"
+path="res://.godot/imported/chovolcano_01.OZJ-b5c3ea458c75d7b5da82ea607c8fc504.res"
+
+[deps]
+
+source_file="res://Data/Object83/chovolcano_01.OZJ"
+dest_files=["res://.godot/imported/chovolcano_01.OZJ-b5c3ea458c75d7b5da82ea607c8fc504.res"]
+
+[params]
+

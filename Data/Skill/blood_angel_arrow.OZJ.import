@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bc0n47phdodtw"
+path="res://.godot/imported/blood_angel_arrow.OZJ-2803dcabfa5f4e14396b5473f5783a85.res"
+
+[deps]
+
+source_file="res://Data/Skill/blood_angel_arrow.OZJ"
+dest_files=["res://.godot/imported/blood_angel_arrow.OZJ-2803dcabfa5f4e14396b5473f5783a85.res"]
+
+[params]
+

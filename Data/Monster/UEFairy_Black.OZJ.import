@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://8iobatcxxcdn"
+path="res://.godot/imported/UEFairy_Black.OZJ-9464ea6c3788d8ec8f0f4fe5f6761d63.res"
+
+[deps]
+
+source_file="res://Data/Monster/UEFairy_Black.OZJ"
+dest_files=["res://.godot/imported/UEFairy_Black.OZJ-9464ea6c3788d8ec8f0f4fe5f6761d63.res"]
+
+[params]
+

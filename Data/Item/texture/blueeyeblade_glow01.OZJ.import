@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d18msh2kjl1n1"
+path="res://.godot/imported/blueeyeblade_glow01.OZJ-98b99f13b6189e6219b2202f4e199063.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blueeyeblade_glow01.OZJ"
+dest_files=["res://.godot/imported/blueeyeblade_glow01.OZJ-98b99f13b6189e6219b2202f4e199063.res"]
+
+[params]
+

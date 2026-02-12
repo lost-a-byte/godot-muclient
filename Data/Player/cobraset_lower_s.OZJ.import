@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://den6rxc6px1mw"
+path="res://.godot/imported/cobraset_lower_s.OZJ-45ee35914e99a22381c1570824c644a5.res"
+
+[deps]
+
+source_file="res://Data/Player/cobraset_lower_s.OZJ"
+dest_files=["res://.godot/imported/cobraset_lower_s.OZJ-45ee35914e99a22381c1570824c644a5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs8hruxafvcxs"
+path="res://.godot/imported/ogre2_red.OZJ-a45473eb53880f2c89b199ef96e20854.res"
+
+[deps]
+
+source_file="res://Data/Monster/ogre2_red.OZJ"
+dest_files=["res://.godot/imported/ogre2_red.OZJ-a45473eb53880f2c89b199ef96e20854.res"]
+
+[params]
+

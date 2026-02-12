@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2pcq43j3weml"
+path="res://.godot/imported/snowmanwing_R.OZJ-50eb20f89fdb4b8255cf6abac5a1c06e.res"
+
+[deps]
+
+source_file="res://Data/NPC/snowmanwing_R.OZJ"
+dest_files=["res://.godot/imported/snowmanwing_R.OZJ-50eb20f89fdb4b8255cf6abac5a1c06e.res"]
+
+[params]
+

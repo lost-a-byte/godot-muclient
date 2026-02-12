@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://by2f7jd4tlksu"
+path="res://.godot/imported/IVmonmarkB.bmd-cb55662fba9de9d84b747194dd92ca6b.scn"
+
+[deps]
+
+source_file="res://Data/Item/IVmonmarkB.bmd"
+dest_files=["res://.godot/imported/IVmonmarkB.bmd-cb55662fba9de9d84b747194dd92ca6b.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f3jvsycxatwr"
+path="res://.godot/imported/FireWing_R.OZJ-78d4dc782e996220fa48ba7bfa5e35ed.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FireWing_R.OZJ"
+dest_files=["res://.godot/imported/FireWing_R.OZJ-78d4dc782e996220fa48ba7bfa5e35ed.res"]
+
+[params]
+

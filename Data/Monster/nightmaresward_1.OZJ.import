@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lcrdm1c1i4hy"
+path="res://.godot/imported/nightmaresward_1.OZJ-450654ea0c14e6363d1b019780f7ae8b.res"
+
+[deps]
+
+source_file="res://Data/Monster/nightmaresward_1.OZJ"
+dest_files=["res://.godot/imported/nightmaresward_1.OZJ-450654ea0c14e6363d1b019780f7ae8b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctu1p2me0k2d6"
+path="res://.godot/imported/RsylvesterARed_yellow.OZJ-046e21e19a7e772c41ccc4c1ff59523f.res"
+
+[deps]
+
+source_file="res://Data/Monster/RsylvesterARed_yellow.OZJ"
+dest_files=["res://.godot/imported/RsylvesterARed_yellow.OZJ-046e21e19a7e772c41ccc4c1ff59523f.res"]
+
+[params]
+

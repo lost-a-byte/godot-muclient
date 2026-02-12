@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmqorj1rhi28s"
+path="res://.godot/imported/Book_of_Rargle.OZJ-04cf43eabc510567d9c6ddc138df719e.res"
+
+[deps]
+
+source_file="res://Data/Item/Book_of_Rargle.OZJ"
+dest_files=["res://.godot/imported/Book_of_Rargle.OZJ-04cf43eabc510567d9c6ddc138df719e.res"]
+
+[params]
+

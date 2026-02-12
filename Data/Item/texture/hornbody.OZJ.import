@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjfn05qpxqqck"
+path="res://.godot/imported/hornbody.OZJ-94ce726f9f0bba43a377e08845d3c039.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hornbody.OZJ"
+dest_files=["res://.godot/imported/hornbody.OZJ-94ce726f9f0bba43a377e08845d3c039.res"]
+
+[params]
+

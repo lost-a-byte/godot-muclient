@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kawpfefxpuf5"
+path="res://.godot/imported/VisLance.OZJ-815572905030200cbf4c176af5da7d85.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/VisLance.OZJ"
+dest_files=["res://.godot/imported/VisLance.OZJ-815572905030200cbf4c176af5da7d85.res"]
+
+[params]
+

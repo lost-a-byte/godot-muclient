@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2ypcnbhwpkdt"
+path="res://.godot/imported/fire_15frame_B.OZJ-7dae8d80bcbc3c555210ed3f75490628.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fire_15frame_B.OZJ"
+dest_files=["res://.godot/imported/fire_15frame_B.OZJ-7dae8d80bcbc3c555210ed3f75490628.res"]
+
+[params]
+

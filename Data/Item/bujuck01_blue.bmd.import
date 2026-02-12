@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dljnitpds1ywr"
+path="res://.godot/imported/bujuck01_blue.bmd-76868472bd091a2ae0245f9238ae90eb.scn"
+
+[deps]
+
+source_file="res://Data/Item/bujuck01_blue.bmd"
+dest_files=["res://.godot/imported/bujuck01_blue.bmd-76868472bd091a2ae0245f9238ae90eb.scn"]
+
+[params]
+
+modelScale=0.01

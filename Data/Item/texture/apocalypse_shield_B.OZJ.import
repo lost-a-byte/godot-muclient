@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceym0hw8qbewb"
+path="res://.godot/imported/apocalypse_shield_B.OZJ-ad48c7d3fe6e03c90ae412be669f1516.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_shield_B.OZJ"
+dest_files=["res://.godot/imported/apocalypse_shield_B.OZJ-ad48c7d3fe6e03c90ae412be669f1516.res"]
+
+[params]
+

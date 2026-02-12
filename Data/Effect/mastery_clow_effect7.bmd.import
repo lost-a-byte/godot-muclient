@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cyhfmrdwvvppb"
+path="res://.godot/imported/mastery_clow_effect7.bmd-03bbdbac6006938922407c9e3655be16.scn"
+
+[deps]
+
+source_file="res://Data/Effect/mastery_clow_effect7.bmd"
+dest_files=["res://.godot/imported/mastery_clow_effect7.bmd-03bbdbac6006938922407c9e3655be16.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgqeq4dy42md6"
+path="res://.godot/imported/illusionmuun_cape.OZJ-1c0b26fdd1b7b3482cb51e3d9fda4045.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/illusionmuun_cape.OZJ"
+dest_files=["res://.godot/imported/illusionmuun_cape.OZJ-1c0b26fdd1b7b3482cb51e3d9fda4045.res"]
+
+[params]
+

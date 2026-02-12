@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3n1pgfxvegr7"
+path="res://.godot/imported/Item1141_Wing1.OZT-2bb5ce2f0ff2e77cee3cfe16ed42dc13.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1141_Wing1.OZT"
+dest_files=["res://.godot/imported/Item1141_Wing1.OZT-2bb5ce2f0ff2e77cee3cfe16ed42dc13.res"]
+
+[params]
+

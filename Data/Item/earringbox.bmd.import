@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://w7k7ee47hunk"
+path="res://.godot/imported/earringbox.bmd-c94fa54d7e36d8789c07f5a79caba2d6.scn"
+
+[deps]
+
+source_file="res://Data/Item/earringbox.bmd"
+dest_files=["res://.godot/imported/earringbox.bmd-c94fa54d7e36d8789c07f5a79caba2d6.scn"]
+
+[params]
+
+modelScale=0.01

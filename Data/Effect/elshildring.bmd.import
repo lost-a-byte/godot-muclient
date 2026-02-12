@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxk2ob5x31t0r"
+path="res://.godot/imported/elshildring.bmd-f65959568cf46f6a12ab55e6c8e007a1.scn"
+
+[deps]
+
+source_file="res://Data/Effect/elshildring.bmd"
+dest_files=["res://.godot/imported/elshildring.bmd-f65959568cf46f6a12ab55e6c8e007a1.scn"]
+
+[params]
+
+modelScale=0.01

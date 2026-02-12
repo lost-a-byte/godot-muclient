@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7h1fllfeg8x7"
+path="res://.godot/imported/attjewelBlue.OZJ-742a2d53e6d19fe22642592808987ce7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/attjewelBlue.OZJ"
+dest_files=["res://.godot/imported/attjewelBlue.OZJ-742a2d53e6d19fe22642592808987ce7.res"]
+
+[params]
+

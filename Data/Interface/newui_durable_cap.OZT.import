@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://iatv62x66mok"
+path="res://.godot/imported/newui_durable_cap.OZT-8ac3a92ccc2e1c401f3a44b7f26b8ce6.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_cap.OZT"
+dest_files=["res://.godot/imported/newui_durable_cap.OZT-8ac3a92ccc2e1c401f3a44b7f26b8ce6.res"]
+
+[params]
+

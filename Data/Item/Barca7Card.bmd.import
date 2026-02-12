@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://so2jsg4fo4nj"
+path="res://.godot/imported/Barca7Card.bmd-4819ff9086e2ccec01b06fe9ad86e658.scn"
+
+[deps]
+
+source_file="res://Data/Item/Barca7Card.bmd"
+dest_files=["res://.godot/imported/Barca7Card.bmd-4819ff9086e2ccec01b06fe9ad86e658.scn"]
+
+[params]
+
+modelScale=0.01

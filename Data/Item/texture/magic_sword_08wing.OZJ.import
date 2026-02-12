@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://r3d77a0vn710"
+path="res://.godot/imported/magic_sword_08wing.OZJ-5193af605db06c0fa7e38b0365bb7ed3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magic_sword_08wing.OZJ"
+dest_files=["res://.godot/imported/magic_sword_08wing.OZJ-5193af605db06c0fa7e38b0365bb7ed3.res"]
+
+[params]
+

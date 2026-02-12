@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6sxlnd8mpuxu"
+path="res://.godot/imported/monke_manto.ozt-4d0501dcf8ed78ea4ef159dd5d514e11.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/monke_manto.ozt"
+dest_files=["res://.godot/imported/monke_manto.ozt-4d0501dcf8ed78ea4ef159dd5d514e11.res"]
+
+[params]
+

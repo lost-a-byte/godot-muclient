@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://br8cgap8efibt"
+path="res://.godot/imported/polarbearpet.bmd-7634707ffe20a99046025b5355471e90.scn"
+
+[deps]
+
+source_file="res://Data/Item/polarbearpet.bmd"
+dest_files=["res://.godot/imported/polarbearpet.bmd-7634707ffe20a99046025b5355471e90.scn"]
+
+[params]
+
+modelScale=0.01

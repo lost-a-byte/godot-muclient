@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.enc-terrain-att"
+type="TileAttribute"
+uid="uid://dtcp451xmn51p"
+path="res://.godot/imported/EncTerrain134.att-7de596b15f8d6a77e5e34f67dd6b6b73.tres"
+
+[deps]
+
+source_file="res://Data/World134/EncTerrain134.att"
+dest_files=["res://.godot/imported/EncTerrain134.att-7de596b15f8d6a77e5e34f67dd6b6b73.tres"]
+
+[params]
+

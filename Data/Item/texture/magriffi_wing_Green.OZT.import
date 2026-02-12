@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://n5gj7rhi8gp6"
+path="res://.godot/imported/magriffi_wing_Green.OZT-2b010c7486d64f6dd7d6dd7ab5eeb886.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magriffi_wing_Green.OZT"
+dest_files=["res://.godot/imported/magriffi_wing_Green.OZT-2b010c7486d64f6dd7d6dd7ab5eeb886.res"]
+
+[params]
+

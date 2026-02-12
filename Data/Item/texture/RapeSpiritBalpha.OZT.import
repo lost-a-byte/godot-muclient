@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://pv7mtsafp7ep"
+path="res://.godot/imported/RapeSpiritBalpha.OZT-0298ec477e30cf6f6e80e3982bc18d63.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RapeSpiritBalpha.OZT"
+dest_files=["res://.godot/imported/RapeSpiritBalpha.OZT-0298ec477e30cf6f6e80e3982bc18d63.res"]
+
+[params]
+

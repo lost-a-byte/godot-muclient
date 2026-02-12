@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3ad0gn5lxueh"
+path="res://.godot/imported/bubsa.ozj-56dcdb955ff0ab0d1762678b4e927ba5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bubsa.ozj"
+dest_files=["res://.godot/imported/bubsa.ozj-56dcdb955ff0ab0d1762678b4e927ba5.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cf7u3b0xndigx"
+path="res://.godot/imported/kcross.bmd-10a02055e8d2368a57fc585b07df02aa.scn"
+
+[deps]
+
+source_file="res://Data/Skill/kcross.bmd"
+dest_files=["res://.godot/imported/kcross.bmd-10a02055e8d2368a57fc585b07df02aa.scn"]
+
+[params]
+
+modelScale=0.01

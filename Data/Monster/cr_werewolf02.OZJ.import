@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvg2w5wlgvlgk"
+path="res://.godot/imported/cr_werewolf02.OZJ-b74bdd29ba6c3284a20c47f1a99f057d.res"
+
+[deps]
+
+source_file="res://Data/Monster/cr_werewolf02.OZJ"
+dest_files=["res://.godot/imported/cr_werewolf02.OZJ-b74bdd29ba6c3284a20c47f1a99f057d.res"]
+
+[params]
+

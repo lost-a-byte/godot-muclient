@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://grcvsujhy2pb"
+path="res://.godot/imported/G_spin04_cylinder.bmd-9579f2ec8ce576431b8a77dbd1de7bd2.scn"
+
+[deps]
+
+source_file="res://Data/Effect/G_spin04_cylinder.bmd"
+dest_files=["res://.godot/imported/G_spin04_cylinder.bmd-9579f2ec8ce576431b8a77dbd1de7bd2.scn"]
+
+[params]
+
+modelScale=0.01

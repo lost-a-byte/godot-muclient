@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o2asroo77yui"
+path="res://.godot/imported/npc_mulyak01.OZJ-6adcbda3c0618a854db8cf060940502a.res"
+
+[deps]
+
+source_file="res://Data/NPC/npc_mulyak01.OZJ"
+dest_files=["res://.godot/imported/npc_mulyak01.OZJ-6adcbda3c0618a854db8cf060940502a.res"]
+
+[params]
+

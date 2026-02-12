@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://434u0yut6ilo"
+path="res://.godot/imported/Divinehorse_horn.OZJ-71766978f81b3947c7034bbc5cc0182c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Divinehorse_horn.OZJ"
+dest_files=["res://.godot/imported/Divinehorse_horn.OZJ-71766978f81b3947c7034bbc5cc0182c.res"]
+
+[params]
+

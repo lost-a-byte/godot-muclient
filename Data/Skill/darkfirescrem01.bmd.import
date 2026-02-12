@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://co1e05daxq1u5"
+path="res://.godot/imported/darkfirescrem01.bmd-5c93d079d1a69f20290ce129e9854bdc.scn"
+
+[deps]
+
+source_file="res://Data/Skill/darkfirescrem01.bmd"
+dest_files=["res://.godot/imported/darkfirescrem01.bmd-5c93d079d1a69f20290ce129e9854bdc.scn"]
+
+[params]
+
+modelScale=0.01

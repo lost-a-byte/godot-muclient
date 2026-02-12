@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dw0jtpwtgo4hu"
+path="res://.godot/imported/newdoor break_01.bmd-dbd3f1f183acb71942cc5738daa03a27.scn"
+
+[deps]
+
+source_file="res://Data/Effect/newdoor break_01.bmd"
+dest_files=["res://.godot/imported/newdoor break_01.bmd-dbd3f1f183acb71942cc5738daa03a27.scn"]
+
+[params]
+
+modelScale=0.01

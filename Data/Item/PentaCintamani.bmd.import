@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmbrspks7ak3s"
+path="res://.godot/imported/PentaCintamani.bmd-e04db01953676989184ef045bee8037f.scn"
+
+[deps]
+
+source_file="res://Data/Item/PentaCintamani.bmd"
+dest_files=["res://.godot/imported/PentaCintamani.bmd-e04db01953676989184ef045bee8037f.scn"]
+
+[params]
+
+modelScale=0.01

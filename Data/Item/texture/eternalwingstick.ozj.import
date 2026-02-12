@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df8qxlpnxpdp8"
+path="res://.godot/imported/eternalwingstick.ozj-57c21ef48b6f5c35ed90f6097940fcf9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/eternalwingstick.ozj"
+dest_files=["res://.godot/imported/eternalwingstick.ozj-57c21ef48b6f5c35ed90f6097940fcf9.res"]
+
+[params]
+

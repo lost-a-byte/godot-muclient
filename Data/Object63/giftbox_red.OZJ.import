@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj0c1l8rmou7n"
+path="res://.godot/imported/giftbox_red.OZJ-b598a3f4af365cb783c5ed5462c4a7ff.res"
+
+[deps]
+
+source_file="res://Data/Object63/giftbox_red.OZJ"
+dest_files=["res://.godot/imported/giftbox_red.OZJ-b598a3f4af365cb783c5ed5462c4a7ff.res"]
+
+[params]
+

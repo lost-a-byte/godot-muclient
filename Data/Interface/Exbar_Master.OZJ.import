@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0rhpsfisd8hv"
+path="res://.godot/imported/Exbar_Master.OZJ-1d7f6ae0e71e6a65e2177ab01ce76f9a.res"
+
+[deps]
+
+source_file="res://Data/Interface/Exbar_Master.OZJ"
+dest_files=["res://.godot/imported/Exbar_Master.OZJ-1d7f6ae0e71e6a65e2177ab01ce76f9a.res"]
+
+[params]
+

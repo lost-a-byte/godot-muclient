@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://el3tuhed35k6"
+path="res://.godot/imported/smith.OZJ-282453a069dbc2866f7592de72c72c96.res"
+
+[deps]
+
+source_file="res://Data/NPC/smith.OZJ"
+dest_files=["res://.godot/imported/smith.OZJ-282453a069dbc2866f7592de72c72c96.res"]
+
+[params]
+

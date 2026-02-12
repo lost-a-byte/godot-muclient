@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://db0v5yvrf3cuy"
+path="res://.godot/imported/mastersealb.bmd-3dc33e813df6f0b69899cb66acab36eb.scn"
+
+[deps]
+
+source_file="res://Data/Item/mastersealb.bmd"
+dest_files=["res://.godot/imported/mastersealb.bmd-3dc33e813df6f0b69899cb66acab36eb.scn"]
+
+[params]
+
+modelScale=0.01

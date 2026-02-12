@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b24ql14mmdv8e"
+path="res://.godot/imported/PentaHarp_green.OZJ-cb6255bc606823f9a9192958f95031ea.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaHarp_green.OZJ"
+dest_files=["res://.godot/imported/PentaHarp_green.OZJ-cb6255bc606823f9a9192958f95031ea.res"]
+
+[params]
+

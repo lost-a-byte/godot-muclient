@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bopc1xa0c3ijc"
+path="res://.godot/imported/sphere_item.ozj-2067198aaeb4fac7045c1d03b952725f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sphere_item.ozj"
+dest_files=["res://.godot/imported/sphere_item.ozj-2067198aaeb4fac7045c1d03b952725f.res"]
+
+[params]
+

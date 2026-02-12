@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwfcwalfbs4mp"
+path="res://.godot/imported/blood_beam_light.OZJ-30e803ce071a9da5788a1d9f35e724a5.res"
+
+[deps]
+
+source_file="res://Data/Monster/blood_beam_light.OZJ"
+dest_files=["res://.godot/imported/blood_beam_light.OZJ-30e803ce071a9da5788a1d9f35e724a5.res"]
+
+[params]
+

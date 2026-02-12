@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ckx1pcmtduwuv"
+path="res://.godot/imported/sd_heart01.OZJ-8869b02b89485e7fa6518ea6a9b244d9.res"
+
+[deps]
+
+source_file="res://Data/Object138/sd_heart01.OZJ"
+dest_files=["res://.godot/imported/sd_heart01.OZJ-8869b02b89485e7fa6518ea6a9b244d9.res"]
+
+[params]
+

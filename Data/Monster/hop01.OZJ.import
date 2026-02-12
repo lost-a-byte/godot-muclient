@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cilm77yatjnuh"
+path="res://.godot/imported/hop01.OZJ-2e890d1f1c0de7765bcbc2978a37799d.res"
+
+[deps]
+
+source_file="res://Data/Monster/hop01.OZJ"
+dest_files=["res://.godot/imported/hop01.OZJ-2e890d1f1c0de7765bcbc2978a37799d.res"]
+
+[params]
+

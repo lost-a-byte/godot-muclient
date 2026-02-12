@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm8yk3kiolvdh"
+path="res://.godot/imported/hs_star01.OZJ-1c1f7a21b8ef2d706859fe0d7f8a3418.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_star01.OZJ"
+dest_files=["res://.godot/imported/hs_star01.OZJ-1c1f7a21b8ef2d706859fe0d7f8a3418.res"]
+
+[params]
+

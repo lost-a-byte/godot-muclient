@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c10hinvsbswtu"
+path="res://.godot/imported/jinn.bmd-7123905f5b7b096aba637a9f0cc3b60f.scn"
+
+[deps]
+
+source_file="res://Data/NPC/Akeron/jinn.bmd"
+dest_files=["res://.godot/imported/jinn.bmd-7123905f5b7b096aba637a9f0cc3b60f.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2xb8x54re7wg"
+path="res://.godot/imported/sd_SoulWizardStaff01_render.OZJ-250a447e8c1f0ac4ef66a26ec6b31ec6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_SoulWizardStaff01_render.OZJ"
+dest_files=["res://.godot/imported/sd_SoulWizardStaff01_render.OZJ-250a447e8c1f0ac4ef66a26ec6b31ec6.res"]
+
+[params]
+

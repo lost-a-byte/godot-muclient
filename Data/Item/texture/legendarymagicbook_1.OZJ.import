@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmrb8tnoftr68"
+path="res://.godot/imported/legendarymagicbook_1.OZJ-40db2c18e6774abb04f014e2faa84348.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/legendarymagicbook_1.OZJ"
+dest_files=["res://.godot/imported/legendarymagicbook_1.OZJ-40db2c18e6774abb04f014e2faa84348.res"]
+
+[params]
+

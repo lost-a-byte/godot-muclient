@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt817ld127umq"
+path="res://.godot/imported/Axes05.OZJ-ae7635ad3be95df291a2fecb4abbe1f2.res"
+
+[deps]
+
+source_file="res://Data/Item/Axes05.OZJ"
+dest_files=["res://.godot/imported/Axes05.OZJ-ae7635ad3be95df291a2fecb4abbe1f2.res"]
+
+[params]
+

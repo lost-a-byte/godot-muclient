@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bth4ow158h0c2"
+path="res://.godot/imported/mg_under.OZT-1079d3df124ee2dabc3f69eab0761f66.res"
+
+[deps]
+
+source_file="res://Data/Player/mg_under.OZT"
+dest_files=["res://.godot/imported/mg_under.OZT-1079d3df124ee2dabc3f69eab0761f66.res"]
+
+[params]
+

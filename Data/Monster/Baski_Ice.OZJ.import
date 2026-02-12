@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbrxjtkff5gyr"
+path="res://.godot/imported/Baski_Ice.OZJ-36a8051e0592b5a30f708bc51f010361.res"
+
+[deps]
+
+source_file="res://Data/Monster/Baski_Ice.OZJ"
+dest_files=["res://.godot/imported/Baski_Ice.OZJ-36a8051e0592b5a30f708bc51f010361.res"]
+
+[params]
+

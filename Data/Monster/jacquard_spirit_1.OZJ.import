@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dy6v6l0o7sm0h"
+path="res://.godot/imported/jacquard_spirit_1.OZJ-9589713e10f48e9b37dbf7e202049962.res"
+
+[deps]
+
+source_file="res://Data/Monster/jacquard_spirit_1.OZJ"
+dest_files=["res://.godot/imported/jacquard_spirit_1.OZJ-9589713e10f48e9b37dbf7e202049962.res"]
+
+[params]
+

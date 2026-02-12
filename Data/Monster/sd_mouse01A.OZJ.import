@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpnjgi31x522n"
+path="res://.godot/imported/sd_mouse01A.OZJ-90999904af8c332801428f09164a7145.res"
+
+[deps]
+
+source_file="res://Data/Monster/sd_mouse01A.OZJ"
+dest_files=["res://.godot/imported/sd_mouse01A.OZJ-90999904af8c332801428f09164a7145.res"]
+
+[params]
+

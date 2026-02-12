@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://vk3t150pvn1l"
+path="res://.godot/imported/bellydancerUp.bmd-caf8e644deec49ab088455812023893c.scn"
+
+[deps]
+
+source_file="res://Data/Item/bellydancerUp.bmd"
+dest_files=["res://.godot/imported/bellydancerUp.bmd-caf8e644deec49ab088455812023893c.scn"]
+
+[params]
+
+modelScale=0.01

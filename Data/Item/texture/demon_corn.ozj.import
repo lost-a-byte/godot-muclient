@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bh3uaut0s1yor"
+path="res://.godot/imported/demon_corn.ozj-8bb1f2674d2cbdf5c867541a48ea840a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/demon_corn.ozj"
+dest_files=["res://.godot/imported/demon_corn.ozj-8bb1f2674d2cbdf5c867541a48ea840a.res"]
+
+[params]
+

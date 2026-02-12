@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvurlwedrmhwk"
+path="res://.godot/imported/magictext.ozj-51ad472115d37ceb2ddee324a7b54ec8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magictext.ozj"
+dest_files=["res://.godot/imported/magictext.ozj-51ad472115d37ceb2ddee324a7b54ec8.res"]
+
+[params]
+

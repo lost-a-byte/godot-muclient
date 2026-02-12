@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdu1neyldx6r"
+path="res://.godot/imported/musign.OZJ-23d97cfd517dd4f83e359563e5956698.res"
+
+[deps]
+
+source_file="res://Data/Skill/musign.OZJ"
+dest_files=["res://.godot/imported/musign.OZJ-23d97cfd517dd4f83e359563e5956698.res"]
+
+[params]
+

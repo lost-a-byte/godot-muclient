@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://siu4vbaxkp2e"
+path="res://.godot/imported/ContractStone_Life.OZJ-5182598e5c285fddf798e36a88cd507c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ContractStone_Life.OZJ"
+dest_files=["res://.godot/imported/ContractStone_Life.OZJ-5182598e5c285fddf798e36a88cd507c.res"]
+
+[params]
+

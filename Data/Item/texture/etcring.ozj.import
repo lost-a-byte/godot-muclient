@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnjjjpdip5kns"
+path="res://.godot/imported/etcring.ozj-e89700ef7524e32e840fd196d25ebbe1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/etcring.ozj"
+dest_files=["res://.godot/imported/etcring.ozj-e89700ef7524e32e840fd196d25ebbe1.res"]
+
+[params]
+

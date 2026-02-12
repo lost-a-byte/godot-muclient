@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjno1i752kjp1"
+path="res://.godot/imported/manticore_horn.bmd-928aa5b2d624b341a8e7dbff77e447bd.scn"
+
+[deps]
+
+source_file="res://Data/Item/manticore_horn.bmd"
+dest_files=["res://.godot/imported/manticore_horn.bmd-928aa5b2d624b341a8e7dbff77e447bd.scn"]
+
+[params]
+
+modelScale=0.01

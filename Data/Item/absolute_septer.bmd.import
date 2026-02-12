@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1fp24ob30mu5"
+path="res://.godot/imported/absolute_septer.bmd-c1d2c595e3e952eb1d9b3e8e94b3c19b.scn"
+
+[deps]
+
+source_file="res://Data/Item/absolute_septer.bmd"
+dest_files=["res://.godot/imported/absolute_septer.bmd-c1d2c595e3e952eb1d9b3e8e94b3c19b.scn"]
+
+[params]
+
+modelScale=0.01

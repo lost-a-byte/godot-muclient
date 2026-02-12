@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bthh11kwgc3wr"
+path="res://.godot/imported/chest.OZJ-bc01b671f3269bf4e6ff7387d9c1b50c.res"
+
+[deps]
+
+source_file="res://Data/Monster/chest.OZJ"
+dest_files=["res://.godot/imported/chest.OZJ-bc01b671f3269bf4e6ff7387d9c1b50c.res"]
+
+[params]
+

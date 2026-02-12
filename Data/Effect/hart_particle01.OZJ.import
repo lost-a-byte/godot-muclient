@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://y6rnuwxskkte"
+path="res://.godot/imported/hart_particle01.OZJ-b131d17f4bba3196775b2a815c7773e7.res"
+
+[deps]
+
+source_file="res://Data/Effect/hart_particle01.OZJ"
+dest_files=["res://.godot/imported/hart_particle01.OZJ-b131d17f4bba3196775b2a815c7773e7.res"]
+
+[params]
+

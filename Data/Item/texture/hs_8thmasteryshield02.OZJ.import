@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bhggcfubkymlh"
+path="res://.godot/imported/hs_8thmasteryshield02.OZJ-09c53b2e9ec547324529e6899e627545.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_8thmasteryshield02.OZJ"
+dest_files=["res://.godot/imported/hs_8thmasteryshield02.OZJ-09c53b2e9ec547324529e6899e627545.res"]
+
+[params]
+

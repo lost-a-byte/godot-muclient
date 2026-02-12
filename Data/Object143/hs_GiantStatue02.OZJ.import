@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgq3dibnukou2"
+path="res://.godot/imported/hs_GiantStatue02.OZJ-2f3f59f69ebd2ded36697abdd2af2f73.res"
+
+[deps]
+
+source_file="res://Data/Object143/hs_GiantStatue02.OZJ"
+dest_files=["res://.godot/imported/hs_GiantStatue02.OZJ-2f3f59f69ebd2ded36697abdd2af2f73.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://do5hl26q0qgy2"
+path="res://.godot/imported/hs_seirenA.OZT-a2648015419b25d9b287c4a93d8bd74f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_seirenA.OZT"
+dest_files=["res://.godot/imported/hs_seirenA.OZT-a2648015419b25d9b287c4a93d8bd74f.res"]
+
+[params]
+

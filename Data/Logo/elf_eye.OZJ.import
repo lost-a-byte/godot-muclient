@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyixe6cnj154k"
+path="res://.godot/imported/elf_eye.OZJ-04851f775f01b94f38eca9da387c2870.res"
+
+[deps]
+
+source_file="res://Data/Logo/elf_eye.OZJ"
+dest_files=["res://.godot/imported/elf_eye.OZJ-04851f775f01b94f38eca9da387c2870.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ciybstvk1d2cp"
+path="res://.godot/imported/sd_maple03.OZJ-f024a12580064d338c0dd16fca8231ff.res"
+
+[deps]
+
+source_file="res://Data/NPC/sd_maple03.OZJ"
+dest_files=["res://.godot/imported/sd_maple03.OZJ-f024a12580064d338c0dd16fca8231ff.res"]
+
+[params]
+

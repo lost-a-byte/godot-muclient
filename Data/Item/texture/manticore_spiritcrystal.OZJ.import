@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsjm765hidon1"
+path="res://.godot/imported/manticore_spiritcrystal.OZJ-19d4e665fa98f5c9050ede0e6c10a74e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/manticore_spiritcrystal.OZJ"
+dest_files=["res://.godot/imported/manticore_spiritcrystal.OZJ-19d4e665fa98f5c9050ede0e6c10a74e.res"]
+
+[params]
+

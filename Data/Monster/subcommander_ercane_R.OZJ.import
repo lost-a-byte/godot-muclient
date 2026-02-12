@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfdxtpdrbav3"
+path="res://.godot/imported/subcommander_ercane_R.OZJ-253f5f883562bbcc2b59e21c3f014d36.res"
+
+[deps]
+
+source_file="res://Data/Monster/subcommander_ercane_R.OZJ"
+dest_files=["res://.godot/imported/subcommander_ercane_R.OZJ-253f5f883562bbcc2b59e21c3f014d36.res"]
+
+[params]
+

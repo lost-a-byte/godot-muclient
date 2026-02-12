@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://eop3712iffeh"
+path="res://.godot/imported/pumpkingirl.bmd-eedb2bc7f26059e5068d52aeb5e8b785.scn"
+
+[deps]
+
+source_file="res://Data/Item/pumpkingirl.bmd"
+dest_files=["res://.godot/imported/pumpkingirl.bmd-eedb2bc7f26059e5068d52aeb5e8b785.scn"]
+
+[params]
+
+modelScale=0.01

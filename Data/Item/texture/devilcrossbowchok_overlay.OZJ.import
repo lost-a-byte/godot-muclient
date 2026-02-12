@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cm8ipq2fa62pc"
+path="res://.godot/imported/devilcrossbowchok_overlay.OZJ-895c65a05dd2b7ce27bebbf91eba04d9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/devilcrossbowchok_overlay.OZJ"
+dest_files=["res://.godot/imported/devilcrossbowchok_overlay.OZJ-895c65a05dd2b7ce27bebbf91eba04d9.res"]
+
+[params]
+

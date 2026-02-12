@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c2h0kurxuy5bb"
+path="res://.godot/imported/apocalypse_cepterA.OZJ-523b644db01551dae5ed5eafee9e802d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_cepterA.OZJ"
+dest_files=["res://.godot/imported/apocalypse_cepterA.OZJ-523b644db01551dae5ed5eafee9e802d.res"]
+
+[params]
+

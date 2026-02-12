@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bscpc2fcowxm1"
+path="res://.godot/imported/MagmaFish02.OZJ-e132f81141ea3991a67d2795829da352.res"
+
+[deps]
+
+source_file="res://Data/Object64/MagmaFish02.OZJ"
+dest_files=["res://.godot/imported/MagmaFish02.OZJ-e132f81141ea3991a67d2795829da352.res"]
+
+[params]
+

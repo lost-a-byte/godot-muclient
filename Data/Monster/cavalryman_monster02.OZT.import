@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mmn1g0e2qc45"
+path="res://.godot/imported/cavalryman_monster02.OZT-be0721aa140b482b5d76e13300312222.res"
+
+[deps]
+
+source_file="res://Data/Monster/cavalryman_monster02.OZT"
+dest_files=["res://.godot/imported/cavalryman_monster02.OZT-be0721aa140b482b5d76e13300312222.res"]
+
+[params]
+

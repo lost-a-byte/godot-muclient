@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkr864j5lpyr7"
+path="res://.godot/imported/songtest02.OZJ-0a681261ee67e567adac30e8525eb3f1.res"
+
+[deps]
+
+source_file="res://Data/Object40/songtest02.OZJ"
+dest_files=["res://.godot/imported/songtest02.OZJ-0a681261ee67e567adac30e8525eb3f1.res"]
+
+[params]
+

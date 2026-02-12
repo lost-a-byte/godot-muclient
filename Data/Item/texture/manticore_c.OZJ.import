@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b8t3hxgcevhlc"
+path="res://.godot/imported/manticore_c.OZJ-7b5f5fbeec0f46bd372b5ea4a9be93fc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/manticore_c.OZJ"
+dest_files=["res://.godot/imported/manticore_c.OZJ-7b5f5fbeec0f46bd372b5ea4a9be93fc.res"]
+
+[params]
+

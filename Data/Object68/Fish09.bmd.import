@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://di1at85wswfcm"
+path="res://.godot/imported/Fish09.bmd-89e926054c9b8de969a642c9dcd76ca0.scn"
+
+[deps]
+
+source_file="res://Data/Object68/Fish09.bmd"
+dest_files=["res://.godot/imported/Fish09.bmd-89e926054c9b8de969a642c9dcd76ca0.scn"]
+
+[params]
+
+modelScale=0.01

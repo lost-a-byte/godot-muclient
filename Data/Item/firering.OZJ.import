@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmgcv1vl5y8c5"
+path="res://.godot/imported/firering.OZJ-924b99cabf9ae56bbccfd7dc013ae8ca.res"
+
+[deps]
+
+source_file="res://Data/Item/firering.OZJ"
+dest_files=["res://.godot/imported/firering.OZJ-924b99cabf9ae56bbccfd7dc013ae8ca.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b25rgthccf6q7"
+path="res://.godot/imported/newui_menu_Bt03.OZJ-950c4ab3848f2939309e9fc771caf790.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_menu_Bt03.OZJ"
+dest_files=["res://.godot/imported/newui_menu_Bt03.OZJ-950c4ab3848f2939309e9fc771caf790.res"]
+
+[params]
+

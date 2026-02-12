@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqr2q2syxcr8t"
+path="res://.godot/imported/snow_queen01.OZJ-da24e043362dbcc664bcf8ff3e9920d3.res"
+
+[deps]
+
+source_file="res://Data/Monster/snow_queen01.OZJ"
+dest_files=["res://.godot/imported/snow_queen01.OZJ-da24e043362dbcc664bcf8ff3e9920d3.res"]
+
+[params]
+

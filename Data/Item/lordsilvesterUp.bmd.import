@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://2nlihjleomnc"
+path="res://.godot/imported/lordsilvesterUp.bmd-a0d340d2e7f54c616b5f9f9e63f16337.scn"
+
+[deps]
+
+source_file="res://Data/Item/lordsilvesterUp.bmd"
+dest_files=["res://.godot/imported/lordsilvesterUp.bmd-a0d340d2e7f54c616b5f9f9e63f16337.scn"]
+
+[params]
+
+modelScale=0.01

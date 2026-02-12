@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6frvrloh7dsh"
+path="res://.godot/imported/magic_BB.OZT-3cd09e9b9bba7e14defb2eb4adcc4df7.res"
+
+[deps]
+
+source_file="res://Data/Monster/magic_BB.OZT"
+dest_files=["res://.godot/imported/magic_BB.OZT-3cd09e9b9bba7e14defb2eb4adcc4df7.res"]
+
+[params]
+

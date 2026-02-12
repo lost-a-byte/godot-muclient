@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfqrjil6gt23i"
+path="res://.godot/imported/EXbond.bmd-8704f75367eed6303fb8ca51ecae1a9c.scn"
+
+[deps]
+
+source_file="res://Data/Item/EXbond.bmd"
+dest_files=["res://.godot/imported/EXbond.bmd-8704f75367eed6303fb8ca51ecae1a9c.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3pjlshkmkj7q"
+path="res://.godot/imported/amulet_soul.ozt-ecefb7277c522ca09245f88e8d731b57.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amulet_soul.ozt"
+dest_files=["res://.godot/imported/amulet_soul.ozt-ecefb7277c522ca09245f88e8d731b57.res"]
+
+[params]
+

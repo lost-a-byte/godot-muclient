@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgsf217yx2v26"
+path="res://.godot/imported/mutantile_wind.OZJ-ba86c6bb1c30da96ac23149eeca72c8f.res"
+
+[deps]
+
+source_file="res://Data/Monster/mutantile_wind.OZJ"
+dest_files=["res://.godot/imported/mutantile_wind.OZJ-ba86c6bb1c30da96ac23149eeca72c8f.res"]
+
+[params]
+

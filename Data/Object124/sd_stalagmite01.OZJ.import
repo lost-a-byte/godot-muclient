@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr5f6b1jo8eiv"
+path="res://.godot/imported/sd_stalagmite01.OZJ-531c93aa3068b40a7f9d7134837c2407.res"
+
+[deps]
+
+source_file="res://Data/Object124/sd_stalagmite01.OZJ"
+dest_files=["res://.godot/imported/sd_stalagmite01.OZJ-531c93aa3068b40a7f9d7134837c2407.res"]
+
+[params]
+

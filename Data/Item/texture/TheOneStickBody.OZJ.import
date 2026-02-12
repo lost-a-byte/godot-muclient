@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bthubak5gqorv"
+path="res://.godot/imported/TheOneStickBody.OZJ-b85e50303b79f25b985769c25d94c171.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TheOneStickBody.OZJ"
+dest_files=["res://.godot/imported/TheOneStickBody.OZJ-b85e50303b79f25b985769c25d94c171.res"]
+
+[params]
+

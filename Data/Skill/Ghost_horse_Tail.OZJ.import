@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpkdffb7ncbbg"
+path="res://.godot/imported/Ghost_horse_Tail.OZJ-3351cddcdb4a5d692c4db7691907cb16.res"
+
+[deps]
+
+source_file="res://Data/Skill/Ghost_horse_Tail.OZJ"
+dest_files=["res://.godot/imported/Ghost_horse_Tail.OZJ-3351cddcdb4a5d692c4db7691907cb16.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ufi7i6a6ov07"
+path="res://.godot/imported/ArmorMail_bloody_dragon.bmd-f677820bc77d04feefedbc850ea351a2.scn"
+
+[deps]
+
+source_file="res://Data/Item/ArmorMail_bloody_dragon.bmd"
+dest_files=["res://.godot/imported/ArmorMail_bloody_dragon.bmd-f677820bc77d04feefedbc850ea351a2.scn"]
+
+[params]
+
+modelScale=0.01

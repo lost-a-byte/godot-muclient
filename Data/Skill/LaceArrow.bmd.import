@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://drm8cnwev1yqn"
+path="res://.godot/imported/LaceArrow.bmd-827f693433e4b003f7d77a79ca6ac632.scn"
+
+[deps]
+
+source_file="res://Data/Skill/LaceArrow.bmd"
+dest_files=["res://.godot/imported/LaceArrow.bmd-827f693433e4b003f7d77a79ca6ac632.scn"]
+
+[params]
+
+modelScale=0.01

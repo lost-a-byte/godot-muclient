@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8itqxey4vlte"
+path="res://.godot/imported/ManaBurstWing_2.OZT-68c1f33820ebb04fabd0ac84d9ac6ce3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ManaBurstWing_2.OZT"
+dest_files=["res://.godot/imported/ManaBurstWing_2.OZT-68c1f33820ebb04fabd0ac84d9ac6ce3.res"]
+
+[params]
+

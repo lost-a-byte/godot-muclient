@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbulafilpo2ab"
+path="res://.godot/imported/testmsop.OZJ-d679b121b04e043ea1759549a09c402e.res"
+
+[deps]
+
+source_file="res://Data/Effect/testmsop.OZJ"
+dest_files=["res://.godot/imported/testmsop.OZJ-d679b121b04e043ea1759549a09c402e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd6icfmbpixnm"
+path="res://.godot/imported/BlueeyeQuiver_render.OZJ-5919a6d20dbc301415f20708297960b1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlueeyeQuiver_render.OZJ"
+dest_files=["res://.godot/imported/BlueeyeQuiver_render.OZJ-5919a6d20dbc301415f20708297960b1.res"]
+
+[params]
+

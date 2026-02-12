@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2luxauf0xo10"
+path="res://.godot/imported/membership_item_gold.OZJ-2f7c85ffcb6090d36754fd31cdf11cc9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/membership_item_gold.OZJ"
+dest_files=["res://.godot/imported/membership_item_gold.OZJ-2f7c85ffcb6090d36754fd31cdf11cc9.res"]
+
+[params]
+

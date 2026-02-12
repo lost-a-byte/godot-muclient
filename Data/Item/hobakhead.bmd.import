@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://0gq4ycto4qhv"
+path="res://.godot/imported/hobakhead.bmd-8b4a1963bfd1e5ad033e4b76956f2094.scn"
+
+[deps]
+
+source_file="res://Data/Item/hobakhead.bmd"
+dest_files=["res://.godot/imported/hobakhead.bmd-8b4a1963bfd1e5ad033e4b76956f2094.scn"]
+
+[params]
+
+modelScale=0.01

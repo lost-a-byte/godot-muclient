@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ckvpcyllbdtsw"
+path="res://.godot/imported/Magum_line.bmd-a6328566c3b47c59d970618cab7f46a5.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Magum_line.bmd"
+dest_files=["res://.godot/imported/Magum_line.bmd-a6328566c3b47c59d970618cab7f46a5.scn"]
+
+[params]
+
+modelScale=0.01

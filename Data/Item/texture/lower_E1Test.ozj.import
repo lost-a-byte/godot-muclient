@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmhwwyeoppocl"
+path="res://.godot/imported/lower_E1Test.ozj-54be97f9bd2d7c914977ad7c24e88113.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lower_E1Test.ozj"
+dest_files=["res://.godot/imported/lower_E1Test.ozj-54be97f9bd2d7c914977ad7c24e88113.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dw02fvmc2l81v"
+path="res://.godot/imported/Leviathan_seal.OZJ-8249f89ccbcebd4115fd4be96503a40e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Leviathan_seal.OZJ"
+dest_files=["res://.godot/imported/Leviathan_seal.OZJ-8249f89ccbcebd4115fd4be96503a40e.res"]
+
+[params]
+

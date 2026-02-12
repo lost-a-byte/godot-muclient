@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cevrlr1ipria2"
+path="res://.godot/imported/chucuckeffitem.OZJ-8d2880139c3402cbf3bf6d1c83076dc0.res"
+
+[deps]
+
+source_file="res://Data/Effect/chucuckeffitem.OZJ"
+dest_files=["res://.godot/imported/chucuckeffitem.OZJ-8d2880139c3402cbf3bf6d1c83076dc0.res"]
+
+[params]
+

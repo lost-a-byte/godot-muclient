@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cu8jy5hgm0jei"
+path="res://.godot/imported/matery8_arrowbox.bmd-5f91a20560601849e742a9b8f1f8ceef.scn"
+
+[deps]
+
+source_file="res://Data/Item/matery8_arrowbox.bmd"
+dest_files=["res://.godot/imported/matery8_arrowbox.bmd-5f91a20560601849e742a9b8f1f8ceef.scn"]
+
+[params]
+
+modelScale=0.01

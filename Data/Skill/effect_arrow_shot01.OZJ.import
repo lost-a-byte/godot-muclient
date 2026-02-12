@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxnmnxraji16u"
+path="res://.godot/imported/effect_arrow_shot01.OZJ-17e8b12065ad8b88b68caf01d29f0204.res"
+
+[deps]
+
+source_file="res://Data/Skill/effect_arrow_shot01.OZJ"
+dest_files=["res://.godot/imported/effect_arrow_shot01.OZJ-17e8b12065ad8b88b68caf01d29f0204.res"]
+
+[params]
+

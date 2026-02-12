@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b4154fhric2a3"
+path="res://.godot/imported/Drink00.bmd-cae55afea630594f8209c2da9e383549.scn"
+
+[deps]
+
+source_file="res://Data/Item/Drink00.bmd"
+dest_files=["res://.godot/imported/Drink00.bmd-cae55afea630594f8209c2da9e383549.scn"]
+
+[params]
+
+modelScale=0.01

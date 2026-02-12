@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://p0bd7v5aquum"
+path="res://.godot/imported/dkneck.OZJ-0194aadda06439d6e27faf845c9bb612.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkneck.OZJ"
+dest_files=["res://.godot/imported/dkneck.OZJ-0194aadda06439d6e27faf845c9bb612.res"]
+
+[params]
+

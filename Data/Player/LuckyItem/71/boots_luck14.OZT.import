@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cssgystiyjpg8"
+path="res://.godot/imported/boots_luck14.OZT-41356032253a4dd4b92ba59a4fa5b0e2.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/71/boots_luck14.OZT"
+dest_files=["res://.godot/imported/boots_luck14.OZT-41356032253a4dd4b92ba59a4fa5b0e2.res"]
+
+[params]
+

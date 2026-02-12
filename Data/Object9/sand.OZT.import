@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lq33spwk5q3x"
+path="res://.godot/imported/sand.OZT-d00673fd3f249397206a2993624c2d96.res"
+
+[deps]
+
+source_file="res://Data/Object9/sand.OZT"
+dest_files=["res://.godot/imported/sand.OZT-d00673fd3f249397206a2993624c2d96.res"]
+
+[params]
+

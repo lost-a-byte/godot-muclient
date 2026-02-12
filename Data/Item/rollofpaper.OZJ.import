@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bauwkosdvisij"
+path="res://.godot/imported/rollofpaper.OZJ-d81e9655196dd1002f569bc64f9d2f67.res"
+
+[deps]
+
+source_file="res://Data/Item/rollofpaper.OZJ"
+dest_files=["res://.godot/imported/rollofpaper.OZJ-d81e9655196dd1002f569bc64f9d2f67.res"]
+
+[params]
+

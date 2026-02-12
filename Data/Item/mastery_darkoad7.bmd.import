@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://4dnfb1o45fms"
+path="res://.godot/imported/mastery_darkoad7.bmd-84f3f261a794e093d61bbb16b1af7e91.scn"
+
+[deps]
+
+source_file="res://Data/Item/mastery_darkoad7.bmd"
+dest_files=["res://.godot/imported/mastery_darkoad7.bmd-84f3f261a794e093d61bbb16b1af7e91.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bm7dw2aonn2cn"
+path="res://.godot/imported/newui_PcRoom.OZT-526a1693578c6200638b2dea7964d02b.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_PcRoom.OZT"
+dest_files=["res://.godot/imported/newui_PcRoom.OZT-526a1693578c6200638b2dea7964d02b.res"]
+
+[params]
+

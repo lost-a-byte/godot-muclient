@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btgi8amlc7e3g"
+path="res://.godot/imported/Polearms03.OZJ-b0e58f984ba7d792708403fb75dcaeb9.res"
+
+[deps]
+
+source_file="res://Data/Item/Polearms03.OZJ"
+dest_files=["res://.godot/imported/Polearms03.OZJ-b0e58f984ba7d792708403fb75dcaeb9.res"]
+
+[params]
+

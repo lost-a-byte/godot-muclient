@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dywmvqxny5qe4"
+path="res://.godot/imported/Shield10.bmd-3973e14f409476c27c3a04d88571e08a.scn"
+
+[deps]
+
+source_file="res://Data/Item/Shield10.bmd"
+dest_files=["res://.godot/imported/Shield10.bmd-3973e14f409476c27c3a04d88571e08a.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://00tumyfq0bew"
+path="res://.godot/imported/Inferno01.bmd-5c910d0a616bb2ed793a6f8cc738d40d.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Inferno01.bmd"
+dest_files=["res://.godot/imported/Inferno01.bmd-5c910d0a616bb2ed793a6f8cc738d40d.scn"]
+
+[params]
+
+modelScale=0.01

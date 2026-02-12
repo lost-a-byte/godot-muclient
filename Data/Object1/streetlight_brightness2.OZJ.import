@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dma5ar360ruh6"
+path="res://.godot/imported/streetlight_brightness2.OZJ-b53c53839efe1b8c34b02f3b3a3fd518.res"
+
+[deps]
+
+source_file="res://Data/Object1/streetlight_brightness2.OZJ"
+dest_files=["res://.godot/imported/streetlight_brightness2.OZJ-b53c53839efe1b8c34b02f3b3a3fd518.res"]
+
+[params]
+

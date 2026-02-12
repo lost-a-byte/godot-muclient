@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3kwb2mh42cp5"
+path="res://.godot/imported/kato_sward.OZJ-b03660498f3346940449f50042a533ff.res"
+
+[deps]
+
+source_file="res://Data/Monster/kato_sward.OZJ"
+dest_files=["res://.godot/imported/kato_sward.OZJ-b03660498f3346940449f50042a533ff.res"]
+
+[params]
+

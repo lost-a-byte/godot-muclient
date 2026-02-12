@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5hvxgapvoexq"
+path="res://.godot/imported/Kbpp.OZJ-2d9706cb325829669e3e94fefe7a6fde.res"
+
+[deps]
+
+source_file="res://Data/Player/Kbpp.OZJ"
+dest_files=["res://.godot/imported/Kbpp.OZJ-2d9706cb325829669e3e94fefe7a6fde.res"]
+
+[params]
+

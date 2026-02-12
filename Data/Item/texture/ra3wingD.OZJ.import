@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://drpienutq34jy"
+path="res://.godot/imported/ra3wingD.OZJ-46c7fd9677d9cc2e8752b61418a1b76d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ra3wingD.OZJ"
+dest_files=["res://.godot/imported/ra3wingD.OZJ-46c7fd9677d9cc2e8752b61418a1b76d.res"]
+
+[params]
+

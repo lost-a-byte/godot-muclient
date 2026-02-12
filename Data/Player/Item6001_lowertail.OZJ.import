@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gt1jvic2qx2g"
+path="res://.godot/imported/Item6001_lowertail.OZJ-8344cd99d6ad64c8c4ca8542f9daff1f.res"
+
+[deps]
+
+source_file="res://Data/Player/Item6001_lowertail.OZJ"
+dest_files=["res://.godot/imported/Item6001_lowertail.OZJ-8344cd99d6ad64c8c4ca8542f9daff1f.res"]
+
+[params]
+

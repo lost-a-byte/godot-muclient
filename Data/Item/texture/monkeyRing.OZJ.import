@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q5ik8hlxa4v0"
+path="res://.godot/imported/monkeyRing.OZJ-0749847315ea1d1afd7b549c920acf98.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/monkeyRing.OZJ"
+dest_files=["res://.godot/imported/monkeyRing.OZJ-0749847315ea1d1afd7b549c920acf98.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cf1ilbcjs35yh"
+path="res://.godot/imported/skalletonsbodys.ozj-89126d0fe27d68a901e2a012176939d2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/skalletonsbodys.ozj"
+dest_files=["res://.godot/imported/skalletonsbodys.ozj-89126d0fe27d68a901e2a012176939d2.res"]
+
+[params]
+

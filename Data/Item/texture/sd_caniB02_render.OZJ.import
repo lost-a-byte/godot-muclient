@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3485kbv1dp0v"
+path="res://.godot/imported/sd_caniB02_render.OZJ-b7ee9463d4d7c32e757817ba97aa29ee.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_caniB02_render.OZJ"
+dest_files=["res://.godot/imported/sd_caniB02_render.OZJ-b7ee9463d4d7c32e757817ba97aa29ee.res"]
+
+[params]
+

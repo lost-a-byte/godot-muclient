@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://basd43ws5wf14"
+path="res://.godot/imported/strengamulet.ozj-a16131f02cd63c8afeaede1ac8c385d5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/strengamulet.ozj"
+dest_files=["res://.godot/imported/strengamulet.ozj-a16131f02cd63c8afeaede1ac8c385d5.res"]
+
+[params]
+

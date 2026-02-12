@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dwlx1rsauml2y"
+path="res://.godot/imported/deasuler_sword.OZJ-83edaf5ae189867eb27f66362be8a728.res"
+
+[deps]
+
+source_file="res://Data/Monster/deasuler_sword.OZJ"
+dest_files=["res://.godot/imported/deasuler_sword.OZJ-83edaf5ae189867eb27f66362be8a728.res"]
+
+[params]
+

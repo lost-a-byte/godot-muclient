@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jyt8rlavt34s"
+path="res://.godot/imported/wave_mono.OZJ-bbc4c57bae5bc3823a37b0bd3eaac2bb.res"
+
+[deps]
+
+source_file="res://Data/Effect/wave_mono.OZJ"
+dest_files=["res://.godot/imported/wave_mono.OZJ-bbc4c57bae5bc3823a37b0bd3eaac2bb.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c3u0oquf3nuua"
+path="res://.godot/imported/FireLight01.bmd-f734d218908518ddf0acedbc59cd9edd.scn"
+
+[deps]
+
+source_file="res://Data/Object1/FireLight01.bmd"
+dest_files=["res://.godot/imported/FireLight01.bmd-f734d218908518ddf0acedbc59cd9edd.scn"]
+
+[params]
+
+modelScale=0.01

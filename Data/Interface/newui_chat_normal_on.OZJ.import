@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gfbka636p07x"
+path="res://.godot/imported/newui_chat_normal_on.OZJ-a3fb326c8e8b9ed2d2a1ba3ed5ea7a2c.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_chat_normal_on.OZJ"
+dest_files=["res://.godot/imported/newui_chat_normal_on.OZJ-a3fb326c8e8b9ed2d2a1ba3ed5ea7a2c.res"]
+
+[params]
+

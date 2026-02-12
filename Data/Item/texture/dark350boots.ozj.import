@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tmfwark2h5qh"
+path="res://.godot/imported/dark350boots.ozj-f9abda29d1f91f401ea2e1b318d00519.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark350boots.ozj"
+dest_files=["res://.godot/imported/dark350boots.ozj-f9abda29d1f91f401ea2e1b318d00519.res"]
+
+[params]
+

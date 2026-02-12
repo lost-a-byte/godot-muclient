@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2pmlxofl5xu1"
+path="res://.godot/imported/hs_7MasteryStick.bmd-00b457ffc1f5cacbb0db8bb9afd15ab9.scn"
+
+[deps]
+
+source_file="res://Data/Item/hs_7MasteryStick.bmd"
+dest_files=["res://.godot/imported/hs_7MasteryStick.bmd-00b457ffc1f5cacbb0db8bb9afd15ab9.scn"]
+
+[params]
+
+modelScale=0.01

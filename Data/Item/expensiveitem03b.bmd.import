@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://s06h27xo2oat"
+path="res://.godot/imported/expensiveitem03b.bmd-220084374968ea9b562b11084e6d3e11.scn"
+
+[deps]
+
+source_file="res://Data/Item/expensiveitem03b.bmd"
+dest_files=["res://.godot/imported/expensiveitem03b.bmd-220084374968ea9b562b11084e6d3e11.scn"]
+
+[params]
+
+modelScale=0.01

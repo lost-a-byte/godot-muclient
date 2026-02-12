@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crhc0mgl6arij"
+path="res://.godot/imported/woodd.OZJ-550519d639b80efb3397eb466882f99f.res"
+
+[deps]
+
+source_file="res://Data/NPC/cherryblossom/woodd.OZJ"
+dest_files=["res://.godot/imported/woodd.OZJ-550519d639b80efb3397eb466882f99f.res"]
+
+[params]
+

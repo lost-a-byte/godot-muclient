@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://numim1ta1hq"
+path="res://.godot/imported/bozowall.OZJ-2ed40684957033af9c3fe6bf8b030c2a.res"
+
+[deps]
+
+source_file="res://Data/Object32/bozowall.OZJ"
+dest_files=["res://.godot/imported/bozowall.OZJ-2ed40684957033af9c3fe6bf8b030c2a.res"]
+
+[params]
+

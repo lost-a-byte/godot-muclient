@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxqmfk576h4t4"
+path="res://.godot/imported/energy01.OZJ-d1926237b5cf9f87fea9d6b214ee9268.res"
+
+[deps]
+
+source_file="res://Data/Effect/energy01.OZJ"
+dest_files=["res://.godot/imported/energy01.OZJ-d1926237b5cf9f87fea9d6b214ee9268.res"]
+
+[params]
+

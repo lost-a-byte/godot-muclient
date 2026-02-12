@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbtqiaiwphs7o"
+path="res://.godot/imported/sd_soullance01_render.OZJ-6d8cf0ec4b61310a342cd223178a0a5b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_soullance01_render.OZJ"
+dest_files=["res://.godot/imported/sd_soullance01_render.OZJ-6d8cf0ec4b61310a342cd223178a0a5b.res"]
+
+[params]
+

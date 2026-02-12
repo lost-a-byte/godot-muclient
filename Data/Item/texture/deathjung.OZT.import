@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqytv3ndyeavl"
+path="res://.godot/imported/deathjung.OZT-551ced44d5d9f8b320a1d7f0ffa403b8.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/deathjung.OZT"
+dest_files=["res://.godot/imported/deathjung.OZT-551ced44d5d9f8b320a1d7f0ffa403b8.res"]
+
+[params]
+

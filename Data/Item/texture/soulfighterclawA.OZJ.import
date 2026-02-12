@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cw86eh44lfjcu"
+path="res://.godot/imported/soulfighterclawA.OZJ-b029bbf93bd11124bf2d9cdbb1ec1f11.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soulfighterclawA.OZJ"
+dest_files=["res://.godot/imported/soulfighterclawA.OZJ-b029bbf93bd11124bf2d9cdbb1ec1f11.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn8myhi5f3fer"
+path="res://.godot/imported/swampenti_alpha.OZT-cbb63bddd72fd3f134c13259f438686d.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampenti_alpha.OZT"
+dest_files=["res://.godot/imported/swampenti_alpha.OZT-cbb63bddd72fd3f134c13259f438686d.res"]
+
+[params]
+

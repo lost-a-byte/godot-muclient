@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpykjitjt1cqo"
+path="res://.godot/imported/NPC_dopleganger_head.OZJ-2bf74f9a0916f2774f404dd5ad43783f.res"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_dopleganger_head.OZJ"
+dest_files=["res://.godot/imported/NPC_dopleganger_head.OZJ-2bf74f9a0916f2774f404dd5ad43783f.res"]
+
+[params]
+

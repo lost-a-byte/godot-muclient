@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://yulorexcejqu"
+path="res://.godot/imported/newui_chainfo_btn_level.OZT-2832a1dc80c9852bcb417b2c8aca86b9.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_chainfo_btn_level.OZT"
+dest_files=["res://.godot/imported/newui_chainfo_btn_level.OZT-2832a1dc80c9852bcb417b2c8aca86b9.res"]
+
+[params]
+

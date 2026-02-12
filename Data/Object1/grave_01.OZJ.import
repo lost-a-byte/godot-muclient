@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cexq60wqmy3bx"
+path="res://.godot/imported/grave_01.OZJ-f97d08615da2897accae4f6d8669809f.res"
+
+[deps]
+
+source_file="res://Data/Object1/grave_01.OZJ"
+dest_files=["res://.godot/imported/grave_01.OZJ-f97d08615da2897accae4f6d8669809f.res"]
+
+[params]
+

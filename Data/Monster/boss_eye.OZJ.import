@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boeah7w82mr05"
+path="res://.godot/imported/boss_eye.OZJ-22bb307a5d86582f2519a6e568963957.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_eye.OZJ"
+dest_files=["res://.godot/imported/boss_eye.OZJ-22bb307a5d86582f2519a6e568963957.res"]
+
+[params]
+

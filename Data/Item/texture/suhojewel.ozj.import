@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cs67lqqfygq2a"
+path="res://.godot/imported/suhojewel.ozj-4425d49b7038289e699b6aa2336a2e63.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/suhojewel.ozj"
+dest_files=["res://.godot/imported/suhojewel.ozj-4425d49b7038289e699b6aa2336a2e63.res"]
+
+[params]
+

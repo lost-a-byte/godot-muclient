@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://daw8sa0ldfh5l"
+path="res://.godot/imported/karafairywing_render.OZJ-30b155d8079f194e099845c8d354b8e3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/karafairywing_render.OZJ"
+dest_files=["res://.godot/imported/karafairywing_render.OZJ-30b155d8079f194e099845c8d354b8e3.res"]
+
+[params]
+

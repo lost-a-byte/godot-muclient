@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg5u0o8itft14"
+path="res://.godot/imported/hs_Spark01_red01.OZJ-bc36d73e0803f8e0b5f1d10871d6edb4.res"
+
+[deps]
+
+source_file="res://Data/Effect/hs_Spark01_red01.OZJ"
+dest_files=["res://.godot/imported/hs_Spark01_red01.OZJ-bc36d73e0803f8e0b5f1d10871d6edb4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://okug8a85rpwb"
+path="res://.godot/imported/SunFly.OZJ-b70ccedc364b2a399107e2af6e00eb2e.res"
+
+[deps]
+
+source_file="res://Data/Effect/SunFly.OZJ"
+dest_files=["res://.godot/imported/SunFly.OZJ-b70ccedc364b2a399107e2af6e00eb2e.res"]
+
+[params]
+

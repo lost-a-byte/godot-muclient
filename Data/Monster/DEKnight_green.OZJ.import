@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vhxlr6emfspr"
+path="res://.godot/imported/DEKnight_green.OZJ-ca5bde50a6d2f10f1d2b24d95ecb5ee6.res"
+
+[deps]
+
+source_file="res://Data/Monster/DEKnight_green.OZJ"
+dest_files=["res://.godot/imported/DEKnight_green.OZJ-ca5bde50a6d2f10f1d2b24d95ecb5ee6.res"]
+
+[params]
+

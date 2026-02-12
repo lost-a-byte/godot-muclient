@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfi4f10pafinf"
+path="res://.godot/imported/markwing.OZJ-4e3fae41217ff25f5f1c672923c08f7a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/markwing.OZJ"
+dest_files=["res://.godot/imported/markwing.OZJ-4e3fae41217ff25f5f1c672923c08f7a.res"]
+
+[params]
+

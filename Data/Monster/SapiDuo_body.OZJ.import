@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4rvoxfhimcej"
+path="res://.godot/imported/SapiDuo_body.OZJ-c6e625f3d300f1686a81fed9940bc00e.res"
+
+[deps]
+
+source_file="res://Data/Monster/SapiDuo_body.OZJ"
+dest_files=["res://.godot/imported/SapiDuo_body.OZJ-c6e625f3d300f1686a81fed9940bc00e.res"]
+
+[params]
+

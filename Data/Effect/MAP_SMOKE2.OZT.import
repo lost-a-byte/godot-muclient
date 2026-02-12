@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bxxfebkni4uay"
+path="res://.godot/imported/MAP_SMOKE2.OZT-869e466afb85a89fb85189e50fb05ec7.res"
+
+[deps]
+
+source_file="res://Data/Effect/MAP_SMOKE2.OZT"
+dest_files=["res://.godot/imported/MAP_SMOKE2.OZT-869e466afb85a89fb85189e50fb05ec7.res"]
+
+[params]
+

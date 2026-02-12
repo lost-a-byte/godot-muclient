@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfednjsq3my6i"
+path="res://.godot/imported/SportyGirlWing.OZJ-2b5a817c830f296459ca4bf10fa6811f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SportyGirlWing.OZJ"
+dest_files=["res://.godot/imported/SportyGirlWing.OZJ-2b5a817c830f296459ca4bf10fa6811f.res"]
+
+[params]
+

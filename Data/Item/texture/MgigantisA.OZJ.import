@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca2aajvhdswuv"
+path="res://.godot/imported/MgigantisA.OZJ-b661afcfada12d05584ee79af8807b34.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MgigantisA.OZJ"
+dest_files=["res://.godot/imported/MgigantisA.OZJ-b661afcfada12d05584ee79af8807b34.res"]
+
+[params]
+

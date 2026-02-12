@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bipcjpty7oidw"
+path="res://.godot/imported/shadow_knight_7_wrist_right.bmd-e2f9bf954e89d05c37fdcd33584edbca.scn"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_knight_7_wrist_right.bmd"
+dest_files=["res://.godot/imported/shadow_knight_7_wrist_right.bmd-e2f9bf954e89d05c37fdcd33584edbca.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2lbf3wxdisko"
+path="res://.godot/imported/TempleGuard_buildup_Silver.bmd-083c5d0949692d17af328a3334db7db0.scn"
+
+[deps]
+
+source_file="res://Data/Item/TempleGuard_buildup_Silver.bmd"
+dest_files=["res://.godot/imported/TempleGuard_buildup_Silver.bmd-083c5d0949692d17af328a3334db7db0.scn"]
+
+[params]
+
+modelScale=0.01

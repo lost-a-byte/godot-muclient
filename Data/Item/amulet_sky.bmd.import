@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dyfk2addfj7gs"
+path="res://.godot/imported/amulet_sky.bmd-f2188d9b61c39679d92dde82d58f41cb.scn"
+
+[deps]
+
+source_file="res://Data/Item/amulet_sky.bmd"
+dest_files=["res://.godot/imported/amulet_sky.bmd-f2188d9b61c39679d92dde82d58f41cb.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dht71w0cwe887"
+path="res://.godot/imported/succubus_pants.OZT-d8d6a6183981be1424484b7df0b0efbd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_pants.OZT"
+dest_files=["res://.godot/imported/succubus_pants.OZT-d8d6a6183981be1424484b7df0b0efbd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlk01pvy6yrgg"
+path="res://.godot/imported/GhostKnight_eye_00.OZJ-e661180ebbfff828f4be282cf0228088.res"
+
+[deps]
+
+source_file="res://Data/Logo/GhostKnight_eye_00.OZJ"
+dest_files=["res://.godot/imported/GhostKnight_eye_00.OZJ-e661180ebbfff828f4be282cf0228088.res"]
+
+[params]
+

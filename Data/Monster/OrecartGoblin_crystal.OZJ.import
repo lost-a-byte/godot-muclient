@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bk147756536c6"
+path="res://.godot/imported/OrecartGoblin_crystal.OZJ-3ff68ecd10b73665d3578d8be538c83f.res"
+
+[deps]
+
+source_file="res://Data/Monster/OrecartGoblin_crystal.OZJ"
+dest_files=["res://.godot/imported/OrecartGoblin_crystal.OZJ-3ff68ecd10b73665d3578d8be538c83f.res"]
+
+[params]
+

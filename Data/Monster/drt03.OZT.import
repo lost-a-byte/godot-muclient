@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4fvkklunkhft"
+path="res://.godot/imported/drt03.OZT-56e18ecc73ded02e9b8592376e3dcdeb.res"
+
+[deps]
+
+source_file="res://Data/Monster/drt03.OZT"
+dest_files=["res://.godot/imported/drt03.OZT-56e18ecc73ded02e9b8592376e3dcdeb.res"]
+
+[params]
+

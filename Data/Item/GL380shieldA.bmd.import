@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://7sei7tfvaot0"
+path="res://.godot/imported/GL380shieldA.bmd-b2a597ffb7de115fff4c282ee9f5a272.scn"
+
+[deps]
+
+source_file="res://Data/Item/GL380shieldA.bmd"
+dest_files=["res://.godot/imported/GL380shieldA.bmd-b2a597ffb7de115fff4c282ee9f5a272.scn"]
+
+[params]
+
+modelScale=0.01

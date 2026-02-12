@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c7kyb8x47pwsg"
+path="res://.godot/imported/pass_gold.bmd-c5edb1bdac2da40bc7c0c729878b52af.scn"
+
+[deps]
+
+source_file="res://Data/Item/pass_gold.bmd"
+dest_files=["res://.godot/imported/pass_gold.bmd-c5edb1bdac2da40bc7c0c729878b52af.scn"]
+
+[params]
+
+modelScale=0.01

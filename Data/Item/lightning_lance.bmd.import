@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dek5y4spyul1g"
+path="res://.godot/imported/lightning_lance.bmd-20e740d51a0b2a93d91cd04570c5c138.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_lance.bmd"
+dest_files=["res://.godot/imported/lightning_lance.bmd-20e740d51a0b2a93d91cd04570c5c138.scn"]
+
+[params]
+
+modelScale=0.01

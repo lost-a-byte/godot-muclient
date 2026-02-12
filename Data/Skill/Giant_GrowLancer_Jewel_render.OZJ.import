@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cncyutwq0uts2"
+path="res://.godot/imported/Giant_GrowLancer_Jewel_render.OZJ-d731033174f58da4d8d4f18846d1a2b4.res"
+
+[deps]
+
+source_file="res://Data/Skill/Giant_GrowLancer_Jewel_render.OZJ"
+dest_files=["res://.godot/imported/Giant_GrowLancer_Jewel_render.OZJ-d731033174f58da4d8d4f18846d1a2b4.res"]
+
+[params]
+

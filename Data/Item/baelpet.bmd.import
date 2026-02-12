@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cdrup2xvmokqp"
+path="res://.godot/imported/baelpet.bmd-cd96c9dd521261a6aed5abf54ee8b404.scn"
+
+[deps]
+
+source_file="res://Data/Item/baelpet.bmd"
+dest_files=["res://.godot/imported/baelpet.bmd-cd96c9dd521261a6aed5abf54ee8b404.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwh8g6w1itfio"
+path="res://.godot/imported/prsonass.OZT-5ab7aa592d7febcaa724e67d17bbc0ee.res"
+
+[deps]
+
+source_file="res://Data/Monster/prsonass.OZT"
+dest_files=["res://.godot/imported/prsonass.OZT-5ab7aa592d7febcaa724e67d17bbc0ee.res"]
+
+[params]
+

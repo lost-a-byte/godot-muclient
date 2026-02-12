@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://le3iu2r07ugo"
+path="res://.godot/imported/monster_drskin03.OZT-97caf21ee733d7520580cd44c8ad3ec4.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster_drskin03.OZT"
+dest_files=["res://.godot/imported/monster_drskin03.OZT-97caf21ee733d7520580cd44c8ad3ec4.res"]
+
+[params]
+

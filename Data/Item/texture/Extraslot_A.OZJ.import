@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cv71ipcsy2wjq"
+path="res://.godot/imported/Extraslot_A.OZJ-e029b4ad50db7d46cf21363c5b575050.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Extraslot_A.OZJ"
+dest_files=["res://.godot/imported/Extraslot_A.OZJ-e029b4ad50db7d46cf21363c5b575050.res"]
+
+[params]
+

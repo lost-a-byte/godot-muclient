@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1laesbx1w6ka"
+path="res://.godot/imported/PentaExSYellow.OZJ-c83c1961cfbf184405f20f5c84b5a430.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PentaExSYellow.OZJ"
+dest_files=["res://.godot/imported/PentaExSYellow.OZJ-c83c1961cfbf184405f20f5c84b5a430.res"]
+
+[params]
+

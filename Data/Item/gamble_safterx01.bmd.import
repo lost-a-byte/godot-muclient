@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2uf7qnnl1w5l"
+path="res://.godot/imported/gamble_safterx01.bmd-a6ab5a3848a8738bdb95d680eefd8ea8.scn"
+
+[deps]
+
+source_file="res://Data/Item/gamble_safterx01.bmd"
+dest_files=["res://.godot/imported/gamble_safterx01.bmd-a6ab5a3848a8738bdb95d680eefd8ea8.scn"]
+
+[params]
+
+modelScale=0.01

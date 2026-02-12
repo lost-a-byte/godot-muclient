@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ueor0waqynno"
+path="res://.godot/imported/Gremlin_Purple.OZJ-2a2f8e58ae7270898e8572e27746291d.res"
+
+[deps]
+
+source_file="res://Data/Monster/Gremlin_Purple.OZJ"
+dest_files=["res://.godot/imported/Gremlin_Purple.OZJ-2a2f8e58ae7270898e8572e27746291d.res"]
+
+[params]
+

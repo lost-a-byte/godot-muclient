@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cbtfpytkhqctc"
+path="res://.godot/imported/SpiritMap.bmd-48ae900cf36e8f12828b23fdf9ee2579.scn"
+
+[deps]
+
+source_file="res://Data/Item/SpiritMap.bmd"
+dest_files=["res://.godot/imported/SpiritMap.bmd-48ae900cf36e8f12828b23fdf9ee2579.scn"]
+
+[params]
+
+modelScale=0.01

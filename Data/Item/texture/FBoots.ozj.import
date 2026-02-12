@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dd112bwru8lw"
+path="res://.godot/imported/FBoots.ozj-91cc87de8014162a3755b27c18c49e03.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FBoots.ozj"
+dest_files=["res://.godot/imported/FBoots.ozj-91cc87de8014162a3755b27c18c49e03.res"]
+
+[params]
+

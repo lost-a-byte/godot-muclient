@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bk1gap547pvvd"
+path="res://.godot/imported/LifeguardUp_1.OZJ-256b20ef1e2e875ee493f568473d2152.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/LifeguardUp_1.OZJ"
+dest_files=["res://.godot/imported/LifeguardUp_1.OZJ-256b20ef1e2e875ee493f568473d2152.res"]
+
+[params]
+

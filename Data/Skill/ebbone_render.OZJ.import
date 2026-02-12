@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://buygamb7l13kr"
+path="res://.godot/imported/ebbone_render.OZJ-d60f29f60f7d0917a9c2ebbf1f941496.res"
+
+[deps]
+
+source_file="res://Data/Skill/ebbone_render.OZJ"
+dest_files=["res://.godot/imported/ebbone_render.OZJ-d60f29f60f7d0917a9c2ebbf1f941496.res"]
+
+[params]
+

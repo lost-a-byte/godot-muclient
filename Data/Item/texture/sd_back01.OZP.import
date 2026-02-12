@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5qhag2r2yqb0"
+path="res://.godot/imported/sd_back01.OZP-31ebd54613ddc399bab9b235f6704dc1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_back01.OZP"
+dest_files=["res://.godot/imported/sd_back01.OZP-31ebd54613ddc399bab9b235f6704dc1.res"]
+
+[params]
+

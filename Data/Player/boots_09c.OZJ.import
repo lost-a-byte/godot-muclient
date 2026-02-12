@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://byrfm6tknccl8"
+path="res://.godot/imported/boots_09c.OZJ-6861be20b1fcf8a82044ed8fd4160c8a.res"
+
+[deps]
+
+source_file="res://Data/Player/boots_09c.OZJ"
+dest_files=["res://.godot/imported/boots_09c.OZJ-6861be20b1fcf8a82044ed8fd4160c8a.res"]
+
+[params]
+

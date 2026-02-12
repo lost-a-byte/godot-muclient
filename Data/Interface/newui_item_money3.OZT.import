@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bengujwyhl8tw"
+path="res://.godot/imported/newui_item_money3.OZT-34779d5b0f7f746bf2d123ceac2fa6b2.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_money3.OZT"
+dest_files=["res://.godot/imported/newui_item_money3.OZT-34779d5b0f7f746bf2d123ceac2fa6b2.res"]
+
+[params]
+

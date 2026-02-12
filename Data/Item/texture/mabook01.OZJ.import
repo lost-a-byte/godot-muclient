@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6yyh2o2efr37"
+path="res://.godot/imported/mabook01.OZJ-4c16f9b35bf9b89a79bcf3bf52f65d8d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mabook01.OZJ"
+dest_files=["res://.godot/imported/mabook01.OZJ-4c16f9b35bf9b89a79bcf3bf52f65d8d.res"]
+
+[params]
+

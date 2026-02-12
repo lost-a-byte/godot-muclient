@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://uat07nlq6mu3"
+path="res://.godot/imported/Desmodus_evol.bmd-6776c53ba9eed6e799ae53a6a15a03f3.scn"
+
+[deps]
+
+source_file="res://Data/Item/Desmodus_evol.bmd"
+dest_files=["res://.godot/imported/Desmodus_evol.bmd-6776c53ba9eed6e799ae53a6a15a03f3.scn"]
+
+[params]
+
+modelScale=0.01

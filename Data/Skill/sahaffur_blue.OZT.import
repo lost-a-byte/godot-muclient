@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://o52x1ircn5nq"
+path="res://.godot/imported/sahaffur_blue.OZT-f9c030fc0906041d0318642115359f5d.res"
+
+[deps]
+
+source_file="res://Data/Skill/sahaffur_blue.OZT"
+dest_files=["res://.godot/imported/sahaffur_blue.OZT-f9c030fc0906041d0318642115359f5d.res"]
+
+[params]
+

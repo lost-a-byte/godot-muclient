@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://caogrdrkx5byy"
+path="res://.godot/imported/DEKnight_armor.OZJ-e5c3b7190785f2dd26f69631fb95a668.res"
+
+[deps]
+
+source_file="res://Data/Monster/DEKnight_armor.OZJ"
+dest_files=["res://.godot/imported/DEKnight_armor.OZJ-e5c3b7190785f2dd26f69631fb95a668.res"]
+
+[params]
+

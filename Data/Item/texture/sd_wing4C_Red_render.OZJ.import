@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxc24qocpdsbt"
+path="res://.godot/imported/sd_wing4C_Red_render.OZJ-5cc9967a300361b9033b029b0b0a4d2e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_wing4C_Red_render.OZJ"
+dest_files=["res://.godot/imported/sd_wing4C_Red_render.OZJ-5cc9967a300361b9033b029b0b0a4d2e.res"]
+
+[params]
+

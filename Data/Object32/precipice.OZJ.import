@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvnp4o6h73gjv"
+path="res://.godot/imported/precipice.OZJ-904d43d5f5efff5ebb40b84c0200ac40.res"
+
+[deps]
+
+source_file="res://Data/Object32/precipice.OZJ"
+dest_files=["res://.godot/imported/precipice.OZJ-904d43d5f5efff5ebb40b84c0200ac40.res"]
+
+[params]
+

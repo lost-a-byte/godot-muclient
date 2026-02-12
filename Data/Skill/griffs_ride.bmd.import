@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dkkki6xa4owxh"
+path="res://.godot/imported/griffs_ride.bmd-5ebd5d7423e4bd899ed5b9636d6eb014.scn"
+
+[deps]
+
+source_file="res://Data/Skill/griffs_ride.bmd"
+dest_files=["res://.godot/imported/griffs_ride.bmd-5ebd5d7423e4bd899ed5b9636d6eb014.scn"]
+
+[params]
+
+modelScale=0.01

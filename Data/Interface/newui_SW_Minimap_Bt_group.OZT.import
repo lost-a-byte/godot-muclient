@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq0x857s2th7p"
+path="res://.godot/imported/newui_SW_Minimap_Bt_group.OZT-041db6b70537defa1d2efe5ac4e86dd6.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_SW_Minimap_Bt_group.OZT"
+dest_files=["res://.godot/imported/newui_SW_Minimap_Bt_group.OZT-041db6b70537defa1d2efe5ac4e86dd6.res"]
+
+[params]
+

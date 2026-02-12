@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch36572to56cb"
+path="res://.godot/imported/swampenti_wind.OZJ-f6506f01c742db8d1460256626ed80ab.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampenti_wind.OZJ"
+dest_files=["res://.godot/imported/swampenti_wind.OZJ-f6506f01c742db8d1460256626ed80ab.res"]
+
+[params]
+

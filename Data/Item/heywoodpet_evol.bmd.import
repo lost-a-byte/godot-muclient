@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xnuxh10hv23y"
+path="res://.godot/imported/heywoodpet_evol.bmd-e6f41ce0d68c306ad7953d345c02657f.scn"
+
+[deps]
+
+source_file="res://Data/Item/heywoodpet_evol.bmd"
+dest_files=["res://.godot/imported/heywoodpet_evol.bmd-e6f41ce0d68c306ad7953d345c02657f.scn"]
+
+[params]
+
+modelScale=0.01

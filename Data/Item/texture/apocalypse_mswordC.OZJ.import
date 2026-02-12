@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da7adt7ix8c2t"
+path="res://.godot/imported/apocalypse_mswordC.OZJ-8653b5bf41156de58ff77def46c41f5e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_mswordC.OZJ"
+dest_files=["res://.godot/imported/apocalypse_mswordC.OZJ-8653b5bf41156de58ff77def46c41f5e.res"]
+
+[params]
+

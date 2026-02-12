@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2t8ohtfca57m"
+path="res://.godot/imported/BAGsword_render.OZJ-138a3505c45b1c2287b64e4e58e79a5e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BAGsword_render.OZJ"
+dest_files=["res://.godot/imported/BAGsword_render.OZJ-138a3505c45b1c2287b64e4e58e79a5e.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dy1e7ko23wnqy"
+path="res://.godot/imported/Meteo02.bmd-f3091733356e67ddfa0c47fb546c3094.scn"
+
+[deps]
+
+source_file="res://Data/Object40/Meteo02.bmd"
+dest_files=["res://.godot/imported/Meteo02.bmd-f3091733356e67ddfa0c47fb546c3094.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://doyeceqkkh4v4"
+path="res://.godot/imported/message_ok_b_all.OZT-4dc0135e965c82140719cbac677091e8.res"
+
+[deps]
+
+source_file="res://Data/Interface/message_ok_b_all.OZT"
+dest_files=["res://.godot/imported/message_ok_b_all.OZT-4dc0135e965c82140719cbac677091e8.res"]
+
+[params]
+

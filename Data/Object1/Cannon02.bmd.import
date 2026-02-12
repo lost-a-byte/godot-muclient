@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://guaod224mw60"
+path="res://.godot/imported/Cannon02.bmd-d918bfce617eadf773adb3afec1ce290.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Cannon02.bmd"
+dest_files=["res://.godot/imported/Cannon02.bmd-d918bfce617eadf773adb3afec1ce290.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bfdiehprjei8q"
+path="res://.godot/imported/songsomani.bmd-c5ec788b06749e6b18602981c5da3cc4.scn"
+
+[deps]
+
+source_file="res://Data/NPC/songsomani.bmd"
+dest_files=["res://.godot/imported/songsomani.bmd-c5ec788b06749e6b18602981c5da3cc4.scn"]
+
+[params]
+
+modelScale=0.01

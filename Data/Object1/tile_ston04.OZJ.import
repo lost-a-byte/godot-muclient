@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqmo4isrokrf3"
+path="res://.godot/imported/tile_ston04.OZJ-04c48abc9a32dae7ebc5e04637101f16.res"
+
+[deps]
+
+source_file="res://Data/Object1/tile_ston04.OZJ"
+dest_files=["res://.godot/imported/tile_ston04.OZJ-04c48abc9a32dae7ebc5e04637101f16.res"]
+
+[params]
+

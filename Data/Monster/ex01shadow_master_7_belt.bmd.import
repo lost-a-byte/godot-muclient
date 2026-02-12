@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dvakgmg78l5w1"
+path="res://.godot/imported/ex01shadow_master_7_belt.bmd-7801889c283d2748bbfbf55c5ede9093.scn"
+
+[deps]
+
+source_file="res://Data/Monster/ex01shadow_master_7_belt.bmd"
+dest_files=["res://.godot/imported/ex01shadow_master_7_belt.bmd-7801889c283d2748bbfbf55c5ede9093.scn"]
+
+[params]
+
+modelScale=0.01

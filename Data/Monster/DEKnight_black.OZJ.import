@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://glg6mcrc1i2m"
+path="res://.godot/imported/DEKnight_black.OZJ-450b45ffbe1c16047e7f2a3904562654.res"
+
+[deps]
+
+source_file="res://Data/Monster/DEKnight_black.OZJ"
+dest_files=["res://.godot/imported/DEKnight_black.OZJ-450b45ffbe1c16047e7f2a3904562654.res"]
+
+[params]
+

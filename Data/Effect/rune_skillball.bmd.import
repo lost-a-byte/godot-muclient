@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bwr6yacsqdkn7"
+path="res://.godot/imported/rune_skillball.bmd-b641f2aa2f0aef72a3256c676dd7a13c.scn"
+
+[deps]
+
+source_file="res://Data/Effect/rune_skillball.bmd"
+dest_files=["res://.godot/imported/rune_skillball.bmd-b641f2aa2f0aef72a3256c676dd7a13c.scn"]
+
+[params]
+
+modelScale=0.01

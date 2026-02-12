@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://1jmny62p5kry"
+path="res://.godot/imported/npcsanta.bmd-6786e4529f42224f99fb298e82f64453.scn"
+
+[deps]
+
+source_file="res://Data/NPC/npcsanta.bmd"
+dest_files=["res://.godot/imported/npcsanta.bmd-6786e4529f42224f99fb298e82f64453.scn"]
+
+[params]
+
+modelScale=0.01

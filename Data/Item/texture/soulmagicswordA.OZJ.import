@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://m3lp2j6y106v"
+path="res://.godot/imported/soulmagicswordA.OZJ-e1a00afedfe419b72ff4075641338e51.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/soulmagicswordA.OZJ"
+dest_files=["res://.godot/imported/soulmagicswordA.OZJ-e1a00afedfe419b72ff4075641338e51.res"]
+
+[params]
+

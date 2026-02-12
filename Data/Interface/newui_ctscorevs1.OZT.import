@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ueas4ugh3ml8"
+path="res://.godot/imported/newui_ctscorevs1.OZT-ab6743c31159c5c01e111c182e200c9a.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_ctscorevs1.OZT"
+dest_files=["res://.godot/imported/newui_ctscorevs1.OZT-ab6743c31159c5c01e111c182e200c9a.res"]
+
+[params]
+

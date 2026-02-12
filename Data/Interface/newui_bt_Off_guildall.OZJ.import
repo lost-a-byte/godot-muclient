@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boba1gprbp2yq"
+path="res://.godot/imported/newui_bt_Off_guildall.OZJ-810ac44f2400ed1ccb48e3bb76b76df6.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_bt_Off_guildall.OZJ"
+dest_files=["res://.godot/imported/newui_bt_Off_guildall.OZJ-810ac44f2400ed1ccb48e3bb76b76df6.res"]
+
+[params]
+

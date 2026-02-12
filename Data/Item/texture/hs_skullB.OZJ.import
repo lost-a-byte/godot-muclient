@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ceeyit36hatbl"
+path="res://.godot/imported/hs_skullB.OZJ-d5eccc7fd58914bcffda6a6b50727db1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_skullB.OZJ"
+dest_files=["res://.godot/imported/hs_skullB.OZJ-d5eccc7fd58914bcffda6a6b50727db1.res"]
+
+[params]
+

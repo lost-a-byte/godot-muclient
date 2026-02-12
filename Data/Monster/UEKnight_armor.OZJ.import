@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2o7gqv42mu7g"
+path="res://.godot/imported/UEKnight_armor.OZJ-fdf47a91ec665c714afcf9b3f73aa946.res"
+
+[deps]
+
+source_file="res://Data/Monster/UEKnight_armor.OZJ"
+dest_files=["res://.godot/imported/UEKnight_armor.OZJ-fdf47a91ec665c714afcf9b3f73aa946.res"]
+
+[params]
+

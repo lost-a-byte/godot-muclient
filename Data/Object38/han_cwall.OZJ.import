@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dnpg6x23tkksd"
+path="res://.godot/imported/han_cwall.OZJ-004006e44dc4ff31e4d9946904142daa.res"
+
+[deps]
+
+source_file="res://Data/Object38/han_cwall.OZJ"
+dest_files=["res://.godot/imported/han_cwall.OZJ-004006e44dc4ff31e4d9946904142daa.res"]
+
+[params]
+

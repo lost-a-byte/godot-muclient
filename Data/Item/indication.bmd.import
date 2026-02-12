@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2nwhycak1qgd"
+path="res://.godot/imported/indication.bmd-d79b747e53d8119bfee56196f3823618.scn"
+
+[deps]
+
+source_file="res://Data/Item/indication.bmd"
+dest_files=["res://.godot/imported/indication.bmd-d79b747e53d8119bfee56196f3823618.scn"]
+
+[params]
+
+modelScale=0.01

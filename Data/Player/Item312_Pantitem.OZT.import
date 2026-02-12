@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bumjygav38ok0"
+path="res://.godot/imported/Item312_Pantitem.OZT-67221cc4a02f437b47348ea9559767f9.res"
+
+[deps]
+
+source_file="res://Data/Player/Item312_Pantitem.OZT"
+dest_files=["res://.godot/imported/Item312_Pantitem.OZT-67221cc4a02f437b47348ea9559767f9.res"]
+
+[params]
+

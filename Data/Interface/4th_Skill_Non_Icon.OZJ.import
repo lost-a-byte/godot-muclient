@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsje7oluw2agn"
+path="res://.godot/imported/4th_Skill_Non_Icon.OZJ-39be5907c16b306f9639cc9d8a054612.res"
+
+[deps]
+
+source_file="res://Data/Interface/4th_Skill_Non_Icon.OZJ"
+dest_files=["res://.godot/imported/4th_Skill_Non_Icon.OZJ-39be5907c16b306f9639cc9d8a054612.res"]
+
+[params]
+

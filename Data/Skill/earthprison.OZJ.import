@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbvvuif8uexo5"
+path="res://.godot/imported/earthprison.OZJ-3885a8e81e4a46cb73a72b429f7c61d5.res"
+
+[deps]
+
+source_file="res://Data/Skill/earthprison.OZJ"
+dest_files=["res://.godot/imported/earthprison.OZJ-3885a8e81e4a46cb73a72b429f7c61d5.res"]
+
+[params]
+

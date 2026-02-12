@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d36he28egw621"
+path="res://.godot/imported/matera002.OZJ-911402b79816c209cb096e6c448ea389.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/matera002.OZJ"
+dest_files=["res://.godot/imported/matera002.OZJ-911402b79816c209cb096e6c448ea389.res"]
+
+[params]
+

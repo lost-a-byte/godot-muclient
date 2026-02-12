@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjd682gimwde6"
+path="res://.godot/imported/GBnotB.ozj-643177b95dc17b5b8886efb2addac49d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/GBnotB.ozj"
+dest_files=["res://.godot/imported/GBnotB.ozj-643177b95dc17b5b8886efb2addac49d.res"]
+
+[params]
+

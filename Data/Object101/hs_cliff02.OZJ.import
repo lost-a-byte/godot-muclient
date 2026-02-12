@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfib3fm56og0r"
+path="res://.godot/imported/hs_cliff02.OZJ-47d0cfe89312c0e1254b01dec6091f68.res"
+
+[deps]
+
+source_file="res://Data/Object101/hs_cliff02.OZJ"
+dest_files=["res://.godot/imported/hs_cliff02.OZJ-47d0cfe89312c0e1254b01dec6091f68.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca8tbq0sdw4j2"
+path="res://.godot/imported/sd_SPhantom02A.OZJ-904a90d2a2bcfa6086feba6483052d4b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_SPhantom02A.OZJ"
+dest_files=["res://.godot/imported/sd_SPhantom02A.OZJ-904a90d2a2bcfa6086feba6483052d4b.res"]
+
+[params]
+

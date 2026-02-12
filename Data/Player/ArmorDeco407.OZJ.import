@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjeinonwk3fxs"
+path="res://.godot/imported/ArmorDeco407.OZJ-82f7f04f06c3d0220a6742d953170f57.res"
+
+[deps]
+
+source_file="res://Data/Player/ArmorDeco407.OZJ"
+dest_files=["res://.godot/imported/ArmorDeco407.OZJ-82f7f04f06c3d0220a6742d953170f57.res"]
+
+[params]
+

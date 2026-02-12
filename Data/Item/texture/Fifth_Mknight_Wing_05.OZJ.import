@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgxkpxqqcke5x"
+path="res://.godot/imported/Fifth_Mknight_Wing_05.OZJ-94427d742d4074fe235e7654f08e86c0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Mknight_Wing_05.OZJ"
+dest_files=["res://.godot/imported/Fifth_Mknight_Wing_05.OZJ-94427d742d4074fe235e7654f08e86c0.res"]
+
+[params]
+

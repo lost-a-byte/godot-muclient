@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b38vejhqonr4a"
+path="res://.godot/imported/dkhorsebase.OZT-fde7c5549e1b218645c5b5fff6d07226.res"
+
+[deps]
+
+source_file="res://Data/Skill/dkhorsebase.OZT"
+dest_files=["res://.godot/imported/dkhorsebase.OZT-fde7c5549e1b218645c5b5fff6d07226.res"]
+
+[params]
+

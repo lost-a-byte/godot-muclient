@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cumqvbidwolh"
+path="res://.godot/imported/chovolcano_02_R.OZJ-b17ceac6438832215a3c1f28620839ae.res"
+
+[deps]
+
+source_file="res://Data/Effect/chovolcano_02_R.OZJ"
+dest_files=["res://.godot/imported/chovolcano_02_R.OZJ-b17ceac6438832215a3c1f28620839ae.res"]
+
+[params]
+

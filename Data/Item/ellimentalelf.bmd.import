@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxetj42qdbknd"
+path="res://.godot/imported/ellimentalelf.bmd-a86107387711e268838e49edfec20e55.scn"
+
+[deps]
+
+source_file="res://Data/Item/ellimentalelf.bmd"
+dest_files=["res://.godot/imported/ellimentalelf.bmd-a86107387711e268838e49edfec20e55.scn"]
+
+[params]
+
+modelScale=0.01

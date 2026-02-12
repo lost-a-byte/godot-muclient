@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://badbd7dl60h6b"
+path="res://.godot/imported/shiningtails.bmd-4e91a01870b78a6105b0c05a0d567341.scn"
+
+[deps]
+
+source_file="res://Data/Skill/shiningtails.bmd"
+dest_files=["res://.godot/imported/shiningtails.bmd-4e91a01870b78a6105b0c05a0d567341.scn"]
+
+[params]
+
+modelScale=0.01

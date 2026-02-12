@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brdiaapbbjghl"
+path="res://.godot/imported/apocalypse_book_A.OZJ-5443731557fea61669f37c5b93fefbfc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_book_A.OZJ"
+dest_files=["res://.godot/imported/apocalypse_book_A.OZJ-5443731557fea61669f37c5b93fefbfc.res"]
+
+[params]
+

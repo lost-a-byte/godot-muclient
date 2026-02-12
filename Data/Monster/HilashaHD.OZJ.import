@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bri10sgnhmutt"
+path="res://.godot/imported/HilashaHD.OZJ-610ffead02a229a1b8cf2ecfb5f99102.res"
+
+[deps]
+
+source_file="res://Data/Monster/HilashaHD.OZJ"
+dest_files=["res://.godot/imported/HilashaHD.OZJ-610ffead02a229a1b8cf2ecfb5f99102.res"]
+
+[params]
+

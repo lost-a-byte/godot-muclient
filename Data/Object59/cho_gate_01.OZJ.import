@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw0v5dwgqi35k"
+path="res://.godot/imported/cho_gate_01.OZJ-2dfbc08ccd6f8fca395fdedaa3b21de5.res"
+
+[deps]
+
+source_file="res://Data/Object59/cho_gate_01.OZJ"
+dest_files=["res://.godot/imported/cho_gate_01.OZJ-2dfbc08ccd6f8fca395fdedaa3b21de5.res"]
+
+[params]
+

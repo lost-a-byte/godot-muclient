@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cnbrqy46vh7q4"
+path="res://.godot/imported/pandapetring.bmd-b2cbbf8012cbfd49923a894d48a5bc1f.scn"
+
+[deps]
+
+source_file="res://Data/Item/pandapetring.bmd"
+dest_files=["res://.godot/imported/pandapetring.bmd-b2cbbf8012cbfd49923a894d48a5bc1f.scn"]
+
+[params]
+
+modelScale=0.01

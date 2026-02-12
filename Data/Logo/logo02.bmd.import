@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dpvcajhm624cd"
+path="res://.godot/imported/logo02.bmd-2b092bdd28919e6a0a678205a092a006.scn"
+
+[deps]
+
+source_file="res://Data/Logo/logo02.bmd"
+dest_files=["res://.godot/imported/logo02.bmd-2b092bdd28919e6a0a678205a092a006.scn"]
+
+[params]
+
+modelScale=0.01

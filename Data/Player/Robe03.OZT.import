@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://4dwg5xanpsft"
+path="res://.godot/imported/Robe03.OZT-1facf7504a4e6ab87910e67d818116b7.res"
+
+[deps]
+
+source_file="res://Data/Player/Robe03.OZT"
+dest_files=["res://.godot/imported/Robe03.OZT-1facf7504a4e6ab87910e67d818116b7.res"]
+
+[params]
+

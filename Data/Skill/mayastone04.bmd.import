@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cq4x3hi8royb4"
+path="res://.godot/imported/mayastone04.bmd-9e961e76a5138fdd8212956f04a1ff66.scn"
+
+[deps]
+
+source_file="res://Data/Skill/mayastone04.bmd"
+dest_files=["res://.godot/imported/mayastone04.bmd-9e961e76a5138fdd8212956f04a1ff66.scn"]
+
+[params]
+
+modelScale=0.01

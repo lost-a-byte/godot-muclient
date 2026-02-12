@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://orxyhit0726f"
+path="res://.godot/imported/hs_floortilesB.OZJ-844d4e38157b64fd8abfe2e60c4d4fa8.res"
+
+[deps]
+
+source_file="res://Data/Object52/hs_floortilesB.OZJ"
+dest_files=["res://.godot/imported/hs_floortilesB.OZJ-844d4e38157b64fd8abfe2e60c4d4fa8.res"]
+
+[params]
+

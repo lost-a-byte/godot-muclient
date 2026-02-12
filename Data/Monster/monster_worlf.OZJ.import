@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dh8p365njk7hq"
+path="res://.godot/imported/monster_worlf.OZJ-7c924c5a3d67716e9faabe6aabf9b7e9.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster_worlf.OZJ"
+dest_files=["res://.godot/imported/monster_worlf.OZJ-7c924c5a3d67716e9faabe6aabf9b7e9.res"]
+
+[params]
+

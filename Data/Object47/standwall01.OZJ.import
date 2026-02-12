@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch4elrxb0kvn7"
+path="res://.godot/imported/standwall01.OZJ-4779c363b7205df8085926437db16f77.res"
+
+[deps]
+
+source_file="res://Data/Object47/standwall01.OZJ"
+dest_files=["res://.godot/imported/standwall01.OZJ-4779c363b7205df8085926437db16f77.res"]
+
+[params]
+

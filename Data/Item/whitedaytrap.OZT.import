@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b44mmjgmnqu5d"
+path="res://.godot/imported/whitedaytrap.OZT-d60141b2ead3cdf677849d26bd273e8a.res"
+
+[deps]
+
+source_file="res://Data/Item/whitedaytrap.OZT"
+dest_files=["res://.godot/imported/whitedaytrap.OZT-d60141b2ead3cdf677849d26bd273e8a.res"]
+
+[params]
+

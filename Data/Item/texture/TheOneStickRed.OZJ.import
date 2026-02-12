@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwt6byjo0urir"
+path="res://.godot/imported/TheOneStickRed.OZJ-3c3f00ec19f53ad4e4cf2ee3b657f525.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TheOneStickRed.OZJ"
+dest_files=["res://.godot/imported/TheOneStickRed.OZJ-3c3f00ec19f53ad4e4cf2ee3b657f525.res"]
+
+[params]
+

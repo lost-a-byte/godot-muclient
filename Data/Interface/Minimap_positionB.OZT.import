@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3that6yp1n2w"
+path="res://.godot/imported/Minimap_positionB.OZT-b10ab2ae1f56a5d0c327fc796afd09d9.res"
+
+[deps]
+
+source_file="res://Data/Interface/Minimap_positionB.OZT"
+dest_files=["res://.godot/imported/Minimap_positionB.OZT-b10ab2ae1f56a5d0c327fc796afd09d9.res"]
+
+[params]
+

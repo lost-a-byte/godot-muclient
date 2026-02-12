@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5x75d7v5xxk0"
+path="res://.godot/imported/FireSphere1.OZJ-e7f522e8e1b10e8adde421996958ffe2.res"
+
+[deps]
+
+source_file="res://Data/Effect/FireSphere1.OZJ"
+dest_files=["res://.godot/imported/FireSphere1.OZJ-e7f522e8e1b10e8adde421996958ffe2.res"]
+
+[params]
+

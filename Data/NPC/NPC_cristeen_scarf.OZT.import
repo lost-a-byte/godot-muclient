@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://i3vcalj0gg46"
+path="res://.godot/imported/NPC_cristeen_scarf.OZT-4cf5600dffe0287a76cdfd14ff6aef2c.res"
+
+[deps]
+
+source_file="res://Data/NPC/NPC_cristeen_scarf.OZT"
+dest_files=["res://.godot/imported/NPC_cristeen_scarf.OZT-4cf5600dffe0287a76cdfd14ff6aef2c.res"]
+
+[params]
+

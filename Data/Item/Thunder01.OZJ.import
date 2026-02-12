@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0lsnmb8p32p8"
+path="res://.godot/imported/Thunder01.OZJ-11b5dce9803e0f9abbd3498b8665058e.res"
+
+[deps]
+
+source_file="res://Data/Item/Thunder01.OZJ"
+dest_files=["res://.godot/imported/Thunder01.OZJ-11b5dce9803e0f9abbd3498b8665058e.res"]
+
+[params]
+

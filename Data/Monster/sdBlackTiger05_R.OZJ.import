@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ixpjqgjlpspb"
+path="res://.godot/imported/sdBlackTiger05_R.OZJ-d76c3d62b90bdaf0d8bab46aac436a9b.res"
+
+[deps]
+
+source_file="res://Data/Monster/sdBlackTiger05_R.OZJ"
+dest_files=["res://.godot/imported/sdBlackTiger05_R.OZJ-d76c3d62b90bdaf0d8bab46aac436a9b.res"]
+
+[params]
+

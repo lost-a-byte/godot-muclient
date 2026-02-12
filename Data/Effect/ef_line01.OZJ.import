@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rxyfpatw2smk"
+path="res://.godot/imported/ef_line01.OZJ-8c21c4c6233b27f5ec8773bf9f7aec71.res"
+
+[deps]
+
+source_file="res://Data/Effect/ef_line01.OZJ"
+dest_files=["res://.godot/imported/ef_line01.OZJ-8c21c4c6233b27f5ec8773bf9f7aec71.res"]
+
+[params]
+

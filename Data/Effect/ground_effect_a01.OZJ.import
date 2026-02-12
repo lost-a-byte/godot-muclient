@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca2lp0yqjk1ng"
+path="res://.godot/imported/ground_effect_a01.OZJ-d09d11ce002c4a93261159261559e349.res"
+
+[deps]
+
+source_file="res://Data/Effect/ground_effect_a01.OZJ"
+dest_files=["res://.godot/imported/ground_effect_a01.OZJ-d09d11ce002c4a93261159261559e349.res"]
+
+[params]
+

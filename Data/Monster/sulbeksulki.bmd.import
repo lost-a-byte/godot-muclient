@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvdfcycks6681"
+path="res://.godot/imported/sulbeksulki.bmd-2a004b93d51bf873421a725fb01b6660.scn"
+
+[deps]
+
+source_file="res://Data/Monster/sulbeksulki.bmd"
+dest_files=["res://.godot/imported/sulbeksulki.bmd-2a004b93d51bf873421a725fb01b6660.scn"]
+
+[params]
+
+modelScale=0.01

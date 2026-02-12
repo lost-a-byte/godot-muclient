@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://du6i0uxij685w"
+path="res://.godot/imported/shield16.bmd-7d679a228aad5403c2f92bb6edc7dfb3.scn"
+
+[deps]
+
+source_file="res://Data/Item/shield16.bmd"
+dest_files=["res://.godot/imported/shield16.bmd-7d679a228aad5403c2f92bb6edc7dfb3.scn"]
+
+[params]
+
+modelScale=0.01

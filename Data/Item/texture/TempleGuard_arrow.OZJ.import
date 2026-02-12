@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://s6dwby27thjw"
+path="res://.godot/imported/TempleGuard_arrow.OZJ-7babd0a4f898bd586f991bc2a973af3c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_arrow.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_arrow.OZJ-7babd0a4f898bd586f991bc2a973af3c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dsnfdr5pkx71l"
+path="res://.godot/imported/ring4.OZJ-1a41da71d6cdca3a44b2099a402a17d8.res"
+
+[deps]
+
+source_file="res://Data/Skill/ring4.OZJ"
+dest_files=["res://.godot/imported/ring4.OZJ-1a41da71d6cdca3a44b2099a402a17d8.res"]
+
+[params]
+

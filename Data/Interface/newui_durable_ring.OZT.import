@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbkjwemanytwr"
+path="res://.godot/imported/newui_durable_ring.OZT-3f644679b28069192ac8fb2b0a486593.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_durable_ring.OZT"
+dest_files=["res://.godot/imported/newui_durable_ring.OZT-3f644679b28069192ac8fb2b0a486593.res"]
+
+[params]
+

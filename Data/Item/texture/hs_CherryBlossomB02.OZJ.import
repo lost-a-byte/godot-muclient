@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1j8v24wpqgof"
+path="res://.godot/imported/hs_CherryBlossomB02.OZJ-8f88bbbe02599775400d897643365d6a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_CherryBlossomB02.OZJ"
+dest_files=["res://.godot/imported/hs_CherryBlossomB02.OZJ-8f88bbbe02599775400d897643365d6a.res"]
+
+[params]
+

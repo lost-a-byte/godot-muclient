@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://tcsux2ar73kt"
+path="res://.godot/imported/AQ_magician_cloth.OZJ-87ed83039b1968a581db48533112c2e4.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_magician_cloth.OZJ"
+dest_files=["res://.godot/imported/AQ_magician_cloth.OZJ-87ed83039b1968a581db48533112c2e4.res"]
+
+[params]
+

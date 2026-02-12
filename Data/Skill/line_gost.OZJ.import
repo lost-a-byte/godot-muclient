@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vayg53jwxbu4"
+path="res://.godot/imported/line_gost.OZJ-f33535cff26f4b6ce9c48a6373b99594.res"
+
+[deps]
+
+source_file="res://Data/Skill/line_gost.OZJ"
+dest_files=["res://.godot/imported/line_gost.OZJ-f33535cff26f4b6ce9c48a6373b99594.res"]
+
+[params]
+

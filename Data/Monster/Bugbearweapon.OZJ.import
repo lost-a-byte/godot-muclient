@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkownw35mgapm"
+path="res://.godot/imported/Bugbearweapon.OZJ-77e17c82a76daa9a1e51b4d7680cb0c4.res"
+
+[deps]
+
+source_file="res://Data/Monster/Bugbearweapon.OZJ"
+dest_files=["res://.godot/imported/Bugbearweapon.OZJ-77e17c82a76daa9a1e51b4d7680cb0c4.res"]
+
+[params]
+

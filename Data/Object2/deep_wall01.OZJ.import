@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcx5paubivieb"
+path="res://.godot/imported/deep_wall01.OZJ-c425b60ca0445553c1ec118530165424.res"
+
+[deps]
+
+source_file="res://Data/Object2/deep_wall01.OZJ"
+dest_files=["res://.godot/imported/deep_wall01.OZJ-c425b60ca0445553c1ec118530165424.res"]
+
+[params]
+

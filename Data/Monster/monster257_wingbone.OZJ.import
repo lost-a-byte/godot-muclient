@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://da4g50cm32tjv"
+path="res://.godot/imported/monster257_wingbone.OZJ-654c4a5ec85880818635832b63e45b8f.res"
+
+[deps]
+
+source_file="res://Data/Monster/monster257_wingbone.OZJ"
+dest_files=["res://.godot/imported/monster257_wingbone.OZJ-654c4a5ec85880818635832b63e45b8f.res"]
+
+[params]
+

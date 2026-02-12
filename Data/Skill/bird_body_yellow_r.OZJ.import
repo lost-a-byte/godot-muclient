@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1to6ri2g628m"
+path="res://.godot/imported/bird_body_yellow_r.OZJ-04637eb55bd108e342cb5117d5c9c90b.res"
+
+[deps]
+
+source_file="res://Data/Skill/bird_body_yellow_r.OZJ"
+dest_files=["res://.godot/imported/bird_body_yellow_r.OZJ-04637eb55bd108e342cb5117d5c9c90b.res"]
+
+[params]
+

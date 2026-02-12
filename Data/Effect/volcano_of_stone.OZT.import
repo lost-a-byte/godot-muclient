@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwgvdc451aotm"
+path="res://.godot/imported/volcano_of_stone.OZT-0724b9652ad6792d7344b234b03b9302.res"
+
+[deps]
+
+source_file="res://Data/Effect/volcano_of_stone.OZT"
+dest_files=["res://.godot/imported/volcano_of_stone.OZT-0724b9652ad6792d7344b234b03b9302.res"]
+
+[params]
+

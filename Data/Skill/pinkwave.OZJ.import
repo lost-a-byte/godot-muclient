@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqcwf6faf63r7"
+path="res://.godot/imported/pinkwave.OZJ-dacc801e6e7ea76e9af767afdef1334e.res"
+
+[deps]
+
+source_file="res://Data/Skill/pinkwave.OZJ"
+dest_files=["res://.godot/imported/pinkwave.OZJ-dacc801e6e7ea76e9af767afdef1334e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://djy28khpcclws"
+path="res://.godot/imported/msword02.OZT-d1dd17817f4f6b54a49ac74ce068af53.res"
+
+[deps]
+
+source_file="res://Data/Item/msword02.OZT"
+dest_files=["res://.godot/imported/msword02.OZT-d1dd17817f4f6b54a49ac74ce068af53.res"]
+
+[params]
+

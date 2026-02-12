@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://g3jkcr5gatpg"
+path="res://.godot/imported/healer.OZJ-d675506701b6fb8069ee486637826381.res"
+
+[deps]
+
+source_file="res://Data/Monster/healer.OZJ"
+dest_files=["res://.godot/imported/healer.OZJ-d675506701b6fb8069ee486637826381.res"]
+
+[params]
+

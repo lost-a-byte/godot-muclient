@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dbood64djibo4"
+path="res://.godot/imported/wingcore_feather.bmd-4edfac5692f29b909e80f40d522a4ed3.scn"
+
+[deps]
+
+source_file="res://Data/Item/wingcore_feather.bmd"
+dest_files=["res://.godot/imported/wingcore_feather.bmd-4edfac5692f29b909e80f40d522a4ed3.scn"]
+
+[params]
+
+modelScale=0.01

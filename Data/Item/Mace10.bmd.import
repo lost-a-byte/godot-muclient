@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://catpplgccwer"
+path="res://.godot/imported/Mace10.bmd-67157a5f95a0a685bb98967e56c7689a.scn"
+
+[deps]
+
+source_file="res://Data/Item/Mace10.bmd"
+dest_files=["res://.godot/imported/Mace10.bmd-67157a5f95a0a685bb98967e56c7689a.scn"]
+
+[params]
+
+modelScale=0.01

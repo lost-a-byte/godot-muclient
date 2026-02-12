@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://drevcmy1oolnc"
+path="res://.godot/imported/GoblinBox_Yellow.bmd-5b5d431c569cb1ca2c0d1a4196b31abc.scn"
+
+[deps]
+
+source_file="res://Data/Item/GoblinBox_Yellow.bmd"
+dest_files=["res://.godot/imported/GoblinBox_Yellow.bmd-5b5d431c569cb1ca2c0d1a4196b31abc.scn"]
+
+[params]
+
+modelScale=0.01

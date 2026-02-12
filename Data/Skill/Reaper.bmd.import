@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xg8ce8qomcdh"
+path="res://.godot/imported/Reaper.bmd-f11d132349dae3fa057a857c619aa13c.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Reaper.bmd"
+dest_files=["res://.godot/imported/Reaper.bmd-f11d132349dae3fa057a857c619aa13c.scn"]
+
+[params]
+
+modelScale=0.01

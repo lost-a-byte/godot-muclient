@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://m5h6at3aeeij"
+path="res://.godot/imported/Templeguard_FairyShield.bmd-e9a5ff29361fcbff6d02da90d7e82dbc.scn"
+
+[deps]
+
+source_file="res://Data/Item/Templeguard_FairyShield.bmd"
+dest_files=["res://.godot/imported/Templeguard_FairyShield.bmd-e9a5ff29361fcbff6d02da90d7e82dbc.scn"]
+
+[params]
+
+modelScale=0.01

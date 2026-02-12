@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpk31goaw4q0k"
+path="res://.godot/imported/ground_star.OZJ-aa5bb07c7f43905df4743d95e42383c4.res"
+
+[deps]
+
+source_file="res://Data/Skill/ground_star.OZJ"
+dest_files=["res://.godot/imported/ground_star.OZJ-aa5bb07c7f43905df4743d95e42383c4.res"]
+
+[params]
+

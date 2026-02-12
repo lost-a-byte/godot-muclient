@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddvbleg6toupb"
+path="res://.godot/imported/clouds2.OZJ-b831359f2fa79afad4053983d6494c7c.res"
+
+[deps]
+
+source_file="res://Data/Skill/clouds2.OZJ"
+dest_files=["res://.godot/imported/clouds2.OZJ-b831359f2fa79afad4053983d6494c7c.res"]
+
+[params]
+

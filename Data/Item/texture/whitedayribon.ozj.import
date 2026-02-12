@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2e8s3jidp7qj"
+path="res://.godot/imported/whitedayribon.ozj-eb0db1b61c6032b37241f9f48f00e8c4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/whitedayribon.ozj"
+dest_files=["res://.godot/imported/whitedayribon.ozj-eb0db1b61c6032b37241f9f48f00e8c4.res"]
+
+[params]
+

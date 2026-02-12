@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://duuvcclghtek1"
+path="res://.godot/imported/Divine_Soul_rare1.bmd-5ae9510608b383952e76076f27c3d0ce.scn"
+
+[deps]
+
+source_file="res://Data/Item/Divine_Soul_rare1.bmd"
+dest_files=["res://.godot/imported/Divine_Soul_rare1.bmd-5ae9510608b383952e76076f27c3d0ce.scn"]
+
+[params]
+
+modelScale=0.01

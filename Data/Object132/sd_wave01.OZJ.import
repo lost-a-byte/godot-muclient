@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dr5co4qvswill"
+path="res://.godot/imported/sd_wave01.OZJ-70afbc2efdf5c48134c72d79e4f7eef5.res"
+
+[deps]
+
+source_file="res://Data/Object132/sd_wave01.OZJ"
+dest_files=["res://.godot/imported/sd_wave01.OZJ-70afbc2efdf5c48134c72d79e4f7eef5.res"]
+
+[params]
+

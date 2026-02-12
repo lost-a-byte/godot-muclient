@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcs6ycngafr7r"
+path="res://.godot/imported/nis_btnmin.OZJ-e0be43b22e96b744c5e45cdde7ffda79.res"
+
+[deps]
+
+source_file="res://Data/Interface/nis_btnmin.OZJ"
+dest_files=["res://.godot/imported/nis_btnmin.OZJ-e0be43b22e96b744c5e45cdde7ffda79.res"]
+
+[params]
+

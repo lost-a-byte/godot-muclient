@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x1x8weyaoobf"
+path="res://.godot/imported/karafairywing.OZT-7c37b60550b6fe69e1656e4a12b33619.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/karafairywing.OZT"
+dest_files=["res://.godot/imported/karafairywing.OZT-7c37b60550b6fe69e1656e4a12b33619.res"]
+
+[params]
+

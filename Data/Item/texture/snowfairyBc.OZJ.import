@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b43fxcvy80os4"
+path="res://.godot/imported/snowfairyBc.OZJ-99403e221aaaae22990b40dd866ece4f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/snowfairyBc.OZJ"
+dest_files=["res://.godot/imported/snowfairyBc.OZJ-99403e221aaaae22990b40dd866ece4f.res"]
+
+[params]
+

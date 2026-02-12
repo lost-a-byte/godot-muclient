@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c332iyd50f0bl"
+path="res://.godot/imported/win_mail.OZT-3fd7d454072b5cf20fc232bea025a962.res"
+
+[deps]
+
+source_file="res://Data/Interface/win_mail.OZT"
+dest_files=["res://.godot/imported/win_mail.OZT-3fd7d454072b5cf20fc232bea025a962.res"]
+
+[params]
+

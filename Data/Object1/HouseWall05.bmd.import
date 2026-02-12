@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dbpukctjn3agv"
+path="res://.godot/imported/HouseWall05.bmd-38672469ff18dd19717b8388ad7275f8.scn"
+
+[deps]
+
+source_file="res://Data/Object1/HouseWall05.bmd"
+dest_files=["res://.godot/imported/HouseWall05.bmd-38672469ff18dd19717b8388ad7275f8.scn"]
+
+[params]
+
+modelScale=0.01

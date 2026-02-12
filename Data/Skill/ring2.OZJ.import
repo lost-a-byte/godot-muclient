@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bkeitfgody6k"
+path="res://.godot/imported/ring2.OZJ-06b5d86e6dfdc97ce989f69668844f1b.res"
+
+[deps]
+
+source_file="res://Data/Skill/ring2.OZJ"
+dest_files=["res://.godot/imported/ring2.OZJ-06b5d86e6dfdc97ce989f69668844f1b.res"]
+
+[params]
+

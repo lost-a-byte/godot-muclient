@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ur7wairofujp"
+path="res://.godot/imported/Princess01.bmd-ed0d3af46721374c860ec08c6edbb16a.scn"
+
+[deps]
+
+source_file="res://Data/Object63/Princess01.bmd"
+dest_files=["res://.godot/imported/Princess01.bmd-ed0d3af46721374c860ec08c6edbb16a.scn"]
+
+[params]
+
+modelScale=0.01

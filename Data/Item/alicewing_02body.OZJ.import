@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://j76vpxnf5vpm"
+path="res://.godot/imported/alicewing_02body.OZJ-be76e28bb50ab1abee7e40840e78cdca.res"
+
+[deps]
+
+source_file="res://Data/Item/alicewing_02body.OZJ"
+dest_files=["res://.godot/imported/alicewing_02body.OZJ-be76e28bb50ab1abee7e40840e78cdca.res"]
+
+[params]
+

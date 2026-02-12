@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bdjcb30a6l7i2"
+path="res://.godot/imported/s30_spheregold03.bmd-9a9c40c8c205eee5a3108a03f4bac819.scn"
+
+[deps]
+
+source_file="res://Data/Item/s30_spheregold03.bmd"
+dest_files=["res://.godot/imported/s30_spheregold03.bmd-9a9c40c8c205eee5a3108a03f4bac819.scn"]
+
+[params]
+
+modelScale=0.01

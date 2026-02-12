@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://uxyfx36lge7p"
+path="res://.godot/imported/Shild_back_plate.OZJ-93ff513a516e3cdf8b816b426e04fdf1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Shild_back_plate.OZJ"
+dest_files=["res://.godot/imported/Shild_back_plate.OZJ-93ff513a516e3cdf8b816b426e04fdf1.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wf8hmxbe8nnk"
+path="res://.godot/imported/hs_bnightgem.OZJ-2c4e0af6d83a3380ae384f4b9738b878.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_bnightgem.OZJ"
+dest_files=["res://.godot/imported/hs_bnightgem.OZJ-2c4e0af6d83a3380ae384f4b9738b878.res"]
+
+[params]
+

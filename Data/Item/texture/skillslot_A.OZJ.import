@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp3hql6be38fh"
+path="res://.godot/imported/skillslot_A.OZJ-9812e3cd6f6114a3c2929ff2d844e672.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/skillslot_A.OZJ"
+dest_files=["res://.godot/imported/skillslot_A.OZJ-9812e3cd6f6114a3c2929ff2d844e672.res"]
+
+[params]
+

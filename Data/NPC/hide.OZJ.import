@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3bjo2fbmn5hn"
+path="res://.godot/imported/hide.OZJ-1d0cebb2fc3504526f2625be97a8db95.res"
+
+[deps]
+
+source_file="res://Data/NPC/hide.OZJ"
+dest_files=["res://.godot/imported/hide.OZJ-1d0cebb2fc3504526f2625be97a8db95.res"]
+
+[params]
+

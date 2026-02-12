@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b6y0ohof7vliv"
+path="res://.godot/imported/holinessmark.bmd-3b3f9f4ed214d2c302f173496f4ccb17.scn"
+
+[deps]
+
+source_file="res://Data/Item/holinessmark.bmd"
+dest_files=["res://.godot/imported/holinessmark.bmd-3b3f9f4ed214d2c302f173496f4ccb17.scn"]
+
+[params]
+
+modelScale=0.01

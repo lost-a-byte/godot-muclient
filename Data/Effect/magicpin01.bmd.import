@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bx7r1fwji4pjv"
+path="res://.godot/imported/magicpin01.bmd-a2fffc741b988ef43841fc52029a3b24.scn"
+
+[deps]
+
+source_file="res://Data/Effect/magicpin01.bmd"
+dest_files=["res://.godot/imported/magicpin01.bmd-a2fffc741b988ef43841fc52029a3b24.scn"]
+
+[params]
+
+modelScale=0.01

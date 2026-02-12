@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cqx6idh72uhoc"
+path="res://.godot/imported/ground_crack03.OZT-9a4e2a251c697f20696b2109a00eee87.res"
+
+[deps]
+
+source_file="res://Data/Effect/ground_crack03.OZT"
+dest_files=["res://.godot/imported/ground_crack03.OZT-9a4e2a251c697f20696b2109a00eee87.res"]
+
+[params]
+

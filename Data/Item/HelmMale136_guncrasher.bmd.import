@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c4alge8abbhog"
+path="res://.godot/imported/HelmMale136_guncrasher.bmd-3825ba1f5d770bd6487806ac4a694611.scn"
+
+[deps]
+
+source_file="res://Data/Item/HelmMale136_guncrasher.bmd"
+dest_files=["res://.godot/imported/HelmMale136_guncrasher.bmd-3825ba1f5d770bd6487806ac4a694611.scn"]
+
+[params]
+
+modelScale=0.01

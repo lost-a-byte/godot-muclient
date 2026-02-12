@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df0xcjwhg20k"
+path="res://.godot/imported/new_Master_Icon.OZJ-3a31f9625c390159f7be5e9a946ae078.res"
+
+[deps]
+
+source_file="res://Data/Interface/new_Master_Icon.OZJ"
+dest_files=["res://.godot/imported/new_Master_Icon.OZJ-3a31f9625c390159f7be5e9a946ae078.res"]
+
+[params]
+

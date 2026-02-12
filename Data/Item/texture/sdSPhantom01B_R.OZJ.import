@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bgpitiua4aisa"
+path="res://.godot/imported/sdSPhantom01B_R.OZJ-05d787f8d14e130d12e77b342c715d63.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sdSPhantom01B_R.OZJ"
+dest_files=["res://.godot/imported/sdSPhantom01B_R.OZJ-05d787f8d14e130d12e77b342c715d63.res"]
+
+[params]
+

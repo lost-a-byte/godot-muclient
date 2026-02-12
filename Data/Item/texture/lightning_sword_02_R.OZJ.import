@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://do6p3id5x7mx3"
+path="res://.godot/imported/lightning_sword_02_R.OZJ-6667d018cc7eacc788a845acaf1b1ea1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_sword_02_R.OZJ"
+dest_files=["res://.godot/imported/lightning_sword_02_R.OZJ-6667d018cc7eacc788a845acaf1b1ea1.res"]
+
+[params]
+

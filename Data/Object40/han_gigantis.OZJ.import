@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbs0mc8ghfpt7"
+path="res://.godot/imported/han_gigantis.OZJ-b7f501eab1eda9aa27d30d203768cf01.res"
+
+[deps]
+
+source_file="res://Data/Object40/han_gigantis.OZJ"
+dest_files=["res://.godot/imported/han_gigantis.OZJ-b7f501eab1eda9aa27d30d203768cf01.res"]
+
+[params]
+

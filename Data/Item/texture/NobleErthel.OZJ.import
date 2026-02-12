@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddf1ymc0n3pqo"
+path="res://.godot/imported/NobleErthel.OZJ-7c95b3f6d0e580b9188a2c689ea19378.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NobleErthel.OZJ"
+dest_files=["res://.godot/imported/NobleErthel.OZJ-7c95b3f6d0e580b9188a2c689ea19378.res"]
+
+[params]
+

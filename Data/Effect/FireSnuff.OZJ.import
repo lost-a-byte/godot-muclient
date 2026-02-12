@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dut55xgfbetyx"
+path="res://.godot/imported/FireSnuff.OZJ-29a9b30aa8e2a1f665d7f48e2543effd.res"
+
+[deps]
+
+source_file="res://Data/Effect/FireSnuff.OZJ"
+dest_files=["res://.godot/imported/FireSnuff.OZJ-29a9b30aa8e2a1f665d7f48e2543effd.res"]
+
+[params]
+

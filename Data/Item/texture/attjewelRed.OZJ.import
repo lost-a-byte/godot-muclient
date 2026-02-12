@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://begdm0uqnorq2"
+path="res://.godot/imported/attjewelRed.OZJ-52ef34868dec1eb4fc80416e66c5aaad.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/attjewelRed.OZJ"
+dest_files=["res://.godot/imported/attjewelRed.OZJ-52ef34868dec1eb4fc80416e66c5aaad.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cn544dq2es6sw"
+path="res://.godot/imported/wind_foce_mirror.bmd-3ad9020dc0569d1ea3bb6e6b719dd29b.scn"
+
+[deps]
+
+source_file="res://Data/Effect/wind_foce_mirror.bmd"
+dest_files=["res://.godot/imported/wind_foce_mirror.bmd-3ad9020dc0569d1ea3bb6e6b719dd29b.scn"]
+
+[params]
+
+modelScale=0.01

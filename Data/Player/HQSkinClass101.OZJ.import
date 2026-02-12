@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq5pki3fe4jvs"
+path="res://.godot/imported/HQSkinClass101.OZJ-705bf5c6fc08150f7dc6e57e82ae01d2.res"
+
+[deps]
+
+source_file="res://Data/Player/HQSkinClass101.OZJ"
+dest_files=["res://.godot/imported/HQSkinClass101.OZJ-705bf5c6fc08150f7dc6e57e82ae01d2.res"]
+
+[params]
+

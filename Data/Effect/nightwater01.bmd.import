@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b1nwgovopx8a3"
+path="res://.godot/imported/nightwater01.bmd-fc9948fbe2555632c61ec44ad4b32d00.scn"
+
+[deps]
+
+source_file="res://Data/Effect/nightwater01.bmd"
+dest_files=["res://.godot/imported/nightwater01.bmd-fc9948fbe2555632c61ec44ad4b32d00.scn"]
+
+[params]
+
+modelScale=0.01

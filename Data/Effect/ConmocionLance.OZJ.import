@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bvvnx8kh7mcih"
+path="res://.godot/imported/ConmocionLance.OZJ-650772278a18465326da1669d1cb0ea2.res"
+
+[deps]
+
+source_file="res://Data/Effect/ConmocionLance.OZJ"
+dest_files=["res://.godot/imported/ConmocionLance.OZJ-650772278a18465326da1669d1cb0ea2.res"]
+
+[params]
+

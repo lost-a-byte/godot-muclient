@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0kwvjwyb2g8s"
+path="res://.godot/imported/crossshield_cross.OZJ-a2c6d2d8fd3e1bb81dadb859e659a789.res"
+
+[deps]
+
+source_file="res://Data/Item/crossshield_cross.OZJ"
+dest_files=["res://.godot/imported/crossshield_cross.OZJ-a2c6d2d8fd3e1bb81dadb859e659a789.res"]
+
+[params]
+

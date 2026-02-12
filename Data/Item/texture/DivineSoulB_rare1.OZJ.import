@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://fakdu1p4uy8q"
+path="res://.godot/imported/DivineSoulB_rare1.OZJ-3f0230965ece8c437a89ceb8feea3b29.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DivineSoulB_rare1.OZJ"
+dest_files=["res://.godot/imported/DivineSoulB_rare1.OZJ-3f0230965ece8c437a89ceb8feea3b29.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bv0x0cvd1cvkt"
+path="res://.godot/imported/marblewizardUp.bmd-620c36cc58c4493c4cd8f9486856639a.scn"
+
+[deps]
+
+source_file="res://Data/Item/marblewizardUp.bmd"
+dest_files=["res://.godot/imported/marblewizardUp.bmd-620c36cc58c4493c4cd8f9486856639a.scn"]
+
+[params]
+
+modelScale=0.01

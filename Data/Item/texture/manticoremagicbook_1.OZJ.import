@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3wk60nku1vma"
+path="res://.godot/imported/manticoremagicbook_1.OZJ-ea6ccc78fb37a89379a6296eb601405b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/manticoremagicbook_1.OZJ"
+dest_files=["res://.godot/imported/manticoremagicbook_1.OZJ-ea6ccc78fb37a89379a6296eb601405b.res"]
+
+[params]
+

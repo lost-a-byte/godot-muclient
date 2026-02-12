@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dilbwljmpicin"
+path="res://.godot/imported/Flysmallstone1.bmd-6eeac7252473947b34899dcb27dd0cfb.scn"
+
+[deps]
+
+source_file="res://Data/Skill/Flysmallstone1.bmd"
+dest_files=["res://.godot/imported/Flysmallstone1.bmd-6eeac7252473947b34899dcb27dd0cfb.scn"]
+
+[params]
+
+modelScale=0.01

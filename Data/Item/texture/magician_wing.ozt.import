@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpev38g7lg68n"
+path="res://.godot/imported/magician_wing.ozt-3c38102bf267a51e940edf4c0990a67a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magician_wing.ozt"
+dest_files=["res://.godot/imported/magician_wing.ozt-3c38102bf267a51e940edf4c0990a67a.res"]
+
+[params]
+

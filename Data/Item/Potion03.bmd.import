@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2fhkn6fbt3pq"
+path="res://.godot/imported/Potion03.bmd-1110f53af5d7d5172c2abbdda1259586.scn"
+
+[deps]
+
+source_file="res://Data/Item/Potion03.bmd"
+dest_files=["res://.godot/imported/Potion03.bmd-1110f53af5d7d5172c2abbdda1259586.scn"]
+
+[params]
+
+modelScale=0.01

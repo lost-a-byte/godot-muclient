@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b8q0f5prtxnqj"
+path="res://.godot/imported/cherrybox.bmd-a87e964a5d4564cf5a669a8910667354.scn"
+
+[deps]
+
+source_file="res://Data/Item/cherrybox.bmd"
+dest_files=["res://.godot/imported/cherrybox.bmd-a87e964a5d4564cf5a669a8910667354.scn"]
+
+[params]
+
+modelScale=0.01

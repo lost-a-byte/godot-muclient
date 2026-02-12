@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8k1x8qn7061"
+path="res://.godot/imported/totemgolem_body.OZJ-2a5e820f2c3eb495a68426d84faa9b03.res"
+
+[deps]
+
+source_file="res://Data/Monster/totemgolem_body.OZJ"
+dest_files=["res://.godot/imported/totemgolem_body.OZJ-2a5e820f2c3eb495a68426d84faa9b03.res"]
+
+[params]
+

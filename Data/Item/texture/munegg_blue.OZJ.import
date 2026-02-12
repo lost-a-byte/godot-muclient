@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1i05jf5uyvtm"
+path="res://.godot/imported/munegg_blue.OZJ-172ad3818722f6617b9e43833df264b2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/munegg_blue.OZJ"
+dest_files=["res://.godot/imported/munegg_blue.OZJ-172ad3818722f6617b9e43833df264b2.res"]
+
+[params]
+

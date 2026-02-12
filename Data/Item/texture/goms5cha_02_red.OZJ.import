@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6mja20jikrx2"
+path="res://.godot/imported/goms5cha_02_red.OZJ-53ebc629b7a95e3e1e0337ca925d185d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/goms5cha_02_red.OZJ"
+dest_files=["res://.godot/imported/goms5cha_02_red.OZJ-53ebc629b7a95e3e1e0337ca925d185d.res"]
+
+[params]
+

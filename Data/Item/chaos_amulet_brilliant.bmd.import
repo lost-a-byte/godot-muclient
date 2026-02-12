@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b5g8bq7ukgd28"
+path="res://.godot/imported/chaos_amulet_brilliant.bmd-8b2aa935d9525e72c0bb5cc3d4a02b4c.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_amulet_brilliant.bmd"
+dest_files=["res://.godot/imported/chaos_amulet_brilliant.bmd-8b2aa935d9525e72c0bb5cc3d4a02b4c.scn"]
+
+[params]
+
+modelScale=0.01

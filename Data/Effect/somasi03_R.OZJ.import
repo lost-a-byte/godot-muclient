@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b56kuluynmbvj"
+path="res://.godot/imported/somasi03_R.OZJ-f32aee5139bc6f1763a0a84a78186363.res"
+
+[deps]
+
+source_file="res://Data/Effect/somasi03_R.OZJ"
+dest_files=["res://.godot/imported/somasi03_R.OZJ-f32aee5139bc6f1763a0a84a78186363.res"]
+
+[params]
+

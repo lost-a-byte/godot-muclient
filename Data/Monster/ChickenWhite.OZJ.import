@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6f3bh5wvr5us"
+path="res://.godot/imported/ChickenWhite.OZJ-26b9a3e2fd0fcdc20501de49ebef5511.res"
+
+[deps]
+
+source_file="res://Data/Monster/ChickenWhite.OZJ"
+dest_files=["res://.godot/imported/ChickenWhite.OZJ-26b9a3e2fd0fcdc20501de49ebef5511.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bo8dgy6pwprea"
+path="res://.godot/imported/williuming_R.OZJ-bb2cbee9bc08cb0e751feb94fe9323ae.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/williuming_R.OZJ"
+dest_files=["res://.godot/imported/williuming_R.OZJ-bb2cbee9bc08cb0e751feb94fe9323ae.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvyjeiw8h4qsy"
+path="res://.godot/imported/impact_foce03.bmd-a75249568862ae2dad11ae00f7c6957f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/impact_foce03.bmd"
+dest_files=["res://.godot/imported/impact_foce03.bmd-a75249568862ae2dad11ae00f7c6957f.scn"]
+
+[params]
+
+modelScale=0.01

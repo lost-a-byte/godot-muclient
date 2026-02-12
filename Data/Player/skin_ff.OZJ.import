@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c0ghged607rrf"
+path="res://.godot/imported/skin_ff.OZJ-d2052c0c42f5cb8e0f65018c188d9204.res"
+
+[deps]
+
+source_file="res://Data/Player/skin_ff.OZJ"
+dest_files=["res://.godot/imported/skin_ff.OZJ-d2052c0c42f5cb8e0f65018c188d9204.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b4020oxaht8ny"
+path="res://.godot/imported/Fifth_Darklord_cape_04_r.OZJ-923c9cdaf75c4ecbae0a5967971c4591.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Darklord_cape_04_r.OZJ"
+dest_files=["res://.godot/imported/Fifth_Darklord_cape_04_r.OZJ-923c9cdaf75c4ecbae0a5967971c4591.res"]
+
+[params]
+

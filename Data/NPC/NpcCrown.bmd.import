@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://wg7jki1ol5jb"
+path="res://.godot/imported/NpcCrown.bmd-9d5fcc217d5e2c93da49d455e6c54bac.scn"
+
+[deps]
+
+source_file="res://Data/NPC/NpcCrown.bmd"
+dest_files=["res://.godot/imported/NpcCrown.bmd-9d5fcc217d5e2c93da49d455e6c54bac.scn"]
+
+[params]
+
+modelScale=0.01

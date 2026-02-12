@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyprwairm6l0b"
+path="res://.godot/imported/boots_luck18.OZJ-abcca443a46b8c4cf9170c0017fcf9da.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/66/boots_luck18.OZJ"
+dest_files=["res://.godot/imported/boots_luck18.OZJ-abcca443a46b8c4cf9170c0017fcf9da.res"]
+
+[params]
+

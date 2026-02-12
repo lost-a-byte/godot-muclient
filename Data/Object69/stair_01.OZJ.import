@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dovoyononhchq"
+path="res://.godot/imported/stair_01.OZJ-c2a983d803b7ecce0a3c3aecce16f9da.res"
+
+[deps]
+
+source_file="res://Data/Object69/stair_01.OZJ"
+dest_files=["res://.godot/imported/stair_01.OZJ-c2a983d803b7ecce0a3c3aecce16f9da.res"]
+
+[params]
+

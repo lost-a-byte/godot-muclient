@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca6el2vnbw3px"
+path="res://.godot/imported/HolyAngelStick_R.OZJ-47e97d194c39c8c45f4b296964d63f17.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/HolyAngelStick_R.OZJ"
+dest_files=["res://.godot/imported/HolyAngelStick_R.OZJ-47e97d194c39c8c45f4b296964d63f17.res"]
+
+[params]
+

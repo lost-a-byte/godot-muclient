@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bsew6osembhh7"
+path="res://.godot/imported/Alchemistmuun.bmd-fd49f315e5cf58da34db1c44a91b705b.scn"
+
+[deps]
+
+source_file="res://Data/Item/Alchemistmuun.bmd"
+dest_files=["res://.godot/imported/Alchemistmuun.bmd-fd49f315e5cf58da34db1c44a91b705b.scn"]
+
+[params]
+
+modelScale=0.01

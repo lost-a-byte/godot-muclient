@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cubkp8ppspke2"
+path="res://.godot/imported/eventgirl_bell.OZJ-3fe1d79f2177cb362526082e66e1c7f6.res"
+
+[deps]
+
+source_file="res://Data/Skill/eventgirl_bell.OZJ"
+dest_files=["res://.godot/imported/eventgirl_bell.OZJ-3fe1d79f2177cb362526082e66e1c7f6.res"]
+
+[params]
+

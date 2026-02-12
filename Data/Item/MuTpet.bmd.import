@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://75bglly0rdq0"
+path="res://.godot/imported/MuTpet.bmd-f96e105796c73b70bab52b43ec95a735.scn"
+
+[deps]
+
+source_file="res://Data/Item/MuTpet.bmd"
+dest_files=["res://.godot/imported/MuTpet.bmd-f96e105796c73b70bab52b43ec95a735.scn"]
+
+[params]
+
+modelScale=0.01

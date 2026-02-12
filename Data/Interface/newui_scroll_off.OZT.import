@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxxehucgtbxpl"
+path="res://.godot/imported/newui_scroll_off.OZT-259db82dec5f97fb357e67f93872a703.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_scroll_off.OZT"
+dest_files=["res://.godot/imported/newui_scroll_off.OZT-259db82dec5f97fb357e67f93872a703.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://17ank1f6yxyt"
+path="res://.godot/imported/mtb.ozj-af4a5147525e656d1ce822f9baa7e330.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mtb.ozj"
+dest_files=["res://.godot/imported/mtb.ozj-af4a5147525e656d1ce822f9baa7e330.res"]
+
+[params]
+

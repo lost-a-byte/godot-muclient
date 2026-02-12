@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crbmu17evrn0o"
+path="res://.godot/imported/Imperial_scepter_04.OZJ-d56a3ab7f5fb0aab53acd3adae4299cd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Imperial_scepter_04.OZJ"
+dest_files=["res://.godot/imported/Imperial_scepter_04.OZJ-d56a3ab7f5fb0aab53acd3adae4299cd.res"]
+
+[params]
+

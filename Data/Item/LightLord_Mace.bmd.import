@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bfi0gqk0v3b2y"
+path="res://.godot/imported/LightLord_Mace.bmd-5a1ed11d18eb2f57c634c9c8bf332481.scn"
+
+[deps]
+
+source_file="res://Data/Item/LightLord_Mace.bmd"
+dest_files=["res://.godot/imported/LightLord_Mace.bmd-5a1ed11d18eb2f57c634c9c8bf332481.scn"]
+
+[params]
+
+modelScale=0.01

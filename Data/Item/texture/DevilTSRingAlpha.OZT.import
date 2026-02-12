@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvolkvgme4otx"
+path="res://.godot/imported/DevilTSRingAlpha.OZT-f6478ad02b81a5cb5b7dd44938f7088d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DevilTSRingAlpha.OZT"
+dest_files=["res://.godot/imported/DevilTSRingAlpha.OZT-f6478ad02b81a5cb5b7dd44938f7088d.res"]
+
+[params]
+

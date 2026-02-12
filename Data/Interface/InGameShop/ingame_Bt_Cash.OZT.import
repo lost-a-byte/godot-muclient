@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjo7idqp5pguk"
+path="res://.godot/imported/ingame_Bt_Cash.OZT-d379f0ce34b5098c673b039a7e38e2bd.res"
+
+[deps]
+
+source_file="res://Data/Interface/InGameShop/ingame_Bt_Cash.OZT"
+dest_files=["res://.godot/imported/ingame_Bt_Cash.OZT-d379f0ce34b5098c673b039a7e38e2bd.res"]
+
+[params]
+

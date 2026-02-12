@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ceitdecyru8r6"
+path="res://.godot/imported/wooparoopet.bmd-65dfd75711c989c7271d5aa6f8e891a7.scn"
+
+[deps]
+
+source_file="res://Data/Item/wooparoopet.bmd"
+dest_files=["res://.godot/imported/wooparoopet.bmd-65dfd75711c989c7271d5aa6f8e891a7.scn"]
+
+[params]
+
+modelScale=0.01

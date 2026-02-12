@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cho56emdmp5ow"
+path="res://.godot/imported/ArmorMail3003.bmd-c2723163af5750aa447bbe3f0affde1e.scn"
+
+[deps]
+
+source_file="res://Data/Item/ArmorMail3003.bmd"
+dest_files=["res://.godot/imported/ArmorMail3003.bmd-c2723163af5750aa447bbe3f0affde1e.scn"]
+
+[params]
+
+modelScale=0.01

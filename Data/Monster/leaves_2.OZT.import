@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c710rf72crsg1"
+path="res://.godot/imported/leaves_2.OZT-f566f24251aadadacd07c9ac1a859743.res"
+
+[deps]
+
+source_file="res://Data/Monster/leaves_2.OZT"
+dest_files=["res://.godot/imported/leaves_2.OZT-f566f24251aadadacd07c9ac1a859743.res"]
+
+[params]
+

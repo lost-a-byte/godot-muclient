@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dx3shkmcbc5hd"
+path="res://.godot/imported/firehik01_gold.OZJ-fd44108984a7905fba92fd3de01b6c4b.res"
+
+[deps]
+
+source_file="res://Data/Effect/firehik01_gold.OZJ"
+dest_files=["res://.godot/imported/firehik01_gold.OZJ-fd44108984a7905fba92fd3de01b6c4b.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bmvhhn6s0lky4"
+path="res://.godot/imported/JointSpirit01.OZJ-a931af85d0a22d21bce3e017209493a9.res"
+
+[deps]
+
+source_file="res://Data/Monster/JointSpirit01.OZJ"
+dest_files=["res://.godot/imported/JointSpirit01.OZJ-a931af85d0a22d21bce3e017209493a9.res"]
+
+[params]
+

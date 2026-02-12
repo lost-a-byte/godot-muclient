@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gna1rxb3er1"
+path="res://.godot/imported/DarkLordSign.OZJ-19f38d8dd1eb43c2478aa02ce35777ee.res"
+
+[deps]
+
+source_file="res://Data/Item/DarkLordSign.OZJ"
+dest_files=["res://.godot/imported/DarkLordSign.OZJ-19f38d8dd1eb43c2478aa02ce35777ee.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7ordodaenpm7"
+path="res://.godot/imported/wing_right.OZT-da09f51d47a7c78809635bf8aaf69f52.res"
+
+[deps]
+
+source_file="res://Data/Interface/wing_right.OZT"
+dest_files=["res://.godot/imported/wing_right.OZT-da09f51d47a7c78809635bf8aaf69f52.res"]
+
+[params]
+

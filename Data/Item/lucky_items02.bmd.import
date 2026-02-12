@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfmwqe3npfb30"
+path="res://.godot/imported/lucky_items02.bmd-c722ee07a59fda9119d767ad46730bfe.scn"
+
+[deps]
+
+source_file="res://Data/Item/lucky_items02.bmd"
+dest_files=["res://.godot/imported/lucky_items02.bmd-c722ee07a59fda9119d767ad46730bfe.scn"]
+
+[params]
+
+modelScale=0.01

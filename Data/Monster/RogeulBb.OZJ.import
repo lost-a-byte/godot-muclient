@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bjbqwvfml65an"
+path="res://.godot/imported/RogeulBb.OZJ-4ab7b5a43d1d49a8b18760a1def544b6.res"
+
+[deps]
+
+source_file="res://Data/Monster/RogeulBb.OZJ"
+dest_files=["res://.godot/imported/RogeulBb.OZJ-4ab7b5a43d1d49a8b18760a1def544b6.res"]
+
+[params]
+

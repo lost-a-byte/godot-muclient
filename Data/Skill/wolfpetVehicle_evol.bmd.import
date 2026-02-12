@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://o4kvdh1gqqn6"
+path="res://.godot/imported/wolfpetVehicle_evol.bmd-65553a0d7602c93fa91ef5da472c0ce3.scn"
+
+[deps]
+
+source_file="res://Data/Skill/wolfpetVehicle_evol.bmd"
+dest_files=["res://.godot/imported/wolfpetVehicle_evol.bmd-65553a0d7602c93fa91ef5da472c0ce3.scn"]
+
+[params]
+
+modelScale=0.01

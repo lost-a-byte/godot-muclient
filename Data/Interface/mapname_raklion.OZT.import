@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqvfck5ew842"
+path="res://.godot/imported/mapname_raklion.OZT-57a70f45d66262ca04aa130e114e91e4.res"
+
+[deps]
+
+source_file="res://Data/Interface/mapname_raklion.OZT"
+dest_files=["res://.godot/imported/mapname_raklion.OZT-57a70f45d66262ca04aa130e114e91e4.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bk4tuj0xo7w2o"
+path="res://.godot/imported/AL_elixir09_02.OZJ-390e070bea06609b6dc20007f0617232.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AL_elixir09_02.OZJ"
+dest_files=["res://.godot/imported/AL_elixir09_02.OZJ-390e070bea06609b6dc20007f0617232.res"]
+
+[params]
+

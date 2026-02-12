@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ql62mlrwi7hm"
+path="res://.godot/imported/7mastery_mixiteam.bmd-8186335c25fe1348de34f0936d3b757c.scn"
+
+[deps]
+
+source_file="res://Data/Item/7mastery_mixiteam.bmd"
+dest_files=["res://.godot/imported/7mastery_mixiteam.bmd-8186335c25fe1348de34f0936d3b757c.scn"]
+
+[params]
+
+modelScale=0.01

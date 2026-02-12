@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c07asm2uq16gs"
+path="res://.godot/imported/gallia_mainbody.OZT-39c4dbf08e50841130c6488ca066250a.res"
+
+[deps]
+
+source_file="res://Data/Monster/gallia_mainbody.OZT"
+dest_files=["res://.godot/imported/gallia_mainbody.OZT-39c4dbf08e50841130c6488ca066250a.res"]
+
+[params]
+

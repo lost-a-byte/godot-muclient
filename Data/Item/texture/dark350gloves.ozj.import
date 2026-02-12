@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://clatjf0sc06ue"
+path="res://.godot/imported/dark350gloves.ozj-d1e25b682530b9f191cbf335ac8737f3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dark350gloves.ozj"
+dest_files=["res://.godot/imported/dark350gloves.ozj-d1e25b682530b9f191cbf335ac8737f3.res"]
+
+[params]
+

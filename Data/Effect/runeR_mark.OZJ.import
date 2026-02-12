@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hhxnw5ov13jt"
+path="res://.godot/imported/runeR_mark.OZJ-ce8ff8d1503901b0842acbd9e0ea713c.res"
+
+[deps]
+
+source_file="res://Data/Effect/runeR_mark.OZJ"
+dest_files=["res://.godot/imported/runeR_mark.OZJ-ce8ff8d1503901b0842acbd9e0ea713c.res"]
+
+[params]
+

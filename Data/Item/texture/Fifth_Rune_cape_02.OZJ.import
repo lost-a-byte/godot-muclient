@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dhknl2ffkwlwt"
+path="res://.godot/imported/Fifth_Rune_cape_02.OZJ-09835839e37723ffa28a2b8a5b22485d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Fifth_Rune_cape_02.OZJ"
+dest_files=["res://.godot/imported/Fifth_Rune_cape_02.OZJ-09835839e37723ffa28a2b8a5b22485d.res"]
+
+[params]
+

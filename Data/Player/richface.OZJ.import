@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://biplayqmewk2a"
+path="res://.godot/imported/richface.OZJ-15121818e769eaaf6de4bc46ddbbbe91.res"
+
+[deps]
+
+source_file="res://Data/Player/richface.OZJ"
+dest_files=["res://.godot/imported/richface.OZJ-15121818e769eaaf6de4bc46ddbbbe91.res"]
+
+[params]
+

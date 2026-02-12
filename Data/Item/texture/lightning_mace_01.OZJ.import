@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cwe83fxfp8i6c"
+path="res://.godot/imported/lightning_mace_01.OZJ-14df93bb28b6d9984028fb1e541a3f14.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_mace_01.OZJ"
+dest_files=["res://.godot/imported/lightning_mace_01.OZJ-14df93bb28b6d9984028fb1e541a3f14.res"]
+
+[params]
+

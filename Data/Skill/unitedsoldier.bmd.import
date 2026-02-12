@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://da2h1wy7h1l6v"
+path="res://.godot/imported/unitedsoldier.bmd-7cb882d9fb79afbd9b3a984247352cbf.scn"
+
+[deps]
+
+source_file="res://Data/Skill/unitedsoldier.bmd"
+dest_files=["res://.godot/imported/unitedsoldier.bmd-7cb882d9fb79afbd9b3a984247352cbf.scn"]
+
+[params]
+
+modelScale=0.01

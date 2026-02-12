@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bx2qfr25b31j"
+path="res://.godot/imported/wingstick.ozj-98daaf93e9da07f70f2f2419d0a5002c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/wingstick.ozj"
+dest_files=["res://.godot/imported/wingstick.ozj-98daaf93e9da07f70f2f2419d0a5002c.res"]
+
+[params]
+

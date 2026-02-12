@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.enc-terrain-map"
+type="ArrayMesh"
+uid="uid://cleafx3ya17sp"
+valid=false
+
+[deps]
+
+source_file="res://Data/World67/EncTerrain67.map"
+
+[params]
+
+heightScale=0.015686275

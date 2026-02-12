@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dj0g2tv8lxedi"
+path="res://.godot/imported/muun_level_brave_warrior.OZT-176e76140bcffe671e2f77691c282654.res"
+
+[deps]
+
+source_file="res://Data/Interface/muun_level_brave_warrior.OZT"
+dest_files=["res://.godot/imported/muun_level_brave_warrior.OZT-176e76140bcffe671e2f77691c282654.res"]
+
+[params]
+

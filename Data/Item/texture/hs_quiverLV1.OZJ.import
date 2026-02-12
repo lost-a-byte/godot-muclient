@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmquvhcqfx3hx"
+path="res://.godot/imported/hs_quiverLV1.OZJ-eb5f6db6b3e496b76d80ce6d15882078.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_quiverLV1.OZJ"
+dest_files=["res://.godot/imported/hs_quiverLV1.OZJ-eb5f6db6b3e496b76d80ce6d15882078.res"]
+
+[params]
+

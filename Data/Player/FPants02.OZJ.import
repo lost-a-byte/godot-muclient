@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x4m334p3dp8y"
+path="res://.godot/imported/FPants02.OZJ-b57c4b5b4a88566446df233313639e66.res"
+
+[deps]
+
+source_file="res://Data/Player/FPants02.OZJ"
+dest_files=["res://.godot/imported/FPants02.OZJ-b57c4b5b4a88566446df233313639e66.res"]
+
+[params]
+

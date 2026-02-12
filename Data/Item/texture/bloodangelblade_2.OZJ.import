@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg2e7q5yynmdk"
+path="res://.godot/imported/bloodangelblade_2.OZJ-675c7a2b2a4edb2e6c86c16d097dd8d5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/bloodangelblade_2.OZJ"
+dest_files=["res://.godot/imported/bloodangelblade_2.OZJ-675c7a2b2a4edb2e6c86c16d097dd8d5.res"]
+
+[params]
+

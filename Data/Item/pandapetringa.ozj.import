@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://657eykegv15s"
+path="res://.godot/imported/pandapetringa.ozj-e9cc97045a89f8874cb58af2aa5848b8.res"
+
+[deps]
+
+source_file="res://Data/Item/pandapetringa.ozj"
+dest_files=["res://.godot/imported/pandapetringa.ozj-e9cc97045a89f8874cb58af2aa5848b8.res"]
+
+[params]
+

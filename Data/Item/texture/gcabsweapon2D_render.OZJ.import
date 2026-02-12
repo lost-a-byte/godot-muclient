@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dt0fraeusdank"
+path="res://.godot/imported/gcabsweapon2D_render.OZJ-d01fcf9ec473b74e7f9ba5f0473de655.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/gcabsweapon2D_render.OZJ"
+dest_files=["res://.godot/imported/gcabsweapon2D_render.OZJ-d01fcf9ec473b74e7f9ba5f0473de655.res"]
+
+[params]
+

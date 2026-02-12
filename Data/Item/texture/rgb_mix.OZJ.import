@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://baapkld40v1ki"
+path="res://.godot/imported/rgb_mix.OZJ-6622bee69d682a779e568d23e1d770f4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/rgb_mix.OZJ"
+dest_files=["res://.godot/imported/rgb_mix.OZJ-6622bee69d682a779e568d23e1d770f4.res"]
+
+[params]
+

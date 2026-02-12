@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfevrxhevdoy5"
+path="res://.godot/imported/DarkLordRobe.bmd-c95130d958a1980d48f38683e611cf9a.scn"
+
+[deps]
+
+source_file="res://Data/Item/DarkLordRobe.bmd"
+dest_files=["res://.godot/imported/DarkLordRobe.bmd-c95130d958a1980d48f38683e611cf9a.scn"]
+
+[params]
+
+modelScale=0.01

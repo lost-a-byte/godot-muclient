@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://djrlrqdbnh4uw"
+path="res://.godot/imported/SnowWizard01.bmd-6379bb655158a165450b3d7e79c0155b.scn"
+
+[deps]
+
+source_file="res://Data/NPC/SnowWizard01.bmd"
+dest_files=["res://.godot/imported/SnowWizard01.bmd-6379bb655158a165450b3d7e79c0155b.scn"]
+
+[params]
+
+modelScale=0.01

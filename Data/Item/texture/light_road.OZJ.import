@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2f6r4iiantwx"
+path="res://.godot/imported/light_road.OZJ-305d8fd66f6fa9126cf51fdb2b01adc2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/light_road.OZJ"
+dest_files=["res://.godot/imported/light_road.OZJ-305d8fd66f6fa9126cf51fdb2b01adc2.res"]
+
+[params]
+

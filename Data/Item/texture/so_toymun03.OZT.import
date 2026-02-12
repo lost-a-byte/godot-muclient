@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://x8l5ksi4k8m0"
+path="res://.godot/imported/so_toymun03.OZT-af26cace97ec6f63e0e4cb303694865c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_toymun03.OZT"
+dest_files=["res://.godot/imported/so_toymun03.OZT-af26cace97ec6f63e0e4cb303694865c.res"]
+
+[params]
+

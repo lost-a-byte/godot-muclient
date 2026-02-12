@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c07un6c0613s0"
+path="res://.godot/imported/TempleGuard_Stick_01.OZJ-5f27d2f6a6ccc115651e2517f2c7e8c5.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TempleGuard_Stick_01.OZJ"
+dest_files=["res://.godot/imported/TempleGuard_Stick_01.OZJ-5f27d2f6a6ccc115651e2517f2c7e8c5.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bynf3dyw06cxs"
+path="res://.godot/imported/castlegate01.OZJ-4f69152f7b989f5ae4d80f72809ede4c.res"
+
+[deps]
+
+source_file="res://Data/Object31/castlegate01.OZJ"
+dest_files=["res://.godot/imported/castlegate01.OZJ-4f69152f7b989f5ae4d80f72809ede4c.res"]
+
+[params]
+

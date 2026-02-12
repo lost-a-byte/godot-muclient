@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cgofyjjjjh2v8"
+path="res://.godot/imported/panda_brown.bmd-db9751bbae23c1134a7b9ece27c65ea4.scn"
+
+[deps]
+
+source_file="res://Data/Item/panda_brown.bmd"
+dest_files=["res://.godot/imported/panda_brown.bmd-db9751bbae23c1134a7b9ece27c65ea4.scn"]
+
+[params]
+
+modelScale=0.01

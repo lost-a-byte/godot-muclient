@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://iil8mt3br35x"
+path="res://.godot/imported/i_wait.OZT-eadccb72a80b2d7cb91d812e36aa2dbb.res"
+
+[deps]
+
+source_file="res://Data/Interface/i_wait.OZT"
+dest_files=["res://.godot/imported/i_wait.OZT-eadccb72a80b2d7cb91d812e36aa2dbb.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btev6pwujj0hb"
+path="res://.godot/imported/bird_wing_1.OZT-d7c65ac835a9f4df4533cdd831a2ef8c.res"
+
+[deps]
+
+source_file="res://Data/Skill/bird_wing_1.OZT"
+dest_files=["res://.godot/imported/bird_wing_1.OZT-d7c65ac835a9f4df4533cdd831a2ef8c.res"]
+
+[params]
+

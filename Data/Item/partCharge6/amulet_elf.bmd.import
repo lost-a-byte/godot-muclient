@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cnp4vyn3wrwxb"
+path="res://.godot/imported/amulet_elf.bmd-40e18c7f7d2568024495faa9121dcae3.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amulet_elf.bmd"
+dest_files=["res://.godot/imported/amulet_elf.bmd-40e18c7f7d2568024495faa9121dcae3.scn"]
+
+[params]
+
+modelScale=0.01

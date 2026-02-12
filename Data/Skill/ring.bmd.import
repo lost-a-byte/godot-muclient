@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://fhi1ir546111"
+path="res://.godot/imported/ring.bmd-76f93e7a69eb2cc45c62b3c4ec776109.scn"
+
+[deps]
+
+source_file="res://Data/Skill/ring.bmd"
+dest_files=["res://.godot/imported/ring.bmd-76f93e7a69eb2cc45c62b3c4ec776109.scn"]
+
+[params]
+
+modelScale=0.01

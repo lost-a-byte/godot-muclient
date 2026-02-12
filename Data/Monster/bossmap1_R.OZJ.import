@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://70q52pu4sv1r"
+path="res://.godot/imported/bossmap1_R.OZJ-d54639574b0efe5e66e650dddb3e568f.res"
+
+[deps]
+
+source_file="res://Data/Monster/bossmap1_R.OZJ"
+dest_files=["res://.godot/imported/bossmap1_R.OZJ-d54639574b0efe5e66e650dddb3e568f.res"]
+
+[params]
+

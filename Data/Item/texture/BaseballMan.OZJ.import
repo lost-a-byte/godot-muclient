@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b371v2qk3k3to"
+path="res://.godot/imported/BaseballMan.OZJ-ec04b1b5b59a9312774069620b289418.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BaseballMan.OZJ"
+dest_files=["res://.godot/imported/BaseballMan.OZJ-ec04b1b5b59a9312774069620b289418.res"]
+
+[params]
+

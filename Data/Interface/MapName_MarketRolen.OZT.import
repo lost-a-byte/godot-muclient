@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpqh6f7piqg0u"
+path="res://.godot/imported/MapName_MarketRolen.OZT-c28cf734b66db27538c8ea617d324d66.res"
+
+[deps]
+
+source_file="res://Data/Interface/MapName_MarketRolen.OZT"
+dest_files=["res://.godot/imported/MapName_MarketRolen.OZT-c28cf734b66db27538c8ea617d324d66.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cd0n6qjgk5od1"
+path="res://.godot/imported/taf001.OZJ-60a272251aab7a4617a1400adb2944b2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/taf001.OZJ"
+dest_files=["res://.godot/imported/taf001.OZJ-60a272251aab7a4617a1400adb2944b2.res"]
+
+[params]
+

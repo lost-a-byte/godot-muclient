@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cw4vdinupdq3l"
+path="res://.godot/imported/hollstone.OZT-fee2bef947bd6f9c9d2cca679b9d3304.res"
+
+[deps]
+
+source_file="res://Data/Skill/hollstone.OZT"
+dest_files=["res://.godot/imported/hollstone.OZT-fee2bef947bd6f9c9d2cca679b9d3304.res"]
+
+[params]
+

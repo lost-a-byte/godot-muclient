@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cboap6gwsylsv"
+path="res://.godot/imported/charingst_R.OZJ-300477e51ae72ef53e48df03d51fc884.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/charingst_R.OZJ"
+dest_files=["res://.godot/imported/charingst_R.OZJ-300477e51ae72ef53e48df03d51fc884.res"]
+
+[params]
+

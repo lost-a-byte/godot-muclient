@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dq22q74fa5may"
+path="res://.godot/imported/chaos_piece_silverheart.bmd-f25da2a7d702024888931dd9be03d1e9.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_piece_silverheart.bmd"
+dest_files=["res://.godot/imported/chaos_piece_silverheart.bmd-f25da2a7d702024888931dd9be03d1e9.scn"]
+
+[params]
+
+modelScale=0.01

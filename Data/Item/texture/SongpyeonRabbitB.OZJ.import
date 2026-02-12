@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcs18vsatee3h"
+path="res://.godot/imported/SongpyeonRabbitB.OZJ-95152ce44b58768dcb4f0d7b93dbc000.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SongpyeonRabbitB.OZJ"
+dest_files=["res://.godot/imported/SongpyeonRabbitB.OZJ-95152ce44b58768dcb4f0d7b93dbc000.res"]
+
+[params]
+

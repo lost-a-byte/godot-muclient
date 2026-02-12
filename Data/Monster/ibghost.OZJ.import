@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chnhixemc2kyn"
+path="res://.godot/imported/ibghost.OZJ-43df3cbdd6c98079aa1e2f5faf3911ce.res"
+
+[deps]
+
+source_file="res://Data/Monster/ibghost.OZJ"
+dest_files=["res://.godot/imported/ibghost.OZJ-43df3cbdd6c98079aa1e2f5faf3911ce.res"]
+
+[params]
+

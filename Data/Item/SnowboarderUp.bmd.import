@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xu1utdx3jou6"
+path="res://.godot/imported/SnowboarderUp.bmd-24ad49c4a249fee2ac13c962ec8fecca.scn"
+
+[deps]
+
+source_file="res://Data/Item/SnowboarderUp.bmd"
+dest_files=["res://.godot/imported/SnowboarderUp.bmd-24ad49c4a249fee2ac13c962ec8fecca.scn"]
+
+[params]
+
+modelScale=0.01

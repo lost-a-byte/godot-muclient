@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjq4n251d5hck"
+path="res://.godot/imported/newui_arrow(L).OZT-1ed608308d203b20cd4142cc25ceeafd.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_arrow(L).OZT"
+dest_files=["res://.godot/imported/newui_arrow(L).OZT-1ed608308d203b20cd4142cc25ceeafd.res"]
+
+[params]
+

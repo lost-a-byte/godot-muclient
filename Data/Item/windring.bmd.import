@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://5tn7armds2hd"
+path="res://.godot/imported/windring.bmd-ef26d8a5e2e5942cb2260bb8261c08ef.scn"
+
+[deps]
+
+source_file="res://Data/Item/windring.bmd"
+dest_files=["res://.godot/imported/windring.bmd-ef26d8a5e2e5942cb2260bb8261c08ef.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b4btonckwtqqf"
+path="res://.godot/imported/knight_plancrack_a.bmd-e112a6bfc02d79e176ade60843506d70.scn"
+
+[deps]
+
+source_file="res://Data/Effect/knight_plancrack_a.bmd"
+dest_files=["res://.godot/imported/knight_plancrack_a.bmd-e112a6bfc02d79e176ade60843506d70.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfqr5m7ju8h6e"
+path="res://.godot/imported/BDrillmaster_alpha.OZT-2cfc24b2de4f99dd98c5bd73fe2917df.res"
+
+[deps]
+
+source_file="res://Data/Monster/BDrillmaster_alpha.OZT"
+dest_files=["res://.godot/imported/BDrillmaster_alpha.OZT-2cfc24b2de4f99dd98c5bd73fe2917df.res"]
+
+[params]
+

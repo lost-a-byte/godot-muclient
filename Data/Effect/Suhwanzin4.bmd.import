@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://lxqqjk1ydsbx"
+path="res://.godot/imported/Suhwanzin4.bmd-ed9a772679d955eab7b7e3f08a9ea8e7.scn"
+
+[deps]
+
+source_file="res://Data/Effect/Suhwanzin4.bmd"
+dest_files=["res://.godot/imported/Suhwanzin4.bmd-ed9a772679d955eab7b7e3f08a9ea8e7.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://3064g6xb5uvc"
+path="res://.godot/imported/alchemist_skill_magic.bmd-22caa9987c5c881944173f3b5d8d521f.scn"
+
+[deps]
+
+source_file="res://Data/Effect/alchemist_skill_magic.bmd"
+dest_files=["res://.godot/imported/alchemist_skill_magic.bmd-22caa9987c5c881944173f3b5d8d521f.scn"]
+
+[params]
+
+modelScale=0.01

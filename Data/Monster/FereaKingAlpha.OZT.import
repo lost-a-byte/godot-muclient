@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c313ngf6n3p1f"
+path="res://.godot/imported/FereaKingAlpha.OZT-f0140ddf2d7f289fcf761528ce27f1a0.res"
+
+[deps]
+
+source_file="res://Data/Monster/FereaKingAlpha.OZT"
+dest_files=["res://.godot/imported/FereaKingAlpha.OZT-f0140ddf2d7f289fcf761528ce27f1a0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hssnvw5eidaj"
+path="res://.godot/imported/agnecklace.OZJ-a204510dc7159763a3897c0043548b55.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge5/agnecklace.OZJ"
+dest_files=["res://.godot/imported/agnecklace.OZJ-a204510dc7159763a3897c0043548b55.res"]
+
+[params]
+

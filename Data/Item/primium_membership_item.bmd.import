@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cbr558r1uqgo2"
+path="res://.godot/imported/primium_membership_item.bmd-2195cd6431ba0de682eff3522ded6175.scn"
+
+[deps]
+
+source_file="res://Data/Item/primium_membership_item.bmd"
+dest_files=["res://.godot/imported/primium_membership_item.bmd-2195cd6431ba0de682eff3522ded6175.scn"]
+
+[params]
+
+modelScale=0.01

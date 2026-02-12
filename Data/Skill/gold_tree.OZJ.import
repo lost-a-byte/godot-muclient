@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6oju3pwtlvrh"
+path="res://.godot/imported/gold_tree.OZJ-2e26f12adacc5ae4b5135a2571a63e02.res"
+
+[deps]
+
+source_file="res://Data/Skill/gold_tree.OZJ"
+dest_files=["res://.godot/imported/gold_tree.OZJ-2e26f12adacc5ae4b5135a2571a63e02.res"]
+
+[params]
+

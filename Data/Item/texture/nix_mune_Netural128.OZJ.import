@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cn6ddwkbsmh20"
+path="res://.godot/imported/nix_mune_Netural128.OZJ-4f3b2841e7612e955bcc68adf058c4c0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nix_mune_Netural128.OZJ"
+dest_files=["res://.godot/imported/nix_mune_Netural128.OZJ-4f3b2841e7612e955bcc68adf058c4c0.res"]
+
+[params]
+

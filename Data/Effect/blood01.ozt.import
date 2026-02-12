@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://mnjyr21qe833"
+path="res://.godot/imported/blood01.ozt-3ca178e9f070a7324c5c2b92101db2b0.res"
+
+[deps]
+
+source_file="res://Data/Effect/blood01.ozt"
+dest_files=["res://.godot/imported/blood01.ozt-3ca178e9f070a7324c5c2b92101db2b0.res"]
+
+[params]
+

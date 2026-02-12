@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdoid5bfsvv3r"
+path="res://.godot/imported/newui_ctgametimeframe.OZT-abe84c16ed6667cba20998f7dfc156d0.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_ctgametimeframe.OZT"
+dest_files=["res://.godot/imported/newui_ctgametimeframe.OZT-abe84c16ed6667cba20998f7dfc156d0.res"]
+
+[params]
+

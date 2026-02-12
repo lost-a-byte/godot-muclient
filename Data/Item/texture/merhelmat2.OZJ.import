@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1ibf2iakrg74"
+path="res://.godot/imported/merhelmat2.OZJ-45cfaa6bd08037d9d6c33e40b71291ec.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/merhelmat2.OZJ"
+dest_files=["res://.godot/imported/merhelmat2.OZJ-45cfaa6bd08037d9d6c33e40b71291ec.res"]
+
+[params]
+

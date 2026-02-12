@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dcik3caeykxhf"
+path="res://.godot/imported/sd_smouse02B.OZJ-273aa8cbe70508ba3955b7e8793958bd.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_smouse02B.OZJ"
+dest_files=["res://.godot/imported/sd_smouse02B.OZJ-273aa8cbe70508ba3955b7e8793958bd.res"]
+
+[params]
+

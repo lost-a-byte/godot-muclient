@@ -1,0 +1,3 @@
+[submodule "Lib/MuOnlineData"]
+	path = Lib/MuOnlineData
+	url = git@github.com:bernatvadell/muonline.git

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvvya4ny0lf2e"
+path="res://.godot/imported/chaos_piece_bloodangel.bmd-982bbb4208d6b4ed88df4af95c710982.scn"
+
+[deps]
+
+source_file="res://Data/Item/chaos_piece_bloodangel.bmd"
+dest_files=["res://.godot/imported/chaos_piece_bloodangel.bmd-982bbb4208d6b4ed88df4af95c710982.scn"]
+
+[params]
+
+modelScale=0.01

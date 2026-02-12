@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmekhw4nlvrph"
+path="res://.godot/imported/newui_item_fairy.OZT-cbbc0849023b84df0755984c8b4ad291.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_item_fairy.OZT"
+dest_files=["res://.godot/imported/newui_item_fairy.OZT-cbbc0849023b84df0755984c8b4ad291.res"]
+
+[params]
+

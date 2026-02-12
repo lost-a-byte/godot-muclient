@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chh2p7cqhnhtv"
+path="res://.godot/imported/deasuler_cloth.OZT-c22943092afcb8b2b7cf6be04ab49be2.res"
+
+[deps]
+
+source_file="res://Data/Monster/deasuler_cloth.OZT"
+dest_files=["res://.godot/imported/deasuler_cloth.OZT-c22943092afcb8b2b7cf6be04ab49be2.res"]
+
+[params]
+

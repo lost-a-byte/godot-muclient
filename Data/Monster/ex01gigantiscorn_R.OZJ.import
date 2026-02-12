@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dllof0nybqmb1"
+path="res://.godot/imported/ex01gigantiscorn_R.OZJ-bc497ca405d58ccb070c321af153af58.res"
+
+[deps]
+
+source_file="res://Data/Monster/ex01gigantiscorn_R.OZJ"
+dest_files=["res://.godot/imported/ex01gigantiscorn_R.OZJ-bc497ca405d58ccb070c321af153af58.res"]
+
+[params]
+

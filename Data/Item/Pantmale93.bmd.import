@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://blbl33wdo5cpi"
+path="res://.godot/imported/Pantmale93.bmd-6c6906a55adc4d94a3edf975ef75c963.scn"
+
+[deps]
+
+source_file="res://Data/Item/Pantmale93.bmd"
+dest_files=["res://.godot/imported/Pantmale93.bmd-6c6906a55adc4d94a3edf975ef75c963.scn"]
+
+[params]
+
+modelScale=0.01

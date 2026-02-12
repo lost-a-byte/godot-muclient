@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cr66nn2e5hqnu"
+path="res://.godot/imported/Carriage04.bmd-7ab7c46bb0a577cab6562593fb43dbba.scn"
+
+[deps]
+
+source_file="res://Data/Object1/Carriage04.bmd"
+dest_files=["res://.godot/imported/Carriage04.bmd-7ab7c46bb0a577cab6562593fb43dbba.scn"]
+
+[params]
+
+modelScale=0.01

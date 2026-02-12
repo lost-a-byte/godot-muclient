@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bag0fb7fhsym1"
+path="res://.godot/imported/Robot_01_Blue.OZJ-399b58f372bad11e9cab84349ff7fd02.res"
+
+[deps]
+
+source_file="res://Data/Monster/Robot_01_Blue.OZJ"
+dest_files=["res://.godot/imported/Robot_01_Blue.OZJ-399b58f372bad11e9cab84349ff7fd02.res"]
+
+[params]
+

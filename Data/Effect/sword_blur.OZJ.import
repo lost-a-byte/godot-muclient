@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3qeefishtiqh"
+path="res://.godot/imported/sword_blur.OZJ-f0ff35397b504b08ad418ffc4a750167.res"
+
+[deps]
+
+source_file="res://Data/Effect/sword_blur.OZJ"
+dest_files=["res://.godot/imported/sword_blur.OZJ-f0ff35397b504b08ad418ffc4a750167.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6jonuudbo3x7"
+path="res://.godot/imported/newui_guild_table03(Up).OZT-41782e3aeefa73411fcb186d55d5758c.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_guild_table03(Up).OZT"
+dest_files=["res://.godot/imported/newui_guild_table03(Up).OZT-41782e3aeefa73411fcb186d55d5758c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://6o87dk51i373"
+path="res://.godot/imported/tombstone_big.OZJ-351770a50e5bf63b422a37198623ce91.res"
+
+[deps]
+
+source_file="res://Data/Object1/tombstone_big.OZJ"
+dest_files=["res://.godot/imported/tombstone_big.OZJ-351770a50e5bf63b422a37198623ce91.res"]
+
+[params]
+

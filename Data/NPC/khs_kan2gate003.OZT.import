@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxxsd0sv0wy7n"
+path="res://.godot/imported/khs_kan2gate003.OZT-adc1962b7c582e1f37643af792cc016d.res"
+
+[deps]
+
+source_file="res://Data/NPC/khs_kan2gate003.OZT"
+dest_files=["res://.godot/imported/khs_kan2gate003.OZT-adc1962b7c582e1f37643af792cc016d.res"]
+
+[params]
+

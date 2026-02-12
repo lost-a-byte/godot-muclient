@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cuvvumd5b18jw"
+path="res://.godot/imported/hsbnightgem_R.OZJ-76e8b189ada4fffe93a8af5b95e034ee.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hsbnightgem_R.OZJ"
+dest_files=["res://.godot/imported/hsbnightgem_R.OZJ-76e8b189ada4fffe93a8af5b95e034ee.res"]
+
+[params]
+

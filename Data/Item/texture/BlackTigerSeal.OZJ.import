@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6qjrqjlonset"
+path="res://.godot/imported/BlackTigerSeal.OZJ-b5317b78eb7e3d995f00c4c57bdc9c92.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/BlackTigerSeal.OZJ"
+dest_files=["res://.godot/imported/BlackTigerSeal.OZJ-b5317b78eb7e3d995f00c4c57bdc9c92.res"]
+
+[params]
+

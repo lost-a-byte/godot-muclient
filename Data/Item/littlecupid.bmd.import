@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://s6l3gcl6xdwp"
+path="res://.godot/imported/littlecupid.bmd-b5f7dc190a8a7a993bc84834afdeb043.scn"
+
+[deps]
+
+source_file="res://Data/Item/littlecupid.bmd"
+dest_files=["res://.godot/imported/littlecupid.bmd-b5f7dc190a8a7a993bc84834afdeb043.scn"]
+
+[params]
+
+modelScale=0.01

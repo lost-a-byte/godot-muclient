@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bf444afm25l1x"
+path="res://.godot/imported/tree2_nomplat.OZT-b5cbef7ea42a9df421a41bed0a4dbd01.res"
+
+[deps]
+
+source_file="res://Data/Monster/tree2_nomplat.OZT"
+dest_files=["res://.godot/imported/tree2_nomplat.OZT-b5cbef7ea42a9df421a41bed0a4dbd01.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cl1gkb5cc6l5"
+path="res://.godot/imported/badge_02.OZT-96513ca7806c7d8040af17215cd4b2de.res"
+
+[deps]
+
+source_file="res://Data/Object3/badge_02.OZT"
+dest_files=["res://.godot/imported/badge_02.OZT-96513ca7806c7d8040af17215cd4b2de.res"]
+
+[params]
+

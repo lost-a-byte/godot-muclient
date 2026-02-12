@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://jxy560n5dhkd"
+path="res://.godot/imported/ferea_general_shoulder_base.OZT-b56d6965c21fae81700b85021fdf8841.res"
+
+[deps]
+
+source_file="res://Data/Monster/ferea_general_shoulder_base.OZT"
+dest_files=["res://.godot/imported/ferea_general_shoulder_base.OZT-b56d6965c21fae81700b85021fdf8841.res"]
+
+[params]
+

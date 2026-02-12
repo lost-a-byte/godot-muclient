@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ck7qeprrkprb6"
+path="res://.godot/imported/gsw_skill_red.OZJ-d49d74d71253662b471f3975dc9d7ad0.res"
+
+[deps]
+
+source_file="res://Data/Effect/gsw_skill_red.OZJ"
+dest_files=["res://.godot/imported/gsw_skill_red.OZJ-d49d74d71253662b471f3975dc9d7ad0.res"]
+
+[params]
+

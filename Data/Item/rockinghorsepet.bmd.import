@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3o74lo1fxycw"
+path="res://.godot/imported/rockinghorsepet.bmd-7b3e395dc2755ee0416721399ec76f00.scn"
+
+[deps]
+
+source_file="res://Data/Item/rockinghorsepet.bmd"
+dest_files=["res://.godot/imported/rockinghorsepet.bmd-7b3e395dc2755ee0416721399ec76f00.scn"]
+
+[params]
+
+modelScale=0.01

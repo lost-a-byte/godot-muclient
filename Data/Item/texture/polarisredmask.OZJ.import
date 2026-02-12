@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dw4ju3mulkxtq"
+path="res://.godot/imported/polarisredmask.OZJ-f4850994c429448c23bc4af9c2d122e3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/polarisredmask.OZJ"
+dest_files=["res://.godot/imported/polarisredmask.OZJ-f4850994c429448c23bc4af9c2d122e3.res"]
+
+[params]
+

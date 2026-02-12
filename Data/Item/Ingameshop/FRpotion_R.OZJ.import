@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dmagyrkhascc1"
+path="res://.godot/imported/FRpotion_R.OZJ-efbdc19b594e111b3d0147ca4cb06876.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/FRpotion_R.OZJ"
+dest_files=["res://.godot/imported/FRpotion_R.OZJ-efbdc19b594e111b3d0147ca4cb06876.res"]
+
+[params]
+

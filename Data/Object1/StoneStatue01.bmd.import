@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhiu75anr1rbh"
+path="res://.godot/imported/StoneStatue01.bmd-da4195ea65e928aaf011cab648587ff1.scn"
+
+[deps]
+
+source_file="res://Data/Object1/StoneStatue01.bmd"
+dest_files=["res://.godot/imported/StoneStatue01.bmd-da4195ea65e928aaf011cab648587ff1.scn"]
+
+[params]
+
+modelScale=0.01

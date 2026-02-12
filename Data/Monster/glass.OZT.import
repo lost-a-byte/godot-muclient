@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgwvweqnudkvl"
+path="res://.godot/imported/glass.OZT-d59c483e753249e4acb0ad0d67937881.res"
+
+[deps]
+
+source_file="res://Data/Monster/glass.OZT"
+dest_files=["res://.godot/imported/glass.OZT-d59c483e753249e4acb0ad0d67937881.res"]
+
+[params]
+

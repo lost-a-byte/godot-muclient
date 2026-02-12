@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://crytmed4qb8nm"
+path="res://.godot/imported/AQ_assassin_wing.OZT-0c4de7ee22a0cea6a37f4c8d9f254786.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_assassin_wing.OZT"
+dest_files=["res://.godot/imported/AQ_assassin_wing.OZT-0c4de7ee22a0cea6a37f4c8d9f254786.res"]
+
+[params]
+

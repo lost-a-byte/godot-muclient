@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjgi1rg431wqe"
+path="res://.godot/imported/Skullpet.bmd-43def53d06434d92bf70c6995fe9dfba.scn"
+
+[deps]
+
+source_file="res://Data/Item/Skullpet.bmd"
+dest_files=["res://.godot/imported/Skullpet.bmd-43def53d06434d92bf70c6995fe9dfba.scn"]
+
+[params]
+
+modelScale=0.01

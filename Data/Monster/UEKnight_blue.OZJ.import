@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://csy8lm6xlkdee"
+path="res://.godot/imported/UEKnight_blue.OZJ-49af53e3e0132097621924c4ec84eb09.res"
+
+[deps]
+
+source_file="res://Data/Monster/UEKnight_blue.OZJ"
+dest_files=["res://.godot/imported/UEKnight_blue.OZJ-49af53e3e0132097621924c4ec84eb09.res"]
+
+[params]
+

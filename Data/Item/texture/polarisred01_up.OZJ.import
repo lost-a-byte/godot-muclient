@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgjk3up3lgon1"
+path="res://.godot/imported/polarisred01_up.OZJ-ba4dc0fcd389339960d3e6dc108197d3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/polarisred01_up.OZJ"
+dest_files=["res://.godot/imported/polarisred01_up.OZJ-ba4dc0fcd389339960d3e6dc108197d3.res"]
+
+[params]
+

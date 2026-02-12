@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://hxubs0cpk8xa"
+path="res://.godot/imported/NpcSenatus.bmd-76e9e747022cb833a7eaabe6b1c570a4.scn"
+
+[deps]
+
+source_file="res://Data/NPC/NpcSenatus.bmd"
+dest_files=["res://.godot/imported/NpcSenatus.bmd-76e9e747022cb833a7eaabe6b1c570a4.scn"]
+
+[params]
+
+modelScale=0.01

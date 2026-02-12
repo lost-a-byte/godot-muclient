@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ds8c4o34vbe7r"
+path="res://.godot/imported/ObeliskSmall.bmd-adf7177584723b2351f724f2f7b50bc0.scn"
+
+[deps]
+
+source_file="res://Data/Monster/ObeliskSmall.bmd"
+dest_files=["res://.godot/imported/ObeliskSmall.bmd-adf7177584723b2351f724f2f7b50bc0.scn"]
+
+[params]
+
+modelScale=0.01

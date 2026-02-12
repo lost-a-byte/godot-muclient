@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cyxrsnooexl0y"
+path="res://.godot/imported/entrance_r.ozj-28a6a288eac1fa1f956c4f52fafaba10.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge1/entrance_r.ozj"
+dest_files=["res://.godot/imported/entrance_r.ozj-28a6a288eac1fa1f956c4f52fafaba10.res"]
+
+[params]
+

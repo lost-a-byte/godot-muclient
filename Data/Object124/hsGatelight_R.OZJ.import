@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dybt3d2ue1jec"
+path="res://.godot/imported/hsGatelight_R.OZJ-5c55616a2e08e5b1ec9188a70fd2bf0c.res"
+
+[deps]
+
+source_file="res://Data/Object124/hsGatelight_R.OZJ"
+dest_files=["res://.godot/imported/hsGatelight_R.OZJ-5c55616a2e08e5b1ec9188a70fd2bf0c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpohdmj66702q"
+path="res://.godot/imported/DarkLordRobe.ozt-782675c59eac4a549a72504342ab84d3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DarkLordRobe.ozt"
+dest_files=["res://.godot/imported/DarkLordRobe.ozt-782675c59eac4a549a72504342ab84d3.res"]
+
+[params]
+

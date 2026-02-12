@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://g772o4vv2glr"
+path="res://.godot/imported/Event01.bmd-3d5142724d0caf84e9e86672846b0963.scn"
+
+[deps]
+
+source_file="res://Data/Item/Event01.bmd"
+dest_files=["res://.godot/imported/Event01.bmd-3d5142724d0caf84e9e86672846b0963.scn"]
+
+[params]
+
+modelScale=0.01

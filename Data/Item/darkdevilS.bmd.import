@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d2qh72qo0yv84"
+path="res://.godot/imported/darkdevilS.bmd-fb0e5c29ac87c88300db36bdbadd618a.scn"
+
+[deps]
+
+source_file="res://Data/Item/darkdevilS.bmd"
+dest_files=["res://.godot/imported/darkdevilS.bmd-fb0e5c29ac87c88300db36bdbadd618a.scn"]
+
+[params]
+
+modelScale=0.01

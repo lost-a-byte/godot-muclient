@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5c8x2i3foktu"
+path="res://.godot/imported/DivineHorse_soul.OZJ-80c54cb5b52f85f114e3f910c6defe06.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DivineHorse_soul.OZJ"
+dest_files=["res://.godot/imported/DivineHorse_soul.OZJ-80c54cb5b52f85f114e3f910c6defe06.res"]
+
+[params]
+

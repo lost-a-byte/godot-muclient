@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cnqrsth6im3cj"
+path="res://.godot/imported/Book_of_Neil.OZJ-7beee13767963d8db8bffe82280cbe75.res"
+
+[deps]
+
+source_file="res://Data/Item/Book_of_Neil.OZJ"
+dest_files=["res://.godot/imported/Book_of_Neil.OZJ-7beee13767963d8db8bffe82280cbe75.res"]
+
+[params]
+

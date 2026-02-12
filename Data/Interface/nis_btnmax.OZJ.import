@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c5k7gya2qog12"
+path="res://.godot/imported/nis_btnmax.OZJ-a885ec222f1bc8e2db7c97f29818851d.res"
+
+[deps]
+
+source_file="res://Data/Interface/nis_btnmax.OZJ"
+dest_files=["res://.godot/imported/nis_btnmax.OZJ-a885ec222f1bc8e2db7c97f29818851d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfgka2haswuvg"
+path="res://.godot/imported/HS_Bilding05.OZT-5fa05f42db0818bf92c20e14ab75057c.res"
+
+[deps]
+
+source_file="res://Data/Object92/HS_Bilding05.OZT"
+dest_files=["res://.godot/imported/HS_Bilding05.OZT-5fa05f42db0818bf92c20e14ab75057c.res"]
+
+[params]
+

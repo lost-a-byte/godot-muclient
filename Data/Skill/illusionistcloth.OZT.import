@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://btt51q6rfdryu"
+path="res://.godot/imported/illusionistcloth.OZT-d8f15a0ea4162be8874063d7712c9ec4.res"
+
+[deps]
+
+source_file="res://Data/Skill/illusionistcloth.OZT"
+dest_files=["res://.godot/imported/illusionistcloth.OZT-d8f15a0ea4162be8874063d7712c9ec4.res"]
+
+[params]
+

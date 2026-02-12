@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cmysjnu38l6mc"
+path="res://.godot/imported/epibossskin.OZJ-5fcf6e623445815347428a29b11a1f29.res"
+
+[deps]
+
+source_file="res://Data/Monster/epibossskin.OZJ"
+dest_files=["res://.godot/imported/epibossskin.OZJ-5fcf6e623445815347428a29b11a1f29.res"]
+
+[params]
+

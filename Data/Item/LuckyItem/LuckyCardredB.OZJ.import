@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dltfarr81ppyn"
+path="res://.godot/imported/LuckyCardredB.OZJ-d5aa1aea9ecfef402785fbc9cc8ce29f.res"
+
+[deps]
+
+source_file="res://Data/Item/LuckyItem/LuckyCardredB.OZJ"
+dest_files=["res://.godot/imported/LuckyCardredB.OZJ-d5aa1aea9ecfef402785fbc9cc8ce29f.res"]
+
+[params]
+

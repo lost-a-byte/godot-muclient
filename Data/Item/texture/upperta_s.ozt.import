@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b7bh030tcl1wn"
+path="res://.godot/imported/upperta_s.ozt-03d3eef96edede05f428a80ffcd12fec.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/upperta_s.ozt"
+dest_files=["res://.godot/imported/upperta_s.ozt-03d3eef96edede05f428a80ffcd12fec.res"]
+
+[params]
+

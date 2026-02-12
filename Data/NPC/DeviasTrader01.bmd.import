@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ia625yq7clti"
+path="res://.godot/imported/DeviasTrader01.bmd-f56732187b39bfb09200d772bcfec241.scn"
+
+[deps]
+
+source_file="res://Data/NPC/DeviasTrader01.bmd"
+dest_files=["res://.godot/imported/DeviasTrader01.bmd-f56732187b39bfb09200d772bcfec241.scn"]
+
+[params]
+
+modelScale=0.01

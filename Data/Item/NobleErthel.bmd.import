@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://orcv410lca83"
+path="res://.godot/imported/NobleErthel.bmd-356cc77072de17d3c40b28ac4e4b6cf4.scn"
+
+[deps]
+
+source_file="res://Data/Item/NobleErthel.bmd"
+dest_files=["res://.godot/imported/NobleErthel.bmd-356cc77072de17d3c40b28ac4e4b6cf4.scn"]
+
+[params]
+
+modelScale=0.01

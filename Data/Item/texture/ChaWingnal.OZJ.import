@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://2me4vn0i8fc7"
+path="res://.godot/imported/ChaWingnal.OZJ-46b0758ba0cb55664c0436af10d1e880.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ChaWingnal.OZJ"
+dest_files=["res://.godot/imported/ChaWingnal.OZJ-46b0758ba0cb55664c0436af10d1e880.res"]
+
+[params]
+

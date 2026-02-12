@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c7g5jexra1jsk"
+path="res://.godot/imported/snow_girl02.OZT-665b8b6da1151f3d5f4746f9ebed2776.res"
+
+[deps]
+
+source_file="res://Data/NPC/snow_girl02.OZT"
+dest_files=["res://.godot/imported/snow_girl02.OZT-665b8b6da1151f3d5f4746f9ebed2776.res"]
+
+[params]
+

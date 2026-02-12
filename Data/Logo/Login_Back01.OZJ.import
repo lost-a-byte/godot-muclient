@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://h1a8ysfgpd1k"
+path="res://.godot/imported/Login_Back01.OZJ-cf964ce9364066505d6ac7b8286d928c.res"
+
+[deps]
+
+source_file="res://Data/Logo/Login_Back01.OZJ"
+dest_files=["res://.godot/imported/Login_Back01.OZJ-cf964ce9364066505d6ac7b8286d928c.res"]
+
+[params]
+

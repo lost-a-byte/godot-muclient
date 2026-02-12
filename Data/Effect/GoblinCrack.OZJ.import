@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bw0328620kotg"
+path="res://.godot/imported/GoblinCrack.OZJ-bd31e14e75e0ffb7c633c70823aa8e17.res"
+
+[deps]
+
+source_file="res://Data/Effect/GoblinCrack.OZJ"
+dest_files=["res://.godot/imported/GoblinCrack.OZJ-bd31e14e75e0ffb7c633c70823aa8e17.res"]
+
+[params]
+

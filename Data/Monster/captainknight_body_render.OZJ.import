@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cvm1jjybtyi4h"
+path="res://.godot/imported/captainknight_body_render.OZJ-a7c73bfdfe39bf4d933819ce84d76b08.res"
+
+[deps]
+
+source_file="res://Data/Monster/captainknight_body_render.OZJ"
+dest_files=["res://.godot/imported/captainknight_body_render.OZJ-a7c73bfdfe39bf4d933819ce84d76b08.res"]
+
+[params]
+

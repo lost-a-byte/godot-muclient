@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cpg57rx4l14oe"
+path="res://.godot/imported/entrancepurple.bmd-f823bf176a2b1252fafece64980f9ef7.scn"
+
+[deps]
+
+source_file="res://Data/Item/entrancepurple.bmd"
+dest_files=["res://.godot/imported/entrancepurple.bmd-f823bf176a2b1252fafece64980f9ef7.scn"]
+
+[params]
+
+modelScale=0.01

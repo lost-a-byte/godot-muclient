@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbg3dho1vdmw6"
+path="res://.godot/imported/fsd3a_back.OZJ-913006eb7d90833780fdcb58ccff2bb6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fsd3a_back.OZJ"
+dest_files=["res://.godot/imported/fsd3a_back.OZJ-913006eb7d90833780fdcb58ccff2bb6.res"]
+
+[params]
+

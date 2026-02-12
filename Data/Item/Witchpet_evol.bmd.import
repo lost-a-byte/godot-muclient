@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://b2fvm8avxx6sd"
+path="res://.godot/imported/Witchpet_evol.bmd-ccd67634a392dca113343e0ed2a37b66.scn"
+
+[deps]
+
+source_file="res://Data/Item/Witchpet_evol.bmd"
+dest_files=["res://.godot/imported/Witchpet_evol.bmd-ccd67634a392dca113343e0ed2a37b66.scn"]
+
+[params]
+
+modelScale=0.01

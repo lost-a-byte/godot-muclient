@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjextori6qn3f"
+path="res://.godot/imported/CursorSitDown.ozt-41a4c77222db41537ae9fb76bfeec35f.res"
+
+[deps]
+
+source_file="res://Data/Interface/CursorSitDown.ozt"
+dest_files=["res://.godot/imported/CursorSitDown.ozt-41a4c77222db41537ae9fb76bfeec35f.res"]
+
+[params]
+

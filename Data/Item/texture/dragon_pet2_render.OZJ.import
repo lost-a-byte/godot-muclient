@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d141bn6j3qqnh"
+path="res://.godot/imported/dragon_pet2_render.OZJ-5c1b5529390182c116951e22f37b47ac.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/dragon_pet2_render.OZJ"
+dest_files=["res://.godot/imported/dragon_pet2_render.OZJ-5c1b5529390182c116951e22f37b47ac.res"]
+
+[params]
+

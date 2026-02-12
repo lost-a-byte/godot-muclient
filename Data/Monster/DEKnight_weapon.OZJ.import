@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://s45p2gbqnfh2"
+path="res://.godot/imported/DEKnight_weapon.OZJ-8965bbde6f86db205578e5b4084d1584.res"
+
+[deps]
+
+source_file="res://Data/Monster/DEKnight_weapon.OZJ"
+dest_files=["res://.godot/imported/DEKnight_weapon.OZJ-8965bbde6f86db205578e5b4084d1584.res"]
+
+[params]
+

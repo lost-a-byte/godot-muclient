@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://siu87armcnkh"
+path="res://.godot/imported/i_defense.OZT-deced914ca7d27fde2d2fdc1ff7da812.res"
+
+[deps]
+
+source_file="res://Data/Interface/i_defense.OZT"
+dest_files=["res://.godot/imported/i_defense.OZT-deced914ca7d27fde2d2fdc1ff7da812.res"]
+
+[params]
+

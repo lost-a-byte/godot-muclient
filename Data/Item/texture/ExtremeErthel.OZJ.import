@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dpd7ruc7l8xkp"
+path="res://.godot/imported/ExtremeErthel.OZJ-3e0ec86ae29a5ef6e36f8715ce107eb4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ExtremeErthel.OZJ"
+dest_files=["res://.godot/imported/ExtremeErthel.OZJ-3e0ec86ae29a5ef6e36f8715ce107eb4.res"]
+
+[params]
+

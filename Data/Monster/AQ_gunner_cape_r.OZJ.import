@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ck210npilyjcb"
+path="res://.godot/imported/AQ_gunner_cape_r.OZJ-3ef4a939f3f754728b99e9f1538248da.res"
+
+[deps]
+
+source_file="res://Data/Monster/AQ_gunner_cape_r.OZJ"
+dest_files=["res://.godot/imported/AQ_gunner_cape_r.OZJ-3ef4a939f3f754728b99e9f1538248da.res"]
+
+[params]
+

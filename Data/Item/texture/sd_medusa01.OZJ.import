@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gkjt3424diw3"
+path="res://.godot/imported/sd_medusa01.OZJ-92fbb763f9387be25234d3940ddebb13.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_medusa01.OZJ"
+dest_files=["res://.godot/imported/sd_medusa01.OZJ-92fbb763f9387be25234d3940ddebb13.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dyrguy5dp0c1d"
+path="res://.godot/imported/senatusmap.OZJ-c3c3bc898a53dfa9b957e819a5369f77.res"
+
+[deps]
+
+source_file="res://Data/Interface/senatusmap.OZJ"
+dest_files=["res://.godot/imported/senatusmap.OZJ-c3c3bc898a53dfa9b957e819a5369f77.res"]
+
+[params]
+

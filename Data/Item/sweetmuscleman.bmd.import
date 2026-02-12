@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bp6y6dnbc350a"
+path="res://.godot/imported/sweetmuscleman.bmd-c2be061ffdfb1c65345084a6d3041b33.scn"
+
+[deps]
+
+source_file="res://Data/Item/sweetmuscleman.bmd"
+dest_files=["res://.godot/imported/sweetmuscleman.bmd-c2be061ffdfb1c65345084a6d3041b33.scn"]
+
+[params]
+
+modelScale=0.01

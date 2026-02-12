@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bcfblumh82cg5"
+path="res://.godot/imported/crimsonminos2.OZJ-ff10710362c8563d52e091fc784b2e21.res"
+
+[deps]
+
+source_file="res://Data/Monster/crimsonminos2.OZJ"
+dest_files=["res://.godot/imported/crimsonminos2.OZJ-ff10710362c8563d52e091fc784b2e21.res"]
+
+[params]
+

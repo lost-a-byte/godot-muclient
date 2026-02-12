@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b5ug88gl6uqqc"
+path="res://.godot/imported/mastery_shortsword06b.OZJ-74a044b4c8d9d05276cc3cbef4069966.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mastery_shortsword06b.OZJ"
+dest_files=["res://.godot/imported/mastery_shortsword06b.OZJ-74a044b4c8d9d05276cc3cbef4069966.res"]
+
+[params]
+

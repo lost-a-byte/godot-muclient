@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0ehi74lplvyl"
+path="res://.godot/imported/flower_vase.OZJ-c2f988448d62fa87eca4c3e64fd9260a.res"
+
+[deps]
+
+source_file="res://Data/Object119/flower_vase.OZJ"
+dest_files=["res://.godot/imported/flower_vase.OZJ-c2f988448d62fa87eca4c3e64fd9260a.res"]
+
+[params]
+

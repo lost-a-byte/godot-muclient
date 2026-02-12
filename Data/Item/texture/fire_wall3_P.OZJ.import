@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca1rtopka6x6s"
+path="res://.godot/imported/fire_wall3_P.OZJ-9af7c97735ae34b95c9a96782157864c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/fire_wall3_P.OZJ"
+dest_files=["res://.godot/imported/fire_wall3_P.OZJ-9af7c97735ae34b95c9a96782157864c.res"]
+
+[params]
+

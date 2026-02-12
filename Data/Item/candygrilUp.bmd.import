@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://d3x66sevfxblx"
+path="res://.godot/imported/candygrilUp.bmd-0318ac936544033b13c7e252cfa849f3.scn"
+
+[deps]
+
+source_file="res://Data/Item/candygrilUp.bmd"
+dest_files=["res://.godot/imported/candygrilUp.bmd-0318ac936544033b13c7e252cfa849f3.scn"]
+
+[params]
+
+modelScale=0.01

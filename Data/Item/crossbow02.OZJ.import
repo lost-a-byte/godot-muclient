@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c1d4d4q0quawi"
+path="res://.godot/imported/crossbow02.OZJ-aa6eac4b9cbc82561d0db52d853ad079.res"
+
+[deps]
+
+source_file="res://Data/Item/crossbow02.OZJ"
+dest_files=["res://.godot/imported/crossbow02.OZJ-aa6eac4b9cbc82561d0db52d853ad079.res"]
+
+[params]
+

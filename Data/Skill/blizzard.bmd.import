@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bauqe8u2vnymu"
+path="res://.godot/imported/blizzard.bmd-a5026d99859fda1dd872ef65cc5992ed.scn"
+
+[deps]
+
+source_file="res://Data/Skill/blizzard.bmd"
+dest_files=["res://.godot/imported/blizzard.bmd-a5026d99859fda1dd872ef65cc5992ed.scn"]
+
+[params]
+
+modelScale=0.01

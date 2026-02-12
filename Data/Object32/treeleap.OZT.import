@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cls4npkhtj370"
+path="res://.godot/imported/treeleap.OZT-3e4354e21ef9a14ef40063613451ebd1.res"
+
+[deps]
+
+source_file="res://Data/Object32/treeleap.OZT"
+dest_files=["res://.godot/imported/treeleap.OZT-3e4354e21ef9a14ef40063613451ebd1.res"]
+
+[params]
+

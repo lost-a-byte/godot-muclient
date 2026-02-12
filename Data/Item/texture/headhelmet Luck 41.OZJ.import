@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b1gdi58qsoxd8"
+path="res://.godot/imported/headhelmet Luck 41.OZJ-2bb94d006efd25cff1d16054464f4f01.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/headhelmet Luck 41.OZJ"
+dest_files=["res://.godot/imported/headhelmet Luck 41.OZJ-2bb94d006efd25cff1d16054464f4f01.res"]
+
+[params]
+

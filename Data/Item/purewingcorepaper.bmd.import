@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c6fc1i6vk3e5h"
+path="res://.godot/imported/purewingcorepaper.bmd-2d615cb6312f7979c8e32b64996cb60a.scn"
+
+[deps]
+
+source_file="res://Data/Item/purewingcorepaper.bmd"
+dest_files=["res://.godot/imported/purewingcorepaper.bmd-2d615cb6312f7979c8e32b64996cb60a.scn"]
+
+[params]
+
+modelScale=0.01

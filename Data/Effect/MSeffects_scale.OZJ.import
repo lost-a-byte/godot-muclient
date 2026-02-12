@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bdnb8x8rs6dow"
+path="res://.godot/imported/MSeffects_scale.OZJ-d65e0e7be30a522fe93e0cc95db14045.res"
+
+[deps]
+
+source_file="res://Data/Effect/MSeffects_scale.OZJ"
+dest_files=["res://.godot/imported/MSeffects_scale.OZJ-d65e0e7be30a522fe93e0cc95db14045.res"]
+
+[params]
+

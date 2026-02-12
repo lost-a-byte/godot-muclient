@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c2q3brwfjd1cv"
+path="res://.godot/imported/amulet_despair.bmd-428ba39b915b65daa9712b4e4ba65362.scn"
+
+[deps]
+
+source_file="res://Data/Item/partCharge6/amulet_despair.bmd"
+dest_files=["res://.godot/imported/amulet_despair.bmd-428ba39b915b65daa9712b4e4ba65362.scn"]
+
+[params]
+
+modelScale=0.01

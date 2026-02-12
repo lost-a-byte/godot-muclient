@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ds5sh63a3a4q1"
+path="res://.godot/imported/PoundingBall.OZJ-c31bcf00274942e64c1b0d469d2827db.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/PoundingBall.OZJ"
+dest_files=["res://.godot/imported/PoundingBall.OZJ-c31bcf00274942e64c1b0d469d2827db.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cmu5lwtxl3l3d"
+path="res://.godot/imported/luckyrabbit.bmd-cb814b1b926069aefc874e973f35d902.scn"
+
+[deps]
+
+source_file="res://Data/Item/luckyrabbit.bmd"
+dest_files=["res://.godot/imported/luckyrabbit.bmd-cb814b1b926069aefc874e973f35d902.scn"]
+
+[params]
+
+modelScale=0.01

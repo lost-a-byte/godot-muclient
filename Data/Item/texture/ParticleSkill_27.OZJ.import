@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://46l0xyuoqsks"
+path="res://.godot/imported/ParticleSkill_27.OZJ-d3ccd5348ef824a350047df7bb8708c1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ParticleSkill_27.OZJ"
+dest_files=["res://.godot/imported/ParticleSkill_27.OZJ-d3ccd5348ef824a350047df7bb8708c1.res"]
+
+[params]
+

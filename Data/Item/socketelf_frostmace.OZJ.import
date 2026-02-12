@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2sbn2v1ixk1i"
+path="res://.godot/imported/socketelf_frostmace.OZJ-32c1960dc96db839c73b5deaa7f3a816.res"
+
+[deps]
+
+source_file="res://Data/Item/socketelf_frostmace.OZJ"
+dest_files=["res://.godot/imported/socketelf_frostmace.OZJ-32c1960dc96db839c73b5deaa7f3a816.res"]
+
+[params]
+

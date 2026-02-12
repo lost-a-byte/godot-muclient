@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dssds7n0unlbe"
+path="res://.godot/imported/amulet_satan.ozt-470f13e9d4ee7a74f7a7f76bf3133aaf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/amulet_satan.ozt"
+dest_files=["res://.godot/imported/amulet_satan.ozt-470f13e9d4ee7a74f7a7f76bf3133aaf.res"]
+
+[params]
+

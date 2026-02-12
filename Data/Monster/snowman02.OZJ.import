@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsjyfowqm7kiy"
+path="res://.godot/imported/snowman02.OZJ-0b6eb246de408e8a73cf57893a960e7b.res"
+
+[deps]
+
+source_file="res://Data/Monster/snowman02.OZJ"
+dest_files=["res://.godot/imported/snowman02.OZJ-0b6eb246de408e8a73cf57893a960e7b.res"]
+
+[params]
+

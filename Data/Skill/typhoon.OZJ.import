@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://kln8pt36y3w7"
+path="res://.godot/imported/typhoon.OZJ-6fdff7ccdd70484c63330a935457079c.res"
+
+[deps]
+
+source_file="res://Data/Skill/typhoon.OZJ"
+dest_files=["res://.godot/imported/typhoon.OZJ-6fdff7ccdd70484c63330a935457079c.res"]
+
+[params]
+

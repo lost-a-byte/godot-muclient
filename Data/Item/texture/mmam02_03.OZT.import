@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://s15s6e7mwt52"
+path="res://.godot/imported/mmam02_03.OZT-cc01839c05f7e60bafc2840ff33264a1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/mmam02_03.OZT"
+dest_files=["res://.godot/imported/mmam02_03.OZT-cc01839c05f7e60bafc2840ff33264a1.res"]
+
+[params]
+

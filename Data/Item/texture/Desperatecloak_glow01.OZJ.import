@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rnqe8ewofxsl"
+path="res://.godot/imported/Desperatecloak_glow01.OZJ-88fe176c9f41023783a1dd18f910158a.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Desperatecloak_glow01.OZJ"
+dest_files=["res://.godot/imported/Desperatecloak_glow01.OZJ-88fe176c9f41023783a1dd18f910158a.res"]
+
+[params]
+

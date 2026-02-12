@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvny776m5dmv1"
+path="res://.godot/imported/piad.OZJ-12d6ecc427c33a0d0447e0e4022a0181.res"
+
+[deps]
+
+source_file="res://Data/NPC/piad.OZJ"
+dest_files=["res://.godot/imported/piad.OZJ-12d6ecc427c33a0d0447e0e4022a0181.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxwes5kha2dv4"
+path="res://.godot/imported/science.OZJ-59ed5fef9841de9f49339af9b288dbb2.res"
+
+[deps]
+
+source_file="res://Data/NPC/science.OZJ"
+dest_files=["res://.godot/imported/science.OZJ-59ed5fef9841de9f49339af9b288dbb2.res"]
+
+[params]
+

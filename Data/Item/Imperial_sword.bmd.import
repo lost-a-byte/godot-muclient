@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://btwwixca7m2ig"
+path="res://.godot/imported/Imperial_sword.bmd-cc95534e755a1c5a9a30a513ee8a0d45.scn"
+
+[deps]
+
+source_file="res://Data/Item/Imperial_sword.bmd"
+dest_files=["res://.godot/imported/Imperial_sword.bmd-cc95534e755a1c5a9a30a513ee8a0d45.scn"]
+
+[params]
+
+modelScale=0.01

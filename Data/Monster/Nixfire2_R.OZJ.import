@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c65u8x6snsdq6"
+path="res://.godot/imported/Nixfire2_R.OZJ-adcf40fd146d82a325824af56ef497a7.res"
+
+[deps]
+
+source_file="res://Data/Monster/Nixfire2_R.OZJ"
+dest_files=["res://.godot/imported/Nixfire2_R.OZJ-adcf40fd146d82a325824af56ef497a7.res"]
+
+[params]
+

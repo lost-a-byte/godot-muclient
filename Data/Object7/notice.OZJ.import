@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3bb752ii85ml"
+path="res://.godot/imported/notice.OZJ-77ab7fc84cf4c851c335cea6e6d897e8.res"
+
+[deps]
+
+source_file="res://Data/Object7/notice.OZJ"
+dest_files=["res://.godot/imported/notice.OZJ-77ab7fc84cf4c851c335cea6e6d897e8.res"]
+
+[params]
+

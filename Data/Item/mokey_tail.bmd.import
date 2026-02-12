@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://ch6joqqd2hhmc"
+path="res://.godot/imported/mokey_tail.bmd-40e377dad54243100bc069e5472cdb40.scn"
+
+[deps]
+
+source_file="res://Data/Item/mokey_tail.bmd"
+dest_files=["res://.godot/imported/mokey_tail.bmd-40e377dad54243100bc069e5472cdb40.scn"]
+
+[params]
+
+modelScale=0.01

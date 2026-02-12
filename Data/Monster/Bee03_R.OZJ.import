@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vvc8i5cbo2e"
+path="res://.godot/imported/Bee03_R.OZJ-4c5d67ffdd50682177517ffec5ee172f.res"
+
+[deps]
+
+source_file="res://Data/Monster/Bee03_R.OZJ"
+dest_files=["res://.godot/imported/Bee03_R.OZJ-4c5d67ffdd50682177517ffec5ee172f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://npujcery8igd"
+path="res://.godot/imported/buff_ice_1.OZJ-79ceae2eab9b982a1a831f8336176e85.res"
+
+[deps]
+
+source_file="res://Data/Effect/buff_ice_1.OZJ"
+dest_files=["res://.godot/imported/buff_ice_1.OZJ-79ceae2eab9b982a1a831f8336176e85.res"]
+
+[params]
+

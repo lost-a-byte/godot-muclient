@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bmx2i1f32ldeu"
+path="res://.godot/imported/ChefchickenUP.bmd-657190373bee891e837f71d210d21c8d.scn"
+
+[deps]
+
+source_file="res://Data/Item/ChefchickenUP.bmd"
+dest_files=["res://.godot/imported/ChefchickenUP.bmd-657190373bee891e837f71d210d21c8d.scn"]
+
+[params]
+
+modelScale=0.01

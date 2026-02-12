@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ht6ea3fhiibj"
+path="res://.godot/imported/merhair2_effect.OZJ-fd1133ed94a5cc1ba0b310b24045086f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/merhair2_effect.OZJ"
+dest_files=["res://.godot/imported/merhair2_effect.OZJ-fd1133ed94a5cc1ba0b310b24045086f.res"]
+
+[params]
+

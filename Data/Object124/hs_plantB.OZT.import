@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d1c0f4nm3tlp4"
+path="res://.godot/imported/hs_plantB.OZT-1121529e86ae7acdcb393596b086ac0f.res"
+
+[deps]
+
+source_file="res://Data/Object124/hs_plantB.OZT"
+dest_files=["res://.godot/imported/hs_plantB.OZT-1121529e86ae7acdcb393596b086ac0f.res"]
+
+[params]
+

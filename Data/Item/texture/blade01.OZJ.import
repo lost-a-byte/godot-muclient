@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4hccbrw8itfv"
+path="res://.godot/imported/blade01.OZJ-3b80105944579ca65b00b067bdb4b746.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blade01.OZJ"
+dest_files=["res://.godot/imported/blade01.OZJ-3b80105944579ca65b00b067bdb4b746.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bef2rhr0mv3ku"
+path="res://.godot/imported/minseed.OZJ-4f333529b4d3eb31d9496f17d1477cb3.res"
+
+[deps]
+
+source_file="res://Data/Effect/minseed.OZJ"
+dest_files=["res://.godot/imported/minseed.OZJ-4f333529b4d3eb31d9496f17d1477cb3.res"]
+
+[params]
+

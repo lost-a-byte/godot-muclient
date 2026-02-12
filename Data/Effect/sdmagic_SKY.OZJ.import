@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f1kpcksjwdep"
+path="res://.godot/imported/sdmagic_SKY.OZJ-278079728696082e0eea3c44c2a2f3b9.res"
+
+[deps]
+
+source_file="res://Data/Effect/sdmagic_SKY.OZJ"
+dest_files=["res://.godot/imported/sdmagic_SKY.OZJ-278079728696082e0eea3c44c2a2f3b9.res"]
+
+[params]
+

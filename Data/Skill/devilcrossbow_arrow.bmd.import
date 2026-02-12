@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c0qso26j0pl4u"
+path="res://.godot/imported/devilcrossbow_arrow.bmd-7d2291752b046040cc5cf9bf453ac7ce.scn"
+
+[deps]
+
+source_file="res://Data/Skill/devilcrossbow_arrow.bmd"
+dest_files=["res://.godot/imported/devilcrossbow_arrow.bmd-7d2291752b046040cc5cf9bf453ac7ce.scn"]
+
+[params]
+
+modelScale=0.01

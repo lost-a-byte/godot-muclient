@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q7683gmfwbp0"
+path="res://.godot/imported/lucky_item03.ozj-060935729aa69d42d9eee1babe0b5995.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lucky_item03.ozj"
+dest_files=["res://.godot/imported/lucky_item03.ozj-060935729aa69d42d9eee1babe0b5995.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cq8hqj7au52av"
+path="res://.godot/imported/newui_Party_Lifebar01.OZJ-0478b10c3e3f3b1fb4d40b5e52c0e6b3.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_Party_Lifebar01.OZJ"
+dest_files=["res://.godot/imported/newui_Party_Lifebar01.OZJ-0478b10c3e3f3b1fb4d40b5e52c0e6b3.res"]
+
+[params]
+

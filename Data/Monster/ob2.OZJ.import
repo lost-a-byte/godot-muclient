@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dkqabypl87326"
+path="res://.godot/imported/ob2.OZJ-063a06a8c20add835a5630c5017a94d4.res"
+
+[deps]
+
+source_file="res://Data/Monster/ob2.OZJ"
+dest_files=["res://.godot/imported/ob2.OZJ-063a06a8c20add835a5630c5017a94d4.res"]
+
+[params]
+

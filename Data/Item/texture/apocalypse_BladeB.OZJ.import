@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://gwbj2l4t7xo4"
+path="res://.godot/imported/apocalypse_BladeB.OZJ-474e7030f6ef822df6013551f4320c84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_BladeB.OZJ"
+dest_files=["res://.godot/imported/apocalypse_BladeB.OZJ-474e7030f6ef822df6013551f4320c84.res"]
+
+[params]
+

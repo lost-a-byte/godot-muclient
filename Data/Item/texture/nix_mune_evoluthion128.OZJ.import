@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bpo6ikbhrmx4w"
+path="res://.godot/imported/nix_mune_evoluthion128.OZJ-ee42c714e77187dbbe0ba993e5116e86.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/nix_mune_evoluthion128.OZJ"
+dest_files=["res://.godot/imported/nix_mune_evoluthion128.OZJ-ee42c714e77187dbbe0ba993e5116e86.res"]
+
+[params]
+

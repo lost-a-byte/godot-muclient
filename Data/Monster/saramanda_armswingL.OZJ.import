@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ba64rruqkejac"
+path="res://.godot/imported/saramanda_armswingL.OZJ-c9134d594d98402998756860dce5c419.res"
+
+[deps]
+
+source_file="res://Data/Monster/saramanda_armswingL.OZJ"
+dest_files=["res://.godot/imported/saramanda_armswingL.OZJ-c9134d594d98402998756860dce5c419.res"]
+
+[params]
+

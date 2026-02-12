@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://nyxybxfcfnuh"
+path="res://.godot/imported/Wing4_Amulet_02_r.OZJ-935c4e9f48ae225ba2a53e921b20872d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Wing4_Amulet_02_r.OZJ"
+dest_files=["res://.godot/imported/Wing4_Amulet_02_r.OZJ-935c4e9f48ae225ba2a53e921b20872d.res"]
+
+[params]
+

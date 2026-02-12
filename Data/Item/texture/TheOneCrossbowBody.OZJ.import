@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b2c83q4vgl72q"
+path="res://.godot/imported/TheOneCrossbowBody.OZJ-0051e97f75819b0a7512f8ff06fcede0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TheOneCrossbowBody.OZJ"
+dest_files=["res://.godot/imported/TheOneCrossbowBody.OZJ-0051e97f75819b0a7512f8ff06fcede0.res"]
+
+[params]
+

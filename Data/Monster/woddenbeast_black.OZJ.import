@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d3no31dlurlcs"
+path="res://.godot/imported/woddenbeast_black.OZJ-02244c4b3c62a991313f269731285d72.res"
+
+[deps]
+
+source_file="res://Data/Monster/woddenbeast_black.OZJ"
+dest_files=["res://.godot/imported/woddenbeast_black.OZJ-02244c4b3c62a991313f269731285d72.res"]
+
+[params]
+

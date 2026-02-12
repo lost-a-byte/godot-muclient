@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dgg084rmp60qe"
+path="res://.godot/imported/change.ozj-dcf0f5cd75014e80296a4a9a29997c5b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/change.ozj"
+dest_files=["res://.godot/imported/change.ozj-dcf0f5cd75014e80296a4a9a29997c5b.res"]
+
+[params]
+

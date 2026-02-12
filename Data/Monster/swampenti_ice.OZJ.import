@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccsk4g1sjocbf"
+path="res://.godot/imported/swampenti_ice.OZJ-9f7924fe8fdffcefdd36e51f798c06c3.res"
+
+[deps]
+
+source_file="res://Data/Monster/swampenti_ice.OZJ"
+dest_files=["res://.godot/imported/swampenti_ice.OZJ-9f7924fe8fdffcefdd36e51f798c06c3.res"]
+
+[params]
+

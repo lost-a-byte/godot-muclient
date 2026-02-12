@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d0c8w1dvm8k57"
+path="res://.godot/imported/PigHappy_red.OZJ-f0d4e142fb6d23e98ef1d61e01388ca6.res"
+
+[deps]
+
+source_file="res://Data/Monster/PigHappy_red.OZJ"
+dest_files=["res://.godot/imported/PigHappy_red.OZJ-f0d4e142fb6d23e98ef1d61e01388ca6.res"]
+
+[params]
+

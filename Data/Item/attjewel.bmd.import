@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dxqsqctqp5i1p"
+path="res://.godot/imported/attjewel.bmd-d931d9832128592e12cb40b54111aa27.scn"
+
+[deps]
+
+source_file="res://Data/Item/attjewel.bmd"
+dest_files=["res://.godot/imported/attjewel.bmd-d931d9832128592e12cb40b54111aa27.scn"]
+
+[params]
+
+modelScale=0.01

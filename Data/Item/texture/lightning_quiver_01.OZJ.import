@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c3p7tfv8vq863"
+path="res://.godot/imported/lightning_quiver_01.OZJ-ff82670b2831e2525027bc5e3663a0c1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/lightning_quiver_01.OZJ"
+dest_files=["res://.godot/imported/lightning_quiver_01.OZJ-ff82670b2831e2525027bc5e3663a0c1.res"]
+
+[params]
+

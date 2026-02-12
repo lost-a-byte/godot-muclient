@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://br7b5ffuw34jg"
+path="res://.godot/imported/maya02a.OZJ-b5f935efafdb25cae7f75d64e7d1a61d.res"
+
+[deps]
+
+source_file="res://Data/Object40/maya02a.OZJ"
+dest_files=["res://.godot/imported/maya02a.OZJ-b5f935efafdb25cae7f75d64e7d1a61d.res"]
+
+[params]
+

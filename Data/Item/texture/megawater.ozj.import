@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfptxv1dkrsmq"
+path="res://.godot/imported/megawater.ozj-a0212530cf128e554197e6a879f8f304.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/megawater.ozj"
+dest_files=["res://.godot/imported/megawater.ozj-a0212530cf128e554197e6a879f8f304.res"]
+
+[params]
+

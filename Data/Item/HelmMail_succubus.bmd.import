@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dtiq3ts7nvuxa"
+path="res://.godot/imported/HelmMail_succubus.bmd-28388964ea9410d4ac02b86ced66da17.scn"
+
+[deps]
+
+source_file="res://Data/Item/HelmMail_succubus.bmd"
+dest_files=["res://.godot/imported/HelmMail_succubus.bmd-28388964ea9410d4ac02b86ced66da17.scn"]
+
+[params]
+
+modelScale=0.01

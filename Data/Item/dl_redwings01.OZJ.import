@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://k6irmu1w1g7n"
+path="res://.godot/imported/dl_redwings01.OZJ-25b94ea7317cfd0b899fb62e3db2b41b.res"
+
+[deps]
+
+source_file="res://Data/Item/dl_redwings01.OZJ"
+dest_files=["res://.godot/imported/dl_redwings01.OZJ-25b94ea7317cfd0b899fb62e3db2b41b.res"]
+
+[params]
+

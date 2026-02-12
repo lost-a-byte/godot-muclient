@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cinjotfar3mwo"
+path="res://.godot/imported/TreatA.OZJ-7c5a8684b71ebebdf3b33b9fcd2b2147.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/TreatA.OZJ"
+dest_files=["res://.godot/imported/TreatA.OZJ-7c5a8684b71ebebdf3b33b9fcd2b2147.res"]
+
+[params]
+

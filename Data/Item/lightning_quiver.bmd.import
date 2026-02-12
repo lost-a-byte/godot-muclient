@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c8qcxe2o5hk14"
+path="res://.godot/imported/lightning_quiver.bmd-d870377fb92f9d4fd82566e4f39de1a5.scn"
+
+[deps]
+
+source_file="res://Data/Item/lightning_quiver.bmd"
+dest_files=["res://.godot/imported/lightning_quiver.bmd-d870377fb92f9d4fd82566e4f39de1a5.scn"]
+
+[params]
+
+modelScale=0.01

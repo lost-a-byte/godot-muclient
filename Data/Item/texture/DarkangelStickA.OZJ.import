@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://qh8dhjhwdd3y"
+path="res://.godot/imported/DarkangelStickA.OZJ-68768604fb95df9f87060f764d13252c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/DarkangelStickA.OZJ"
+dest_files=["res://.godot/imported/DarkangelStickA.OZJ-68768604fb95df9f87060f764d13252c.res"]
+
+[params]
+

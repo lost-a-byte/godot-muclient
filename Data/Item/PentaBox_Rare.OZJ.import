@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ccb6akbacvy04"
+path="res://.godot/imported/PentaBox_Rare.OZJ-596cc4086034fb90c25fadfb7ba58aa8.res"
+
+[deps]
+
+source_file="res://Data/Item/PentaBox_Rare.OZJ"
+dest_files=["res://.godot/imported/PentaBox_Rare.OZJ-596cc4086034fb90c25fadfb7ba58aa8.res"]
+
+[params]
+

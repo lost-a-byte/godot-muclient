@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dfs00qv7s8x00"
+path="res://.godot/imported/fairybody.OZJ-86bc8f44aeee701f9ca89ac04f25ce2c.res"
+
+[deps]
+
+source_file="res://Data/Monster/fairybody.OZJ"
+dest_files=["res://.godot/imported/fairybody.OZJ-86bc8f44aeee701f9ca89ac04f25ce2c.res"]
+
+[params]
+

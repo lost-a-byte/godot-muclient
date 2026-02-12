@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ddk4d5hloe83u"
+path="res://.godot/imported/SavateA.OZJ-2cc954c509b761d79ef9adf60d16506b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SavateA.OZJ"
+dest_files=["res://.godot/imported/SavateA.OZJ-2cc954c509b761d79ef9adf60d16506b.res"]
+
+[params]
+

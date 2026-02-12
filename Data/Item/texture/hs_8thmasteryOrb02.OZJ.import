@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dghrccanrtuk6"
+path="res://.godot/imported/hs_8thmasteryOrb02.OZJ-fe819f8b13af74585bc5151269dfdc00.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_8thmasteryOrb02.OZJ"
+dest_files=["res://.godot/imported/hs_8thmasteryOrb02.OZJ-fe819f8b13af74585bc5151269dfdc00.res"]
+
+[params]
+

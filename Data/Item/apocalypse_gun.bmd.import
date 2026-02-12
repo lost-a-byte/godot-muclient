@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://drtn6h76uqm02"
+path="res://.godot/imported/apocalypse_gun.bmd-a870bc7ef67e0df1af8729506a7177e6.scn"
+
+[deps]
+
+source_file="res://Data/Item/apocalypse_gun.bmd"
+dest_files=["res://.godot/imported/apocalypse_gun.bmd-a870bc7ef67e0df1af8729506a7177e6.scn"]
+
+[params]
+
+modelScale=0.01

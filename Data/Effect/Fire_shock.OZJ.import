@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://eoa7fio2vmsy"
+path="res://.godot/imported/Fire_shock.OZJ-b3d709c71c385037b41808606c181d55.res"
+
+[deps]
+
+source_file="res://Data/Effect/Fire_shock.OZJ"
+dest_files=["res://.godot/imported/Fire_shock.OZJ-b3d709c71c385037b41808606c181d55.res"]
+
+[params]
+

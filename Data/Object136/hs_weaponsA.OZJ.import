@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ia5ccegs13wo"
+path="res://.godot/imported/hs_weaponsA.OZJ-9a9a6d2ffd929f962d098123ea1a04a2.res"
+
+[deps]
+
+source_file="res://Data/Object136/hs_weaponsA.OZJ"
+dest_files=["res://.godot/imported/hs_weaponsA.OZJ-9a9a6d2ffd929f962d098123ea1a04a2.res"]
+
+[params]
+

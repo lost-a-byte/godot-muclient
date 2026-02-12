@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4d8hfnn8hvrg"
+path="res://.godot/imported/ursh_gold.OZJ-7c32f2f07d9f4472d82870f81dcd0408.res"
+
+[deps]
+
+source_file="res://Data/Skill/ursh_gold.OZJ"
+dest_files=["res://.godot/imported/ursh_gold.OZJ-7c32f2f07d9f4472d82870f81dcd0408.res"]
+
+[params]
+

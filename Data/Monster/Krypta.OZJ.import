@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4us7fc27behu"
+path="res://.godot/imported/Krypta.OZJ-f0290d443d2fdf529c21628b286c320e.res"
+
+[deps]
+
+source_file="res://Data/Monster/Krypta.OZJ"
+dest_files=["res://.godot/imported/Krypta.OZJ-f0290d443d2fdf529c21628b286c320e.res"]
+
+[params]
+

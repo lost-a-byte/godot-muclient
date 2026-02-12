@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cns2uxj78neo"
+path="res://.godot/imported/requitalbox_violet.bmd-790bc36b73979f7e51fc8ff92bb26f7a.scn"
+
+[deps]
+
+source_file="res://Data/Item/requitalbox_violet.bmd"
+dest_files=["res://.godot/imported/requitalbox_violet.bmd-790bc36b73979f7e51fc8ff92bb26f7a.scn"]
+
+[params]
+
+modelScale=0.01

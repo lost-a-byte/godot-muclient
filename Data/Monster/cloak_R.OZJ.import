@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d28mtndrp3blo"
+path="res://.godot/imported/cloak_R.OZJ-089228672d15a92febfa668eed2f62be.res"
+
+[deps]
+
+source_file="res://Data/Monster/cloak_R.OZJ"
+dest_files=["res://.godot/imported/cloak_R.OZJ-089228672d15a92febfa668eed2f62be.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://blq7o1i4tg32w"
+path="res://.godot/imported/flamset_wing.OZJ-c863ea423e0f1a47e4ce2b3265d8de36.res"
+
+[deps]
+
+source_file="res://Data/Player/flamset_wing.OZJ"
+dest_files=["res://.godot/imported/flamset_wing.OZJ-c863ea423e0f1a47e4ce2b3265d8de36.res"]
+
+[params]
+

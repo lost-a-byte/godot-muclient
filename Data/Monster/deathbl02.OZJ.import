@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dahycgxpce3wu"
+path="res://.godot/imported/deathbl02.OZJ-1198c30ae9b4f4368a35b29b4c652bdd.res"
+
+[deps]
+
+source_file="res://Data/Monster/deathbl02.OZJ"
+dest_files=["res://.godot/imported/deathbl02.OZJ-1198c30ae9b4f4368a35b29b4c652bdd.res"]
+
+[params]
+

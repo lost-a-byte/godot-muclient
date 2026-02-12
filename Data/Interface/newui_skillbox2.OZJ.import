@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://3ktoelt27xsm"
+path="res://.godot/imported/newui_skillbox2.OZJ-b3947d4294ab519682c70b742773d724.res"
+
+[deps]
+
+source_file="res://Data/Interface/newui_skillbox2.OZJ"
+dest_files=["res://.godot/imported/newui_skillbox2.OZJ-b3947d4294ab519682c70b742773d724.res"]
+
+[params]
+

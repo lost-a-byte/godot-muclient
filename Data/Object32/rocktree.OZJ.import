@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cpsx5m71a4eiw"
+path="res://.godot/imported/rocktree.OZJ-ce193e07690ea50692035580ad37aee7.res"
+
+[deps]
+
+source_file="res://Data/Object32/rocktree.OZJ"
+dest_files=["res://.godot/imported/rocktree.OZJ-ce193e07690ea50692035580ad37aee7.res"]
+
+[params]
+

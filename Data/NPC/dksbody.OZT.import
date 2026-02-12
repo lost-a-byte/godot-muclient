@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bsaviobg627ta"
+path="res://.godot/imported/dksbody.OZT-8423ec182bec3a640cc4cc486ea510b3.res"
+
+[deps]
+
+source_file="res://Data/NPC/dksbody.OZT"
+dest_files=["res://.godot/imported/dksbody.OZT-8423ec182bec3a640cc4cc486ea510b3.res"]
+
+[params]
+

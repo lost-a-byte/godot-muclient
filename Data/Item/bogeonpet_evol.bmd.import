@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bdxn2iismui6c"
+path="res://.godot/imported/bogeonpet_evol.bmd-1c8d25ae34fd39e65a7c06efcf6b43fb.scn"
+
+[deps]
+
+source_file="res://Data/Item/bogeonpet_evol.bmd"
+dest_files=["res://.godot/imported/bogeonpet_evol.bmd-1c8d25ae34fd39e65a7c06efcf6b43fb.scn"]
+
+[params]
+
+modelScale=0.01

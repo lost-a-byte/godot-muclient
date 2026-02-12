@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cg1jpv2figxyu"
+path="res://.godot/imported/rock2.OZJ-3760abfffb939f0b5a52c24c624c6ad9.res"
+
+[deps]
+
+source_file="res://Data/Object31/rock2.OZJ"
+dest_files=["res://.godot/imported/rock2.OZJ-3760abfffb939f0b5a52c24c624c6ad9.res"]
+
+[params]
+

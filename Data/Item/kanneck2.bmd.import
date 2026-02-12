@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dq20orjobo6mp"
+path="res://.godot/imported/kanneck2.bmd-858ca3c15dbf39c658e9c61501083c59.scn"
+
+[deps]
+
+source_file="res://Data/Item/kanneck2.bmd"
+dest_files=["res://.godot/imported/kanneck2.bmd-858ca3c15dbf39c658e9c61501083c59.scn"]
+
+[params]
+
+modelScale=0.01

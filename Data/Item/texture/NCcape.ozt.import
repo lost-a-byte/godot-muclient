@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ftb1brwvtc6a"
+path="res://.godot/imported/NCcape.ozt-dc103a42ce24761d98d4f7684777eedc.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/NCcape.ozt"
+dest_files=["res://.godot/imported/NCcape.ozt-dc103a42ce24761d98d4f7684777eedc.res"]
+
+[params]
+

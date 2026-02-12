@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dw7sdc16l3gg6"
+path="res://.godot/imported/sticshild_effect.OZJ-89eab2e36012d96c06b7b30707148624.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sticshild_effect.OZJ"
+dest_files=["res://.godot/imported/sticshild_effect.OZJ-89eab2e36012d96c06b7b30707148624.res"]
+
+[params]
+

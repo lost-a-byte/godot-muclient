@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df3vanh6j0n5j"
+path="res://.godot/imported/maul03.OZJ-175a64cdc3bfb7fc5862d522b627bedd.res"
+
+[deps]
+
+source_file="res://Data/Item/maul03.OZJ"
+dest_files=["res://.godot/imported/maul03.OZJ-175a64cdc3bfb7fc5862d522b627bedd.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cx3yjq7aiqxie"
+path="res://.godot/imported/MerinoA.OZJ-3eaf7547a1c80f99b0765d4d72f19060.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MerinoA.OZJ"
+dest_files=["res://.godot/imported/MerinoA.OZJ-3eaf7547a1c80f99b0765d4d72f19060.res"]
+
+[params]
+

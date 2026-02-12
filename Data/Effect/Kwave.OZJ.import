@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rsbra7vk4evw"
+path="res://.godot/imported/Kwave.OZJ-f5f582b5d87d30f21a36d86fb12aa252.res"
+
+[deps]
+
+source_file="res://Data/Effect/Kwave.OZJ"
+dest_files=["res://.godot/imported/Kwave.OZJ-f5f582b5d87d30f21a36d86fb12aa252.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bvhtugewtqg3t"
+path="res://.godot/imported/PantMail_bloody_dragon.bmd-4dfd4eaf18df13af16d11c749d839257.scn"
+
+[deps]
+
+source_file="res://Data/Item/PantMail_bloody_dragon.bmd"
+dest_files=["res://.godot/imported/PantMail_bloody_dragon.bmd-4dfd4eaf18df13af16d11c749d839257.scn"]
+
+[params]
+
+modelScale=0.01

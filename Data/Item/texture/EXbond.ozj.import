@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ci0lp3rs8qhqs"
+path="res://.godot/imported/EXbond.ozj-30e17f0eb48446c4ef2f740a845c24e2.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/EXbond.ozj"
+dest_files=["res://.godot/imported/EXbond.ozj-30e17f0eb48446c4ef2f740a845c24e2.res"]
+
+[params]
+

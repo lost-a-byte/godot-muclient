@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://bjy7vtu10n5dr"
+path="res://.godot/imported/BlueEyeAnvil.bmd-5e57edebd3f9b92c47c6e0c48ac44e49.scn"
+
+[deps]
+
+source_file="res://Data/Item/BlueEyeAnvil.bmd"
+dest_files=["res://.godot/imported/BlueEyeAnvil.bmd-5e57edebd3f9b92c47c6e0c48ac44e49.scn"]
+
+[params]
+
+modelScale=0.01

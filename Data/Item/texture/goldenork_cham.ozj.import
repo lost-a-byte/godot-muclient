@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ca3lj1gwviisn"
+path="res://.godot/imported/goldenork_cham.ozj-ca4e553c536e486050ad88e8da2abff0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/goldenork_cham.ozj"
+dest_files=["res://.godot/imported/goldenork_cham.ozj-ca4e553c536e486050ad88e8da2abff0.res"]
+
+[params]
+

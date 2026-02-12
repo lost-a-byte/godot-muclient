@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hcv1an0cr5il"
+path="res://.godot/imported/SpecialPetEgg.OZJ-78f7fc26b96c81bf5102f9cf21ca9e1e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/SpecialPetEgg.OZJ"
+dest_files=["res://.godot/imported/SpecialPetEgg.OZJ-78f7fc26b96c81bf5102f9cf21ca9e1e.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d34ro6jkbju72"
+path="res://.godot/imported/sd_soulsummonerstickA02_render.OZJ-b0d6c2a90b6ab8ccfd7c81ad4f20ff75.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sd_soulsummonerstickA02_render.OZJ"
+dest_files=["res://.godot/imported/sd_soulsummonerstickA02_render.OZJ-b0d6c2a90b6ab8ccfd7c81ad4f20ff75.res"]
+
+[params]
+

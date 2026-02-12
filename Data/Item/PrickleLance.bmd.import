@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c5n7gblu8pil1"
+path="res://.godot/imported/PrickleLance.bmd-24e246edd4e39e2b8483297c5d0c422d.scn"
+
+[deps]
+
+source_file="res://Data/Item/PrickleLance.bmd"
+dest_files=["res://.godot/imported/PrickleLance.bmd-24e246edd4e39e2b8483297c5d0c422d.scn"]
+
+[params]
+
+modelScale=0.01

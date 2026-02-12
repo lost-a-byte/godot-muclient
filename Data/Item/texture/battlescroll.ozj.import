@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvfrl4ony4e7l"
+path="res://.godot/imported/battlescroll.ozj-022b7b8ceccc3ab1225c4de1390847ee.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/battlescroll.ozj"
+dest_files=["res://.godot/imported/battlescroll.ozj-022b7b8ceccc3ab1225c4de1390847ee.res"]
+
+[params]
+

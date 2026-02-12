@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://c13jgv7hhaydv"
+path="res://.godot/imported/suho.bmd-43d825b9ea701997896486c7a034e7c4.scn"
+
+[deps]
+
+source_file="res://Data/Item/suho.bmd"
+dest_files=["res://.godot/imported/suho.bmd-43d825b9ea701997896486c7a034e7c4.scn"]
+
+[params]
+
+modelScale=0.01

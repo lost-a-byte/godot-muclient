@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d2m6soontdmo3"
+path="res://.godot/imported/Cromsonlycan_02_01.OZJ-e69e5c2f64a1681c1ab0354a9602aa7f.res"
+
+[deps]
+
+source_file="res://Data/Monster/Cromsonlycan_02_01.OZJ"
+dest_files=["res://.godot/imported/Cromsonlycan_02_01.OZJ-e69e5c2f64a1681c1ab0354a9602aa7f.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://br2df8n55reia"
+path="res://.godot/imported/rareitem_ticket_10_cross.OZT-9b8ad1df4296e35eab05796022afa4d2.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge8/rareitem_ticket_10_cross.OZT"
+dest_files=["res://.godot/imported/rareitem_ticket_10_cross.OZT-9b8ad1df4296e35eab05796022afa4d2.res"]
+
+[params]
+

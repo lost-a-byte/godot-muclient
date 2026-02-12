@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://df1i7b3qgu6rl"
+path="res://.godot/imported/elementalloon_02.OZJ-c8dd738ff4281b3d6571e668b7521b50.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elementalloon_02.OZJ"
+dest_files=["res://.godot/imported/elementalloon_02.OZJ-c8dd738ff4281b3d6571e668b7521b50.res"]
+
+[params]
+

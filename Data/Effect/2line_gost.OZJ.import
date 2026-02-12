@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://vhq217exe32b"
+path="res://.godot/imported/2line_gost.OZJ-3639a18bd8d76ad8bc2a31ddb83d6fa3.res"
+
+[deps]
+
+source_file="res://Data/Effect/2line_gost.OZJ"
+dest_files=["res://.godot/imported/2line_gost.OZJ-3639a18bd8d76ad8bc2a31ddb83d6fa3.res"]
+
+[params]
+

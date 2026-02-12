@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://sr4j0kk8y3cq"
+path="res://.godot/imported/maplebox.bmd-80679078e52573a5dcaff55058d2d3b3.scn"
+
+[deps]
+
+source_file="res://Data/Item/maplebox.bmd"
+dest_files=["res://.godot/imported/maplebox.bmd-80679078e52573a5dcaff55058d2d3b3.scn"]
+
+[params]
+
+modelScale=0.01

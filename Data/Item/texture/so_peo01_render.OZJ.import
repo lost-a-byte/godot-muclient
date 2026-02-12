@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bamxlv7knu1s0"
+path="res://.godot/imported/so_peo01_render.OZJ-f3ca40f90785c8b397edaa7c0249aa4e.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/so_peo01_render.OZJ"
+dest_files=["res://.godot/imported/so_peo01_render.OZJ-f3ca40f90785c8b397edaa7c0249aa4e.res"]
+
+[params]
+

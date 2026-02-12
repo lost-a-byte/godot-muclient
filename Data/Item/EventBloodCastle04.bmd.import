@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://l0px0tnswsv8"
+path="res://.godot/imported/EventBloodCastle04.bmd-027d44f4105bc3ab83c9f819cef88a62.scn"
+
+[deps]
+
+source_file="res://Data/Item/EventBloodCastle04.bmd"
+dest_files=["res://.godot/imported/EventBloodCastle04.bmd-027d44f4105bc3ab83c9f819cef88a62.scn"]
+
+[params]
+
+modelScale=0.01

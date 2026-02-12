@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bqjywc0u1nho5"
+path="res://.godot/imported/KShp.ozj-cd18a628ea94eaaeaf82d72c1e7735ab.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/KShp.ozj"
+dest_files=["res://.godot/imported/KShp.ozj-cd18a628ea94eaaeaf82d72c1e7735ab.res"]
+
+[params]
+

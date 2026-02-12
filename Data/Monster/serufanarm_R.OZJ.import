@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dvr5pug8e1kqf"
+path="res://.godot/imported/serufanarm_R.OZJ-2a169a329647a62010793ab8dd51738b.res"
+
+[deps]
+
+source_file="res://Data/Monster/serufanarm_R.OZJ"
+dest_files=["res://.godot/imported/serufanarm_R.OZJ-2a169a329647a62010793ab8dd51738b.res"]
+
+[params]
+

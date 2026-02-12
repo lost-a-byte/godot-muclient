@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cucwfcypslbpc"
+path="res://.godot/imported/shadow_knight_7_knee_left.bmd-c752db725ecb12f0ca0a3b915fe6e178.scn"
+
+[deps]
+
+source_file="res://Data/Monster/shadow_knight_7_knee_left.bmd"
+dest_files=["res://.godot/imported/shadow_knight_7_knee_left.bmd-c752db725ecb12f0ca0a3b915fe6e178.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://brerk4xhxmw66"
+path="res://.godot/imported/smoke_line03.OZJ-ce169beea873602b2ac6e7a620214ddf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/smoke_line03.OZJ"
+dest_files=["res://.godot/imported/smoke_line03.OZJ-ce169beea873602b2ac6e7a620214ddf.res"]
+
+[params]
+

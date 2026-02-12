@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://q43nq7l2x6j7"
+path="res://.godot/imported/apocalypse_quivers_A.OZJ-10c7f6e3aa85411a234576b0df9e1db7.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_quivers_A.OZJ"
+dest_files=["res://.godot/imported/apocalypse_quivers_A.OZJ-10c7f6e3aa85411a234576b0df9e1db7.res"]
+
+[params]
+

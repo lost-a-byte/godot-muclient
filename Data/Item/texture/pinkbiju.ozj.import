@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://xaycfok1x2pa"
+path="res://.godot/imported/pinkbiju.ozj-11c9916a7ca70c8d08109f6daef5faf3.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/pinkbiju.ozj"
+dest_files=["res://.godot/imported/pinkbiju.ozj-11c9916a7ca70c8d08109f6daef5faf3.res"]
+
+[params]
+

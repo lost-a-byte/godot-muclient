@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://07wuxnt3w42g"
+path="res://.godot/imported/umbrella_eyes_object.bmd-d7a02d5e4d93e77e97638252a56bb2c3.scn"
+
+[deps]
+
+source_file="res://Data/Monster/umbrella_eyes_object.bmd"
+dest_files=["res://.godot/imported/umbrella_eyes_object.bmd-d7a02d5e4d93e77e97638252a56bb2c3.scn"]
+
+[params]
+
+modelScale=0.01

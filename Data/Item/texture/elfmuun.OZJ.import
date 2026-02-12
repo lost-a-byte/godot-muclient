@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cncm11vg12qrb"
+path="res://.godot/imported/elfmuun.OZJ-dd5ddaeb0e681fdcab4f8ee389f1f00f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/elfmuun.OZJ"
+dest_files=["res://.godot/imported/elfmuun.OZJ-dd5ddaeb0e681fdcab4f8ee389f1f00f.res"]
+
+[params]
+

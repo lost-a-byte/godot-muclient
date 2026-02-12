@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cx6utppvlhk37"
+path="res://.godot/imported/wheel.OZJ-59f800b0f3238787c0d090c3aef1817b.res"
+
+[deps]
+
+source_file="res://Data/Monster/wheel.OZJ"
+dest_files=["res://.godot/imported/wheel.OZJ-59f800b0f3238787c0d090c3aef1817b.res"]
+
+[params]
+

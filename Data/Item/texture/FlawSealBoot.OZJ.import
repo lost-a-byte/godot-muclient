@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://v6riy71dgrtb"
+path="res://.godot/imported/FlawSealBoot.OZJ-829a0c438135795b2cabd103fc7c7402.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FlawSealBoot.OZJ"
+dest_files=["res://.godot/imported/FlawSealBoot.OZJ-829a0c438135795b2cabd103fc7c7402.res"]
+
+[params]
+

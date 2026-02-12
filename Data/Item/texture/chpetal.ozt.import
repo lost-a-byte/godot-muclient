@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://f2yu4vgh66dx"
+path="res://.godot/imported/chpetal.ozt-6268d4d12ef641533eb271a9f53be1ec.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chpetal.ozt"
+dest_files=["res://.godot/imported/chpetal.ozt-6268d4d12ef641533eb271a9f53be1ec.res"]
+
+[params]
+

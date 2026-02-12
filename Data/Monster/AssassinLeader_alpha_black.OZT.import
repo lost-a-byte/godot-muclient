@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rm8w5jj76or"
+path="res://.godot/imported/AssassinLeader_alpha_black.OZT-aa3cbd244f220c7e9cafd301d483307f.res"
+
+[deps]
+
+source_file="res://Data/Monster/AssassinLeader_alpha_black.OZT"
+dest_files=["res://.godot/imported/AssassinLeader_alpha_black.OZT-aa3cbd244f220c7e9cafd301d483307f.res"]
+
+[params]
+

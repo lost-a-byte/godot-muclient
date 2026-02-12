@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch2cvprlp3rt0"
+path="res://.godot/imported/devilwing_1.OZJ-cd88002e7a63b48433c04e6bd0f99bc5.res"
+
+[deps]
+
+source_file="res://Data/Monster/devilwing_1.OZJ"
+dest_files=["res://.godot/imported/devilwing_1.OZJ-cd88002e7a63b48433c04e6bd0f99bc5.res"]
+
+[params]
+

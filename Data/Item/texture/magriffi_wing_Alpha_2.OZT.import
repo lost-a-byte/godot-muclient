@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ix11ehfthy01"
+path="res://.godot/imported/magriffi_wing_Alpha_2.OZT-df3c5b2273bbb089e515e7de1cc2a588.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/magriffi_wing_Alpha_2.OZT"
+dest_files=["res://.godot/imported/magriffi_wing_Alpha_2.OZT-df3c5b2273bbb089e515e7de1cc2a588.res"]
+
+[params]
+

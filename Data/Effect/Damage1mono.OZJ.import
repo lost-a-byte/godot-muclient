@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cjipyiw8x7wyj"
+path="res://.godot/imported/Damage1mono.OZJ-3e5bb329fe2c121a7c1b11c872f55bd9.res"
+
+[deps]
+
+source_file="res://Data/Effect/Damage1mono.OZJ"
+dest_files=["res://.godot/imported/Damage1mono.OZJ-3e5bb329fe2c121a7c1b11c872f55bd9.res"]
+
+[params]
+

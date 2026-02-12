@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c75s8ppyd820x"
+path="res://.godot/imported/boss_green.OZJ-494634c68d243c8cef2446f1a5901a53.res"
+
+[deps]
+
+source_file="res://Data/Monster/boss_green.OZJ"
+dest_files=["res://.godot/imported/boss_green.OZJ-494634c68d243c8cef2446f1a5901a53.res"]
+
+[params]
+

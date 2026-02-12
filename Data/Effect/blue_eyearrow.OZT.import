@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b6ghholh5xaca"
+path="res://.godot/imported/blue_eyearrow.OZT-84ea156ffcd91ae7880c7a76ab35e3fe.res"
+
+[deps]
+
+source_file="res://Data/Effect/blue_eyearrow.OZT"
+dest_files=["res://.godot/imported/blue_eyearrow.OZT-84ea156ffcd91ae7880c7a76ab35e3fe.res"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://xid028cnexw4"
+path="res://.godot/imported/Ghosthorse_item_mask01.bmd-6dfc9b3e467f8e678fee13acba4ab1c6.scn"
+
+[deps]
+
+source_file="res://Data/Item/Ghosthorse_item_mask01.bmd"
+dest_files=["res://.godot/imported/Ghosthorse_item_mask01.bmd-6dfc9b3e467f8e678fee13acba4ab1c6.scn"]
+
+[params]
+
+modelScale=0.01

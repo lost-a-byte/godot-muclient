@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://slsd8q48yjlk"
+path="res://.godot/imported/chbranchered.OZJ-d786ad4d7b2b05e9b85803c0ecc2ccb1.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chbranchered.OZJ"
+dest_files=["res://.godot/imported/chbranchered.OZJ-d786ad4d7b2b05e9b85803c0ecc2ccb1.res"]
+
+[params]
+

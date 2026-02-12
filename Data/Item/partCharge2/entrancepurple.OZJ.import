@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ctdrqc4do1w1j"
+path="res://.godot/imported/entrancepurple.OZJ-e4e48eeb69b2306b41483861712d1b44.res"
+
+[deps]
+
+source_file="res://Data/Item/partCharge2/entrancepurple.OZJ"
+dest_files=["res://.godot/imported/entrancepurple.OZJ-e4e48eeb69b2306b41483861712d1b44.res"]
+
+[params]
+

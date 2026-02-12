@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cgsm23gvo7pey"
+path="res://.godot/imported/matery_bow6_arrow.bmd-5afebce19906f40ebc96be220f142746.scn"
+
+[deps]
+
+source_file="res://Data/Skill/matery_bow6_arrow.bmd"
+dest_files=["res://.godot/imported/matery_bow6_arrow.bmd-5afebce19906f40ebc96be220f142746.scn"]
+
+[params]
+
+modelScale=0.01

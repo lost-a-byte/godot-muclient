@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bx8vx4y317f8j"
+path="res://.godot/imported/chadragons_moru.OZJ-721302cf94d349c0e2d3bd85b8326983.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chadragons_moru.OZJ"
+dest_files=["res://.godot/imported/chadragons_moru.OZJ-721302cf94d349c0e2d3bd85b8326983.res"]
+
+[params]
+

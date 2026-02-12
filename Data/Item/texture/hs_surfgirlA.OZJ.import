@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c6gr5h71lvx0s"
+path="res://.godot/imported/hs_surfgirlA.OZJ-da02e8a54fccf721a86fa5ccd2fc9466.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hs_surfgirlA.OZJ"
+dest_files=["res://.godot/imported/hs_surfgirlA.OZJ-da02e8a54fccf721a86fa5ccd2fc9466.res"]
+
+[params]
+

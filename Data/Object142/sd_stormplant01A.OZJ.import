@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://rndsux2e27qx"
+path="res://.godot/imported/sd_stormplant01A.OZJ-6ef565529bc32e587ae750063f1198e0.res"
+
+[deps]
+
+source_file="res://Data/Object142/sd_stormplant01A.OZJ"
+dest_files=["res://.godot/imported/sd_stormplant01A.OZJ-6ef565529bc32e587ae750063f1198e0.res"]
+
+[params]
+

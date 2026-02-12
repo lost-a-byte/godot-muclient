@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://m0yftm40bxyj"
+path="res://.godot/imported/lbshadow.OZT-e3022bb51a3ff00fab15f85cce41389b.res"
+
+[deps]
+
+source_file="res://Data/Object32/lbshadow.OZT"
+dest_files=["res://.godot/imported/lbshadow.OZT-e3022bb51a3ff00fab15f85cce41389b.res"]
+
+[params]
+

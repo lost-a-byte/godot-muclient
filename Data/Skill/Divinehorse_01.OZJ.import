@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://boxt5hjs0dbdb"
+path="res://.godot/imported/Divinehorse_01.OZJ-cadcd69a0e7dd71ee01522c88ed759a9.res"
+
+[deps]
+
+source_file="res://Data/Skill/Divinehorse_01.OZJ"
+dest_files=["res://.godot/imported/Divinehorse_01.OZJ-cadcd69a0e7dd71ee01522c88ed759a9.res"]
+
+[params]
+

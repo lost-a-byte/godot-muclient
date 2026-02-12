@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dufoon4vwml0m"
+path="res://.godot/imported/KcrossB.OZJ-73edf2c8681d99c46b52e029b1a5deac.res"
+
+[deps]
+
+source_file="res://Data/Skill/KcrossB.OZJ"
+dest_files=["res://.godot/imported/KcrossB.OZJ-73edf2c8681d99c46b52e029b1a5deac.res"]
+
+[params]
+

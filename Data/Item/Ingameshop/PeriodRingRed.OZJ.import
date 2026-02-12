@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch3balit34mf1"
+path="res://.godot/imported/PeriodRingRed.OZJ-23d6c99b7a920dd3a8f9c1c2eba48579.res"
+
+[deps]
+
+source_file="res://Data/Item/Ingameshop/PeriodRingRed.OZJ"
+dest_files=["res://.godot/imported/PeriodRingRed.OZJ-23d6c99b7a920dd3a8f9c1c2eba48579.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://wgaboffp6eob"
+path="res://.godot/imported/apocalypse_elfshield_gold.OZJ-bc3d03e99757a5b7bd19f9fb7726316b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/apocalypse_elfshield_gold.OZJ"
+dest_files=["res://.godot/imported/apocalypse_elfshield_gold.OZJ-bc3d03e99757a5b7bd19f9fb7726316b.res"]
+
+[params]
+

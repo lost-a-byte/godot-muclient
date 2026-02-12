@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://0nh6fxhr7r70"
+path="res://.godot/imported/ogre2_blue.OZJ-c218e3f2a43bb941f77c071d14266e4f.res"
+
+[deps]
+
+source_file="res://Data/Monster/ogre2_blue.OZJ"
+dest_files=["res://.godot/imported/ogre2_blue.OZJ-c218e3f2a43bb941f77c071d14266e4f.res"]
+
+[params]
+

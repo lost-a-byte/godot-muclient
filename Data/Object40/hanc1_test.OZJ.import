@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dlewt4pfgnkc8"
+path="res://.godot/imported/hanc1_test.OZJ-d760d6a0ca5e45cf092fd714f0956a30.res"
+
+[deps]
+
+source_file="res://Data/Object40/hanc1_test.OZJ"
+dest_files=["res://.godot/imported/hanc1_test.OZJ-d760d6a0ca5e45cf092fd714f0956a30.res"]
+
+[params]
+

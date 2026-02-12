@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bbcrv1o1x8t5d"
+path="res://.godot/imported/ni99.ozj-e2dd6f7cb47465ace2f396d908f39e4c.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/ni99.ozj"
+dest_files=["res://.godot/imported/ni99.ozj-e2dd6f7cb47465ace2f396d908f39e4c.res"]
+
+[params]
+

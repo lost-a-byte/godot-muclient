@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dfr7rpcrse0fw"
+path="res://.godot/imported/cunfusion_stone.bmd-a61bcb8ecc9ce8399ace02c128138573.scn"
+
+[deps]
+
+source_file="res://Data/Effect/cunfusion_stone.bmd"
+dest_files=["res://.godot/imported/cunfusion_stone.bmd-a61bcb8ecc9ce8399ace02c128138573.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dhp3jb74nn3l3"
+path="res://.godot/imported/buskermonkey.bmd-94f487307174878a7facdda5f9380420.scn"
+
+[deps]
+
+source_file="res://Data/Item/buskermonkey.bmd"
+dest_files=["res://.godot/imported/buskermonkey.bmd-94f487307174878a7facdda5f9380420.scn"]
+
+[params]
+
+modelScale=0.01

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bn8td61cnfn2a"
+path="res://.godot/imported/raymond_wing_R.OZJ-e10e1ae6170d2b091c62dbcaa0316d35.res"
+
+[deps]
+
+source_file="res://Data/Effect/raymond_wing_R.OZJ"
+dest_files=["res://.godot/imported/raymond_wing_R.OZJ-e10e1ae6170d2b091c62dbcaa0316d35.res"]
+
+[params]
+

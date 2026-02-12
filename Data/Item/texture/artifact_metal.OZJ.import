@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cei3c6ha0edjq"
+path="res://.godot/imported/artifact_metal.OZJ-f6d5fb379e2cfc7ac50488ef2d0a32cb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/artifact_metal.OZJ"
+dest_files=["res://.godot/imported/artifact_metal.OZJ-f6d5fb379e2cfc7ac50488ef2d0a32cb.res"]
+
+[params]
+

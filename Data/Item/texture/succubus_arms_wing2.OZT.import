@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://d18k83jdsggwy"
+path="res://.godot/imported/succubus_arms_wing2.OZT-aa2e279f8960ca93758870e6b0d431f0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/succubus_arms_wing2.OZT"
+dest_files=["res://.godot/imported/succubus_arms_wing2.OZT-aa2e279f8960ca93758870e6b0d431f0.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bg1cjp3nqq4h2"
+path="res://.godot/imported/Digger_Orc_crystal.OZJ-0a8d9902ecc2ead344db8aa86a23911d.res"
+
+[deps]
+
+source_file="res://Data/Monster/Digger_Orc_crystal.OZJ"
+dest_files=["res://.godot/imported/Digger_Orc_crystal.OZJ-0a8d9902ecc2ead344db8aa86a23911d.res"]
+
+[params]
+

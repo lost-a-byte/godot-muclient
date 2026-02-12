@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cr3ai8kke6g35"
+path="res://.godot/imported/hornhorn.OZJ-661561db31a5f7bf7d8a5712b9025d68.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/hornhorn.OZJ"
+dest_files=["res://.godot/imported/hornhorn.OZJ-661561db31a5f7bf7d8a5712b9025d68.res"]
+
+[params]
+

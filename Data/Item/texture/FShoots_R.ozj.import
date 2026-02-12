@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dp44slqvyt2mb"
+path="res://.godot/imported/FShoots_R.ozj-c6ca7224b98b5f6b29f1a9bc1570167b.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FShoots_R.ozj"
+dest_files=["res://.godot/imported/FShoots_R.ozj-c6ca7224b98b5f6b29f1a9bc1570167b.res"]
+
+[params]
+

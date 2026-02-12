@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://lg4iny3f5c1t"
+path="res://.godot/imported/Item802_2_wing.OZT-c5404731e53306c7835824db225d9188.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item802_2_wing.OZT"
+dest_files=["res://.godot/imported/Item802_2_wing.OZT-c5404731e53306c7835824db225d9188.res"]
+
+[params]
+

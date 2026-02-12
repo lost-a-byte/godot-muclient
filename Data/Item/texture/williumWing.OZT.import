@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1o8cx8lvoav1"
+path="res://.godot/imported/williumWing.OZT-255029f45efdcf2db90a3628c3b75d57.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/williumWing.OZT"
+dest_files=["res://.godot/imported/williumWing.OZT-255029f45efdcf2db90a3628c3b75d57.res"]
+
+[params]
+

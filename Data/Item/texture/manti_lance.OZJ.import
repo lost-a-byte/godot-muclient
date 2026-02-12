@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ckxhh6kycw7a2"
+path="res://.godot/imported/manti_lance.OZJ-3b1fc98cba19148c9e2e14c7d9f41ea9.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/manti_lance.OZJ"
+dest_files=["res://.godot/imported/manti_lance.OZJ-3b1fc98cba19148c9e2e14c7d9f41ea9.res"]
+
+[params]
+

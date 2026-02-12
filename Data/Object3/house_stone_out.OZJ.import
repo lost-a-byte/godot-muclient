@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://du515u8dnl87j"
+path="res://.godot/imported/house_stone_out.OZJ-49edb0703d8fa3b7cee5fab77e00c4cf.res"
+
+[deps]
+
+source_file="res://Data/Object3/house_stone_out.OZJ"
+dest_files=["res://.godot/imported/house_stone_out.OZJ-49edb0703d8fa3b7cee5fab77e00c4cf.res"]
+
+[params]
+

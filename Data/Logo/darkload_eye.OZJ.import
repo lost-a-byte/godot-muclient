@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dw3bobbo4jnbo"
+path="res://.godot/imported/darkload_eye.OZJ-1bbd0c3cec7da14f4222714c40e8e0ca.res"
+
+[deps]
+
+source_file="res://Data/Logo/darkload_eye.OZJ"
+dest_files=["res://.godot/imported/darkload_eye.OZJ-1bbd0c3cec7da14f4222714c40e8e0ca.res"]
+
+[params]
+

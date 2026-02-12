@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dy3sjtdl5jixh"
+path="res://.godot/imported/nightmare_cloth.OZT-87963bc5b8e0bab9bde2a3c6443983ca.res"
+
+[deps]
+
+source_file="res://Data/Monster/nightmare_cloth.OZT"
+dest_files=["res://.godot/imported/nightmare_cloth.OZT-87963bc5b8e0bab9bde2a3c6443983ca.res"]
+
+[params]
+

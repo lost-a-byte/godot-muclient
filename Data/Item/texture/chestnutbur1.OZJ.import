@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://hm3hr60wfcjy"
+path="res://.godot/imported/chestnutbur1.OZJ-a809967dac6119bf364bfa9d691b0147.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chestnutbur1.OZJ"
+dest_files=["res://.godot/imported/chestnutbur1.OZJ-a809967dac6119bf364bfa9d691b0147.res"]
+
+[params]
+

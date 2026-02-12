@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cgsm51xxrgyrj"
+path="res://.godot/imported/shiny05.OZJ-9fcd7eef4254d3f10850d5324b98366f.res"
+
+[deps]
+
+source_file="res://Data/Effect/shiny05.OZJ"
+dest_files=["res://.godot/imported/shiny05.OZJ-9fcd7eef4254d3f10850d5324b98366f.res"]
+
+[params]
+

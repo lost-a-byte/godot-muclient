@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ch7axt56kdn42"
+path="res://.godot/imported/blur02_mono_long_blue.OZJ-dc368dff438d101f8d630e59923d761f.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/blur02_mono_long_blue.OZJ"
+dest_files=["res://.godot/imported/blur02_mono_long_blue.OZJ-dc368dff438d101f8d630e59923d761f.res"]
+
+[params]
+

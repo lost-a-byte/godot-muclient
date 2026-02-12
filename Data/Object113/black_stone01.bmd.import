@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://choqw1vomp1gb"
+path="res://.godot/imported/black_stone01.bmd-b634aecf1d82202cc0efc3f1035c1dcf.scn"
+
+[deps]
+
+source_file="res://Data/Object113/black_stone01.bmd"
+dest_files=["res://.godot/imported/black_stone01.bmd-b634aecf1d82202cc0efc3f1035c1dcf.scn"]
+
+[params]
+
+modelScale=0.01

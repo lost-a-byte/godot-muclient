@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://1m23i3qwht8v"
+path="res://.godot/imported/paraka_Wind.OZJ-77a989aed8505ebabb3547e6179c44f9.res"
+
+[deps]
+
+source_file="res://Data/Monster/paraka_Wind.OZJ"
+dest_files=["res://.godot/imported/paraka_Wind.OZJ-77a989aed8505ebabb3547e6179c44f9.res"]
+
+[params]
+

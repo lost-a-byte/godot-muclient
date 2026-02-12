@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://cc0rsesykkb0a"
+path="res://.godot/imported/rabbitUp.bmd-80f43f5ce73e107e9de481cf70fbc792.scn"
+
+[deps]
+
+source_file="res://Data/Item/rabbitUp.bmd"
+dest_files=["res://.godot/imported/rabbitUp.bmd-80f43f5ce73e107e9de481cf70fbc792.scn"]
+
+[params]
+
+modelScale=0.01

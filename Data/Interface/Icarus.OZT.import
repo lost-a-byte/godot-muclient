@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://7dcq61ug7xak"
+path="res://.godot/imported/Icarus.OZT-111593a8e05edd3d63885e389f6ca380.res"
+
+[deps]
+
+source_file="res://Data/Interface/Icarus.OZT"
+dest_files=["res://.godot/imported/Icarus.OZT-111593a8e05edd3d63885e389f6ca380.res"]
+
+[params]
+

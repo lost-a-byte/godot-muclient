@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bq0xg2t6rddnx"
+path="res://.godot/imported/AlacranShield.OZJ-85d8cc509d276bee58c3d61c339ea4e6.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/AlacranShield.OZJ"
+dest_files=["res://.godot/imported/AlacranShield.OZJ-85d8cc509d276bee58c3d61c339ea4e6.res"]
+
+[params]
+

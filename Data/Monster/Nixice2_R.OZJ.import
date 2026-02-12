@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b15x18n85uyj5"
+path="res://.godot/imported/Nixice2_R.OZJ-ea7f71d7c442eb1194287eedae74cff0.res"
+
+[deps]
+
+source_file="res://Data/Monster/Nixice2_R.OZJ"
+dest_files=["res://.godot/imported/Nixice2_R.OZJ-ea7f71d7c442eb1194287eedae74cff0.res"]
+
+[params]
+

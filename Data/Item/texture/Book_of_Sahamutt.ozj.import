@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cv1uexqjknpu5"
+path="res://.godot/imported/Book_of_Sahamutt.ozj-1cea7ab8acf8cddf0cab7a765aeba9d4.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Book_of_Sahamutt.ozj"
+dest_files=["res://.godot/imported/Book_of_Sahamutt.ozj-1cea7ab8acf8cddf0cab7a765aeba9d4.res"]
+
+[params]
+

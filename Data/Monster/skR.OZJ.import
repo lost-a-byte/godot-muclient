@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dxl7qttakut5l"
+path="res://.godot/imported/skR.OZJ-5e0beffc32efeb7f910dcebbf9f459d8.res"
+
+[deps]
+
+source_file="res://Data/Monster/skR.OZJ"
+dest_files=["res://.godot/imported/skR.OZJ-5e0beffc32efeb7f910dcebbf9f459d8.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b138jssni1fif"
+path="res://.godot/imported/sword_masterywing8.OZJ-1167a71078c47e434a692d0fa66b3801.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/sword_masterywing8.OZJ"
+dest_files=["res://.godot/imported/sword_masterywing8.OZJ-1167a71078c47e434a692d0fa66b3801.res"]
+
+[params]
+

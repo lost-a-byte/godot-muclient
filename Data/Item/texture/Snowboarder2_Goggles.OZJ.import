@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://t4osgogj71bl"
+path="res://.godot/imported/Snowboarder2_Goggles.OZJ-cac343e5cb192744e5a86a2a64658241.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Snowboarder2_Goggles.OZJ"
+dest_files=["res://.godot/imported/Snowboarder2_Goggles.OZJ-cac343e5cb192744e5a86a2a64658241.res"]
+
+[params]
+

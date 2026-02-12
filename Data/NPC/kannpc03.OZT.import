@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cxtwbknokevyc"
+path="res://.godot/imported/kannpc03.OZT-5b22cb72071745f979d4b25485a92f3d.res"
+
+[deps]
+
+source_file="res://Data/NPC/kannpc03.OZT"
+dest_files=["res://.godot/imported/kannpc03.OZT-5b22cb72071745f979d4b25485a92f3d.res"]
+
+[params]
+

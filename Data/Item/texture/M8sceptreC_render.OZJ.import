@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://du2i285slrv27"
+path="res://.godot/imported/M8sceptreC_render.OZJ-b4d9dca75d16f2505dbdcbd2ba2a1a84.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/M8sceptreC_render.OZJ"
+dest_files=["res://.godot/imported/M8sceptreC_render.OZJ-b4d9dca75d16f2505dbdcbd2ba2a1a84.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b0ma4i4tqol21"
+path="res://.godot/imported/FGlove.ozj-04165873f09bc513060a2539906aede0.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/FGlove.ozj"
+dest_files=["res://.godot/imported/FGlove.ozj-04165873f09bc513060a2539906aede0.res"]
+
+[params]
+

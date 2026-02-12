@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c46ovwqkjli8y"
+path="res://.godot/imported/resist.OZT-153c5d9b1daa233be965e331d9b89777.res"
+
+[deps]
+
+source_file="res://Data/Interface/resist.OZT"
+dest_files=["res://.godot/imported/resist.OZT-153c5d9b1daa233be965e331d9b89777.res"]
+
+[params]
+

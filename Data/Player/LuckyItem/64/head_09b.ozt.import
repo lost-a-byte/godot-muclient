@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ce4ntaheucs2j"
+path="res://.godot/imported/head_09b.ozt-cd09e7f442066334792d05b3273de2f3.res"
+
+[deps]
+
+source_file="res://Data/Player/LuckyItem/64/head_09b.ozt"
+dest_files=["res://.godot/imported/head_09b.ozt-cd09e7f442066334792d05b3273de2f3.res"]
+
+[params]
+

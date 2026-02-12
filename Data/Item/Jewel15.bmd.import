@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://tr2dkvkue2ro"
+path="res://.godot/imported/Jewel15.bmd-1d85664e9d8fabc2942c8c0b63d67b2e.scn"
+
+[deps]
+
+source_file="res://Data/Item/Jewel15.bmd"
+dest_files=["res://.godot/imported/Jewel15.bmd-1d85664e9d8fabc2942c8c0b63d67b2e.scn"]
+
+[params]
+
+modelScale=0.01

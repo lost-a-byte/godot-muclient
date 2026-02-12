@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cdaq0r8kpbifl"
+path="res://.godot/imported/chbrancheyell.ozj-0451c258b6df5e1f071ec7c781524434.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/chbrancheyell.ozj"
+dest_files=["res://.godot/imported/chbrancheyell.ozj-0451c258b6df5e1f071ec7c781524434.res"]
+
+[params]
+

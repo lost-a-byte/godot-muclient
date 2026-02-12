@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://dqlpmn360fag7"
+path="res://.godot/imported/TempleGuard_Quiver.bmd-ea40e9e56a723de90f9caf3f09ada0b8.scn"
+
+[deps]
+
+source_file="res://Data/Item/TempleGuard_Quiver.bmd"
+dest_files=["res://.godot/imported/TempleGuard_Quiver.bmd-ea40e9e56a723de90f9caf3f09ada0b8.scn"]
+
+[params]
+
+modelScale=0.01

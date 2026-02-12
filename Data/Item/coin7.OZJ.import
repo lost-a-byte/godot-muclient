@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://cfdo362fnjgq2"
+path="res://.godot/imported/coin7.OZJ-855b31905063dfe87a47039e77042a46.res"
+
+[deps]
+
+source_file="res://Data/Item/coin7.OZJ"
+dest_files=["res://.godot/imported/coin7.OZJ-855b31905063dfe87a47039e77042a46.res"]
+
+[params]
+

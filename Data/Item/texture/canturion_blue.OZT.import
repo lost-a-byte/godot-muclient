@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://54kqh4eykhxr"
+path="res://.godot/imported/canturion_blue.OZT-2b5cb936a20375420c5b84ae7d8f7c38.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/canturion_blue.OZT"
+dest_files=["res://.godot/imported/canturion_blue.OZT-2b5cb936a20375420c5b84ae7d8f7c38.res"]
+
+[params]
+

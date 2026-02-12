@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://bwqkxblosm7gf"
+path="res://.godot/imported/RuneSet00.OZJ-89d14825b12f84b680fbfb044a14ed68.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/RuneSet00.OZJ"
+dest_files=["res://.godot/imported/RuneSet00.OZJ-89d14825b12f84b680fbfb044a14ed68.res"]
+
+[params]
+

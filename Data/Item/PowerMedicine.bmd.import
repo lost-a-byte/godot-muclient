@@ -1,0 +1,15 @@
+[remap]
+
+importer="dev.dong.mu.bmd-model"
+type="PackedScene"
+uid="uid://418milsu63g4"
+path="res://.godot/imported/PowerMedicine.bmd-5c8d93b5ae8cf064ff7018aa3f3aeada.scn"
+
+[deps]
+
+source_file="res://Data/Item/PowerMedicine.bmd"
+dest_files=["res://.godot/imported/PowerMedicine.bmd-5c8d93b5ae8cf064ff7018aa3f3aeada.scn"]
+
+[params]
+
+modelScale=0.01

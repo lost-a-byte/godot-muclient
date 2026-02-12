@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://dbnldyk1erkwt"
+path="res://.godot/imported/MSeffects.OZJ-b6f9323660614ae6ecfeeeb39fe21b0d.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/MSeffects.OZJ"
+dest_files=["res://.godot/imported/MSeffects.OZJ-b6f9323660614ae6ecfeeeb39fe21b0d.res"]
+
+[params]
+

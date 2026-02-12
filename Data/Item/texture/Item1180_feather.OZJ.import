@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://ditiady16mk1b"
+path="res://.godot/imported/Item1180_feather.OZJ-5e4451d4944073f2999a344c807b92cf.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Item1180_feather.OZJ"
+dest_files=["res://.godot/imported/Item1180_feather.OZJ-5e4451d4944073f2999a344c807b92cf.res"]
+
+[params]
+

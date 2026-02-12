@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://b3372p5ab1kq0"
+path="res://.godot/imported/Snowboarder2.OZJ-6b0eb0032bc138e7c32f30cacda847cb.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/Snowboarder2.OZJ"
+dest_files=["res://.godot/imported/Snowboarder2.OZJ-6b0eb0032bc138e7c32f30cacda847cb.res"]
+
+[params]
+

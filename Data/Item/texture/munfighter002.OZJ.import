@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c8sw5slb4dcdx"
+path="res://.godot/imported/munfighter002.OZJ-df94d7855ea104744684aa8ba622e0ba.res"
+
+[deps]
+
+source_file="res://Data/Item/texture/munfighter002.OZJ"
+dest_files=["res://.godot/imported/munfighter002.OZJ-df94d7855ea104744684aa8ba622e0ba.res"]
+
+[params]
+
