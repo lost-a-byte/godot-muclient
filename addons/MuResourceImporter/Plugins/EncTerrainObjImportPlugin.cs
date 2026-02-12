@@ -3,6 +3,7 @@
 using Client.Data.OBJS;
 using Godot;
 using Godot.Collections;
+using MuClient.Extensions;
 using MuClient.Models.Terrain;
 using System;
 using System.Collections.Generic;
@@ -48,11 +49,29 @@ public partial class EncTerrainObjImportPlugin : EditorImportPlugin
 
             foreach (IMapObject item in objData.Objects)
             {
+
+                float angleXRadian = (float)item.Angle.X.ToRadians();
+                float angleYRadian = (float)item.Angle.Y.ToRadians();
+                float angleZRadian = (float)item.Angle.Z.ToRadians();
+
+                Quaternion rotation = Quaternion.FromEuler(
+                    new Vector3(angleYRadian, angleZRadian, angleXRadian)
+                );
+
+                Vector3 position = new Vector3(
+                    item.Position.X * 0.01f,
+                    item.Position.Z * 0.01f,
+                    -item.Position.Y * 0.01f
+                ) - new Vector3(
+                    Constants.TerrainSize * 0.5f,
+                    0,
+                    -Constants.TerrainSize * 0.5f
+                );
                 ObjectAttribute objectAttribute = new()
                 {
                     Type = item.Type,
-                    Position = new Vector3(item.Position.X, item.Position.Y, item.Position.Z),
-                    Angle = new Vector3(item.Angle.X, item.Angle.Y, item.Angle.Z),
+                    Position = position,
+                    Rotation = rotation,
                     Scale = item.Scale,
                 };
                 if (item is MapObjectV1 mapObjectV1)
@@ -87,6 +106,7 @@ public partial class EncTerrainObjImportPlugin : EditorImportPlugin
                     objectAttribute.UnknownZ = mapObjectV5.UnknownZ;
                     objectAttribute.Lighting = new Vector3(mapObjectV5.Ligthning.X, mapObjectV5.Ligthning.Y, mapObjectV5.Ligthning.Z);
                 }
+                // obj.Basis = new Basis(finalRotation) * obj.Basis;
                 objects.Add(objectAttribute);
                 objectTypes.Add(item.Type);
             }

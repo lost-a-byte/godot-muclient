@@ -104,35 +104,12 @@ public partial class TerrainQuicklook : Node3D
         {
             return;
         }
-        Node3D obj = new Node3D();
+        Node3D obj = new();
         Node3D model = scene.Instantiate<Node3D>();
         obj.AddChild(model);
 
-        Vector3 position = new Vector3(
-            objectAttribute.Position.X * 0.01f,
-            objectAttribute.Position.Z * 0.01f,
-            -objectAttribute.Position.Y * 0.01f
-        );
-        position -= new Vector3(
-            Constants.TerrainSize * 0.5f,
-            0,
-            Constants.TerrainSize * 0.5f
-        );
-        position += new Vector3(
-            2.0f,
-            0,
-            Constants.TerrainSize
-        );
-        obj.Position = position;
-
-
-        float angleXRadian = (float)objectAttribute.Angle.X.ToRadians();
-        float angleYRadian = (float)objectAttribute.Angle.Y.ToRadians();
-        float angleZRadian = (float)objectAttribute.Angle.Z.ToRadians();
-
-        obj.RotateObjectLocal(Vector3.Right, angleYRadian);
-        obj.RotateObjectLocal(Vector3.Up, angleZRadian);
-        obj.RotateObjectLocal(Vector3.Back, angleXRadian);
+        obj.Position = objectAttribute.Position;
+        obj.Basis *= new Basis(objectAttribute.Rotation);
 
         WorldObjects.AddChild(obj);
     }

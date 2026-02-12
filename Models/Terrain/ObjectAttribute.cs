@@ -10,7 +10,7 @@ public partial class ObjectAttribute : Resource
     [Export]
     public Vector3 Position { get; set; } = Vector3.Zero;
     [Export]
-    public Vector3 Angle { get; set; } = Vector3.Zero;
+    public Quaternion Rotation { get; set; } = Quaternion.Identity;
     [Export]
     public float Scale { get; set; } = 0;
     [Export]
