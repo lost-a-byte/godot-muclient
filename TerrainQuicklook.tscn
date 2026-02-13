@@ -1,18 +1,20 @@
 [gd_scene format=3 uid="uid://dhmsswmklxvpu"]
 
 [ext_resource type="Script" uid="uid://bxtbq3ynljryo" path="res://TerrainQuicklook.cs" id="1_6vu7h"]
-[ext_resource type="Shape3D" uid="uid://ge6618j45y7f" path="res://Data/World4/TerrainHeight.OZB" id="2_6vu7h"]
-[ext_resource type="ArrayMesh" uid="uid://bs13566ibbe8n" path="res://Data/World4/EncTerrain4.map" id="3_01rv4"]
+[ext_resource type="Shape3D" uid="uid://dtf7hfevto00s" path="res://Data/World1/TerrainHeight.OZB" id="2_6vu7h"]
+[ext_resource type="ArrayMesh" uid="uid://dfyi4mkmgt3s4" path="res://Data/World1/EncTerrain1.map" id="3_01rv4"]
 [ext_resource type="PackedScene" uid="uid://bydp5mdwdi6c" path="res://Scenes/Characters/Character.tscn" id="4_6vu7h"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
 [node name="World" type="Node3D" unique_id=262566484]
 script = ExtResource("1_6vu7h")
-World = 4
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=255947097]
-transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.70710677, 0, -0.70710677, 0.70710677, 0, 30, 100)
+transform = Transform3D(0.70710677, -0.5295916, 0.4685431, 0, 0.66262, 0.74895567, -0.70710677, -0.5295916, 0.4685431, 7, 8.5, 7)
+fov = 39.0
+near = 0.01
+far = 94.83
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1706272829]
 environment = SubResource("Environment_6vu7h")
