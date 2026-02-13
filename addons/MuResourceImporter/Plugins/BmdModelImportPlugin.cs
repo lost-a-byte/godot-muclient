@@ -344,7 +344,7 @@ Original File Name: {bmdData.Name}
 
             Animation animation = new()
             {
-                ResourceName = "action_" + i,
+                ResourceName = "Action_" + i.ToString("D3"),
             };
             // Length per frame
             float lengthPerKeyFrame = FPS / (float)Math.Max(action.NumAnimationKeys - 1, 1) / 60;
@@ -379,7 +379,7 @@ Original File Name: {bmdData.Name}
                 hasAnimation = true;
             }
         }
-        animationPlayer.AddAnimationLibrary("animations", animationLibrary);
+        animationPlayer.AddAnimationLibrary("", animationLibrary);
         if (hasAnimation)
         {
             rootNode.AddChild(animationPlayer);
