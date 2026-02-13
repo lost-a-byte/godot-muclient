@@ -13,3 +13,5 @@ dest_files=["res://.godot/imported/Object159.bmd-aef774973d810c43a777e4756289044
 [params]
 
 modelScale=0.01
+MeshOverride=Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://c2fdbypoychka", "res://addons/MuResourceImporter/Types/BmdMeshBlend.cs"),"Mesh0":0,"Mesh1":0,"Mesh2":0,"Mesh3":0,"Mesh4":0,"Mesh5":0,"Mesh6":0,"Mesh7":0,"Mesh8":0,"Mesh9":0,"Mesh10":0,"Mesh11":0,"Mesh12":0,"Mesh13":0,"Mesh14":0,"Mesh15":0,"Mesh16":0,"Mesh17":0,"Mesh18":0,"Mesh19":0,"Mesh20":0,"Mesh21":0,"Mesh22":0,"Mesh23":0,"Mesh24":0,"Mesh25":0,"Mesh26":0,"Mesh27":0,"Mesh28":0,"Mesh29":0,"Mesh30":0,"Mesh31":0,"Mesh32":0)
+
