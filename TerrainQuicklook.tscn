@@ -10,12 +10,6 @@
 [node name="World" type="Node3D" unique_id=262566484]
 script = ExtResource("1_6vu7h")
 
-[node name="Camera3D" type="Camera3D" parent="." unique_id=255947097]
-transform = Transform3D(0.70710677, -0.5295916, 0.4685431, 0, 0.66262, 0.74895567, -0.70710677, -0.5295916, 0.4685431, 7, 8.5, 7)
-fov = 39.0
-near = 0.01
-far = 94.83
-
 [node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1706272829]
 environment = SubResource("Environment_6vu7h")
 
@@ -36,4 +30,13 @@ mesh = ExtResource("3_01rv4")
 [node name="WorldObjects" type="Node3D" parent="." unique_id=536390639]
 
 [node name="Character" parent="." unique_id=918384713 instance=ExtResource("4_6vu7h")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.6812198, 4.306, 3.1184168)
+
+[node name="SpringArm3D" type="SpringArm3D" parent="Character" unique_id=872654852]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 8.5, 7)
+
+[node name="Camera3D" type="Camera3D" parent="Character/SpringArm3D" unique_id=255947097]
+transform = Transform3D(0.7071068, -0.5295917, 0.46854314, 0, 0.66262007, 0.7489557, -0.7071068, -0.5295917, 0.46854314, 0, 0, 0)
+fov = 39.0
+near = 0.09
+far = 100.0
