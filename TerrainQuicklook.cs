@@ -1,11 +1,10 @@
 using Godot;
 using Godot.Collections;
-using MuClient;
 using MuClient.Models.Terrain;
 using System;
 using MuClient.Database;
-using MuClient.Extensions;
 using System.IO;
+
 namespace MuClient;
 
 [Tool]
@@ -78,7 +77,7 @@ public partial class TerrainQuicklook : Node3D
             {
                 continue;
             }
-            GenericScenes.Add(item, GD.Load<PackedScene>(ObjectMapDatabase.GetResourcePath((int)World, item)));
+            GenericScenes.Add(item, GD.Load<PackedScene>(ObjectMapDatabase.GetResourcePath(World, item)));
         }
 
         // Clear old items
