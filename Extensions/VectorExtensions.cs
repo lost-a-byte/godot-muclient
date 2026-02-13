@@ -1,3 +1,6 @@
+using System;
+using MuClient.Models.Terrain;
+
 namespace MuClient.Extensions;
 
 public static class VectorExtensions
@@ -19,4 +22,13 @@ public static class VectorExtensions
             quaternion.W
         );
     }
+    public static TilePosition ToTilePosition(this Godot.Vector2 vector)
+    {
+        return new TilePosition((byte)Math.Floor(vector.X + Constants.TerrainSize / 2), (byte)Math.Floor(vector.Y + Constants.TerrainSize / 2));
+    }
+    public static TilePosition ToTilePosition(this Godot.Vector3 vector)
+    {
+        return new TilePosition((byte)Math.Floor(vector.X + Constants.TerrainSize / 2), (byte)Math.Floor(vector.Z + Constants.TerrainSize / 2));
+    }
+
 }

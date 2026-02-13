@@ -10,40 +10,32 @@ namespace MuClient.addons.MuResourceImporter;
 public partial class MuResourceImporter : EditorPlugin
 {
 
-	EncTerrainObjImportPlugin encTerrainObjImportPlugin;
-	TerrainHeightImportPlugin terrainHeightImportPlugin;
-	TerrainLightImportPlugin terrainLightImportPlugin;
-	TextureImportPlugin textureImportPlugin;
-	EncTerrainAttImportPlugin encTerrainAttImportPlugin;
+	EncTerrainObjImportPlugin encTerrainObjImportPlugin = new();
+	TerrainHeightImportPlugin terrainHeightImportPlugin = new();
+	TerrainLightImportPlugin terrainLightImportPlugin = new();
+	TextureImportPlugin textureImportPlugin = new();
+	EncTerrainAttImportPlugin encTerrainAttImportPlugin = new();
 
-	EncTerrainAttInspectorPlugin encTerrainAttInspectorPlugin;
-	EncTerrainMapImportPlugin encTerrainMapImportPlugin;
-	BmdModelImportPlugin bmdModelImportPlugin;
+	EncTerrainAttInspectorPlugin encTerrainAttInspectorPlugin = new();
+	EncTerrainMapImportPlugin encTerrainMapImportPlugin = new();
+	BmdModelImportPlugin bmdModelImportPlugin = new();
 	public override void _EnterTree()
 	{
 		// Initialization of the plugin goes here.
-		encTerrainObjImportPlugin = new();
 		AddImportPlugin(encTerrainObjImportPlugin);
 
-		terrainHeightImportPlugin = new();
 		AddImportPlugin(terrainHeightImportPlugin);
 
-		terrainLightImportPlugin = new();
 		AddImportPlugin(terrainLightImportPlugin);
 
-		textureImportPlugin = new();
 		AddImportPlugin(textureImportPlugin);
 
-		encTerrainAttImportPlugin = new();
 		AddImportPlugin(encTerrainAttImportPlugin);
 
-		encTerrainAttInspectorPlugin = new();
 		AddInspectorPlugin(encTerrainAttInspectorPlugin);
 
-		encTerrainMapImportPlugin = new();
 		AddImportPlugin(encTerrainMapImportPlugin);
 
-		bmdModelImportPlugin = new();
 		AddImportPlugin(bmdModelImportPlugin);
 
 	}

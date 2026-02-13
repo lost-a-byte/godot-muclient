@@ -11,12 +11,12 @@ namespace MuClient.addons.MuResourceImporter.InspectorPlugins;
 [Tool]
 public partial class TileFlagInspectorPlugin : EditorProperty
 {
-    Sprite2D imageTexture;
+    Sprite2D? imageTexture;
 
-    Control nodeControl;
+    Control? nodeControl;
     TileFlag currentPreviewFlag = TileFlag.SafeZone;
 
-    OptionButton flagSelectorControl;
+    OptionButton? flagSelectorControl;
 
     public TileFlag CurrentPreviewFlag
     {
@@ -95,7 +95,7 @@ public partial class TileFlagInspectorPlugin : EditorProperty
         byte[] imageBuffer = [.. tileFlags.Select(tile => tile.HasFlag(currentPreviewFlag) ? (byte)0 : (byte)255)];
         Image image = Image.CreateFromData(Constants.TerrainSize, Constants.TerrainSize, false, Image.Format.L8, imageBuffer);
         ImageTexture someTexture = ImageTexture.CreateFromImage(image);
-        imageTexture.Texture = someTexture;
+        imageTexture?.Texture = someTexture;
     }
 
     public override void _ExitTree()

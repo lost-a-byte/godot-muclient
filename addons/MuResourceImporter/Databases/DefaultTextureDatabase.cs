@@ -7,7 +7,7 @@ namespace MuClient.addons.MuResourceImporter.Databases;
 
 public class DefaultTextureDatabaseSingleton
 {
-    private static DefaultTextureDatabaseSingleton _instance;
+    private static DefaultTextureDatabaseSingleton _instance = new();
 
     Dictionary<string, string> textureMap = [];
     public virtual string DatabasePath => "addons/MuResourceImporter/Databases/DefaultTextureDatabase.json";
@@ -21,7 +21,11 @@ public class DefaultTextureDatabaseSingleton
         // Read file as string;
         string content = FileAccess.GetFileAsString(DatabasePath);
         // parese dictionary;
-        Dictionary<string, string> dictionary = JsonSerializer.Deserialize<Dictionary<string, string>>(content);
+        Dictionary<string, string>? dictionary = JsonSerializer.Deserialize<Dictionary<string, string>>(content);
+        if (dictionary == null)
+        {
+            return;
+        }
         // assign
         textureMap = dictionary;
     }
@@ -40,7 +44,7 @@ public class DefaultTextureDatabaseSingleton
         string resMask = "res:/";
         string resourceDirectoryPath = bmdDirectory[^(bmdDirectory.Length - resMask.Length)..]; ; // Remove res:/
         string texturePathKey = System.IO.Path.Combine(resourceDirectoryPath, textureName).ToLower();
-        if (textureMap.TryGetValue(texturePathKey, out string resolvedTexturePath))
+        if (textureMap.TryGetValue(texturePathKey, out string? resolvedTexturePath))
         {
             string textureFilePath = resMask + resolvedTexturePath;
             if (!ResourceLoader.Exists(textureFilePath))

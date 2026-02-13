@@ -12,7 +12,7 @@ public partial class ObjectMap : Resource
     [Export]
     public byte Version { get; set; }
     [Export]
-    public Array<ObjectAttribute> Objects { get; set; }
+    public Array<ObjectAttribute> Objects { get; set; } = [];
     [Export]
-    public Array<short> ObjectTypes { get; set; }
+    public Array<short> ObjectTypes { get; set; } = [];
 }

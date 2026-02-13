@@ -1,8 +1,11 @@
 [gd_scene format=3 uid="uid://bydp5mdwdi6c"]
 
+[ext_resource type="Script" uid="uid://b0mcr6uskoe71" path="res://Scenes/Characters/Character.cs" id="1_sy4xu"]
+
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_m8xlv"]
 
 [node name="Character" type="Node3D" unique_id=918384713]
+script = ExtResource("1_sy4xu")
 
 [node name="Body" type="StaticBody3D" parent="." unique_id=527694844]
 

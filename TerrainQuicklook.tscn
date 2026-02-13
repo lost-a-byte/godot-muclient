@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://bxtbq3ynljryo" path="res://TerrainQuicklook.cs" id="1_6vu7h"]
 [ext_resource type="Shape3D" uid="uid://ge6618j45y7f" path="res://Data/World4/TerrainHeight.OZB" id="2_6vu7h"]
 [ext_resource type="ArrayMesh" uid="uid://bs13566ibbe8n" path="res://Data/World4/EncTerrain4.map" id="3_01rv4"]
-[ext_resource type="PackedScene" uid="uid://bycl8adox7ca2" path="res://Data/Monster/Monster03.tscn" id="3_pnngl"]
+[ext_resource type="PackedScene" uid="uid://bydp5mdwdi6c" path="res://Scenes/Characters/Character.tscn" id="4_6vu7h"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
@@ -30,7 +30,7 @@ shape = ExtResource("2_6vu7h")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -128, 0, -128)
 mesh = ExtResource("3_01rv4")
 
-[node name="Monster" parent="." unique_id=1334932459 instance=ExtResource("3_pnngl")]
-transform = Transform3D(0.01, 0, 0, 0, -4.3711387e-10, 0.01, 0, -0.01, -4.3711387e-10, 5.6434026, 2, 0)
-
 [node name="WorldObjects" type="Node3D" parent="." unique_id=536390639]
+
+[node name="Character" parent="." unique_id=918384713 instance=ExtResource("4_6vu7h")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6, 0)

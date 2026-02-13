@@ -118,9 +118,8 @@ public static class ObjectMapDatabase
 
     public static string GetPath(WorldType world, short type)
     {
-        string matched;
 
-        objects.TryGetValue(GetKey(world, type), out matched);
+        objects.TryGetValue(GetKey(world, type), out string? matched);
         if (matched == null)
         {
             var modelPath = $"Object{(type + 1).ToString().PadLeft(2, '0')}.bmd";

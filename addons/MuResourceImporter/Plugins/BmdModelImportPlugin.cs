@@ -7,6 +7,7 @@ using Godot.Collections;
 using MuClient.addons.MuResourceImporter.Databases;
 using MuClient.addons.MuResourceImporter.Extensions;
 using MuClient.addons.MuResourceImporter.Readers;
+using MuClient.addons.MuResourceImporter.Types;
 using MuClient.Extensions;
 using MuClient.Models.Terrain;
 using System;
@@ -35,11 +36,17 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
     internal DefaultTextureDatabaseSingleton textureDatabase = DefaultTextureDatabaseSingleton.Instance;
     public override Array<Dictionary> _GetImportOptions(string path, int presetIndex)
     {
+
         return [
             new Dictionary
             {
                 { "name", "modelScale" },
                 { "default_value", 1.0f/100.0f },
+            },
+            new Dictionary
+            {
+                { "name", "MeshOverride" },
+                { "default_value", new BmdMeshBlend()},
             },
         ];
     }
@@ -54,12 +61,13 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
         {
 
             float modelScale = (float)options["modelScale"];
+            BmdMeshBlend meshBlend = (BmdMeshBlend)(GodotObject)options["MeshOverride"];
 
             BMD bmdData = Task.Run(async () => await bmdReader.Load(ProjectSettings.GlobalizePath(sourceFile))).Result;
             string saveFilePath = $"{savePath}.{_GetSaveExtension()}";
             string sourceFolder = sourceFile.GetBaseDir();
 
-            Node3D model = GenerateNode(bmdData, sourceFolder);
+            Node3D model = GenerateNode(bmdData, sourceFolder, meshBlend);
 
             model.Scale = new Vector3(modelScale, modelScale, modelScale);
 
@@ -74,10 +82,6 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
             PackedScene packedScene = new();
             packedScene.Pack(model);
             Error err = ResourceSaver.Save(packedScene, saveFilePath);
-            model = null;
-            // reader = null;
-            packedScene = null;
-            bmdData = null;
             return err;
         }
         catch (Exception e)
@@ -87,7 +91,7 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
         }
     }
 
-    public Node3D GenerateNode(BMD bmdData, string sourceFolder)
+    public Node3D GenerateNode(BMD bmdData, string sourceFolder, BmdMeshBlend meshBlend)
     {
         Node3D rootNode = new()
         {
@@ -265,6 +269,23 @@ Original File Name: {bmdData.Name}
                     BaseMaterial3D.TransparencyEnum transparency = hasTransparent ? BaseMaterial3D.TransparencyEnum.Alpha : BaseMaterial3D.TransparencyEnum.Disabled;
                     BaseMaterial3D.DepthDrawModeEnum depthDrawMode = hasTransparent ? BaseMaterial3D.DepthDrawModeEnum.Always : BaseMaterial3D.DepthDrawModeEnum.OpaqueOnly;
                     BaseMaterial3D.CullModeEnum cullMode = hasTransparent ? BaseMaterial3D.CullModeEnum.Disabled : BaseMaterial3D.CullModeEnum.Disabled;
+                    BaseMaterial3D.BlendModeEnum blendMode = BaseMaterial3D.BlendModeEnum.Mix;
+                    BmdMeshBlendType? configBlendType = meshBlend.GetBlendByIndex(i);
+                    if (configBlendType != null && configBlendType != BmdMeshBlendType.None)
+                    {
+                        switch (configBlendType)
+                        {
+                            case BmdMeshBlendType.Opaque:
+
+                                break;
+                            case BmdMeshBlendType.Additive:
+                                blendMode = BaseMaterial3D.BlendModeEnum.Add;
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+
 
                     StandardMaterial3D standardMaterial = new()
                     {
@@ -273,6 +294,7 @@ Original File Name: {bmdData.Name}
                         Transparency = transparency,
                         DepthDrawMode = depthDrawMode,
                         CullMode = cullMode,
+                        BlendMode = blendMode,
                     };
                     arrayMesh.SurfaceSetMaterial(0, standardMaterial);
                 }

@@ -18,6 +18,6 @@ public partial class TileAttribute : Resource
     public byte Height { get; set; }
 
     [Export]
-    public Array<TileFlag> TileFlags { get; set; }
+    public Array<TileFlag> TileFlags { get; set; } = [];
 
 }
