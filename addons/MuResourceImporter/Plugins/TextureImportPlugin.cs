@@ -39,7 +39,7 @@ public partial class TextureImportPlugin : EditorImportPlugin
         {
             string extension = sourceFile[(sourceFile.Length - 3)..].ToLower();
 
-            TextureData textureData = extension switch
+            TextureData? textureData = extension switch
             {
                 "ozt" => Task.Run(async () => await oztReader.Load(ProjectSettings.GlobalizePath(sourceFile))).Result,
                 "ozp" => Task.Run(async () => await ozpReader.Load(ProjectSettings.GlobalizePath(sourceFile))).Result,
