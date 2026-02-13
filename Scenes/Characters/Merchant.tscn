@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ce50u62jcgtqs"]
+
+[ext_resource type="PackedScene" uid="uid://bydp5mdwdi6c" path="res://Scenes/Characters/Character.tscn" id="1_5qs2w"]
+
+[node name="Character" unique_id=918384713 instance=ExtResource("1_5qs2w")]
+editor_description = "Heh, not a cow or a dragon, it's a mob maybe"

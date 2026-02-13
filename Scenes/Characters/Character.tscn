@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://bydp5mdwdi6c"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_m8xlv"]
+
+[node name="Character" type="Node3D" unique_id=918384713]
+
+[node name="Body" type="StaticBody3D" parent="." unique_id=527694844]
+
+[node name="CollisionShape" type="CollisionShape3D" parent="Body" unique_id=1294653728]
+editor_description = "Basic Charactor
+Do have Collision shape, Body and AniationPlayer or AnimationMixer"
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("CapsuleShape3D_m8xlv")
