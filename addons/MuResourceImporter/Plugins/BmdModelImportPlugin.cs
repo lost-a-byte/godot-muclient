@@ -379,7 +379,7 @@ Original File Name: {bmdData.Name}
                 hasAnimation = true;
             }
         }
-        animationPlayer.AddAnimationLibrary("", animationLibrary);
+        animationPlayer.AddAnimationLibrary("Animations", animationLibrary);
         if (hasAnimation)
         {
             rootNode.AddChild(animationPlayer);
