@@ -226,7 +226,7 @@ public partial class TerrainQuicklook : Node3D
             var tile = item.Position.ToTilePosition();
             if (TileObjectMap[tile.X, tile.Z] == null)
             {
-                TileObjectMap[tile.X, tile.Z] = new Array<ObjectAttribute>();
+                TileObjectMap[tile.X, tile.Z] = [];
             }
             TileObjectMap[tile.X, tile.Z].Add(item);
         }
