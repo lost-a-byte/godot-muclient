@@ -7,6 +7,7 @@ using System.IO;
 using MuClient.Scenes;
 using MuClient.Extensions;
 using MuClient.Scenes.Characters;
+using MuClient.Scenes.Controls;
 
 namespace MuClient;
 
@@ -74,6 +75,7 @@ public partial class TerrainQuicklook : Node3D
     CollisionShape3D? CollisionShape;
     StaticBody3D? StaticBody;
     MeshInstance3D? MeshInstance;
+    MoveCommand? moveCommand;
 
     Adventurer? Character;
     private TilePosition currentCharacterTile = new(0, 0);
@@ -122,6 +124,8 @@ public partial class TerrainQuicklook : Node3D
         MeshInstance = GetNode<MeshInstance3D>("StaticBody3D/MeshInstance3D");
         SpaceState = GetWorld3D().DirectSpaceState;
         AStarGrid.Update();
+        moveCommand = GetNode<MoveCommand>("Controls/MoveCommand");
+        moveCommand.Move += OnMoveCommandTriggered;
 
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
@@ -150,6 +154,11 @@ public partial class TerrainQuicklook : Node3D
 
     public override void _PhysicsProcess(double delta)
     {
+        if (!Engine.IsEditorHint() && Input.IsActionJustPressed("toggle_move_command") && moveCommand != null)
+        {
+            GD.Print("Toggle move command!");
+            moveCommand.Visible = !moveCommand.Visible;
+        }
         if (Character != null && !Character.IsMoving)
         {
 
@@ -178,13 +187,23 @@ public partial class TerrainQuicklook : Node3D
     {
         CurrentCharacterTile = newXZ.ToTilePosition();
     }
+
+    private void OnMoveCommandTriggered(int newWorld)
+    {
+        WorldType world = (WorldType)newWorld;
+        this.World = world;
+        moveCommand?.Visible = false;
+    }
     public override void _Input(InputEvent @event)
     {
         if (@event is InputEventMouseButton mouseEvent
             && mouseEvent.Pressed
             && mouseEvent.ButtonIndex == MouseButton.Left)
         {
-            RaycastFromMouse(mouseEvent.Position);
+            if (moveCommand == null || !moveCommand.Visible)
+            {
+                RaycastFromMouse(mouseEvent.Position);
+            }
         }
     }
 
@@ -405,6 +424,7 @@ public partial class TerrainQuicklook : Node3D
     public override void _ExitTree()
     {
         Character?.XZPositionChanged -= OnXZPositionChanged;
+        moveCommand?.Move -= OnMoveCommandTriggered;
         base._ExitTree();
     }
 }

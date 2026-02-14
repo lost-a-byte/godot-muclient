@@ -4,6 +4,7 @@
 [ext_resource type="Shape3D" uid="uid://dtf7hfevto00s" path="res://Data/World1/TerrainHeight.OZB" id="2_6vu7h"]
 [ext_resource type="ArrayMesh" uid="uid://dfyi4mkmgt3s4" path="res://Data/World1/EncTerrain1.map" id="3_01rv4"]
 [ext_resource type="PackedScene" uid="uid://jjh84k7q10v4" path="res://Scenes/Characters/Adventurer.tscn" id="5_01rv4"]
+[ext_resource type="PackedScene" uid="uid://dx5f5pqk76vas" path="res://Scenes/Controls/MoveCommand.tscn" id="5_gfsny"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
@@ -41,3 +42,14 @@ transform = Transform3D(0.70710677, -0.46854314, 0.5295917, 0, 0.7489557, 0.6626
 fov = 39.0
 near = 0.09
 far = 100.0
+
+[node name="Controls" type="Control" parent="." unique_id=1132309361]
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 3
+anchors_preset = 9
+anchor_bottom = 1.0
+grow_vertical = 2
+
+[node name="MoveCommand" parent="Controls" unique_id=347642863 instance=ExtResource("5_gfsny")]
+visible = false
+layout_mode = 1
