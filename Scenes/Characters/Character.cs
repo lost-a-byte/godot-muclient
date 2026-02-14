@@ -1,4 +1,7 @@
 using Godot;
+using Godot.Collections;
+using MuClient.Extensions;
+using MuClient.Models.Terrain;
 using System;
 
 namespace MuClient.Scenes.Characters;
@@ -9,43 +12,43 @@ public partial class Character : CharacterBody3D
     public const float Speed = 5.0f;
     public const float JumpVelocity = 4.5f;
 
+    private Array<Vector2I> CurrentPath = [];
+    private int PathIndex = 0;
+    private bool isMoving = false;
+    public bool IsMoving => isMoving;
+    public HeightMapShape3D WorldShape = new()
+    {
+        MapWidth = Constants.TerrainSize + 1,
+        MapDepth = Constants.TerrainSize + 1,
+        MapData = new float[(Constants.TerrainSize + 1) * (Constants.TerrainSize + 1)],
+    };
+
     public override void _PhysicsProcess(double delta)
     {
-        Vector3 velocity = Velocity;
 
-        // Add the gravity.
-        if (!IsOnFloor())
+        if (PathIndex < CurrentPath.Count && isMoving)
         {
-            velocity += GetGravity() * (float)delta;
+            Vector2I gridPos = CurrentPath[PathIndex];
+            float y = WorldShape.GetHeightAt(gridPos);
+            Vector3 targetPosition = new Vector3(gridPos.X - 127.5f, y, gridPos.Y - 127.5f);
+            Position = Position.MoveToward(targetPosition, (float)delta * Speed);
+
+            if (GlobalPosition.DistanceTo(targetPosition) <= 0.1f)
+            {
+                PathIndex++;
+                isMoving = PathIndex < CurrentPath.Count;
+            }
         }
 
-        // Handle Jump.
-        if (Input.IsActionJustPressed("ui_accept") && IsOnFloor())
+        // TODO: Align Character into tile;
+        if (!isMoving)
         {
-            velocity.Y = JumpVelocity;
+            float targetY = WorldShape.GetHeightAt(Position.GetXZTileVector2I());
+            if (Math.Abs(targetY - Position.Y) > 0.1f)
+            {
+                Position = new(Position.X, targetY, Position.Z);
+            }
         }
-        float angle = Mathf.DegToRad(45f);
-
-        // Get the input direction and handle the movement/deceleration.
-        // As good practice, you should replace UI actions with custom gameplay actions.
-        Vector2 inputDir = Input.GetVector("ui_left", "ui_right", "ui_up", "ui_down");
-        Vector3 direction = (Transform.Basis * new Vector3(inputDir.X, 0, inputDir.Y)).Normalized();
-        // Rotate direction around Y axis
-        direction = direction.Rotated(Vector3.Up, angle);
-        
-        if (direction != Vector3.Zero)
-        {
-            velocity.X = direction.X * Speed;
-            velocity.Z = direction.Z * Speed;
-        }
-        else
-        {
-            velocity.X = Mathf.MoveToward(Velocity.X, 0, Speed);
-            velocity.Z = Mathf.MoveToward(Velocity.Z, 0, Speed);
-        }
-
-        Velocity = velocity;
-        MoveAndSlide();
     }
 
     private Vector2 xzPosition;
@@ -78,4 +81,23 @@ public partial class Character : CharacterBody3D
         SetNotifyTransform(true);
         base._Ready();
     }
+
+    // Walkable part
+
+    public void SetWorldShape(HeightMapShape3D shape)
+    {
+        WorldShape.MapData = [.. shape.MapData];
+    }
+
+    public void SetMovePath(Array<Vector2I> path)
+    {
+        if (isMoving)
+        {
+            return;
+        }
+        isMoving = true;
+        CurrentPath = path;
+        PathIndex = 0;
+    }
+
 }

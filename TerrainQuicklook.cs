@@ -101,6 +101,16 @@ public partial class TerrainQuicklook : Node3D
     string CollisionShapeResourcePath => Path.Combine(WorldFolderResourcePath, $"TerrainHeight.OZB");
     PhysicsDirectSpaceState3D? SpaceState;
 
+    // Walkable Start
+
+    private AStarGrid2D AStarGrid = new()
+    {
+        Region = new Rect2I(0, 0, 300, 300),
+        CellSize = new Vector2(1, 1),
+        DiagonalMode = AStarGrid2D.DiagonalModeEnum.Always,
+    };
+
+
     public override void _Ready()
     {
         WorldObjects = GetNode<Node3D>("WorldObjects");
@@ -112,9 +122,45 @@ public partial class TerrainQuicklook : Node3D
 
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
+        SetupWalkableBlocks();
         base._Ready();
         UpdateTerrain();
         DrawObjects();
+    }
+
+    // Walkable Blocks
+
+    void SetupWalkableBlocks()
+    {
+        // AStarGrid.SetPointSolid(new Vector2I(10, 10), true);
+        // AStarGrid.SetPointSolid(new Vector2I(11, 10), true);
+        AStarGrid.Update();
+    }
+
+    public override void _PhysicsProcess(double delta)
+    {
+        if (Character != null && !Character.IsMoving)
+        {
+
+            float angle = Mathf.DegToRad(45f);
+            // Get the input direction and handle the movement/deceleration.
+            // As good practice, you should replace UI actions with custom gameplay actions.
+            Vector2 inputDir = Input.GetVector("ui_left", "ui_right", "ui_up", "ui_down");
+            Vector3 direction = (Transform.Basis * new Vector3(inputDir.X, 0, inputDir.Y)).Normalized();
+            // Rotate direction around Y axis
+            direction = direction.Rotated(Vector3.Up, angle);
+            if (direction != Vector3.Zero)
+            {
+                TilePosition currentTilePos = CurrentCharacterTile;
+                TilePosition nextTilePos = new(
+                    (byte)Math.Max(currentTilePos.X + Math.Round(direction.X), 0),
+                    (byte)Math.Min(255, currentTilePos.Z + Math.Round(direction.Z))
+                );
+                var path = AStarGrid.GetIdPath(CurrentCharacterTile.GetVector2I(), nextTilePos.GetVector2I());
+                Character.SetMovePath(path);
+            }
+        }
+        base._PhysicsProcess(delta);
     }
 
     private void OnXZPositionChanged(Vector2 newXZ)
@@ -153,7 +199,11 @@ public partial class TerrainQuicklook : Node3D
         if (collider == StaticBody)
         {
             Vector3 hitPosition = (Vector3)result["position"];
-            GD.Print("Move from ", CurrentCharacterTile, " To ", hitPosition.ToTilePosition());
+            var path = AStarGrid.GetIdPath(
+                CurrentCharacterTile.GetVector2I(),
+                hitPosition.ToTilePosition().GetVector2I()
+            );
+            Character?.SetMovePath(path);
         }
         else if (collider is Character character)
         {
@@ -171,6 +221,7 @@ public partial class TerrainQuicklook : Node3D
         ArrayMesh mesh = ResourceLoader.Load<ArrayMesh>(MeshResourcePath);
         HeightMapShape3D shape = ResourceLoader.Load<HeightMapShape3D>(CollisionShapeResourcePath);
 
+        Character?.SetWorldShape(shape);
         CollisionShape.Shape = shape;
         MeshInstance.Mesh = mesh;
     }
