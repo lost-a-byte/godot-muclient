@@ -81,6 +81,7 @@ public static class ObjectMapDatabase
         {GetKey(WorldType.LORENCIA, 102), "Straw01.bmd"},
         {GetKey(WorldType.LORENCIA, 103), "Straw02.bmd"},
         {GetKey(WorldType.LORENCIA, 105), "Waterspout01.tscn"},
+        // {GetKey(WorldType.LORENCIA, 105), "heroNpcSide.tscn"},
         {GetKey(WorldType.LORENCIA, 107), "Well02.bmd"},
         {GetKey(WorldType.LORENCIA, 108), "Well03.bmd"},
         {GetKey(WorldType.LORENCIA, 109), "Well04.bmd"},
