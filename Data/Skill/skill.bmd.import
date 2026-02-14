@@ -1,14 +1,4 @@
 [remap]
 
-importer="dev.dong.mu.bmd-model"
-type="PackedScene"
-uid="uid://e6jmabcp12x3"
-valid=false
+importer="skip"
 
-[deps]
-
-source_file="res://Data/Skill/skill.bmd"
-
-[params]
-
-modelScale=0.01
