@@ -40,13 +40,25 @@ public partial class EncTerrainAttImportPlugin : EditorImportPlugin
 
             string saveFilePath = $"{savePath}.{_GetSaveExtension()}";
 
+            Array<TileFlag> tileFlags = [.. new TileFlag[Constants.TerrainSize * Constants.TerrainSize]];
+
+            for (int z = Constants.TerrainSize - 1; z >= 0; z--) // Flip Z 
+            {
+                for (int x = 0; x < Constants.TerrainSize; x++)
+                {
+                    int srcIndex = z * Constants.TerrainSize + x;
+                    int targetIndex = Constants.TerrainSize * (Constants.TerrainSize - 1) - z * Constants.TerrainSize + x;
+                    tileFlags[targetIndex] = (TileFlag)attData.TerrainWall[srcIndex];
+                }
+            }
+
             TileAttribute tileAttribute = new()
             {
                 World = (WorldType)attData.Index,
                 Version = attData.Version,
                 Width = attData.Width,
                 Height = attData.Height,
-                TileFlags = [.. attData.TerrainWall.Select(t => (TileFlag)t)]
+                TileFlags = [.. tileFlags]
             };
 
             Error err = ResourceSaver.Save(tileAttribute, saveFilePath);

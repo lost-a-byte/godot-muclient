@@ -94,10 +94,12 @@ public partial class TerrainQuicklook : Node3D
     Array<ObjectAttribute>[,] TileObjectMap = new Array<ObjectAttribute>[255, 255];
     bool[,] TileObjectMapPlaced = new bool[255, 255];
 
+    TileAttribute tileAttribute = new();
 
     string WorldFolderResourcePath => $"res://Data/World{(int)World}";
     string TerrainDataResourcePath => Path.Combine(WorldFolderResourcePath, $"EncTerrain{(int)World}.obj");
     string MeshResourcePath => Path.Combine(WorldFolderResourcePath, $"EncTerrain{(int)World}.map");
+    string WorldAttributeResourcePath => Path.Combine(WorldFolderResourcePath, $"EncTerrain{(int)World}.att");
     string CollisionShapeResourcePath => Path.Combine(WorldFolderResourcePath, $"TerrainHeight.OZB");
     PhysicsDirectSpaceState3D? SpaceState;
 
@@ -105,9 +107,9 @@ public partial class TerrainQuicklook : Node3D
 
     private AStarGrid2D AStarGrid = new()
     {
-        Region = new Rect2I(0, 0, 300, 300),
+        Region = new Rect2I(0, 0, Constants.TerrainSize, Constants.TerrainSize),
         CellSize = new Vector2(1, 1),
-        DiagonalMode = AStarGrid2D.DiagonalModeEnum.Always,
+        DiagonalMode = AStarGrid2D.DiagonalModeEnum.OnlyIfNoObstacles,
     };
 
 
@@ -119,10 +121,10 @@ public partial class TerrainQuicklook : Node3D
         Character = GetNode<Adventurer>("Adventurer");
         MeshInstance = GetNode<MeshInstance3D>("StaticBody3D/MeshInstance3D");
         SpaceState = GetWorld3D().DirectSpaceState;
+        AStarGrid.Update();
 
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
-        SetupWalkableBlocks();
         base._Ready();
         UpdateTerrain();
         DrawObjects();
@@ -134,6 +136,15 @@ public partial class TerrainQuicklook : Node3D
     {
         // AStarGrid.SetPointSolid(new Vector2I(10, 10), true);
         // AStarGrid.SetPointSolid(new Vector2I(11, 10), true);
+
+        for (int x = 0; x < Constants.TerrainSize; x++)
+        {
+            for (int z = 0; z < Constants.TerrainSize; z++)
+            {
+                int index = z * Constants.TerrainSize + x;
+                AStarGrid.SetPointSolid(new Vector2I(x, z), tileAttribute.TileFlags[index].HasFlag(TileFlag.NoMove));
+            }
+        }
         AStarGrid.Update();
     }
 
@@ -220,6 +231,8 @@ public partial class TerrainQuicklook : Node3D
         }
         ArrayMesh mesh = ResourceLoader.Load<ArrayMesh>(MeshResourcePath);
         HeightMapShape3D shape = ResourceLoader.Load<HeightMapShape3D>(CollisionShapeResourcePath);
+        tileAttribute = ResourceLoader.Load<TileAttribute>(WorldAttributeResourcePath);
+        SetupWalkableBlocks();
 
         Character?.SetWorldShape(shape);
         CollisionShape.Shape = shape;

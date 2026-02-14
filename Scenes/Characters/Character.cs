@@ -91,7 +91,7 @@ public partial class Character : CharacterBody3D
 
     public void SetMovePath(Array<Vector2I> path)
     {
-        if (isMoving)
+        if (isMoving || path == null || path.Count < 1)
         {
             return;
         }
