@@ -29,10 +29,6 @@ public partial class AnimatedWorldObject : Node3D
         {
             PlayAnimation();
         }
-        else
-        {
-            GD.Print("Outside of screen!");
-        }
     }
 
     public virtual void SetupOnScreenNotifier()
@@ -66,12 +62,10 @@ public partial class AnimatedWorldObject : Node3D
 
     public virtual void PlayAnimation()
     {
-        GD.Print("Trigger play animation!");
         animationPlayer?.Play(ActionName);
     }
     public virtual void PauseAnimation()
     {
-
         animationPlayer?.Pause();
     }
 
