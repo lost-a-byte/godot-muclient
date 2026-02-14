@@ -100,4 +100,11 @@ public partial class Character : CharacterBody3D
         PathIndex = 0;
     }
 
+    public void CancelMoveAction()
+    {
+        isMoving = false;
+        CurrentPath = [];
+        PathIndex = 0;
+    }
+
 }

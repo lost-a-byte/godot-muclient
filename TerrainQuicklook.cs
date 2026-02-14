@@ -191,6 +191,12 @@ public partial class TerrainQuicklook : Node3D
     private void OnMoveCommandTriggered(int newWorld)
     {
         WorldType world = (WorldType)newWorld;
+        if (World == world)
+        {
+            moveCommand?.Visible = false;
+            return;
+        }
+        Character?.CancelMoveAction();
         this.World = world;
         moveCommand?.Visible = false;
     }
