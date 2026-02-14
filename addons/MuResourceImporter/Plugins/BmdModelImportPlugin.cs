@@ -295,6 +295,7 @@ Original File Name: {bmdData.Name}
                         DepthDrawMode = depthDrawMode,
                         CullMode = cullMode,
                         BlendMode = blendMode,
+                        ShadingMode = BaseMaterial3D.ShadingModeEnum.Unshaded,
                     };
                     arrayMesh.SurfaceSetMaterial(0, standardMaterial);
                 }
