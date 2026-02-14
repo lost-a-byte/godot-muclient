@@ -14,7 +14,7 @@ public class TilePosition(byte x, byte z)
         float dz = other.Z - Z;
 
         float distanceSquared = dx * dx + dz * dz;
-        float radius = 30f;
+        float radius = 35f;
 
         return distanceSquared < radius * radius;
 
