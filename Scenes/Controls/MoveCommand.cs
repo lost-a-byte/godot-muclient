@@ -52,7 +52,7 @@ public partial class MoveCommand : Control
 	private void ButtonPressed(WorldType world)
 	{
 		GD.Print($"World {world} clicked!");
-		EmitSignal(SignalName.Move, (int)world);
 		GetViewport().SetInputAsHandled();
+		EmitSignal(SignalName.Move, (int)world);
 	}
 }

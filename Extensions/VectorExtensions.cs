@@ -40,5 +40,20 @@ public static class VectorExtensions
     {
         return new((byte)Math.Floor(vector.X + Constants.TerrainSize / 2), (byte)Math.Floor(vector.Y + Constants.TerrainSize / 2));
     }
+    public static bool IsInsideControl(this Vector2 vector, Control control)
+    {
+        // Check if the mouse coordinates are within the box's boundaries
+        return (
+            vector.X >= control.Position.Y &&
+            vector.X <= control.Size.X &&
+            vector.Y >= control.Position.X &&
+            vector.Y <= control.Size.Y
+        );
+    }
+    public static bool IsOutsideControl(this Vector2 vector, Control control)
+    {
+        // Check if the mouse coordinates are outside the box's boundaries
+        return !IsInsideControl(vector, control);
+    }
 
 }
