@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://5ytxy3deibnm"]
 
-[ext_resource type="PackedScene" uid="uid://bydp5mdwdi6c" path="res://Scenes/Characters/Character.tscn" id="1_pt66q"]
+[ext_resource type="PackedScene" uid="uid://biy71b7grsrwt" path="res://Scenes/Characters/Character.tscn" id="1_pt66q"]
 
 [node name="Character" unique_id=918384713 instance=ExtResource("1_pt66q")]
 editor_description = "NPC

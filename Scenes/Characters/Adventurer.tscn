@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://jjh84k7q10v4"]
 
-[ext_resource type="PackedScene" uid="uid://bydp5mdwdi6c" path="res://Scenes/Characters/Character.tscn" id="1_sohua"]
+[ext_resource type="PackedScene" uid="uid://biy71b7grsrwt" path="res://Scenes/Characters/Character.tscn" id="1_sohua"]
 [ext_resource type="Script" uid="uid://dsp6hln3auwq" path="res://Scenes/Characters/Adventurer.cs" id="2_sl8iq"]
 [ext_resource type="PackedScene" uid="uid://dcximx4bhuiu8" path="res://Data/Player/player.bmd" id="2_yld62"]
 

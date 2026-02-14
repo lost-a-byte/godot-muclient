@@ -1,16 +1,16 @@
-[gd_scene format=3 uid="uid://bydp5mdwdi6c"]
+[gd_scene format=3 uid="uid://biy71b7grsrwt"]
 
-[ext_resource type="Script" uid="uid://b0mcr6uskoe71" path="res://Scenes/Characters/Character.cs" id="1_sy4xu"]
+[ext_resource type="Script" uid="uid://b0mcr6uskoe71" path="res://Scenes/Characters/Character.cs" id="1_t8e5q"]
 
-[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_m8xlv"]
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_0xxch"]
 
-[node name="Character" type="Node3D" unique_id=918384713]
-script = ExtResource("1_sy4xu")
+[node name="Character" type="CharacterBody3D" unique_id=288342903]
+editor_description = "Basic Charactor
+Do have Collision shape, Body and AniationPlayer or AnimationMixer"
+script = ExtResource("1_t8e5q")
 
-[node name="Body" type="StaticBody3D" parent="." unique_id=527694844]
-
-[node name="CollisionShape" type="CollisionShape3D" parent="Body" unique_id=1294653728]
+[node name="CollisionShape" type="CollisionShape3D" parent="." unique_id=1344001067]
 editor_description = "Basic Charactor
 Do have Collision shape, Body and AniationPlayer or AnimationMixer"
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
-shape = SubResource("CapsuleShape3D_m8xlv")
+shape = SubResource("CapsuleShape3D_0xxch")

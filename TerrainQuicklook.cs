@@ -6,6 +6,7 @@ using MuClient.Database;
 using System.IO;
 using MuClient.Scenes;
 using MuClient.Extensions;
+using MuClient.Scenes.Characters;
 
 namespace MuClient;
 
@@ -71,9 +72,10 @@ public partial class TerrainQuicklook : Node3D
     private Dictionary<short, PackedScene> GenericScenes = new();
     Node3D? WorldObjects;
     CollisionShape3D? CollisionShape;
+    StaticBody3D? StaticBody;
     MeshInstance3D? MeshInstance;
 
-    Character? Character;
+    Adventurer? Character;
     private TilePosition currentCharacterTile = new(0, 0);
     public TilePosition CurrentCharacterTile
     {
@@ -97,13 +99,17 @@ public partial class TerrainQuicklook : Node3D
     string TerrainDataResourcePath => Path.Combine(WorldFolderResourcePath, $"EncTerrain{(int)World}.obj");
     string MeshResourcePath => Path.Combine(WorldFolderResourcePath, $"EncTerrain{(int)World}.map");
     string CollisionShapeResourcePath => Path.Combine(WorldFolderResourcePath, $"TerrainHeight.OZB");
+    PhysicsDirectSpaceState3D? SpaceState;
 
     public override void _Ready()
     {
         WorldObjects = GetNode<Node3D>("WorldObjects");
         CollisionShape = GetNode<CollisionShape3D>("StaticBody3D/CollisionShape3D");
-        Character = GetNode<Character>("Character");
+        StaticBody = GetNode<StaticBody3D>("StaticBody3D");
+        Character = GetNode<Adventurer>("Adventurer");
         MeshInstance = GetNode<MeshInstance3D>("StaticBody3D/MeshInstance3D");
+        SpaceState = GetWorld3D().DirectSpaceState;
+
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
         base._Ready();
@@ -114,6 +120,45 @@ public partial class TerrainQuicklook : Node3D
     private void OnXZPositionChanged(Vector2 newXZ)
     {
         CurrentCharacterTile = newXZ.ToTilePosition();
+    }
+    public override void _Input(InputEvent @event)
+    {
+        if (@event is InputEventMouseButton mouseEvent
+            && mouseEvent.Pressed
+            && mouseEvent.ButtonIndex == MouseButton.Left)
+        {
+            RaycastFromMouse(mouseEvent.Position);
+        }
+    }
+
+    private void RaycastFromMouse(Vector2 mousePosition)
+    {
+        var camera = GetViewport().GetCamera3D();
+        if (camera == null) return;
+
+        Vector3 rayOrigin = camera.ProjectRayOrigin(mousePosition);
+        Vector3 rayEnd = rayOrigin + camera.ProjectRayNormal(mousePosition) * 300f;
+
+
+        var query = PhysicsRayQueryParameters3D.Create(rayOrigin, rayEnd);
+        query.CollisionMask = 1;
+        var result = SpaceState?.IntersectRay(query);
+        if (result == null)
+        {
+            return;
+        }
+        var collider = (GodotObject)result["collider"];
+
+        // Check if the map just clicked
+        if (collider == StaticBody)
+        {
+            Vector3 hitPosition = (Vector3)result["position"];
+            GD.Print("Move from ", CurrentCharacterTile, " To ", hitPosition.ToTilePosition());
+        }
+        else if (collider is Character character)
+        {
+            GD.Print("Character clicked!");
+        }
     }
 
     void UpdateTerrain()
