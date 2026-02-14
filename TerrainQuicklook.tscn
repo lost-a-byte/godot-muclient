@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://bxtbq3ynljryo" path="res://TerrainQuicklook.cs" id="1_6vu7h"]
 [ext_resource type="Shape3D" uid="uid://dtf7hfevto00s" path="res://Data/World1/TerrainHeight.OZB" id="2_6vu7h"]
 [ext_resource type="ArrayMesh" uid="uid://dfyi4mkmgt3s4" path="res://Data/World1/EncTerrain1.map" id="3_01rv4"]
-[ext_resource type="PackedScene" uid="uid://bydp5mdwdi6c" path="res://Scenes/Characters/Character.tscn" id="4_6vu7h"]
+[ext_resource type="PackedScene" uid="uid://jjh84k7q10v4" path="res://Scenes/Characters/Adventurer.tscn" id="4_6vu7h"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
@@ -30,13 +30,13 @@ mesh = ExtResource("3_01rv4")
 [node name="WorldObjects" type="Node3D" parent="." unique_id=536390639]
 
 [node name="Character" parent="." unique_id=918384713 instance=ExtResource("4_6vu7h")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.6812198, 4.306, 3.1184168)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.3289137, 3.6483536, 0)
 
 [node name="SpringArm3D" type="SpringArm3D" parent="Character" unique_id=872654852]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 8.5, 7)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10.68122, 12.806, 10.118417)
 
 [node name="Camera3D" type="Camera3D" parent="Character/SpringArm3D" unique_id=255947097]
-transform = Transform3D(0.7071068, -0.5295917, 0.46854314, 0, 0.66262007, 0.7489557, -0.7071068, -0.5295917, 0.46854314, 0, 0, 0)
+transform = Transform3D(0.70710677, -0.46854314, 0.5295917, 0, 0.7489557, 0.66262007, -0.70710677, -0.46854314, 0.5295917, 0, 0, 0)
 fov = 39.0
 near = 0.09
 far = 100.0
