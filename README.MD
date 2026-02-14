@@ -46,3 +46,8 @@ What do we have at this moment?
 ## Inspector Plugins
 - Terrain Attribute Inspector plugin  
     This one will let you inspect Terrain Attribute by type in inspector
+
+# Asset Ownership Notice
+This repository contains only the original source code, which is fully owned by me.  
+Any game assets (art, models, audio, textures, animations, etc.) used in demonstrations, screenshots, or videos are not included in this repository and are not owned by me.  
+Those assets belong to their respective owners and must be obtained separately under their own licenses.  
