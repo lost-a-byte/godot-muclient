@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://d2dbig3hqn8mw"]
+
+[ext_resource type="PackedScene" uid="uid://sdobcifqlgfv" path="res://Data/Object1/Hanging01.bmd" id="1_tdliq"]
+[ext_resource type="Script" uid="uid://cbkhpylkhf7vt" path="res://Data/Object1/Hanging01.cs" id="2_4rilj"]
+
+[node name="Model" unique_id=1677152283 instance=ExtResource("1_tdliq")]
+script = ExtResource("2_4rilj")

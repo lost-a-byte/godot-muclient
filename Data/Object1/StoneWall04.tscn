@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://x4bg0wq4n5nt"]
+
+[ext_resource type="PackedScene" uid="uid://dipvnl2xfnq3f" path="res://Data/Object1/StoneWall04.bmd" id="1_4l25j"]
+[ext_resource type="Script" uid="uid://btv5pyrccjhv1" path="res://Data/Object1/StoneWall04.cs" id="2_u26ja"]
+
+[node name="Model" unique_id=960139343 instance=ExtResource("1_4l25j")]
+script = ExtResource("2_u26ja")
