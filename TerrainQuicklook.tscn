@@ -30,7 +30,7 @@ mesh = ExtResource("3_01rv4")
 [node name="WorldObjects" type="Node3D" parent="." unique_id=536390639]
 
 [node name="Character" parent="." unique_id=918384713 instance=ExtResource("4_6vu7h")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.3289137, 3.6483536, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 16.5, 3.0, 5.5)
 
 [node name="SpringArm3D" type="SpringArm3D" parent="Character" unique_id=872654852]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 8.5, 7)
