@@ -3,11 +3,12 @@
 importer="dev.dong.mu.enc-terrain-map"
 type="ArrayMesh"
 uid="uid://dk7vj1rvkownl"
-valid=false
+path="res://.godot/imported/EncTerrain66.map-f65a755362d9298c022807d8e0d4ceb0.res"
 
 [deps]
 
 source_file="res://Data/World66/EncTerrain66.map"
+dest_files=["res://.godot/imported/EncTerrain66.map-f65a755362d9298c022807d8e0d4ceb0.res"]
 
 [params]
 

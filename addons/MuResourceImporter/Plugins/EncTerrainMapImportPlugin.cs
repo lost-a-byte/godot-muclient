@@ -77,11 +77,12 @@ public partial class EncTerrainMapImportPlugin : EditorImportPlugin
 
             string saveFilePath = $"{savePath}.{_GetSaveExtension()}";
 
-            if (!Godot.FileAccess.FileExists(terrainLightFilePath))
+            bool hasTerrainLight = Godot.FileAccess.FileExists(terrainLightFilePath);
+            Texture2D? lightMapTexture = null;
+            if (hasTerrainLight)
             {
-                return Error.Bug;
+                lightMapTexture = ResourceLoader.Load<Texture2D>(terrainLightFilePath);
             }
-            Texture2D lightMapTexture = ResourceLoader.Load<Texture2D>(terrainLightFilePath);
 
 
             for (int imageY = 0; imageY < Constants.TerrainSize; imageY++)
@@ -209,7 +210,10 @@ public partial class EncTerrainMapImportPlugin : EditorImportPlugin
             }
 
             // Add Light Map             
-            material.SetShaderParameter("Light_Map", lightMapTexture);
+            if (hasTerrainLight && lightMapTexture != null)
+            {
+                material.SetShaderParameter("Light_Map", lightMapTexture);
+            }
 
             Error err = ResourceSaver.Save(mesh, saveFilePath);
             return err;
@@ -244,6 +248,7 @@ public partial class EncTerrainMapImportPlugin : EditorImportPlugin
             5 => world switch
             {
                 WorldType.ATLANS => "Tile_Grass_01", // Atlans
+                WorldType.DOPPELGANGER_UNDERWATER => "Tile_Grass_01", // Atlans
                 _ => "Tile_Water_01"
             },
             6 => "Tile_Wood_01",
