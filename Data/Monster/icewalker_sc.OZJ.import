@@ -1,13 +1,6 @@
 [remap]
 
-importer="dev.dong.mu.texture"
-type="ImageTexture"
-uid="uid://ck0bdeefx0nbd"
-valid=false
+importer="skip"
 
-[deps]
 
-source_file="res://Data/Monster/icewalker_sc.OZJ"
-
-[params]
 

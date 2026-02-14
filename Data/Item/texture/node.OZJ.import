@@ -1,13 +1,4 @@
 [remap]
 
-importer="dev.dong.mu.texture"
-type="ImageTexture"
-uid="uid://dxyfg6d5cueaf"
-valid=false
-
-[deps]
-
-source_file="res://Data/Item/texture/node.OZJ"
-
-[params]
+importer="skip"
 

@@ -1,13 +1,4 @@
 [remap]
 
-importer="dev.dong.mu.texture"
-type="ImageTexture"
-uid="uid://be835e1sds8vm"
-valid=false
-
-[deps]
-
-source_file="res://Data/Monster/giantmemud_sc.OZJ"
-
-[params]
+importer="skip"
 

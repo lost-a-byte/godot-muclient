@@ -1,13 +1,6 @@
 [remap]
 
-importer="dev.dong.mu.texture"
-type="ImageTexture"
-uid="uid://dotygrcc0qh3u"
-valid=false
+importer="skip"
 
-[deps]
 
-source_file="res://Data/Monster/strangerabbit_sc.OZJ"
-
-[params]
 

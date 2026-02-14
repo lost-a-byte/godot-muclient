@@ -1,13 +1,4 @@
 [remap]
 
-importer="dev.dong.mu.texture"
-type="ImageTexture"
-uid="uid://5qjbft2526l3"
-valid=false
-
-[deps]
-
-source_file="res://Data/Item/texture/6master_peice_render.OZT"
-
-[params]
+importer="skip"
 
