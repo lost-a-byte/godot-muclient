@@ -8,6 +8,7 @@ using MuClient.Scenes;
 using MuClient.Extensions;
 using MuClient.Scenes.Characters;
 using MuClient.Scenes.Controls;
+using MuClient.Models.MprTables;
 
 namespace MuClient;
 
@@ -126,12 +127,20 @@ public partial class TerrainQuicklook : Node3D
         AStarGrid.Update();
         moveCommand = GetNode<MoveCommand>("Controls/MoveCommand");
         moveCommand.Move += OnMoveCommandTriggered;
+        moveCommand.MoveGate += OnMoveGateCommandTriggered;
 
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
         base._Ready();
         UpdateTerrain();
         DrawObjects();
+    }
+
+    private void OnMoveGateCommandTriggered(GateItem gate)
+    {
+
+        World = gate.World;
+        Character?.Spawn(gate.PositionStart);
     }
 
     // Walkable Blocks
@@ -438,6 +447,7 @@ public partial class TerrainQuicklook : Node3D
     {
         Character?.XZPositionChanged -= OnXZPositionChanged;
         moveCommand?.Move -= OnMoveCommandTriggered;
+        moveCommand?.MoveGate -= OnMoveGateCommandTriggered;
         base._ExitTree();
     }
 }

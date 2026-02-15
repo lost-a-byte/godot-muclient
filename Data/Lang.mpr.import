@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.lang-mpr"
+type="MprData"
+uid="uid://c20sub3okavoy"
+path="res://.godot/imported/Lang.mpr-5d4eeddb007d40ef783a8f907590677c.tres"
+
+[deps]
+
+source_file="res://Data/Lang.mpr"
+dest_files=["res://.godot/imported/Lang.mpr-5d4eeddb007d40ef783a8f907590677c.tres"]
+
+[params]
+

@@ -1,4 +1,7 @@
 using Godot;
+using Godot.Collections;
+using MuClient.Extensions;
+using MuClient.Models.MprTables;
 using MuClient.Models.Terrain;
 
 using System;
@@ -11,6 +14,8 @@ public partial class MoveCommand : Control
 
 	[Signal]
 	public delegate void MoveEventHandler(int world);
+	[Signal]
+	public delegate void MoveGateEventHandler(GateItem gate);
 
 	private VBoxContainer container;
 
@@ -30,13 +35,20 @@ public partial class MoveCommand : Control
 	{
 		ClearWorldList();
 
-		foreach (WorldType world in Enum.GetValues<WorldType>())
+		MprData mprData = ResourceLoader.Load<MprData>("res://Data/Lang.mpr");
+		Array<GateItem> gateItems = mprData.GetGateItems();
+
+		foreach (GateItem gate in gateItems)
 		{
+			if (gate.Type == 2 || gate.Type == 1)
+			{
+				continue;
+			}
 			Button button = new()
 			{
-				Text = world.ToString()
+				Text = $"{gate.World} {gate.PositionStart}",
 			};
-			button.Pressed += () => ButtonPressed(world);
+			button.Pressed += () => GatePressed(gate);
 			container.AddChild(button);
 		}
 	}
@@ -47,6 +59,12 @@ public partial class MoveCommand : Control
 		{
 			item.QueueFree();
 		}
+	}
+
+	private void GatePressed(GateItem gateItem)
+	{
+		GetViewport().SetInputAsHandled();
+		EmitSignal(SignalName.MoveGate, gateItem);
 	}
 
 	private void ButtonPressed(WorldType world)

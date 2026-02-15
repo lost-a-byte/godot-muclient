@@ -107,4 +107,11 @@ public partial class Character : CharacterBody3D
         PathIndex = 0;
     }
 
+    public void Spawn(Vector2I at)
+    {
+        CancelMoveAction();
+        float targetY = WorldShape.GetHeightAt(at);
+        Position = new(at.X + 0.5f - Constants.TerrainSize / 2, targetY, at.Y + 0.5f - Constants.TerrainSize / 2);
+    }
+
 }
