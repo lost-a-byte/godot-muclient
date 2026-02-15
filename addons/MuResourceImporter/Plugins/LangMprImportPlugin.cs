@@ -20,7 +20,7 @@ namespace MuClient.addons.MuResourceImporter.Plugins;
 public partial class LangMprImportPlugin : EditorImportPlugin
 {
     public override string _GetImporterName() => "dev.dong.mu.lang-mpr";
-    public override string _GetVisibleName() => "Lang.mpr Import plugin";
+    public override string _GetVisibleName() => "Lang.mpr Import";
     public override string[] _GetRecognizedExtensions() => ["mpr"];
     public override string _GetResourceType() => "MprData";
     public override string _GetSaveExtension() => "tres";
