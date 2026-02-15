@@ -7,6 +7,11 @@
 [node name="Character" unique_id=918384713 instance=ExtResource("1_sohua")]
 editor_description = "Whooho, it's me"
 script = ExtResource("2_sl8iq")
+HaveWing = false
+HaveWingCore1st = false
+HaveWingCore2nd = false
+HaveWeapon1st = false
+HaveWeapon2nd = false
 
 [node name="Skeleton" parent="." index="0" unique_id=1751941227 instance=ExtResource("2_yld62")]
 

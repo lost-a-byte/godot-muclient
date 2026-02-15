@@ -43,24 +43,133 @@ public partial class Adventurer : Character
         MountBoots(BootsPath);
     }
     Skeleton3D? Skeleton;
+    #region Inspector
+    [ExportGroup("Equipment")]
+    private bool haveWing = false;
+    [Export]
+    public bool HaveWing
+    {
+        get { return haveWing; }
+        set
+        {
+            if (haveWing == value) return;
+            haveWing = value;
+            if (haveWing)
+            {
+                MountWing(WingPath);
+            }
+            else
+            {
+                UnmountPart(nameof(MountWing));
+            }
+        }
+    }
+
+    private bool haveWingCore1st = false;
+    [Export]
+    public bool HaveWingCore1st
+    {
+        get { return haveWingCore1st; }
+        set
+        {
+            if (haveWingCore1st == value) return;
+            haveWingCore1st = value;
+            if (haveWingCore1st)
+            {
+                MountWingCore1st(WingCore1stPath);
+            }
+            else
+            {
+                UnmountPart(nameof(MountWingCore1st));
+            }
+        }
+    }
+
+    private bool haveWingCore2nd = false;
+    [Export]
+    public bool HaveWingCore2nd
+    {
+        get { return haveWingCore2nd; }
+        set
+        {
+            if (haveWingCore2nd == value) return;
+            haveWingCore2nd = value;
+            if (haveWingCore2nd)
+            {
+                MountWingCore2nd(WingCore2ndPath);
+            }
+            else
+            {
+                UnmountPart(nameof(MountWingCore2nd));
+            }
+        }
+    }
+
+    private bool haveWeapon1st = false;
+    [Export]
+    public bool HaveWeapon1st
+    {
+        get { return haveWeapon1st; }
+        set
+        {
+            if (haveWeapon1st == value) return;
+            haveWeapon1st = value;
+            if (haveWeapon1st)
+            {
+                MountWeapon1st(Weapon1stPath);
+            }
+            else
+            {
+                UnmountPart(nameof(MountWeapon1st));
+            }
+        }
+    }
+
+    private bool haveWeapon2nd = false;
+    [Export]
+    public bool HaveWeapon2nd
+    {
+        get { return haveWeapon2nd; }
+        set
+        {
+            if (haveWeapon2nd == value) return;
+            haveWeapon2nd = value;
+            if (haveWeapon2nd)
+            {
+                MountWeapon2nd(Weapon2ndPath);
+            }
+            else
+            {
+                UnmountPart(nameof(MountWeapon2nd));
+            }
+        }
+    }
+    #endregion
 
     public virtual string HeadPath => "res://Data/Player/HelmClass01.bmd";
     public virtual string ArmorPath => "res://Data/Player/ArmorClass01.bmd";
     public virtual string GlovesPath => "res://Data/Player/GloveClass01.bmd";
     public virtual string PantPath => "res://Data/Player/PantClass01.bmd";
     public virtual string BootsPath => "res://Data/Player/BootClass01.bmd";
-    public virtual string WingPath => "res://Data/Item/Wing53.bmd";
-    public virtual string WingCore1stPath => "res://Data/Item/Wing53.bmd";
-    public virtual string WingCore2ndPath => "res://Data/Item/Wing53.bmd";
-    public virtual string Weapon1stPath => "res://Data/Item/Wing53.bmd";
-    public virtual string Weapon2ndPath => "res://Data/Item/Wing53.bmd";
+    public virtual string WingPath => "res://Data/Item/Wing504.bmd";
+    public virtual string WingCore1stPath => "res://Data/Item/Wing504_core1.bmd";
+    public virtual string WingCore2ndPath => "res://Data/Item/Wing504_core2.bmd";
+    public virtual string Weapon1stPath => "res://Data/Item/absolute02_staff.bmd";
+    public virtual string Weapon2ndPath => "res://Data/Item/absolute02_staff.bmd";
 
+    public Dictionary<string, int> BoneNames = new();
+    AnimationPlayer? AnimationPlayer;
     public Node3D? HiddenNode;
     public override void _Ready()
     {
         Node3D SkeletonNode = GetNode<Node3D>("Skeleton");
         Skeleton = SkeletonNode.GetNode<Skeleton3D>("skeleton");
         HiddenNode = GetNode<Node3D>("HiddenNode");
+        AnimationPlayer = SkeletonNode.GetNode<AnimationPlayer>("AnimationPlayer");
+        Animation flyAnimation = AnimationPlayer.GetAnimation("Animations/Action_019");
+        flyAnimation.LoopMode = Animation.LoopModeEnum.Linear;
+        AnimationPlayer.Play("Animations/Action_019");
+        InitBoneName();
         base._Ready();
 
         MountHead(HeadPath);
@@ -68,9 +177,15 @@ public partial class Adventurer : Character
         MountGloves(GlovesPath);
         MountPant(PantPath);
         MountBoots(BootsPath);
-        // MountWing(WingPath);
+
+        MountWeapon1st(Weapon1stPath);
+        MountWeapon2nd(Weapon2ndPath);
+        MountWing(WingPath);
+        MountWingCore1st(WingCore1stPath);
+        MountWingCore2nd(WingCore2ndPath);
     }
 
+    #region Mount Armor
 
     public virtual void MountArmor(string resourcePath)
     {
@@ -149,6 +264,110 @@ public partial class Adventurer : Character
         // Clear memory
         node.QueueFree();
     }
+    #endregion
+
+    #region Mount Weapons
+    public virtual void MountWing(string resourcePath)
+    {
+        UnmountPart(nameof(MountWing));
+        MountPartToBoneId(resourcePath, nameof(MountWing), GetBoneId("Bone05"));
+    }
+
+    public virtual void MountWingCore1st(string resourcePath)
+    {
+        UnmountPart(nameof(MountWingCore1st));
+        MountPartToBoneId(resourcePath, nameof(MountWingCore1st), GetBoneId("Bone05"));
+    }
+    public virtual void MountWingCore2nd(string resourcePath)
+    {
+        UnmountPart(nameof(MountWingCore2nd));
+        MountPartToBoneId(resourcePath, nameof(MountWingCore2nd), GetBoneId("Bone05"));
+    }
+    public virtual void MountWeapon1st(string resourcePath)
+    {
+        UnmountPart(nameof(MountWeapon1st));
+        MountPartToBoneId(resourcePath, nameof(MountWeapon1st), GetBoneId("knife_gdf"));
+    }
+    public virtual void MountWeapon2nd(string resourcePath)
+    {
+        UnmountPart(nameof(MountWeapon2nd));
+        MountPartToBoneId(resourcePath, nameof(MountWeapon2nd), GetBoneId("hand_bofdgne01"));
+    }
+
+
+
+    public virtual NodePath? MountPartToBoneId(string resourcePath, string partName, int boneId)
+    {
+        if (Skeleton == null || Skeleton.GetBoneCount() < boneId) return null;
+
+        PackedScene scene = GD.Load<PackedScene>(resourcePath);
+        Node3D node = scene.Instantiate<Node3D>();
+
+        // Fix memory leak!
+        HiddenNode?.AddChild(node);
+
+        Skeleton3D SubSkeleton = node.GetNode<Skeleton3D>("skeleton");
+        Skeleton3D attachingSkeleton = (Skeleton3D)SubSkeleton.Duplicate();
+
+        var boneAttachment = new BoneAttachment3D()
+        {
+            Name = $"{partName}_{ResourceUid.CreateId()}",
+            BoneName = Skeleton.GetBoneName(boneId),
+        };
+
+        AnimationPlayer? animationPlayer =
+            node.HasNode("AnimationPlayer")
+                ? (AnimationPlayer)node.GetNode<AnimationPlayer>("AnimationPlayer")
+                    .Duplicate()
+                : null;
+        if (animationPlayer != null)
+        {
+            animationPlayer.Active = true;
+            // TODO: Check if that part does have animation player and execute play first animation;
+            animationPlayer.Play("Animations/Action_000");
+            boneAttachment.AddChild(animationPlayer);
+        }
+
+        boneAttachment.AddChild(attachingSkeleton);
+        Skeleton.AddChild(boneAttachment);
+
+        node.QueueFree();
+
+        return boneAttachment.GetPath();
+    }
+    #endregion
+
+    #region Bone Utils
+
+    private void InitBoneName()
+    {
+        if (Skeleton == null)
+        {
+            return;
+        }
+        for (int i = 0; i < Skeleton.GetBoneCount(); i++)
+        {
+            var boneName = Skeleton.GetBoneName(i);
+            BoneNames[boneName] = i;
+        }
+    }
+
+    public virtual int GetBoneId(string boneName)
+    {
+        if (Skeleton == null)
+        {
+            return -1;
+        }
+        if (BoneNames.TryGetValue(boneName, out int boneId))
+        {
+            return boneId;
+        }
+        return -1;
+    }
+    #endregion
+
+
+    #region Unmount
 
     public virtual void UnmountPart(string partName)
     {
@@ -165,6 +384,14 @@ public partial class Adventurer : Character
                     mesh.QueueFree();
                 }
             }
+            else if (item is BoneAttachment3D boneAttachment)
+            {
+                if (boneAttachment.Name.ToString().StartsWith(partName + "_"))
+                {
+                    boneAttachment.QueueFree();
+                }
+            }
         }
     }
+    #endregion
 }
