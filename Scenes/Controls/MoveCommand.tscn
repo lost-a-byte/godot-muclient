@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dx5f5pqk76vas"]
 
-[ext_resource type="Script" uid="uid://7bpphenswjqq" path="res://Controls/TwoDimensions/MoveCommand.cs" id="1_ay08v"]
+[ext_resource type="Script" uid="uid://7bpphenswjqq" path="res://Scenes/Controls/MoveCommand.cs" id="1_ay08v"]
 
 [node name="MoveCommand" type="Control"]
 layout_mode = 3

@@ -8,16 +8,18 @@ using System;
 
 namespace MuClient.Scenes.Controls;
 
+[Tool]
 public partial class MoveCommand : Control
 {
-	[Export] public WorldType World { get; set; } = WorldType.LORENCIA;
+	[Export] 
+	public WorldType World { get; set; } = WorldType.LORENCIA;
 
 	[Signal]
 	public delegate void MoveEventHandler(int world);
 	[Signal]
 	public delegate void MoveGateEventHandler(GateItem gate);
 
-	private VBoxContainer container;
+	private VBoxContainer? container;
 
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
@@ -49,12 +51,13 @@ public partial class MoveCommand : Control
 				Text = $"{gate.World} {gate.PositionStart}",
 			};
 			button.Pressed += () => GatePressed(gate);
-			container.AddChild(button);
+			container?.AddChild(button);
 		}
 	}
 
 	void ClearWorldList()
 	{
+		if (container == null) return;
 		foreach (var item in container.GetChildren())
 		{
 			item.QueueFree();
