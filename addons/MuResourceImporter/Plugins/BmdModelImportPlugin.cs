@@ -48,6 +48,30 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
                 { "name", "MeshOverride" },
                 { "default_value", new BmdMeshBlend()},
             },
+            new Dictionary
+            {
+                { "name", "FirstAnimationKeyIsRestPose" },
+                { "default_value", false},
+            },
+            new Dictionary
+            {
+                { "name", "SkipLastAnimationKey" },
+                { "default_value", false},
+            },
+            new Dictionary
+            {
+                { "name", "SkeletonTransform" },
+                { "default_value", 0},
+                { "property_hint", 2},
+                { "hint_string", "None:0,Identity:1,FlipX:2,FlipY:3,FlipZ:4"},
+            },
+            new Dictionary
+            {
+                { "name", "AnimationLoopMode" },
+                { "default_value", 0},
+                { "property_hint", 2},
+                { "hint_string", "None:0,Linear:1,Pingpong:2"},
+            },
         ];
     }
 
@@ -62,12 +86,24 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
 
             float modelScale = (float)options["modelScale"];
             BmdMeshBlend meshBlend = (BmdMeshBlend)(GodotObject)options["MeshOverride"];
+            bool FirstAnimationKeyIsRestPose = (bool)options["FirstAnimationKeyIsRestPose"];
+            bool SkipLastAnimationKey = (bool)options["SkipLastAnimationKey"];
+            BmdSkeletonTransformType SkeletonTransform = (BmdSkeletonTransformType)(byte)options["SkeletonTransform"];
+            Animation.LoopModeEnum AnimationLoopMode = (Animation.LoopModeEnum)(byte)options["AnimationLoopMode"];
 
             BMD bmdData = Task.Run(async () => await bmdReader.Load(ProjectSettings.GlobalizePath(sourceFile))).Result;
             string saveFilePath = $"{savePath}.{_GetSaveExtension()}";
             string sourceFolder = sourceFile.GetBaseDir();
 
-            Node3D model = GenerateNode(bmdData, sourceFolder, meshBlend);
+            Node3D model = GenerateNode(
+                bmdData,
+                sourceFolder,
+                meshBlend,
+                FirstAnimationKeyIsRestPose,
+                SkipLastAnimationKey,
+                SkeletonTransform,
+                AnimationLoopMode
+            );
 
             model.Scale = new Vector3(modelScale, modelScale, modelScale);
 
@@ -91,7 +127,15 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
         }
     }
 
-    public Node3D GenerateNode(BMD bmdData, string sourceFolder, BmdMeshBlend meshBlend)
+    public Node3D GenerateNode(
+        BMD bmdData,
+        string sourceFolder,
+        BmdMeshBlend meshBlend,
+        bool firstAnimationKeyIsRestPose,
+        bool skipLastAnimationKey,
+        BmdSkeletonTransformType skeletonTransform,
+        Animation.LoopModeEnum animationLoopMode
+    )
     {
         Node3D rootNode = new()
         {
@@ -160,6 +204,23 @@ Original File Name: {bmdData.Name}
         {
             string boneName = boneNames[(short)i];
             skin.AddNamedBind(boneName, Transform3D.Identity);
+        }
+        switch (skeletonTransform)
+        {
+            case BmdSkeletonTransformType.Identity:
+                skeleton.Transform = Transform3D.Identity;
+                break;
+            case BmdSkeletonTransformType.FlipX:
+                skeleton.Transform = Transform3D.FlipX;
+                break;
+            case BmdSkeletonTransformType.FlipY:
+                skeleton.Transform = Transform3D.FlipY;
+                break;
+            case BmdSkeletonTransformType.FlipZ:
+                skeleton.Transform = Transform3D.FlipZ;
+                break;
+            default:
+                break;
         }
 
         rootNode.AddChild(skeleton);
@@ -368,9 +429,23 @@ Original File Name: {bmdData.Name}
             Animation animation = new()
             {
                 ResourceName = "Action_" + i.ToString("D3"),
+                LoopMode = animationLoopMode,
             };
+            int loopCount = action.NumAnimationKeys;
+            if (firstAnimationKeyIsRestPose)
+            {
+                loopCount--;
+            }
+            if (skipLastAnimationKey)
+            {
+                loopCount--;
+            }
+            if (loopCount < 1)
+            {
+                continue;
+            }
             // Length per frame
-            float lengthPerKeyFrame = FPS / (float)Math.Max(action.NumAnimationKeys - 1, 1) / 60;
+            float lengthPerKeyFrame = FPS / (float)Math.Max(loopCount - 1, 1) / 60;
             for (int iBone = 0; iBone < bmdData.Bones.Length; iBone++)
             {
                 BMDTextureBone bone = bmdData.Bones[iBone];
@@ -386,11 +461,17 @@ Original File Name: {bmdData.Name}
                 animation.TrackSetPath(rotateTrackIndex, skeleton.Name + ":" + boneName);
                 animation.TrackSetPath(positionTrackIndex, skeleton.Name + ":" + boneName);
                 BMDBoneMatrix currentAction = bone.Matrixes[i];
-                for (var k = 0; k < action.NumAnimationKeys; k++)
+
+                for (var k = 0; k < loopCount; k++)
                 {
-                    var rotate = currentAction.Quaternion[k];
+                    int keyIndex = k;
+                    if (firstAnimationKeyIsRestPose)
+                    {
+                        keyIndex += 1;
+                    }
+                    var rotate = currentAction.Quaternion[keyIndex];
                     animation.TrackInsertKey(rotateTrackIndex, lengthPerKeyFrame * k, rotate.ToGodotQuaternion());
-                    var position = currentAction.Position[k];
+                    var position = currentAction.Position[keyIndex];
                     animation.TrackInsertKey(positionTrackIndex, lengthPerKeyFrame * k, position.ToGodotVector3());
                 }
             }
