@@ -49,11 +49,18 @@ public partial class Adventurer : Character
     public virtual string GlovesPath => "res://Data/Player/GloveClass01.bmd";
     public virtual string PantPath => "res://Data/Player/PantClass01.bmd";
     public virtual string BootsPath => "res://Data/Player/BootClass01.bmd";
+    public virtual string WingPath => "res://Data/Item/Wing53.bmd";
+    public virtual string WingCore1stPath => "res://Data/Item/Wing53.bmd";
+    public virtual string WingCore2ndPath => "res://Data/Item/Wing53.bmd";
+    public virtual string Weapon1stPath => "res://Data/Item/Wing53.bmd";
+    public virtual string Weapon2ndPath => "res://Data/Item/Wing53.bmd";
 
+    public Node3D? HiddenNode;
     public override void _Ready()
     {
         Node3D SkeletonNode = GetNode<Node3D>("Skeleton");
         Skeleton = SkeletonNode.GetNode<Skeleton3D>("skeleton");
+        HiddenNode = GetNode<Node3D>("HiddenNode");
         base._Ready();
 
         MountHead(HeadPath);
@@ -61,38 +68,39 @@ public partial class Adventurer : Character
         MountGloves(GlovesPath);
         MountPant(PantPath);
         MountBoots(BootsPath);
+        // MountWing(WingPath);
     }
 
 
     public virtual void MountArmor(string resourcePath)
     {
-        UnmountPart("Armor");
-        MountPart(resourcePath, "Armor");
+        UnmountPart(nameof(MountArmor));
+        MountPart(resourcePath, nameof(MountArmor));
     }
     public virtual void MountPant(string resourcePath)
     {
-        UnmountPart("Pant");
-        MountPart(resourcePath, "Pant");
+        UnmountPart(nameof(MountPant));
+        MountPart(resourcePath, nameof(MountPant));
     }
     public virtual void MountGloves(string resourcePath)
     {
-        UnmountPart("Gloves");
-        MountPart(resourcePath, "Gloves");
+        UnmountPart(nameof(MountGloves));
+        MountPart(resourcePath, nameof(MountGloves));
     }
     public virtual void MountBoots(string resourcePath)
     {
-        UnmountPart("Boots");
-        MountPart(resourcePath, "Boots");
+        UnmountPart(nameof(MountBoots));
+        MountPart(resourcePath, nameof(MountBoots));
     }
     public virtual void MountHelmet(string resourcePath)
     {
-        UnmountPart("Helmet");
-        MountPart(resourcePath, "Helmet");
+        UnmountPart(nameof(MountHelmet));
+        MountPart(resourcePath, nameof(MountHelmet));
     }
     public virtual void MountHead(string resourcePath)
     {
-        UnmountPart("Head");
-        MountPart(resourcePath, "Head");
+        UnmountPart(nameof(MountHead));
+        MountPart(resourcePath, nameof(MountHead));
     }
     public virtual void MountPart(string resourcePath, string partName)
     {
@@ -104,6 +112,8 @@ public partial class Adventurer : Character
 
         PackedScene scene = GD.Load<PackedScene>(resourcePath);
         Node3D node = scene.Instantiate<Node3D>();
+        // Fix memory leak!
+        HiddenNode?.AddChild(node);
         Skeleton3D SubSkeleton = node.GetNode<Skeleton3D>("skeleton");
         int index = 0;
         foreach (var child in SubSkeleton.GetChildren())
@@ -136,6 +146,8 @@ public partial class Adventurer : Character
                 Skeleton.AddChild(newMesh);
             }
         }
+        // Clear memory
+        node.QueueFree();
     }
 
     public virtual void UnmountPart(string partName)

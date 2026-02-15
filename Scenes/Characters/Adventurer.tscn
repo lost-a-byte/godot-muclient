@@ -9,3 +9,6 @@ editor_description = "Whooho, it's me"
 script = ExtResource("2_sl8iq")
 
 [node name="Skeleton" parent="." index="0" unique_id=1751941227 instance=ExtResource("2_yld62")]
+
+[node name="HiddenNode" type="Node3D" parent="." index="2" unique_id=376569422]
+visible = false
