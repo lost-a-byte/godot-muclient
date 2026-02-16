@@ -15,3 +15,192 @@ dest_files=["res://.godot/imported/player.bmd-06fba8e0e01b1d82bfc2f40ae9fa2573.s
 modelScale=0.01
 MeshOverride=Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://c2fdbypoychka", "res://addons/MuResourceImporter/Types/BmdMeshBlend.cs"),"Mesh0":0,"Mesh1":0,"Mesh2":0,"Mesh3":0,"Mesh4":0,"Mesh5":0,"Mesh6":0,"Mesh7":0,"Mesh8":0,"Mesh9":0,"Mesh10":0,"Mesh11":0,"Mesh12":0,"Mesh13":0,"Mesh14":0,"Mesh15":0,"Mesh16":0,"Mesh17":0,"Mesh18":0,"Mesh19":0,"Mesh20":0,"Mesh21":0,"Mesh22":0,"Mesh23":0,"Mesh24":0,"Mesh25":0,"Mesh26":0,"Mesh27":0,"Mesh28":0,"Mesh29":0,"Mesh30":0,"Mesh31":0,"Mesh32":0)
 
+SkeletonTransform=0
+AnimationOverride=Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://cttnr7nlod2ah", "res://addons/MuResourceImporter/Types/BmdAnimationOverride.cs"),"Override":Dictionary[int, Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs")]({
+0: null,
+1: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false)
+,
+2: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false)
+,
+3: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":false,"FirstKeyIsRestPose":true,"SkipLastKey":false)
+,
+4: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false)
+,
+5: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false)
+,
+6: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+7: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+8: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+9: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":0,"FixLinear":false,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+10: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+11: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+12: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+13: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+14: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+15: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+16: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+17: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+18: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+19: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+20: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+21: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+22: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+23: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+24: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+25: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+26: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+27: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+28: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+29: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+30: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+33: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+34: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+35: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+36: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+37: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+38: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+39: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+40: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+41: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+42: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+43: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+44: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+45: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+46: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+47: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+71: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+72: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+73: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+74: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+75: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+76: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+77: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+78: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+89: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+90: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+91: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+92: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+93: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+94: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+95: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+98: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+99: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+100: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+101: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+102: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+103: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+104: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+105: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+106: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+107: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+108: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+109: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+110: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+129: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+150: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+181: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+182: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+208: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+370: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+371: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+372: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+373: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+374: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+375: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+376: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+377: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+378: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+379: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+380: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+381: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+382: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+,
+383: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false,"metadata/_custom_type_script":"uid://xg7uwn44wv7e")
+
+}))
+
