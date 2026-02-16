@@ -48,16 +48,7 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
                 { "name", "MeshOverride" },
                 { "default_value", new BmdMeshBlend()},
             },
-            new Dictionary
-            {
-                { "name", "FirstAnimationKeyIsRestPose" },
-                { "default_value", false},
-            },
-            new Dictionary
-            {
-                { "name", "SkipLastAnimationKey" },
-                { "default_value", false},
-            },
+            
             new Dictionary
             {
                 { "name", "SkeletonTransform" },
@@ -65,12 +56,20 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
                 { "property_hint", 2},
                 { "hint_string", "None:0,Identity:1,FlipX:2,FlipY:3,FlipZ:4"},
             },
+           
             new Dictionary
             {
-                { "name", "AnimationLoopMode" },
-                { "default_value", 0},
-                { "property_hint", 2},
-                { "hint_string", "None:0,Linear:1,Pingpong:2"},
+                { "name", "AnimationOverride" },
+                { "default_value", new BmdAnimationOverride() {
+                    Override = new Godot.Collections.Dictionary<int, BmdAnimation> {
+                        { 0, new BmdAnimation() },
+                        { 1, new BmdAnimation() },
+                        { 2, new BmdAnimation() },
+                        { 3, new BmdAnimation() },
+                        { 4, new BmdAnimation() },
+                        { 5, new BmdAnimation() },
+                    }
+                }}
             },
         ];
     }
@@ -86,10 +85,8 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
 
             float modelScale = (float)options["modelScale"];
             BmdMeshBlend meshBlend = (BmdMeshBlend)(GodotObject)options["MeshOverride"];
-            bool FirstAnimationKeyIsRestPose = (bool)options["FirstAnimationKeyIsRestPose"];
-            bool SkipLastAnimationKey = (bool)options["SkipLastAnimationKey"];
             BmdSkeletonTransformType SkeletonTransform = (BmdSkeletonTransformType)(byte)options["SkeletonTransform"];
-            Animation.LoopModeEnum AnimationLoopMode = (Animation.LoopModeEnum)(byte)options["AnimationLoopMode"];
+            BmdAnimationOverride AnimationOverride = (BmdAnimationOverride)(GodotObject)options["AnimationOverride"];
 
             BMD bmdData = Task.Run(async () => await bmdReader.Load(ProjectSettings.GlobalizePath(sourceFile))).Result;
             string saveFilePath = $"{savePath}.{_GetSaveExtension()}";
@@ -99,10 +96,8 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
                 bmdData,
                 sourceFolder,
                 meshBlend,
-                FirstAnimationKeyIsRestPose,
-                SkipLastAnimationKey,
                 SkeletonTransform,
-                AnimationLoopMode
+                AnimationOverride
             );
 
             model.Scale = new Vector3(modelScale, modelScale, modelScale);
@@ -131,10 +126,8 @@ public partial class BmdModelImportPlugin : EditorImportPlugin
         BMD bmdData,
         string sourceFolder,
         BmdMeshBlend meshBlend,
-        bool firstAnimationKeyIsRestPose,
-        bool skipLastAnimationKey,
         BmdSkeletonTransformType skeletonTransform,
-        Animation.LoopModeEnum animationLoopMode
+        BmdAnimationOverride AnimationOverride
     )
     {
         Node3D rootNode = new()
@@ -425,18 +418,23 @@ Original File Name: {bmdData.Name}
                 }
                 isDefaultPoseAdded = true;
             }
+            BmdAnimation bmdAnimation = new();
+            if (AnimationOverride.Override.TryGetValue(i, out BmdAnimation? value) && value != null)
+            {
+                bmdAnimation = value;
+            }
 
             Animation animation = new()
             {
                 ResourceName = "Action_" + i.ToString("D3"),
-                LoopMode = animationLoopMode,
+                LoopMode = bmdAnimation.LoopMode,
             };
             int loopCount = action.NumAnimationKeys;
-            if (firstAnimationKeyIsRestPose)
+            if (bmdAnimation.FirstKeyIsRestPose)
             {
                 loopCount--;
             }
-            if (skipLastAnimationKey)
+            if (bmdAnimation.SkipLastKey)
             {
                 loopCount--;
             }
@@ -445,7 +443,12 @@ Original File Name: {bmdData.Name}
                 continue;
             }
             // Length per frame
-            float lengthPerKeyFrame = FPS / (float)Math.Max(loopCount - 1, 1) / 60;
+            int totalFrameCount = Math.Max(loopCount - 1, 1);
+            if (bmdAnimation.WillApplyLinearFix)
+            {
+                totalFrameCount += 1;
+            }
+            float lengthPerKeyFrame = FPS / (float)totalFrameCount / 60;
             for (int iBone = 0; iBone < bmdData.Bones.Length; iBone++)
             {
                 BMDTextureBone bone = bmdData.Bones[iBone];
@@ -465,7 +468,7 @@ Original File Name: {bmdData.Name}
                 for (var k = 0; k < loopCount; k++)
                 {
                     int keyIndex = k;
-                    if (firstAnimationKeyIsRestPose)
+                    if (bmdAnimation.FirstKeyIsRestPose)
                     {
                         keyIndex += 1;
                     }
@@ -473,6 +476,18 @@ Original File Name: {bmdData.Name}
                     animation.TrackInsertKey(rotateTrackIndex, lengthPerKeyFrame * k, rotate.ToGodotQuaternion());
                     var position = currentAction.Position[keyIndex];
                     animation.TrackInsertKey(positionTrackIndex, lengthPerKeyFrame * k, position.ToGodotVector3());
+                }
+                if (bmdAnimation.WillApplyLinearFix)
+                {
+                    int keyIndex = 0;
+                    if (bmdAnimation.FirstKeyIsRestPose)
+                    {
+                        keyIndex += 1;
+                    }
+                    var rotate = currentAction.Quaternion[keyIndex];
+                    animation.TrackInsertKey(rotateTrackIndex, 1.0f, rotate.ToGodotQuaternion());
+                    var position = currentAction.Position[keyIndex];
+                    animation.TrackInsertKey(positionTrackIndex, 1.0f, position.ToGodotVector3());
                 }
             }
 
