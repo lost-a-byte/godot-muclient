@@ -1,3 +1,5 @@
+#if TOOLS
+
 namespace MuClient.addons.MuResourceImporter.Types;
 
 
@@ -9,3 +11,4 @@ public enum BmdSkeletonTransformType : int
     FlipY = 3,
     FlipZ = 4,
 }
+#endif

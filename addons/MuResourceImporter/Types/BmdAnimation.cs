@@ -1,3 +1,5 @@
+#if TOOLS
+
 using Godot;
 namespace MuClient.addons.MuResourceImporter.Types;
 
@@ -16,3 +18,4 @@ public partial class BmdAnimation : Resource
 
     public bool WillApplyLinearFix => FixLinear && LoopMode == Animation.LoopModeEnum.Linear;
 }
+#endif

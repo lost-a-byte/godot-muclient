@@ -1,3 +1,4 @@
+#if TOOLS
 
 using Godot;
 
@@ -115,3 +116,4 @@ public partial class BmdMeshBlend : Resource
         };
     }
 }
+#endif

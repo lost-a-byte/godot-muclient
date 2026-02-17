@@ -1,3 +1,4 @@
+#if TOOLS
 
 using System;
 using Godot;
@@ -12,3 +13,4 @@ public partial class BmdAnimationOverride : Resource
     [Export]
     public Dictionary<int, BmdAnimation> Override = [];
 }
+#endif

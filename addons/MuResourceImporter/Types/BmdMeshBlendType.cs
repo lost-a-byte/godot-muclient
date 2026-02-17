@@ -1,3 +1,5 @@
+#if TOOLS
+
 namespace MuClient.addons.MuResourceImporter.Types;
 
 
@@ -10,3 +12,4 @@ public enum BmdMeshBlendType : int
     Multiply = 4,
     Subtractive = 5,
 }
+#endif
