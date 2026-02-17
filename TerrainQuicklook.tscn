@@ -6,6 +6,8 @@
 [ext_resource type="PackedScene" uid="uid://jjh84k7q10v4" path="res://Scenes/Characters/Adventurer.tscn" id="5_01rv4"]
 [ext_resource type="PackedScene" uid="uid://dx5f5pqk76vas" path="res://Scenes/Controls/MoveCommand.tscn" id="5_gfsny"]
 [ext_resource type="PackedScene" uid="uid://b0w7cwra00rrh" path="res://Scenes/Controls/NaviMap.tscn" id="5_qwk84"]
+[ext_resource type="PackedScene" uid="uid://du87xrw1eo2ge" path="res://Scenes/Controls/FpsCounter.tscn" id="6_rvsrr"]
+[ext_resource type="Texture2D" uid="uid://bdmj3aw2kklp7" path="res://Data/Interface/win_button.OZT" id="8_qwk84"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
@@ -61,7 +63,31 @@ offset_right = 0.0
 offset_bottom = 0.0
 grow_horizontal = 1
 grow_vertical = 1
-CharacterPostionXZ = Vector2i(126, 129)
+CharacterPostionXZ = Vector2i(133, 137)
+
+[node name="MoveBtn" type="TextureButton" parent="Controls" unique_id=554783608]
+custom_minimum_size = Vector2(32, 16)
+layout_mode = 0
+offset_left = 276.0
+offset_right = 340.0
+offset_bottom = 16.0
+action_mode = 0
+texture_normal = ExtResource("8_qwk84")
+
+[node name="Label" type="Label" parent="Controls/MoveBtn" unique_id=1684333892]
+layout_mode = 0
+offset_right = 49.0
+offset_bottom = 23.0
+theme_override_font_sizes/font_size = 11
+text = "Move"
+horizontal_alignment = 1
+
+[node name="FpsCounter" parent="Controls" unique_id=1364599538 instance=ExtResource("6_rvsrr")]
+layout_mode = 0
+offset_left = 210.0
+offset_right = 270.0
+offset_bottom = 16.0
+Enabled = true
 
 [node name="MoveCommand" parent="Controls" unique_id=347642863 instance=ExtResource("5_gfsny")]
 visible = false

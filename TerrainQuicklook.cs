@@ -109,6 +109,7 @@ public partial class TerrainQuicklook : Node3D
     string WorldAttributeResourcePath => Path.Combine(WorldFolderResourcePath, $"EncTerrain{(int)World}.att");
     string CollisionShapeResourcePath => Path.Combine(WorldFolderResourcePath, $"TerrainHeight.OZB");
     PhysicsDirectSpaceState3D? SpaceState;
+    TextureButton? moveBtn;
 
     // Walkable Start
 
@@ -131,6 +132,7 @@ public partial class TerrainQuicklook : Node3D
         SpaceState = GetWorld3D().DirectSpaceState;
         AStarGrid.Update();
         moveCommand = GetNode<MoveCommand>("Controls/MoveCommand");
+        moveBtn = GetNode<TextureButton>("Controls/MoveBtn");
         moveCommand.Move += OnMoveCommandTriggered;
         moveCommand.MoveGate += OnMoveGateCommandTriggered;
 
@@ -143,6 +145,12 @@ public partial class TerrainQuicklook : Node3D
         base._Ready();
         UpdateTerrain();
         DrawObjects();
+        moveBtn.Pressed += OnMoveBtnPressed;
+    }
+
+    private void OnMoveBtnPressed()
+    {
+        moveCommand?.Visible = true;
     }
 
     private void OnMoveGateCommandTriggered(SpawnEntry gate)
@@ -219,7 +227,7 @@ public partial class TerrainQuicklook : Node3D
         this.World = world;
         moveCommand?.Visible = false;
     }
-    public override void _Input(InputEvent @event)
+    public override void _UnhandledInput(InputEvent @event)
     {
         if (@event is InputEventMouseButton mouseEvent
             && mouseEvent.Pressed

@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://du87xrw1eo2ge"]
+
+[ext_resource type="Script" uid="uid://befotf3h6hn04" path="res://Scenes/Controls/FpsCounter.cs" id="1_s0aky"]
+
+[node name="FpsCounter" type="Control" unique_id=1364599538]
+custom_minimum_size = Vector2(60, 16)
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_s0aky")
+
+[node name="Label" type="Label" parent="." unique_id=1264898928]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_font_sizes/font_size = 11
+text = "120 FPS"
+horizontal_alignment = 1
