@@ -147,6 +147,7 @@ public partial class TerrainQuicklook : Node3D
 
         World = gate.World;
         Character?.Spawn(gate.PositionStart);
+        moveCommand?.Visible = false;
     }
 
     // Walkable Blocks
