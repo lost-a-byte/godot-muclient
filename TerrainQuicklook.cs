@@ -139,6 +139,7 @@ public partial class TerrainQuicklook : Node3D
 
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
+        Character.Spawn(SpawnEntryDatabase.GetList()[0].Position);
         base._Ready();
         UpdateTerrain();
         DrawObjects();
