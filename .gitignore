@@ -35,3 +35,5 @@ Data/**/*.obj
 Data/**/*.dat
 Data/**/*.cws
 Data/**/*.mpr
+Data/**/*.dll
+Data/**/*.exe
