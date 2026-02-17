@@ -10,6 +10,7 @@ using MuClient.Scenes.Characters;
 using MuClient.Scenes.Controls;
 using MuClient.Models.MprTables;
 using MuClient.Scenes.WorldObjects;
+using MuClient.Models;
 
 namespace MuClient;
 
@@ -143,11 +144,11 @@ public partial class TerrainQuicklook : Node3D
         DrawObjects();
     }
 
-    private void OnMoveGateCommandTriggered(GateItem gate)
+    private void OnMoveGateCommandTriggered(SpawnEntry gate)
     {
 
         World = gate.World;
-        Character?.Spawn(gate.PositionStart);
+        Character?.Spawn(gate.Position);
         moveCommand?.Visible = false;
     }
 
