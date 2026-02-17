@@ -249,7 +249,7 @@ public partial class TerrainQuicklook : Node3D
         query.CollisionMask = 1;
         var result = SpaceState?.IntersectRay(query);
         if (
-            result == null 
+            result == null
             || !result.ContainsKey("collider")
         )
         {
