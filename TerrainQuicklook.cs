@@ -239,16 +239,6 @@ public partial class TerrainQuicklook : Node3D
 
     private void RaycastFromMouse(Vector2 mousePosition)
     {
-        // Skip this click event if move command 
-        // is visible and mouse position inside control
-        if (
-            moveCommand != null
-            && moveCommand.Visible
-            && mousePosition.IsInsideControl(moveCommand)
-        )
-        {
-            return;
-        }
         var camera = GetViewport().GetCamera3D();
         if (camera == null) return;
 
