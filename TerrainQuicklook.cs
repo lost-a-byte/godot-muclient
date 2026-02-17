@@ -24,6 +24,7 @@ public partial class TerrainQuicklook : Node3D
         {
             if (world == value) return;
             world = value;
+            naviMap?.World = world;
             UpdateTerrain();
             DrawObjects();
         }
@@ -90,6 +91,7 @@ public partial class TerrainQuicklook : Node3D
                 return;
             }
             currentCharacterTile = value;
+            naviMap?.CharacterPostionXZ = currentCharacterTile.GetVector2I();
             PlaceNearByTiles();
         }
     }
@@ -115,6 +117,7 @@ public partial class TerrainQuicklook : Node3D
         DiagonalMode = AStarGrid2D.DiagonalModeEnum.OnlyIfNoObstacles,
     };
 
+    private NaviMap? naviMap;
 
     public override void _Ready()
     {
@@ -128,6 +131,9 @@ public partial class TerrainQuicklook : Node3D
         moveCommand = GetNode<MoveCommand>("Controls/MoveCommand");
         moveCommand.Move += OnMoveCommandTriggered;
         moveCommand.MoveGate += OnMoveGateCommandTriggered;
+
+        naviMap = GetNode<NaviMap>("Controls/NaviMapCtl");
+        naviMap.World = world;
 
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;

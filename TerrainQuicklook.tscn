@@ -5,6 +5,7 @@
 [ext_resource type="ArrayMesh" uid="uid://dfyi4mkmgt3s4" path="res://Data/World1/EncTerrain1.map" id="3_01rv4"]
 [ext_resource type="PackedScene" uid="uid://jjh84k7q10v4" path="res://Scenes/Characters/Adventurer.tscn" id="5_01rv4"]
 [ext_resource type="PackedScene" uid="uid://dx5f5pqk76vas" path="res://Scenes/Controls/MoveCommand.tscn" id="5_gfsny"]
+[ext_resource type="PackedScene" uid="uid://b0w7cwra00rrh" path="res://Scenes/Controls/NaviMap.tscn" id="5_qwk84"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
@@ -49,6 +50,18 @@ layout_mode = 3
 anchors_preset = 9
 anchor_bottom = 1.0
 grow_vertical = 2
+
+[node name="NaviMapCtl" parent="Controls" unique_id=148036422 instance=ExtResource("5_qwk84")]
+custom_minimum_size = Vector2(296, 272)
+layout_mode = 1
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_right = 0.0
+offset_bottom = 0.0
+grow_horizontal = 1
+grow_vertical = 1
+CharacterPostionXZ = Vector2i(5, 12)
 
 [node name="MoveCommand" parent="Controls" unique_id=347642863 instance=ExtResource("5_gfsny")]
 visible = false

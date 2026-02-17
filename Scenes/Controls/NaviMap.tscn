@@ -1,0 +1,84 @@
+[gd_scene format=3 uid="uid://b0w7cwra00rrh"]
+
+[ext_resource type="Script" uid="uid://dqjmr8i075bck" path="res://Scenes/Controls/NaviMap.cs" id="1_y383o"]
+[ext_resource type="Texture2D" uid="uid://c3that6yp1n2w" path="res://Data/Interface/Minimap_positionB.OZT" id="4_0f6s3"]
+[ext_resource type="Texture2D" uid="uid://b5g0q03vx30yn" path="res://Data/Interface/Minimap_positionA.OZT" id="5_orfut"]
+[ext_resource type="Texture2D" uid="uid://75k0yt5k0ye7" path="res://Data/Interface/Minimap_positionC.OZT" id="6_rwshb"]
+
+[node name="NaviMap" type="Control" unique_id=148036422]
+clip_contents = true
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -856.0
+offset_bottom = -376.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_y383o")
+
+[node name="BackgroundRec" type="ColorRect" parent="." unique_id=658535489]
+layout_mode = 1
+offset_top = 16.0
+offset_right = 256.0
+offset_bottom = 272.0
+color = Color(0.03137255, 0.03137255, 0.03137255, 0.7372549)
+
+[node name="MinimapTex" type="TextureRect" parent="." unique_id=1996030745]
+custom_minimum_size = Vector2(128, 128)
+layout_mode = 0
+offset_top = 16.0
+offset_right = 256.0
+offset_bottom = 272.0
+expand_mode = 1
+stretch_mode = 5
+
+[node name="CharacterCursorRec" type="ColorRect" parent="MinimapTex" unique_id=2059625323]
+custom_minimum_size = Vector2(2, 2)
+layout_mode = 0
+offset_left = 128.0
+offset_top = 128.0
+offset_right = 133.0
+offset_bottom = 133.0
+pivot_offset = Vector2(-2, -2)
+
+[node name="MinimapBgCenterTex" type="TextureRect" parent="." unique_id=2132964315]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 0
+offset_left = 19.0
+offset_right = 249.0
+offset_bottom = 32.0
+texture = ExtResource("4_0f6s3")
+stretch_mode = 1
+
+[node name="MinimapBgCenterTexAlter" type="TextureRect" parent="." unique_id=482525419]
+custom_minimum_size = Vector2(0, 32)
+layout_mode = 0
+offset_left = 7.0
+offset_right = 256.0
+offset_bottom = 32.0
+texture = ExtResource("4_0f6s3")
+stretch_mode = 1
+
+[node name="MinimapBgLeftTex" type="TextureRect" parent="." unique_id=2021832792]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("5_orfut")
+stretch_mode = 2
+
+[node name="MinimapBgRightTex" type="TextureRect" parent="." unique_id=2058168696]
+layout_mode = 0
+offset_left = 252.0
+offset_right = 284.0
+offset_bottom = 32.0
+texture = ExtResource("6_rwshb")
+stretch_mode = 2
+
+[node name="MapLbl" type="Label" parent="." unique_id=899456947]
+layout_mode = 0
+offset_left = 28.0
+offset_right = 152.0
+offset_bottom = 23.0
+theme_override_font_sizes/font_size = 11
+text = "LORENCIA (000,000)"
