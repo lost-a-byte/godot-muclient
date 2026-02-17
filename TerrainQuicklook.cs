@@ -9,6 +9,7 @@ using MuClient.Extensions;
 using MuClient.Scenes.Characters;
 using MuClient.Scenes.Controls;
 using MuClient.Models.MprTables;
+using MuClient.Scenes.WorldObjects;
 
 namespace MuClient;
 
@@ -270,6 +271,15 @@ public partial class TerrainQuicklook : Node3D
         else if (collider is Character character)
         {
             GD.Print("Character clicked!");
+        }
+        else if (collider is LeanableWallWorldObject leanableWall)
+        {
+            GD.Print("Player want to lean agains wall ", leanableWall.GlobalPosition.GetXZTileVector2I());
+            var path = AStarGrid.GetIdPath(
+                CurrentCharacterTile.GetVector2I(),
+                leanableWall.GlobalPosition.GetXZTileVector2I()
+            );
+            Character?.SetMovePath(path);
         }
     }
 

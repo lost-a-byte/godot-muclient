@@ -114,7 +114,22 @@ public static class ObjectMapDatabase
         {GetKey(WorldType.LORENCIA, 150), "Candle01.tscn"},
         {GetKey(WorldType.LORENCIA, 151), "Beer01.bmd"},
         {GetKey(WorldType.LORENCIA, 152), "Beer02.bmd"},
-        {GetKey(WorldType.LORENCIA, 153), "Beer03.bmd"}
+        {GetKey(WorldType.LORENCIA, 153), "Beer03.bmd"},
+        {GetKey(WorldType.DEVIAS, 0), "Object01.tscn"},
+        {GetKey(WorldType.DEVIAS, 9), "Object10.tscn"},
+        {GetKey(WorldType.DEVIAS, 10), "Object11.tscn"},
+        {GetKey(WorldType.DEVIAS, 19), "Object20.tscn"},
+        {GetKey(WorldType.DEVIAS, 35), "Object36.tscn"},
+        {GetKey(WorldType.DEVIAS, 54), "Object55.tscn"},
+        {GetKey(WorldType.DEVIAS, 56), "Object57.tscn"},
+        {GetKey(WorldType.DEVIAS, 75), "Object76.tscn"},
+        {GetKey(WorldType.DEVIAS, 83), "Object84.tscn"},
+        {GetKey(WorldType.DEVIAS, 84), "Object85.tscn"},
+        {GetKey(WorldType.DEVIAS, 85), "Object86.tscn"},
+        {GetKey(WorldType.DEVIAS, 91), "Object92.tscn"},
+        {GetKey(WorldType.DEVIAS, 100), "Object101.tscn"},
+        {GetKey(WorldType.DEVIAS, 103), "Object104.tscn"},
+        {GetKey(WorldType.DEVIAS, 104), "Object105.tscn"},
     };
 
     public static string GetPath(WorldType world, short type)
