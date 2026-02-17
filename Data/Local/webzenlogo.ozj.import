@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://chw2ntjkiun4b"
+path="res://.godot/imported/webzenlogo.ozj-3c070b340dee500c484dd91abde1e1a4.res"
+
+[deps]
+
+source_file="res://Data/Local/webzenlogo.ozj"
+dest_files=["res://.godot/imported/webzenlogo.ozj-3c070b340dee500c484dd91abde1e1a4.res"]
+
+[params]
+

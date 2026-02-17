@@ -1,0 +1,14 @@
+[remap]
+
+importer="dev.dong.mu.texture"
+type="ImageTexture"
+uid="uid://c4w6a5mf3qk7p"
+path="res://.godot/imported/everyone.ozj-446b8b30e93366cc1af224dbd5d460f9.res"
+
+[deps]
+
+source_file="res://Data/Local/everyone.ozj"
+dest_files=["res://.godot/imported/everyone.ozj-446b8b30e93366cc1af224dbd5d460f9.res"]
+
+[params]
+
