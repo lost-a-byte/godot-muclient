@@ -8,6 +8,7 @@
 [ext_resource type="PackedScene" uid="uid://b0w7cwra00rrh" path="res://Scenes/Controls/NaviMap.tscn" id="5_qwk84"]
 [ext_resource type="PackedScene" uid="uid://du87xrw1eo2ge" path="res://Scenes/Controls/FpsCounter.tscn" id="6_rvsrr"]
 [ext_resource type="Texture2D" uid="uid://bdmj3aw2kklp7" path="res://Data/Interface/win_button.OZT" id="8_qwk84"]
+[ext_resource type="PackedScene" uid="uid://5eliosfgj7tf" path="res://Data/Effect/MoveTargetPosEffect.tscn" id="9_575yd"]
 
 [sub_resource type="Environment" id="Environment_6vu7h"]
 
@@ -34,7 +35,7 @@ mesh = ExtResource("3_01rv4")
 [node name="WorldObjects" type="Node3D" parent="." unique_id=536390639]
 
 [node name="Adventurer" parent="." unique_id=288342903 instance=ExtResource("5_01rv4")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.5571909, 1.7254903, 1.5571909)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5, 1.7254903, 9.5)
 
 [node name="SpringArm3D" type="SpringArm3D" parent="Adventurer" unique_id=872654852]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.0781446, 10.01, 7.0781345)
@@ -93,3 +94,6 @@ Enabled = true
 [node name="MoveCommand" parent="Controls" unique_id=347642863 instance=ExtResource("5_gfsny")]
 visible = false
 layout_mode = 1
+
+[node name="MoveTargetPosition" parent="." unique_id=1484426850 instance=ExtResource("9_575yd")]
+transform = Transform3D(0.01, 0, 0, 0, -4.3711387e-10, 0.01, 0, -0.01, -4.3711387e-10, 3.4086914, 2.6463087, 10.509216)

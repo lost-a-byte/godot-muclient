@@ -127,6 +127,7 @@ public partial class TerrainQuicklook : Node3D
     private Camera3D? camera;
 
     private CameraAnglePositionSetting? defaultCameraAnglePositionSetting;
+    private Node3D? MoveTargetPosition;
     public override void _Ready()
     {
         WorldObjects = GetNode<Node3D>("WorldObjects");
@@ -140,6 +141,8 @@ public partial class TerrainQuicklook : Node3D
         moveBtn = GetNode<TextureButton>("Controls/MoveBtn");
         moveCommand.Move += OnMoveCommandTriggered;
         moveCommand.MoveGate += OnMoveGateCommandTriggered;
+        MoveTargetPosition = GetNode<Node3D>("MoveTargetPosition");
+        MoveTargetPosition.Visible = false;
 
         naviMap = GetNode<NaviMap>("Controls/NaviMapCtl");
         naviMap.World = world;
@@ -236,6 +239,14 @@ public partial class TerrainQuicklook : Node3D
                 Character.SetMovePath(path);
             }
         }
+        if (
+            Character != null 
+            && MoveTargetPosition != null 
+            && MoveTargetPosition.Visible
+            && Character.XZPosition.ToTilePosition().GetVector2I() == MoveTargetPosition.Position.GetXZTileVector2I())
+        {
+            MoveTargetPosition.Visible = false;
+        }
         base._PhysicsProcess(delta);
     }
 
@@ -296,6 +307,7 @@ public partial class TerrainQuicklook : Node3D
                 hitPosition.ToTilePosition().GetVector2I()
             );
             Character?.SetMovePath(path);
+            PlaceMoveTarget(hitPosition.ToTilePosition().GetVector2I());
         }
         else if (collider is Character character)
         {
@@ -443,6 +455,18 @@ public partial class TerrainQuicklook : Node3D
         obj.Basis *= new Basis(objectAttribute.Rotation);
 
         WorldObjects.AddChild(obj);
+    }
+
+    void PlaceMoveTarget(Vector2I tilePosition)
+    {
+        if (
+            Character == null
+            || MoveTargetPosition == null
+        ) return;
+        
+        float heightAtTile = Character.WorldShape.GetHeightAt(tilePosition);
+        MoveTargetPosition.Position = new Vector3(tilePosition.X - 127.5f, heightAtTile - 0.5f, tilePosition.Y - 127.5f);
+        MoveTargetPosition.Visible = true;
     }
 
     private void EnsureEditorSceneOwnership()

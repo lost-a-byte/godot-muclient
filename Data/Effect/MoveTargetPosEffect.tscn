@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://5eliosfgj7tf"]
+
+[ext_resource type="PackedScene" uid="uid://bovdw4fskax0l" path="res://Data/Effect/MoveTargetPosEffect.bmd" id="1_nay06"]
+[ext_resource type="Script" uid="uid://bk4cci2qjpf3a" path="res://Data/Effect/MoveTargetPosEffect.cs" id="2_0vexl"]
+
+[node name="Model" unique_id=1484426850 instance=ExtResource("1_nay06")]
+script = ExtResource("2_0vexl")
