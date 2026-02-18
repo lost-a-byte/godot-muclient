@@ -465,6 +465,11 @@ Original File Name: {bmdData.Name}
                 animation.TrackSetPath(positionTrackIndex, skeleton.Name + ":" + boneName);
                 BMDBoneMatrix currentAction = bone.Matrixes[i];
 
+                float lastY = currentAction.Position[0].ToGodotVector3().Y;
+                if (bmdAnimation.FirstKeyIsRestPose)
+                {
+                    lastY = currentAction.Position[1].ToGodotVector3().Y;
+                }
                 for (var k = 0; k < loopCount; k++)
                 {
                     int keyIndex = k;
@@ -475,7 +480,14 @@ Original File Name: {bmdData.Name}
                     var rotate = currentAction.Quaternion[keyIndex];
                     animation.TrackInsertKey(rotateTrackIndex, lengthPerKeyFrame * k, rotate.ToGodotQuaternion());
                     var position = currentAction.Position[keyIndex];
-                    animation.TrackInsertKey(positionTrackIndex, lengthPerKeyFrame * k, position.ToGodotVector3());
+                    float newY = position.ToGodotVector3().Y - lastY;
+                    Vector3 godotPosition = position.ToGodotVector3();
+                    if (action.LockPositions)
+                    {
+                        godotPosition -= new Vector3(0, newY, 0);
+                    }
+                    animation.TrackInsertKey(positionTrackIndex, lengthPerKeyFrame * k, godotPosition);
+                    lastY = godotPosition.Y;
                 }
                 if (bmdAnimation.WillApplyLinearFix)
                 {
