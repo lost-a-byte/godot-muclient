@@ -37,11 +37,10 @@ mesh = ExtResource("3_01rv4")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.5571909, 1.7254903, 1.5571909)
 
 [node name="SpringArm3D" type="SpringArm3D" parent="Adventurer" unique_id=872654852]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 8.5, 7)
-spring_length = 0.0
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.0781446, 10.01, 7.0781345)
 
 [node name="Camera3D" type="Camera3D" parent="Adventurer/SpringArm3D" unique_id=255947097]
-transform = Transform3D(0.70710677, -0.46854314, 0.5295917, 0, 0.7489557, 0.66262007, -0.70710677, -0.46854314, 0.5295917, 0, 0, 0)
+transform = Transform3D(0.7071067, -0.46854314, 0.5295917, 0, 0.7489557, 0.66262007, -0.7071067, -0.46854314, 0.5295917, 0, 0, 0)
 fov = 39.0
 near = 0.09
 far = 100.0

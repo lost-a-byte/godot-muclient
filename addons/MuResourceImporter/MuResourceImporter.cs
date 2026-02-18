@@ -20,6 +20,7 @@ public partial class MuResourceImporter : EditorPlugin
 	EncTerrainMapImportPlugin encTerrainMapImportPlugin = new();
 	BmdModelImportPlugin bmdModelImportPlugin = new();
 	LangMprImportPlugin langMprImportPlugin = new();
+	WorldCapImportPlugin worldCapImportPlugin = new();
 	public override void _EnterTree()
 	{
 		// Initialization of the plugin goes here.
@@ -40,6 +41,8 @@ public partial class MuResourceImporter : EditorPlugin
 		AddImportPlugin(bmdModelImportPlugin);
 
 		AddImportPlugin(langMprImportPlugin);
+
+		AddImportPlugin(worldCapImportPlugin);
 
 	}
 
@@ -64,6 +67,9 @@ public partial class MuResourceImporter : EditorPlugin
 		RemoveImportPlugin(bmdModelImportPlugin);
 
 		RemoveImportPlugin(langMprImportPlugin);
+
+		RemoveImportPlugin(worldCapImportPlugin);
+
 	}
 }
 #endif

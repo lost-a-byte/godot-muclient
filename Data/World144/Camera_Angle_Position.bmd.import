@@ -1,5 +1,15 @@
 [remap]
 
-importer="skip"
+importer="dev.dong.mu.camera-angle-position"
+type="CameraAnglePositionSetting"
+uid="uid://d5ajcp000su6"
+path="res://.godot/imported/Camera_Angle_Position.bmd-44411a4c24631f27d3c7c5eb989494de.tres"
 
+[deps]
 
+source_file="res://Data/World144/Camera_Angle_Position.bmd"
+dest_files=["res://.godot/imported/Camera_Angle_Position.bmd-44411a4c24631f27d3c7c5eb989494de.tres"]
+
+[params]
+
+modelScale=0.01

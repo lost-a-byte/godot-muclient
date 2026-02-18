@@ -29,6 +29,7 @@ public partial class TerrainQuicklook : Node3D
             naviMap?.World = world;
             UpdateTerrain();
             DrawObjects();
+            SetupCameraAnglePosition();
         }
     }
     private bool loadObjectsInEditor = false;
@@ -122,6 +123,10 @@ public partial class TerrainQuicklook : Node3D
 
     private NaviMap? naviMap;
 
+    private SpringArm3D? springArm;
+    private Camera3D? camera;
+
+    private CameraAnglePositionSetting? defaultCameraAnglePositionSetting;
     public override void _Ready()
     {
         WorldObjects = GetNode<Node3D>("WorldObjects");
@@ -139,11 +144,16 @@ public partial class TerrainQuicklook : Node3D
         naviMap = GetNode<NaviMap>("Controls/NaviMapCtl");
         naviMap.World = world;
 
+        springArm = GetNode<SpringArm3D>("Adventurer/SpringArm3D");
+        camera = springArm.GetNode<Camera3D>("Camera3D");
+
         CurrentCharacterTile = Character.XZPosition.ToTilePosition();
         Character.XZPositionChanged += OnXZPositionChanged;
         Character.Spawn(SpawnEntryDatabase.GetList()[0].Position);
+        defaultCameraAnglePositionSetting = ResourceLoader.Load<CameraAnglePositionSetting>("res://Data/G_Camera_Angle_Position.bmd");
         base._Ready();
         UpdateTerrain();
+        SetupCameraAnglePosition();
         DrawObjects();
         moveBtn.Pressed += OnMoveBtnPressed;
     }
@@ -177,6 +187,25 @@ public partial class TerrainQuicklook : Node3D
             }
         }
         AStarGrid.Update();
+    }
+
+    void SetupCameraAnglePosition()
+    {
+        if (
+            camera == null
+            || springArm == null
+            || defaultCameraAnglePositionSetting == null
+        ) return;
+        CameraAnglePositionSetting cameraAnglePositionSetting = (CameraAnglePositionSetting)defaultCameraAnglePositionSetting.Duplicate();
+        string cameraSettingPath = $"res://Data/World{(int)world}/Camera_Angle_Position.bmd";
+        if (ResourceLoader.Exists(cameraSettingPath))
+        {
+            cameraAnglePositionSetting = ResourceLoader.Load<CameraAnglePositionSetting>(cameraSettingPath);
+        }
+        springArm.Position = cameraAnglePositionSetting.SpringArmPosition + new Vector3(0, 1.5f, 0); // plus character's height
+        camera.Fov = cameraAnglePositionSetting.CameraFieldOfView;
+        camera.Rotation = cameraAnglePositionSetting.CameraRotation;
+
     }
 
     public override void _PhysicsProcess(double delta)
