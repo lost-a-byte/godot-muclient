@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dbewohshs600t"]
+
+[ext_resource type="PackedScene" uid="uid://bl0hqvwgubpaf" path="res://Data/Object5/Bug01.bmd" id="1_4x2io"]
+
+[node name="Model" unique_id=622282841 instance=ExtResource("1_4x2io")]

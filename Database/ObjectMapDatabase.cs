@@ -161,6 +161,14 @@ public static class ObjectMapDatabase
         {GetKey(WorldType.NORIA, 40 - 1), "Object40.tscn"},
         {GetKey(WorldType.NORIA, 41 - 1), "Object41.tscn"},
         {GetKey(WorldType.NORIA, 43 - 1), "Object43.tscn"},
+        // {GetKey(WorldType.LOST_TOWER, 0), "Bug01.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 20 - 1), "Object20.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 21 - 1), "Object21.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 24 - 1), "Object24.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 35 - 1), "Object35.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 36 - 1), "Object36.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 37 - 1), "Object37.tscn"},
+        {GetKey(WorldType.LOST_TOWER, 38 - 1), "Object38.tscn"},
     };
 
     public static string GetPath(WorldType world, short type)

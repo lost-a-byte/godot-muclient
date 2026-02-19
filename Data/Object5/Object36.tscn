@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://c6wtqmjplvrv0"]
+
+[ext_resource type="PackedScene" uid="uid://dq1pe2l0jjdeq" path="res://Data/Object5/Object36.bmd" id="1_xv6ck"]
+[ext_resource type="Script" uid="uid://dv82pbt7f2fpx" path="res://Data/Object5/Object36.cs" id="2_7y0r1"]
+
+[node name="Model" unique_id=352601760 instance=ExtResource("1_xv6ck")]
+script = ExtResource("2_7y0r1")
+
+[node name="skeleton" parent="." index="0" unique_id=1787634582]
+bones/0/rotation = Quaternion(0, 0, -0.70710635, 0.7071072)
+bones/1/rotation = Quaternion(0, 0, 0.70710635, 0.7071072)
+bones/2/rotation = Quaternion(-0.500086, -0.49991402, -0.49991336, 0.5000866)
+bones/6/rotation = Quaternion(9.439583e-08, 4.910087e-07, -0.18879165, 0.9820173)
+bones/8/rotation = Quaternion(-3.0943712e-09, -2.5495076e-06, 0.980818, -0.19492584)
+bones/11/rotation = Quaternion(-0.6329062, 0.009745129, 0.7740755, 0.011920973)
+bones/12/rotation = Quaternion(0.2797453, -0.25003102, -0.5608553, 0.7380165)
+bones/15/rotation = Quaternion(0.00042714266, -9.47965e-05, 0.2164395, 0.976296)
+bones/19/rotation = Quaternion(-0.39422256, -0.4970636, 0.5866508, 0.503346)
+bones/20/rotation = Quaternion(0.63290614, -0.009747442, 0.7740754, 0.011919403)
+bones/21/rotation = Quaternion(-0.20706613, 0.2985166, -0.45011008, 0.81572825)
+bones/22/rotation = Quaternion(0, 0, -0.71352804, 0.7006267)
+bones/23/rotation = Quaternion(-0.70679724, 0, 0, 0.70741624)
+bones/24/rotation = Quaternion(-0.00043750007, 0, 0, 1)
+bones/28/rotation = Quaternion(0.5866518, -0.5033452, -0.3942233, 0.4970629)
+bones/29/rotation = Quaternion(0.7071068, -0.0002816786, 0.70710665, 0.00028167866)
+bones/31/rotation = Quaternion(-0.25343543, 0, 0, 0.9673524)
+bones/33/rotation = Quaternion(0.7071068, -0.0002816786, 0.70710665, 0.00028167866)
+bones/34/rotation = Quaternion(0.3903959, 0, 0, 0.9206472)
+bones/37/rotation = Quaternion(0.20092188, 0.9704095, 0.105805665, -0.082103305)
+bones/38/rotation = Quaternion(0, 0, -0.53709257, 0.8435233)
+bones/46/rotation = Quaternion(0.038820613, 0.029241074, 0.26567504, 0.9628368)
