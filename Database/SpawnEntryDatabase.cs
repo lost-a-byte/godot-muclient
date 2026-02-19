@@ -16,6 +16,11 @@ public static class SpawnEntryDatabase
             Position = new() { X = 133, Y = 137}
         },
         new() {
+            Name = $"{WorldType.ARENA}",
+            World = WorldType.ARENA,
+            Position = new() { X = 72, Y = 115}
+        },
+        new() {
             Name = $"{WorldType.NORIA}",
             World = WorldType.NORIA,
             Position = new() { X = 174, Y = 140}

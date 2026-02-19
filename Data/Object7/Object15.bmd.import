@@ -17,7 +17,7 @@ MeshOverride=Object(Resource,"resource_local_to_scene":false,"resource_name":"",
 
 SkeletonTransform=0
 AnimationOverride=Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://cttnr7nlod2ah", "res://addons/MuResourceImporter/Types/BmdAnimationOverride.cs"),"Override":Dictionary[int, Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs")]({
-0: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":0,"FixLinear":false,"FirstKeyIsRestPose":false,"SkipLastKey":false)
+0: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":1,"FixLinear":true,"FirstKeyIsRestPose":false,"SkipLastKey":false)
 ,
 1: Object(Resource,"resource_local_to_scene":false,"resource_name":"","script":Resource("uid://xg7uwn44wv7e", "res://addons/MuResourceImporter/Types/BmdAnimation.cs"),"LoopMode":0,"FixLinear":false,"FirstKeyIsRestPose":false,"SkipLastKey":false)
 ,
