@@ -195,6 +195,20 @@ public static class ObjectMapDatabase
         {GetKey(WorldType.ATLANS, 38 - 1), "Object38.tscn"},
         {GetKey(WorldType.ATLANS, 40 - 1), "Object40.tscn"},
         {GetKey(WorldType.ATLANS, 41 - 1), "Object41.tscn"},
+        {GetKey(WorldType.TARKAN, 01 - 1), "Object01.tscn"},
+        {GetKey(WorldType.TARKAN, 07 - 1), "Object07.tscn"},
+        {GetKey(WorldType.TARKAN, 09 - 1), "Object09.tscn"},
+        {GetKey(WorldType.TARKAN, 30 - 1), "Object30.tscn"},
+        {GetKey(WorldType.TARKAN, 31 - 1), "Object31.tscn"},
+        {GetKey(WorldType.TARKAN, 51 - 1), "Object51.tscn"},
+        {GetKey(WorldType.TARKAN, 58 - 1), "Object58.tscn"},
+        {GetKey(WorldType.TARKAN, 60 - 1), "Object60.tscn"},
+        {GetKey(WorldType.TARKAN, 66 - 1), "Object66.tscn"},
+        {GetKey(WorldType.TARKAN, 67 - 1), "Object67.tscn"},
+        {GetKey(WorldType.TARKAN, 68 - 1), "Object68.tscn"},
+        {GetKey(WorldType.TARKAN, 90 - 1), "Object90.tscn"},
+        {GetKey(WorldType.TARKAN, 94 - 1), "Object94.tscn"},
+        {GetKey(WorldType.TARKAN, 96 - 1), "Object96.tscn"},
     };
 
     public static string GetPath(WorldType world, short type)
