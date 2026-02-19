@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://cf1q4if5px2yd"]
+
+[ext_resource type="PackedScene" uid="uid://hf3ect2yqpa8" path="res://Data/Object8/Fish03.bmd" id="1_2sjx5"]
+
+[node name="Model" unique_id=1655429215 instance=ExtResource("1_2sjx5")]

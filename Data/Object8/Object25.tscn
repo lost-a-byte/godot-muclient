@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://80c7icc3ld3b"]
+
+[ext_resource type="PackedScene" uid="uid://cv6uyooce7d0q" path="res://Data/Object8/Object25.bmd" id="1_d5yea"]
+[ext_resource type="Script" uid="uid://cfn26lgf1g2ld" path="res://Data/Object8/Object25.cs" id="2_bwdmh"]
+
+[node name="Model" unique_id=1430943582 instance=ExtResource("1_d5yea")]
+script = ExtResource("2_bwdmh")
+
+[node name="skeleton" parent="." index="0" unique_id=1633505593]
+bones/0/rotation = Quaternion(0.7372774, 0, 0, 0.6755901)
+bones/7/rotation = Quaternion(0.6233317, 0.09687523, 0.22375, 0.74297285)
+bones/14/rotation = Quaternion(0.6558184, -0.05791469, -0.13759047, 0.7400115)

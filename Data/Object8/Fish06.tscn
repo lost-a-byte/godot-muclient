@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cfefjekv16tfn"]
+
+[ext_resource type="PackedScene" uid="uid://b5lps3n5eyhpo" path="res://Data/Object8/Fish06.bmd" id="1_4lflc"]
+
+[node name="Model" unique_id=268978288 instance=ExtResource("1_4lflc")]
+
+[node name="skeleton" parent="." index="0" unique_id=1426278200]
+bones/0/rotation = Quaternion(0.50000006, 0.49999988, 0.5, 0.50000024)
+bones/2/rotation = Quaternion(0, 0.046363376, 0, 0.99892473)

@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://d26dlku6012l8"]
+
+[ext_resource type="PackedScene" uid="uid://cmt2uoi4ner1l" path="res://Data/Object8/Object40.bmd" id="1_7y87b"]
+[ext_resource type="Script" uid="uid://db2vv34rb6q13" path="res://Data/Object8/Object40.cs" id="1_u8f2m"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7y87b"]
+size = Vector3(100.000015, 200.00005, 100.00009)
+
+[node name="StaticBody3D" type="StaticBody3D" unique_id=1491275975]
+script = ExtResource("1_u8f2m")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1516419282]
+transform = Transform3D(0.01, 0, 0, 0, -0.01, 8.7422775e-10, 0, -8.7422775e-10, -0.01, 3.4332274e-07, 1.0005631, 2.0702615e-07)
+shape = SubResource("BoxShape3D_7y87b")
+
+[node name="Model" parent="." unique_id=1901314065 instance=ExtResource("1_7y87b")]
+visible = false
+
+[editable path="Model"]
