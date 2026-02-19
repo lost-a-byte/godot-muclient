@@ -1,14 +1,16 @@
 using Godot;
 using System;
+namespace MuClient.Scenes.Controls;
+
 [Tool]
 public partial class FpsCounter : Control
 {
     double FPS = 0.0f;
-    ulong DrawCalls = 0;
-    double FrameTime = 0;
-    float VideoMemory = 0;
+    // ulong DrawCalls = 0;
+    // double FrameTime = 0;
+    // float VideoMemory = 0;
 
-    private Label labelControl;
+    private Label? labelControl;
 
 
     private bool enabled = false;
@@ -36,15 +38,15 @@ public partial class FpsCounter : Control
     // Called every frame. 'delta' is the elapsed time since the previous frame.
     public override void _Process(double delta)
     {
-        if (!Enabled)
+        if (!Enabled || labelControl == null)
         {
             return;
         }
         FPS = Engine.GetFramesPerSecond();
 
-        DrawCalls = RenderingServer.GetRenderingInfo(RenderingServer.RenderingInfo.TotalDrawCallsInFrame);
-        FrameTime = delta;
-        VideoMemory = (float)RenderingServer.GetRenderingInfo(RenderingServer.RenderingInfo.VideoMemUsed) / 1024 / 1024;
+        // DrawCalls = RenderingServer.GetRenderingInfo(RenderingServer.RenderingInfo.TotalDrawCallsInFrame);
+        // FrameTime = delta;
+        // VideoMemory = (float)RenderingServer.GetRenderingInfo(RenderingServer.RenderingInfo.VideoMemUsed) / 1024 / 1024;
 
         var read_out = $"{(int)FPS:D3} FPS";
         labelControl.Text = read_out;
