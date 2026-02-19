@@ -240,8 +240,8 @@ public partial class TerrainQuicklook : Node3D
             }
         }
         if (
-            Character != null 
-            && MoveTargetPosition != null 
+            Character != null
+            && MoveTargetPosition != null
             && MoveTargetPosition.Visible
             && Character.XZPosition.ToTilePosition().GetVector2I() == MoveTargetPosition.Position.GetXZTileVector2I())
         {
@@ -339,6 +339,11 @@ public partial class TerrainQuicklook : Node3D
         Character?.SetWorldShape(shape);
         CollisionShape.Shape = shape;
         MeshInstance.Mesh = mesh;
+        MeshInstance.Visible = true;
+        if (World == WorldType.ICARUS)
+        {
+            MeshInstance.Visible = false;
+        }
     }
 
     void ClearObjects()
@@ -463,7 +468,7 @@ public partial class TerrainQuicklook : Node3D
             Character == null
             || MoveTargetPosition == null
         ) return;
-        
+
         float heightAtTile = Character.WorldShape.GetHeightAt(tilePosition);
         MoveTargetPosition.Position = new Vector3(tilePosition.X - 127.5f, heightAtTile - 0.5f, tilePosition.Y - 127.5f);
         MoveTargetPosition.Visible = true;

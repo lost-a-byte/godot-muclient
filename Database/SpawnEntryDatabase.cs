@@ -147,6 +147,11 @@ public static class SpawnEntryDatabase
             Position = new() { X = 66, Y = 171}
         },
         new() {
+            Name = $"{WorldType.ICARUS}",
+            World = WorldType.ICARUS,
+            Position = new() { X = 14, Y = 243}
+        },
+        new() {
             Name = $"{WorldType.AIDA}",
             World = WorldType.AIDA,
             Position = new() { X = 85, Y = 244}
@@ -155,11 +160,6 @@ public static class SpawnEntryDatabase
             Name = $"{WorldType.AIDA} 2",
             World = WorldType.AIDA,
             Position = new() { X = 160, Y = 140}
-        },
-        new() {
-            Name = $"{WorldType.ICARUS}",
-            World = WorldType.ICARUS,
-            Position = new() { X = 14, Y = 243}
         },
         new() {
             Name = $"{WorldType.KANTURU}",
