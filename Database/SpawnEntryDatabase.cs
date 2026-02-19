@@ -127,6 +127,26 @@ public static class SpawnEntryDatabase
             Position = new() { X = 94, Y = 105}
         },
         new() {
+            Name = $"[{WorldType.DEVIL_SQUARE}]",
+            World = WorldType.DEVIL_SQUARE,
+            Position = new() { X = 133, Y = 164}
+        },
+        new() {
+            Name = $"[{WorldType.DEVIL_SQUARE} 2]",
+            World = WorldType.DEVIL_SQUARE,
+            Position = new() { X = 135, Y = 93}
+        },
+        new() {
+            Name = $"[{WorldType.DEVIL_SQUARE} 3]",
+            World = WorldType.DEVIL_SQUARE,
+            Position = new() { X = 62, Y = 105}
+        },
+        new() {
+            Name = $"[{WorldType.DEVIL_SQUARE} 4]",
+            World = WorldType.DEVIL_SQUARE,
+            Position = new() { X = 66, Y = 171}
+        },
+        new() {
             Name = $"{WorldType.AIDA}",
             World = WorldType.AIDA,
             Position = new() { X = 85, Y = 244}

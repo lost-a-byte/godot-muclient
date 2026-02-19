@@ -209,6 +209,8 @@ public static class ObjectMapDatabase
         {GetKey(WorldType.TARKAN, 90 - 1), "Object90.tscn"},
         {GetKey(WorldType.TARKAN, 94 - 1), "Object94.tscn"},
         {GetKey(WorldType.TARKAN, 96 - 1), "Object96.tscn"},
+        {GetKey(WorldType.DEVIL_SQUARE, 03 - 1), "Object03.tscn"},
+        {GetKey(WorldType.DEVIL_SQUARE, 04 - 1), "Object04.tscn"},
     };
 
     public static string GetPath(WorldType world, short type)
